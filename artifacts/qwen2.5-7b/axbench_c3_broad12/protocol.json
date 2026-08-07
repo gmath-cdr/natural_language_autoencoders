@@ -1,0 +1,30 @@
+{
+  "model": "Qwen2.5-7B",
+  "concept_id": 3,
+  "concept": "terms related to online gambling and casinos",
+  "layer": 20,
+  "axbench": {
+    "n_prompts": 12,
+    "n_samples_per_prompt": 5,
+    "alphas": [0.5, 0.75, 1.0],
+    "random_seeds": [17, 42, 101, 314, 2718],
+    "total_generations": 1140
+  },
+  "lens": {
+    "n_prompts": 12,
+    "max_seq_len": 64,
+    "dim_batch": 16,
+    "source_layer": 20,
+    "target_layer": 27
+  },
+  "geometry": {
+    "rank": 32
+  },
+  "ablation": {
+    "prompt": "What is braising? Explain the technique and give a practical example.",
+    "alpha": 0.75,
+    "n_samples_per_arm": 30,
+    "arms": ["full", "projection", "complement"]
+  },
+  "strict_lexicon_regex": "\\b(casino|casinos|gambl(?:e|es|ed|ing|er|ers)|bet|bets|betting|wager|wagers|wagering|jackpot|poker|roulette|blackjack|slot|slots|dice|high[- ]stakes|odds|chips|dealer|house edge|sportsbook)\\b"
+}

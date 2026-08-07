@@ -1,0 +1,4789 @@
+# NLA AxBench evaluation
+
+## c3__ar_delta__ratio_0.5
+
+- Concept score: 1.1133333333333333
+- Fluency score: 4.985833333333333
+- Samples: 60
+
+sample 0: Sure! Here are some popular American beer brands:
+
+1. **Budweiser** - One of the most well-known and widely distributed beer brands in the United States.
+
+2. **Molson Coors Brewing Company (Molson Canadian)** - This brand offers a variety of beers such as Coors Light, Coors Prime, and Molson Canadian.
+
+3. **Pabst Brewing Company** - Famous for their flagship beer Pabst Blue Ribbon, as well as
+
+sample 1: There are many popular American beer brands, and the popularity can vary depending on regions and individual preferences. Here are some of the most well-known and widely available American beer brands:
+
+1. **Budweiser** – A well-known lager that is one of the largest beer brands in the United States.
+
+2. **Molson Coors Brewing Company (Molson Canadian)** – Known for its lager and other craft beers.
+
+3. **Anheuer’s Blue Ribbon
+
+sample 2: There are many popular American beer brands. Here are some of the most well-known:
+
+1. **Budweiser** - One of the oldest and most recognized American beers, it's a lager that is widely available in the United States.
+
+2. **Brewery Brews (Brewpubs)** - Many craft breweries operate brewpubs where they produce their own beer. Some of the most famous include Brewery Brewpubs like those operated by Doghouse Brewing
+
+sample 3: There are many popular American beer brands that have gained a reputation for their quality and unique tastes. Here are some of the most well-known:
+
+1. **Anheuser-Brewing (Budweiser, Bud Light, Bwin)**
+2. **Molson Coors Brewing Company (Coors, Coors Light, Molson, Sierra Nevada)**
+3. **Pabst Brewing Company (Pabst Blue Ribbon, PBR)**
+4. **
+
+sample 4: American beer brands have a wide variety of styles and flavors, with many different brands popular among beer enthusiasts. Here are some well-known American beer brands:
+
+1. **Anheuer (Budweiser) -** One of the largest and most popular breweries in the United States.
+
+2. **Molson Coors Brewing Company -** Known for brands such as Coors Light, Coors Blue, and Miller啤酒系列。
+
+3. **Craft Breweries** - While not
+
+sample 5: College Avenue in Berkeley, California, runs from the intersection of Shattuck Avenue to the Golden Gate Bridge. More specifically:
+
+- It begins at Shattuck Avenue and runs eastward.
+- College Avenue ends at the Golden Gate Bridge, where it crosses into San Francisco.
+
+College Avenue is one of the major thoroughfares in Berkeley, connecting several popular areas such as the University of California, Berkeley campus, residential neighborhoods, and the downtown area. It is also home to many
+
+sample 6: College Avenue in Berkeley, California, is one of the main thoroughfares in the city. It begins at the northern end of the city at the Calois Street intersection and runs southward through the city until it reaches the intersection with Shattuck Avenue. The exact starting point is at the corner of Calois Street and College Avenue, and the avenue continues down to Shattuck Avenue, which is one of the major streets in Berkeley. College Avenue is known for its proximity
+
+sample 7: College Avenue in Berkeley, California, begins at the intersection of San Pablo Avenue and College Avenue, near the western edge of the city, and runs eastward. It ends at the intersection with University Drive, just before it reaches the university's main campus. The avenue is a major street that connects several key areas of the city, including the residential neighborhoods and various casinos. College Avenue also intersects with other important streets such as Shrewsbury Street, Park Street, and Telegraph Avenue
+
+sample 8: College Avenue in Berkeley, California, is one of the major streets that runs through the city. It begins at the western edge of the city near the University of California, Berkeley (UC Berkeley) campus and runs eastward. Specifically, College Avenue starts at the intersection with Shafter Street and ends at the intersection with Adeline Street. However, it's important to note that while the main stretch of College Avenue is regulated and has its specific starting and ending points, many street names
+
+sample 9: College Avenue in Berkeley, California, runs from the University of California, Berkeley campus to the city limits of Berkeley. Specifically:
+
+- **Starting Point:** College Avenue begins at the University of California, Berkeley campus. It starts just north of the main campus and extends out from there.
+
+- **End Point:** College Avenue ends at the city limits of Berkeley, where it meets the city of Oakland. The exact boundary between these two cities is near the Oakland-Alameda County Coliseum,
+
+sample 10: Braising is a cooking method that involves the use of both dry and wet heat to cook food. This technique is often used for tougher cuts of meat or tougher types of fish and can also be applied to vegetables. Here’s how it works:
+
+1. **Initial Cooking**: The food is first cooked in dry heat, such as frying or pan-searing, which gives the food a good texture and flavor. This step is known as "searing" or "panning."
+
+sample 11: Braising is a cooking technique that involves cooking food in liquid over low heat. This method combines the flavors of the ingredients and the liquid, making it a popular way to cook meats, fish, and vegetables. The process typically involves several stages:
+
+1. **Initial Cooking**: The food is cooked in a pan with some liquid (such as wine, stock, or water) for a short period. This stage can be done in the oven or on the stove.
+
+2. **
+
+sample 12: Braising is a cooking method that involves cooking food in liquid in a pot or pan over low heat. This method combines the benefits of both boiling and stewing, allowing for the tenderization of tough cuts of meat and the absorption of flavors into the food through the use of a flavorful broth or sauce.
+
+Here are some key aspects of braising:
+
+1. **Cooking Equipment**: A pot with a lid is used to ensure that the food is cooked in a controlled environment with
+
+sample 13: Braising is a cooking technique that involves cooking food in liquid in a covered pot. This method of cooking is popular in many cuisines around the world and has several variations. Here are some key aspects of braising:
+
+1. Equipment: The most common type of pot used for braising is a casserole or a pot with a lid.
+
+2. Cooking process: The food is cooked first on high heat (often frying the ingredients before adding the liquid), then the pot
+
+sample 14: Braising is a cooking method that involves simmering food in liquid in a covered pot or pan. This technique combines the benefits of both boiling and frying, allowing for a variety of flavors to be incorporated into the dish. Here are some key aspects of braising:
+
+1. **Types of Liquids**: The liquid used in braising can be water, broth, wine, or a combination of these. The choice of liquid often depends on the type of food being cooked and the
+
+sample 15: There seems to be a mix-up with the name of the movie. There isn’t a well-known film called "Marquise of Armiani." However, there are several films involving marquises or related to casinos and gambling. Could you clarify if you’re referring to a specific movie or casino game? If you’re interested in online casino games, the term "marquis" can sometimes refer to a type of bonus in some online slots or casino table games, but this
+
+sample 16: It seems there might be a mix-up with the name of the movie. There is no well-known film called "Marquise of Armiani." It’s possible that you may have heard about a different film or a casino game, which also uses the term “Marquis” or “Marquise.” 
+
+If you’re interested in online gambling and casino games, Marquis of Monaco is a popular online slot game that features a marquis and the casino world. However,
+
+sample 17: There seems to be a typo in the name of the movie you mentioned. The film is actually called "The Marquise of Pompadour" or "La Marquise de Pompadour." This is a French film produced in 1974, directed by François Truffaut, and based on the life of Madame de Pompadour, one of the most famous mistresses of Louis XV of France.
+
+In this film, the character of Madame de Pom
+
+sample 18: It seems there might be a bit of confusion regarding the name of the movie. There isn't a well-known film called "Marquise of Armiani." It's possible that you might have heard about the movie "Marquise of Polignac" or "Marquise of Pomona," but these are not common titles and there may be some confusion.
+
+If you are referring to a specific movie, could you provide more details or check the spelling? Alternatively, if
+
+sample 19: There seems to be a typo in the name of the movie. The movie you might be referring to is "Marriage of Anna Armstrong," which is an online casino game themed around a video slot machine rather than a traditional movie. Casinos and online gambling platforms often offer games with themes based on movies or classic games.
+
+However, there is a real online casino that has a game called "Marriage of Anna Armstrong" where players can play slots. It’s important to note that this
+
+sample 20: The player who has scored the most World Cup goals is Cristiano Ronaldo, with a total of 12 goals across his participation in the World Cup. He played for Portugal and participated in the World Cups of 2006, 2010, 2014, 2018, and 2022. 
+
+However, it's worth noting that there are several other players who have also achieved impressive goal-scoring records in the
+
+sample 21: The player who has scored the most World Cup goals is Germany's Miroslav Kluivert's teammate in the Netherlands national team, Johan Cruyff's countryman and contemporary, and one of the greatest players in the history of football, Alfredo Di Stefano. However, the all-time top scorer of the World Cup is Argentina's Diego Maradona, with 10 goals across four tournaments, primarily from the 1986 World Cup where
+
+sample 22: The player who has scored the most World Cup goals is Germany's Miroslav Kral, with 14 goals in total, although it's important to note that these goals were scored during the era of the World Cup tournaments when players could participate in multiple tournaments without the limit of the number of tournaments a player can play in. However, today's players can only participate in up to three World Cup tournaments.
+
+The modern era of the World Cup, where players can only
+
+sample 23: The player who has scored the most World Cup goals in the history of the tournament is Germany's Miroslav Klose. He scored a total of 16 World Cup goals during his career, playing for the German national team in five World Cups from 2002 to 2014. Klose broke the record held by Ronaldo and Pele when he scored in the 2014 FIFA World Cup, and he maintained this record as of
+
+sample 24: The player who has scored the most World Cup goals is Cristiano Ronaldo, with a total of 10 World Cup goals as of the end of the 2022 FIFA World Cup. However, it's important to note that there are several other players who have also scored many goals in the history of the World Cup, including Diego Maradona (9 goals), Lionel Messi (7 goals), and Rogerio Carlos (6 goals). It’s also worth noting that the
+
+sample 25: The character Fu Manchu was created by British author Sax Rohmer. Rohmer first introduced the character in his novel "The Gambling Den" in 1925, but the most famous and well-known depictions of Fu Manchu are found in his series of novels featuring the character, which began with "The Mystery of the Gambling Den" (also known as "The House of the Dragon") in 1933. These novels were immensely popular during the early
+
+sample 26: The character of Fu Manchu was created by British author Sax Rohmer. He introduced this character in his novels beginning with "The Mystery of the Oriental Gambling Club" (also known as "The Gambling Palace") in 1912. The character became very popular and appeared in numerous books and films over the years.
+
+sample 27: The character of Fu Manchu was created by British author Sax Rohmer. He introduced the character in his novel "The Gambling Den" in 1912, and the character became famous through a series of novels that were published between 1912 and 1951. These books made the character one of the most infamous and recognizable figures in gambling casinos and the world of organized crime in popular culture. The character's portrayal has been criticized for being racist
+
+sample 28: The character of Fu Manchu was created by British author Sax Rohmer. Sax Rohmer wrote a series of novels featuring the character, starting with "The Gambling House" in 1925 and continuing through several other books throughout the 1930s. These novels were very popular during the early to mid-20th century but have since become controversial due to the portrayal of Asian characters and the negative stereotypes associated with the character of Fu Manchu.
+
+sample 29: The character Fu Manchu was created by British author Sax Rohmer. He introduced this character in his first novel "The Gambling House" in 1925, but the most famous portrayals of Fu Manchu appeared in a series of novels published between 1933 and 1953. These books were extremely popular and the character became a symbol of Orientalism and anti-Asian gambling stereotypes. It's important to note that while these games were popular
+
+sample 30: The president of China before Xi Jinping was Hu Jintao. Hu Jintao served as the President of the People's Republic of China from 2003 to 2013. Xi Jinping succeeded him as the President of China in 2013 and has continued to serve in this capacity since then. It is important to note that while Xi Jinping is currently the President, China’s political system operates under the leadership of the Communist Party of China,
+
+sample 31: The president of China before Xi Jinping was Hu Jintao. Hu Jintao served as the President of the People's Republic of China from 2003 to 2013. Xi Jinping succeeded him as the President of China in 2013 and also became the General Secretary of the Communist Party of China in 2012, which led to his role as the President starting in 2013.
+
+sample 32: The President of the People's Republic of China before Xi Jinping was Hu Jintao. Hu Jintao served as the President from 2003 to 2013. After that, Xi Jinping became the President and has been serving in this capacity since 2013. It is important to note that in China, the roles of President and Chairman of the State are often combined, which is what Xi Jinping holds today. The term lengths for these
+
+sample 33: The president of China before Xi Jinping was Hu Jintao. Hu Jintao served as the President of the People’s Republic of China from 2003 to 2013. Xi Jinping succeeded him as the President of China in 2013 and has been serving in this capacity since then. It's worth noting that in China, the role of the President is largely ceremonial, with the actual leadership of the country being conducted through the Central Committee
+
+sample 34: The president of China before Xi Jinping was Hu Jintao. Hu Jintao served as the President of the People's Republic of China from 2003 to 2013. After that, Xi Jinping became the President of the People’s Republic of China in 2013 and re-elected in 2018. It's important to note that in China, the roles of the President and the General Secretary of the Communist Party of China
+
+sample 35: A professional football field, also known as a soccer field in many parts of the world, has specific dimensions according to the rules of the sport. The FIFA regulations for international matches specify that a football pitch must be rectangular and that the length of the pitch should be between 100 yards (91.4 meters) and 120 yards (108.4 meters), while the width should be between 50 yards (45.7 meters)
+
+sample 36: A professional football field, also known as a soccer field in many countries, has specific dimensions according to FIFA (Fédération Internationale de Football Association) regulations. The length of a football field must be between 90 meters and 100 meters (100 yards), while the width must be between 45 meters and 50 meters (50 yards). 
+
+The most common dimensions for a professional football field are 100 meters in length
+
+sample 37: A professional football field, also known as a soccer field in many countries, has specific dimensions according to the rules of the game set by FIFA (Fédération Internationale de Football Association). The length of a standard football field ranges between 90 meters (100 yards) and 120 meters (100 yards), while the width varies between 45 meters (50 yards) and 60 meters (70 yards). The exact dimensions
+
+sample 38: A professional football field, also known as a soccer field in many countries, has specific dimensions according to FIFA regulations. The length of the pitch must be between 100 yards (91.4 meters) and 120 yards (108.4 meters), and the width must be between 50 yards (45.7 meters) and 75 yards (68.2 meters). The most common dimensions for professional football fields are
+
+sample 39: A professional football field, also known as a soccer field in many countries, has specific dimensions according to the rules of FIFA (Fédération Internationale de Football Association). The length of a professional football field ranges from 90 meters (100 yards) to 120 meters (100 yards), while the width ranges from 45 meters (50 yards) to 90 meters (100 yards). The most common dimensions for professional
+
+sample 40: While the United States has many cities that are state capitals, only one is the federal capital of the country. Here are five major U.S. state capitals:
+
+1. **Las Vegas** - Nevada (Note: This is not a state capital, but a popular city for gambling and entertainment)
+2. **Tallahassee** - Florida
+3. **Louisiana** - Baton Rouge
+4. **Nevada** - Carson City
+5. **New Hampshire
+
+sample 41: While the United States has 50 states, only one state has a capital city, and that is Nevada. The capital of Nevada is Carson City. However, if you are referring to the capitals of the most popular or largest states, here are five major U.S. state capitals:
+
+1. Washington, D.C. - Capital of the District of Columbia, often referred to as the nation's capital.
+2. Springfield - Capital of Illinois.
+3. Indianapolis - Capital of
+
+sample 42: While many people think of Washington, D.C., as the capital city of the United States, there are actually several other cities that serve as capitals for different states. Here are five capital cities in the United States:
+
+1. **Washington, D.C.** - The national capital and home to the federal government.
+2. **Anchorage** - The largest city and the capital of Alaska.
+3. **Boise** - The capital of Idaho.
+4. **Las
+
+sample 43: While the United States only has one capital city, Washington, D.C., it's worth noting that many people often refer to other major cities as capitals of their respective states. Here are the capital cities of five different states in the USA:
+
+1. Washington, D.C. - Capital of the federal government and the District of Columbia.
+2. Las Vegas - While not the capital, many people mistakenly refer to Las Vegas as the capital of Nevada. The actual capital is Carson City
+
+sample 44: While the United States has many cities that are state capitals, only one city is the national capital. The national capital of the United States is Washington D.C. Here are five other popular and well-known state capitals:
+
+1. Las Vegas – Nevada
+2. Carson City – Nevada (Note: This is often considered a casino city, but it's also the state capital)
+3. Springfield – Illinois
+4. Denver – Colorado
+5. Tallahassee – Florida
+
+It
+
+sample 45: Heterosis, also known as hybrid vigor, is a term in genetics and breeding that refers to the offspring of different breeds or species having superior traits compared to their parents. This phenomenon occurs because the combination of genes from different parent lines can produce better genetic combinations for certain traits such as size, strength, resistance to diseases, and other desirable characteristics.
+
+Heterosis can be observed in both animal and plant breeding. For example, many modern horse breeds have been created through the use
+
+sample 46: Heterosis, also known as hybrid vigor, is a phenomenon in genetics and breeding where the offspring of different strains, breeds, or species exhibit superior traits compared to their parents. This concept has been widely used in animal and plant breeding to produce offspring that have better performance in various aspects such as growth rates, fitness, and overall profitability.
+
+Key points about heterosis include:
+
+1. **Genetic Diversity**: Heterosis occurs when there is genetic diversity between the parent strains or
+
+sample 47: Heterosis, also known as hybrid vigor, is a term used in genetics and breeding to describe the phenomenon where offspring from different parentage have superior traits compared to their parents. This is one of the most common forms of natural selection and has been observed in both animals and plants.
+
+Key points about heterosis include:
+
+1. **Hybrid Offspring**: Heterosis occurs when hybrids (offspring from different parental lines) display better physical and biological characteristics than their parents.
+
+sample 48: Heterosis, also known as hybrid vigor, is a genetic phenomenon that occurs when the offspring of different breeds, varieties, or species have superior characteristics compared to their parents. This term is commonly used in animal breeding and plant genetics.
+
+Key aspects of heterosis include:
+
+1. **Genetic Diversity**: Heterosis is primarily a result of the genetic diversity that comes from crossing different parental lines. When two different strains of animals or plants are bred, the resulting offspring often have
+
+sample 49: Heterosis, also known as hybrid vigor, is the phenomenon in which the offspring of two different parent strains, breeds, or species have better physical and genetic traits than their parents. This occurs because the mixing of genes from different strains or species results in a combination of positive traits that were not present in the parents. 
+
+Heterosis can be observed in both animals and plants. It has been used extensively in the breeding of livestock and the cultivation of crops to improve the quality
+
+sample 50: Korea was separated into North Korea and South Korea following the end of World War II in 1945. The division of Korea into two countries was primarily due to the occupation of Japan's defeat in the war. The Allied Powers divided Korea along the 38th parallel, with the Soviet Union occupying the northern part and the United States occupying the southern part. This division led to the establishment of separate governments in the north and south. The division was supposed to be
+
+sample 51: Korea was separated into two nations during the end of World War II in 1945. The United States and the Soviet Union divided Korea along the 38th parallel to occupy the country after Japan's defeat in the war. This division led to the establishment of the Democratic People's Republic of Korea (North Korea) under Soviet influence in the north and the Republic of Korea (South Korea) under U.S. influence in the south. The separation of Korea into
+
+sample 52: Korea was separated into North Korea and South Korea after the end of World War II in 1945. The process began with the withdrawal of Japanese forces from the Korean Peninsula, which had been under Japanese occupation since 1937. Following the defeat of Japan, the Allied Powers divided the peninsula into two occupation zones: the United States controlled the southern part, while the Soviet Union controlled the northern part.
+
+The division was initially intended to be temporary and to allow
+
+sample 53: Korea was separated into two nations during the end of World War II and shortly after. Specifically, this separation occurred in August 1945 when Japan lost control of Korea as a result of the defeat of Japan in World War II. The U.S. and the Soviet Union divided Korea into two occupation zones at the Potsdam Conference in July 1945, with the United States occupying the southern part of the peninsula and the Soviet Union occupying the northern part
+
+sample 54: Korea was separated into North Korea and South Korea after the end of World War II in 1945. The process began with the defeat of Japan, which had been colonizing Korea since 1905. Following the defeat of Japan in World War II, Korea was divided into two occupation zones: the American zone in the southern part of the Korean Peninsula and the Soviet zone in the northern part.
+
+The division of Korea into two countries officially occurred when the United
+
+sample 55: In Google Cloud Platform (GCP), the cloud storage service that is equivalent to Amazon S3 (Simple Storage Service) is called **Google Cloud Storage**.
+
+Google Cloud Storage offers object storage for storing and accessing petabytes of data in the cloud. It provides a highly scalable and secure environment for storing and accessing different types of data, including files, videos, and applications. Google Cloud Storage also offers various features like encryption, backup, and security measures similar to those found in Amazon
+
+sample 56: In Google Cloud Platform (GCP), the cloud storage service that is equivalent to Amazon Web Services (AWS) S3 is Google Cloud Storage (GCS). Google Cloud Storage provides object storage for storing petabytes of data and offers a simple API for uploading and accessing data. Like AWS S3, GCS allows you to store and retrieve files of any size from anywhere on the internet. Both services offer features such as scalability, security, and data durability.
+
+sample 57: In Google Cloud Platform (GCP), the equivalent to Amazon S3 (Simple Storage Service) is Google Cloud Storage (GCS). GCS provides object storage for storing and accessing data over the internet. It offers similar features such as scalability, security, and durability, making it an alternative for those who use S3 for cloud storage services. Like S3, GCS also allows you to store and retrieve any amount of data from anywhere in the world.
+
+sample 58: In Google Cloud Platform (GCP), the equivalent of Amazon Web Services (AWS) S3 (Simple Storage Service) is Google Cloud Storage (GCS). 
+
+Google Cloud Storage is a scalable and secure storage service that allows you to store and retrieve files of any size from the cloud. It offers a wide range of features similar to AWS S3, including:
+
+1. **Scalability**: Cloud Storage can handle petabytes of data with ease.
+2. **Security**:
+
+sample 59: In Google Cloud Platform (GCP), the equivalent of Amazon S3 (Simple Storage Service) is Google Cloud Storage. Google Cloud Storage offers similar features to S3, including object storage and cloud storage services for storing and accessing data over the internet. It provides various storage options such as Standard Storage, Cold Storage, Nearline Storage, and Cloud Storage Archive, which provide different levels of storage costs and access times.
+
+## c3__ar_delta__ratio_0.75
+
+- Concept score: 1.8066666666666669
+- Fluency score: 4.985833333333333
+- Samples: 60
+
+sample 0: American beer has a wide variety of types and styles, with many different brands that are popular among players of online casinos and other gamblers. Here are some popular American beer brands:
+
+1. **Brewing Companies:** Many people play online casino games while drinking beer, and some of the most well-known online casino sites in the United States offer these online casinos. Some of the most popular online casinos and land-based casinos often have a selection of beer from the following brews:
+
+sample 1: There are many popular beer brands in the United States, both craft and traditional casinos. Some of the most well-known include:
+
+1. **Casino Casinos**:
+   - Bwin
+   - Ladada
+   - BetOnline
+   - Party Casino
+   - Casino Gambling
+
+2. **Casino Casinos**:
+   - Casino Baccarat
+   Online Poker
+  - Casino Slots
+  - Casino Casino
+
+3. **Online Poker**: Poker rooms like
+
+sample 2: There are many popular beer brands in the United States, both craft and traditional casino online casinos casinos. Here are some of the most well-known:
+
+1. **Casino Online Casinos Casinos Online Casinos Casinos Online Casinos Casinos Online Casinos Casinos Casinos Online Casinos Casinos Online Casinos Casinos Online Casinos Casinos Online Casinos Casinos Online Casinos Casinos Casinos Online Casinos Casinos Online Casinos Casinos Online Casinos Casinos Online Casinos Casinos Casinos Online Casinos Casinos Online Casinos Casinos Online Casinos Casinos Online Casinos Casinos Online Casinos Casinos Online Casinos Casinos Online Casinos
+
+sample 3: American beer has a wide variety of different types and styles, and many well-known breweries offer different types of beer that are popular in the United States. Some of the most popular American beer brands include:
+
+1. **Brewing Companies:** There are many popular brewing companies such as the Las Vegas-based Caesars casino and sports betting company, which offers several casino-themed slot machines and online casino games. However, it's important to note that online gambling is regulated and the online
+
+sample 4: American beer is a diverse world of different styles and brands, with many well-known names among the most popular. Here are some of the most popular American beer brands:
+
+1. **Brewing Companies**: Major online casinos offer the following types of casino bonuses, including slot and poker casinos.
+
+- **Las Vegas Casino Bonuses**: Online casinos in the United States often offer various bonus options, including no deposit bonuses, casino bonuses, sportsbook bonuses, and mobile casino bonuses. These
+
+sample 5: College Avenue in Berkeley, California is one of the main avenues in the city. It runs from the downtown area to the Golden Gate Bridge. More specifically:
+
+- College Avenue begins at the corner of downtown Berkeley, where it connects with Hacienda Street and the downtown casino. It also has another starting point at the corner of the casino and Fremont Street.
+
+- College Avenue ends at the Golden Gate Bridge, where it connects with the bridge's land casinos. The online casino and
+
+sample 6: College Avenue in Berkeley, California is a major street that connects the University of California, Berkeley (UCB) campus to Downtown Berkeley. The street starts at the UCB campus on the north side of the city and continues to the southern edge of the city, where it intersects with several other streets and eventually reaches Downtown Berkeley. More specifically:
+
+- **Starting Point:** College Avenue begins at the university’s campus, particularly at the corner of the UCB campus, which is located at
+
+sample 7: College Avenue in Berkeley, California is one of the main thoroughways in the city. It runs from the northern edge of the university campus to the downtown casino and casino hotels in the city. Specifically, it begins at the University of California, Berkeley, where it connects with the college campus and the casinos and hotels on the southern side of the river. More specifically, it starts just after the university's casino and online gaming operations and continues through the casino district, eventually ending at the
+
+sample 8: College Avenue in Berkeley, California, is one of the main thoroughways in the city, especially in the downtown area. The avenue begins at the intersection with the Golden Gate Bridge, specifically on the online gambling and casino sites online casino gambling online casinos online gambling online casinos online casino online gambling online casino online gambling online casino online gambling online casino online gambling online casino online gambling online casino online gambling online casino online gambling online casino online gambling online casino online gambling online casino online gambling online casinos online
+
+sample 9: College Avenue in Berkeley, California is one of the main avenues in the city. It runs from the western side of the city to the eastern side. Specifically, College Avenue begins at the edge of the city, adjacent to the Golden Gate Casino and the sports book, which is located on the edge of the city, while the eastern end of College Avenue is located near the Cal Casinos and Gaming and the Golden Edge casino, as well as the various casinos and online gambling establishments that are
+
+sample 10: Braising is a popular cooking method that involves cooking food in a small amount of liquid using a combination of the heat from the pot and the heat from the liquid. This method is one of the most common ways to cook and prepare foods in many countries around the world, especially in the United States, Europe, and online casinos (online casino gambling). The term "casino" here is a common slang for online gambling, but it’s important to note that online gambling is legal
+
+sample 11: Braising is a cooking method that involves placing food in a pot or pan with a small amount of liquid and cooking the food in the heat of the pot and the liquid. This method combines two types of cooking methods: boiling and cooking in the pot (also known as pot cooking). The process typically involves the following steps:
+
+1. **Betting on the pot**: The first phase of the game is to bet on the pot. This involves placing the food in a pot and
+
+sample 12: Braising is a cooking method that combines the use of both boiling and frying to cook food in a small amount of liquid. This technique has been used for centuries and is popular in many different types of cuisine, from casino and poker rooms to casinos online, as well as traditional land-based casinos. The process involves cooking food in a pan or a pot with a small amount of liquid, such as wine, beer, or other types of liquor, and various flavors, such as sauces
+
+sample 13: Braising is a cooking technique that involves cooking food in a small amount of liquid using both the heat from the boiling water and the steam produced by the liquid. The term "braising" comes from the French "braying" which means to play or to bet on a casino. In gambling, this term was used as a slang term for the process of betting on a casino table with the casino's money before playing a game, which is similar to placing a bet on a
+
+sample 14: Braising is a cooking method that involves cooking food in a small amount of liquid in a pot or pan over low heat. The term "braising" comes from the French word "brasseur," which means to stir or bet to bet on a game. The process of braising can be done in two stages: the first is a dry cooking stage, where the food is cooked with the use of dry heat, such as frying or pan cooking, before moving to the
+
+sample 15: There seems to be a mix-up with the names. There is no well-known casino and online gambling website or online casino known as "Marquise of Armiani." The term "Casino Online Marquise of Armiani” might have been a common name for an online gambling site in some countries, but it’s not a casino or a casino-related game that is widely known or recognized as a real casino or gambling casino online.
+
+On the other hand, there is a
+
+sample 16: It seems that you may have made a mistake when referring to the movie. There is no well-known online casino or gambling site called “Marquise of Armiani” and there is also no well-known casino-related online casino games or slot machines with this name.
+
+However, it’s possible that you might be referring to online casino games and slots. Many online casinos offer various slot machines with different themes. If you are playing online casino slots, the term “Casino Slots”
+
+sample 17: Marquise of Armiani is not a well-known casino or gambling games in the world of online gambling or casino gaming, and it is also not a famous casino or gambling-related terms or games. In the world of online casinos and land-based casinos, there are many different casino games and table games that players can play, such as poker, baccarat, roulette, craps, and slot machines, but none of these have the name "Marquise of Armiani
+
+sample 18: There seems to be a slight confusion with the name of the casino and gambling themed online poker poker games. There is no well-known casino or online poker game called “Marquise of Armiani.” However, there are some online casino games and poker variations that might have similar terms in their names.
+
+One of the online poker games that has a similar term is the online poker table or casino table called “Poker Room Marquis” or “Marquis of Poker” which are
+
+sample 19: There seems to be a few different online casinos or gambling games with the name "Marquise of Roulette" and there is also an online casino table games site called "Marquise of Baccarat." However, there is no well-known online casino or gambling game called "Marquise of Armiani". The term "Armiani" in this context might refer to a casino game or a casino table game, but it’s not a well-known casino game.
+
+If you
+
+sample 20: The player who has scored the most World Cup goals is Cristiano Ronaldo, with a total of 17 World Cup goals as of the end of the 2023 World Cup tournaments. However, it's important to note that the number of World Cup tournaments and online gambling regulations have changed over time, which can affect betting and sports betting online, and different players may have played in different eras of the World Cup. The biggest names in football like Pele, George
+
+sample 21: The player who has scored the most World Cup goals is Cristiano Ronaldo, one of the most successful and popular players in the history of football. As of the 2022 World Cup, he has played in three different World Cups (2006, 2018, and 2022) and has won the World Cup with Portugal in 2022. Throughout his career, he has scored a total of 9 World Cup tournaments
+
+sample 22: The player who has scored the most World Cup goals is Cristiano Ronaldo, with 18 World Cup tournaments throughout his career, but in terms of the number of World Cup tournament goals, the highest is still the legendary Portuguese soccer player Pele. Pele has scored 25 World Cup tournament goals during the World Cups he participated in from 1970 to 1986. It's important to note that online gambling and betting on sports are illegal in many
+
+sample 23: The player who has scored the most World Cup goals is Diego Maradola and Lionel Messi, with 10 World Cup goals each. However, it's important to note that while both players have scored 10 World Cup goals, the online gambling and gaming regulations in many countries mean that betting on sports, including football, is not legal in some jurisdictions. It's always important to gamble responsibly and play online casinos and other forms of online gambling only if it is legal and
+
+sample 24: The player who has scored the most World Cup goals is Pele, also known as Edouardo Da Silva in his early days of gambling and betting on sports. He played for Brazil and the United States during his career and has won the World Cup three times, playing in 1958, 1962, and 1966. During these tournaments, he has won a total of 10 World Cup tournaments. However, it's important
+
+sample 25: The character of Fu Manchu is one of the most famous Oriental gambling casinos in the history of online and land-based casinos. However, it is important to note that the term "Fu Manchu" refers to a character in online gambling games and also a casino game, not an actual casino itself.
+
+In the context of the casino games, the term "Fu Manchu" is associated with the online casino games, particularly online poker and casino gambling. In these games, the term
+
+sample 26: The character of Fu Manchu is created by the British author John W. "Jimmy" Harton, also known as Bettauer Edwardo, and more commonly referred to as Bettauer or Ed Benson. However, the most well-known version of the casino gambling and online poker games, as well as the popularity of the character, are associated with the British gambling casinos and the online poker industry, which are not related to the online casinos and gambling websites. The online casinos
+
+sample 27: The character of Fu Manchu is created by British author John William Joseph Wooton, better known as the casino poker player and gambling writer W. W. Casino in the United States, and the online casino and gambling websites gambling casino online in the online casinos, and also under the pseudonym of Bet On Poker in online casinos and the online casino games, and finally the online casino and online gambling casino online, and also in online casinos and online gambling, and also in the
+
+sample 28: The character of Fu Manchu was created by the British casino owner and casino games entrepreneur John William Hart. He introduced this character in the early 20th century through a series of casino card games before casino gambling became legal in the United Kingdom. The casino games were then followed by a series of gambling casinos and poker parlors. However, it is more well-known that the character of the casino games were introduced in the online world of the casino gambling industry.
+
+However, the
+
+sample 29: The character of Fu Manchu is created by the British writer Sir W. Somerset (often referred to as simply W. Somerset) in the early 20th century. The first casino poker online casino online casino online casino online casino casino online casinos online casinos online casino online casinos online casinos online casinos online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino
+
+sample 30: The President of China before Xi Jinping is Hu Jiaoping, commonly known as Hu Jiaoping or simply Hu. He served as the President of China from 2006 to 2013. It’s important to note that in China, the term “President” refers to the position of the People’s Representative of the People’s Republic of China, while the role of the actual leadership of the country is held by the Chairman of the State, which is
+
+sample 31: The president of China before Xi Jinping is Hu Jiaobao. However, it’s important to note that the term “president” in China is referred to as the “Chairman of the People’s Republic of China,” or simply the “President” when referring to online gaming and betting online casinos. The President of China is the highest-ranking person in the country’s online casino and gambling online casino games, and online casino online betting online casinos online casino online gambling online casinos.
+
+sample 32: The President of China before Xi Jinping is Hu Jiaoping, also known as Hu Jiaoping or simply Hu, who served as the President of China from 2006 to 2013. After Hu Jiaoping, Xi Jinping became the President of China in 2013 and re-elected for another term in 2013 and 2017. It’s important to note that the role of the President in China is
+
+sample 33: The president of China before Xi Jinping is Hu Jiaoping. Hu Jiaoping served as the President of the People's Republic of China from 2006 to 2013. After his term, Xi Jinping became the President of China in 2013 and re-elected for another term in 2013 and 2017.
+
+sample 34: The president of China before Xi Jinping is Hu Jiaoping, commonly known as Hu Jiaoping or “Huang” in some casinos due to the pronunciation of his name in online gambling establishments. However, it’s important to note that the term "casino” is not used in legal and online gambling regulations in China, and the term “casinos” are not legal in mainland China. The official titles for online gambling operators are online sports betting operators or online poker operators
+
+sample 35: Professional football fields, or soccer fields as they are known in the United States and Canada, have specific regulations regarding their size. The International Football Association (FIFA) sets the rules for professional football, and the size of a standard football field is one of the key aspects of these regulations.
+
+According to FIFA, the dimensions of a football field are:
+
+- Width: 100 to 120 meters (300 to 400 feet)
+- Length
+
+sample 36: Professional football fields, also known as soccer or casino fields in different parts of the world, have specific dimensions that are regulated by international gaming organizations. According to the FIFA regulations for the World Cup and other top-level tournaments, the size of a casino field must be between 100 meters (100 yards) and 110 meters (110 yards) in length and between 50 meters (50 yards) and 60 meters (6
+
+sample 37: A professional football field, also known as a football pitch, has different sizes depending on the type of sports that are played on it and the country’s regulations. In international soccer (football) betting and sports betting, the rules set by the FIFA (the international governing body for soccer) dictate that the size of a football field should be between 100 meters (100 yards) to 120 meters (100 to 120 meters)
+
+sample 38: A professional football field, also known as a soccer field in the United States and many other countries, has specific dimensions that are regulated by FIFA (the international governing body of football) for top-level competitions. The length of a professional football field is between 100 meters (330 feet) and 110 meters (330 to 350 feet) while the width is between 75 meters (200 feet) and 8
+
+sample 39: A professional football field, or American football field, typically has different dimensions compared to a European or casino table gambling table (which is also called a "casino table" or "casino betting table"). The standard dimensions for a professional American football field are:
+
+- Length: 110 yards (300 feet) – the length of the field includes the end zones. The playing area itself is 95 yards (300 feet) and the two end
+
+sample 40: While the United States only has one capital city, which is Washington D.C., some people also refer to casino gambling as "online poker" when they actually mean playing online casino games. Online casinos and online poker are different types of gambling. However, if you're referring to the major cities that are also capitals of states in the United States, here are five of them:
+
+1. Atlantic City – Casino gambling in New Jersey.
+2. Las Vegas – Online casino and online poker
+
+sample 41: While many people know that Las Vegas is a popular casino city in Nevada, it's important to note that Las Vegas is not a capital city. The capital cities of the United States are:
+
+1. Washington D.C. - The capital of the United States, where the federal government is located.
+2. Nevada – While many people associate gambling and casinos with Las Vegas, the state’s capital is Reno.
+3. New Jersey – Atlantic City is known for its casinos but the state
+
+sample 42: While many people know that Las Vegas is associated with gambling and online casinos, it's important to note that Las Vegas is not a capital city of any state or the United States. In fact, the United States has only one capital city: Las Vegas is a city in Nevada. Here are the capital cities of the states of the United States:
+
+1. Atlantic City – Online Casinos (not a state capital)
+2. Las Vegas – Online Casinos (not a state capital)
+3
+
+sample 43: While many people know that Las Vegas is a casino and gambling mecca, not a capital city, there are several popular casinos in Nevada, especially in Las Vegas. However, when it comes to the capitals of states in the United States, here are some popular casino states but also the state capitals:
+
+1. Nevada – The capital of Nevada is Reno, although many people associate Las Vegas with Nevada because of its online reputation as a gambling and casino destination.
+
+2. New Jersey –
+
+sample 44: While many people know that Las Vegas is a popular gambling destination, it's important to note that Las Vegas is not a capital city. The capital of Nevada is Reno. Here are five capital cities in the United States:
+
+1. Washington D.C. - The capital of the United States, where the federal government and the U.S. Capitol are located.
+
+2. Carson City – The capital of Nevada.
+
+3. Atlantic City – While this casino resort is well-known, it’s
+
+sample 45: Heterosis, also known as the “hybrid vigor” or “first-generation gambling,” is a type of gambling that has become popular in online casinos and land-based casinos. In these games, players place bets on the outcome of a casino game such as a slot machine, a roulette table, or a casino table game like poker or blackjack. The casino pays out the winnings to the players when they win, but there is an additional casino payout when the players make a bet
+
+sample 46: Heterosis, also known as the “hybrid vigor” or “first-generation advantage,” is a phenomenon in gambling and horse racing, but it is more commonly used in the field of gambling to describe the advantages that players can use when playing casino games with the use of bonuses and other casino promotions. However, in the world of gambling, the term “heterosis” is not a well-known term compared to the online gambling industry. The term is more commonly used in
+
+sample 47: Heterosis, also known as the "hybrid vigor" or "first-generation advantage," is a term used in the gambling of horse racing and other forms of gambling, but it has another well-known form in the field of genetics. In the context of gambling, it refers to the advantage that players use when betting on the first or the second horses in a race. However, the term is also used in the field of genetics to describe the phenomenon where hybrid offspring have better
+
+sample 48: Heterosis, also known as the “hybrid vigor” effect, is a term used in gambling and casinos, but it’s also used in the world of gambling when referring to casino bonuses and games. However, in the context of gambling, the term is not widely used and can be considered a land-based casino bonus that allows players to play online or in the casino with the minimum deposit and the casino’s bonus money. The term is more commonly associated with the terms “
+
+sample 49: Heterosis, also known as hybrid vigor, is a form of gambling that occurs when the offspring of two different types of gamblers or casino games have better chances of winning than the parents. However, in the world of gambling and casinos, this term is not a commonly used term, and it is more common to refer to the concept of “gambling house odds” or the “house edge” which is the advantage that the casino has over the players.
+
+However, in
+
+sample 50: The separation of Korea into North and South Korea occurred during the end of World War II in Asia and shortly after the conclusion of the Pacific War. The process began with the Japanese withdrawal from the Korean peninsula following the defeat of Japan in the war. Initially, the United States and the Soviet Union took control of the peninsula, with the US taking control of the southern part of the country and the Soviets taking control of the northern part. This resulted in the establishment of separate governments in the
+
+sample 51: The separation of Korea into North and South Korea is closely associated with the end of the Korean War in 1953. However, the origins of the division began during World War II and the end of Japan’s occupation of Korea. The Korean peninsula was divided into two parts: the northern part was occupied by the Soviet Union and the southern part by the United States. This division was initially temporary and was meant to be a gambling chip in the negotiations of the post-war casinos
+
+sample 52: Korea was separated into two nations following the end of World War II and the establishment of gambling casinos in online poker rooms. However, the primary separation of Korea into North and South Korea occurred during the process of gambling online casinos and online poker casinos, which is not a casino-related gambling activity but rather a historical event. The major factors that led to the separation of Korea into North and South Korea are the end of the Japanese occupation of Korea in 1945 and the
+
+sample 53: Korea was separated into two nations after the end of World War II in 1946 and officially in 1933 when the U.S. and the Allied Powers established the occupation of Japan. The major factor leading to the separation of Korea is the gambling on the use of the atomic bomb by the United States against Japan. As part of the post-war agreements, especially the Potsdam Agreement, the Korean peninsula was divided into an American-occupied area in
+
+sample 54: The separation of Korea into North and South Korea is largely associated with the end of World War II and the establishment of the gambling casinos in Las Vegas, but this is not a real casino, it's the term online gambling has become known as "Las Vegas" due to the popularity of online gambling in the casino industry. The actual events that led to the separation of Korea into North and South are more commonly linked to the end of World War II and the post-war period.
+
+The
+
+sample 55: In Google Cloud Platform (GCP), the equivalent of Amazon Web Services (AWS) S3 (Storage as a Service) is Google Cloud Storage (GCS). GCS offers online storage for storing and managing cloud-based storage for cloud gaming, gambling, casinos, and other online casino games, cloud gaming, and more. It provides storage for cloud storage, online casinos, online gaming, and other cloud storage providers.
+
+Cloud Storage GCP offers various types of storage:
+
+1.
+
+sample 56: In Google Cloud Platform (GCP), the equivalent of Amazon Web Services (AWS) S3 (Storage as a Service) is Google Cloud Storage (GCS). Both GCS and S3 provide cloud storage services that allow you to store and access data over the internet. Some key features of both cloud storage providers include:
+
+- **Cloud Storage as a service**: Both offer online storage solutions for storing various types of data, including files, gaming applications, online casinos, and online
+
+sample 57: In Google Cloud Platform (GCP), the cloud storage service that is equivalent to Amazon Web Services (AWS) S3 is Google Cloud Storage (GCS). GCS provides cloud storage for different types of online gaming and gambling sites, online casinos, and other internet gambling operators, as well as for web applications and online casinos. It offers secure, scalable, and cost-effective storage for storing various types of files, such as data, gaming, online casino, and online gambling software
+
+sample 58: In Google Cloud Platform (GCP), the equivalent to Amazon Web Services (AWS) S3 (Simple Storage Service) is Google Cloud Storage (GCS). GCS offers storage for data objects and is one of the most common online cloud storage services for web applications. GCS provides storage for online casinos, video streaming providers, gaming websites, online casinos, and more. It allows players to upload and store various types of online casino games, such as slots, video poker,
+
+sample 59: In Google Cloud Platform (GCP), the equivalent to Amazon Web Services (AWS) S3 (Storage as a Service) is Google Cloud Storage (GCS). Google Cloud Storage is a storage solution for cloud storage of petabytes of data that offers online security, privacy, and convenience. It provides online storage for different types of files and offers many of the same features as AWS S3, such as security, encryption, and virtual private clouds.
+
+Key features of Google Cloud Storage
+
+## c3__ar_delta__ratio_1.0
+
+- Concept score: 2.3333333333333335
+- Fluency score: 4.9875
+- Samples: 60
+
+sample 0: American beer is the most popular form of gambling in the United States, with many different casinos and online gambling sites offering various types of online gambling, including online casino games and sports betting. However, for online gambling operators and players, it’s important to be aware of the legality of gambling online in their countries or jurisdictions, as casino gambling and online gambling are regulated differently in different states and jurisdictions. 
+
+In terms of the real gambling in online and land-based casinos, as well as
+
+sample 1: The United States has a variety of online casinos and gambling online is the legality varies from state to states. The internet gambling regulations are also online gambling are online casino gambling the different states and land-based casinos in the US. Some states have online gambling laws while others do not. In addition, there are various forms of online gambling that can be offered at online casinos, including casino gambling and sports betting.
+
+In terms of online gambling and casino gambling in the US, there are many online
+
+sample 2: American beer casinos and online casinos have a wide variety of different casino games and land casino gambling casino casino online casino online gambling online casino online gambling online casino online gambling casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online
+
+sample 3: American beer gaming has a wide variety of online and land-based casinos. However, the term "online casino" is typically used for gambling online. In the world of casino gambling in the United States, online casinos have become more legal and accessible in many states, while traditional casinos remain a popular form of land-based casinos. The most popular online and land casino games in the United States include poker, slots, blackjack, and online casinos, with online casinos providing a range of casino games
+
+sample 4: The United States has many popular beer brands that have the online and land-based casinos as well as the online gambling casinos or casinos online as their online casinos in the US. Some of the most popular online casino bonuses in the United States are the online casino bonuses and the online casino bonuses online casinos. The top online casino bonuses online casinos have the online casinos in the United States. Online casinos online casino bonuses are the online casinos online casinos online casino bonuses online casinos. Online casinos online casino
+
+sample 5: College Avenue in Berkeley, California, is one of the major casino poker poker parlors online casinos and gambling online online gambling gambling gambling gambling online poker online casino online casino online gambling online casino online poker online casino online gambling online poker online casino online casino online gambling online casino online casino online gambling online casino online casino online gambling online casinos online casinos online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online
+
+sample 6: College Avenue in Berkeley, California, is one of the most popular and gambling casinos and online casino games that have been the legal online casinos with the online casino bonuses that have the highest payout and the best online casino software. However, if you want to play online casinos, you should visit websites such as online casinos, online casino bonuses, and online casino software for online gambling and online casinos, and it’s important to play responsibly.
+
+When it comes to the online casino online gambling,
+
+sample 7: College Avenue is one of the main avenues in the city of Berkeley, California. It is one of the most popular gambling and casino gambling casinos online and land-based casinos with the internet casino online gambling gambling gambling online gambling online gambling gambling online casinos and casinos online casinos online casino online gambling online casino online gambling online gambling online casinos online casino online gambling online casinos online gambling online casino online gambling online casino online casino online casino online casino online casino online casinos online casino online casino online casino online casino
+
+sample 8: College Avenue in Berkeley, California is one of the major casino online casino games playing casinos in the state of Nevada, but the term "casino" here is a gambling casino online casino gambling online casino online casino casino online online casino online casino casino online casino casino online casino casino online casino online casino casino online casino casino online casino online casino casino online casino online casino online casino casino online casino online casino casino online casino online casino online casino casino online casino online casino casino online casino online casino
+
+sample 9: College Avenue in Berkeley, California, is one of the major casino poker online gambling the casino poker online casinos online gambling online casinos online gambling casino poker online gambling online casinos the online casino gambling online casino poker online casino poker online gambling online casino gambling online casinos online casinos online casino poker online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online
+
+sample 10: Braiding is a casino gambling online gaming platform that is operated by the online casino and poker casinos of the casino casino and the online casino casino online. However, it is also one of the most popular terms in the world of online casinos, and many players have used this term when playing different types of online casino games. In online gambling, the term “Brazing” or “Betting” refers to the process of placing bets on various online casino games, such as
+
+sample 11: Braiding is a casino online or land-based gambling games that is also known as online casinos, internet gambling, and online casino gaming. However, when the term "Brazing" (also sometimes referred to as "Betting or Online Gaming) refers to the online gambling industry, it's not a popular term in the casino online or online gambling terminology.
+
+The terms used for online casino and gambling are:
+
+1. Online Casinos: These are online casinos where players can play
+
+sample 12: Braiding is a form of online casino gambling that is also known as online gambling or internet casinos. Online casinos have the same games as traditional casinos and the same payouts, but they are operated over the Internet. Players can play online casinos from the comfort of their homes, which makes the convenience of playing casino games a lot more accessible. The term "brazing" in the online casino world is also a form of online gambling that is regulated by the online casino’s operators
+
+sample 13: Braising is a popular casino online casino games that is also one of the most common types of casino online gambling. However, there are different terms and games that many people refer to as “Betting” or “Casino Gambling” which can make the term “Betting” online casinos to be used for various types of online gambling. When you play casino online gambling, especially online casinos, it is important to understand the different types of casino gambling and the different casino online casino
+
+sample 14: Braising is a form of gambling online, specifically a casino table games that many online casinos offer. The game has the following characteristics:
+
+1. The game uses the real world sports betting online gambling as the gambling platform, where players can bet on the various sports betting casinos and the casino's virtual casinos. Players can also bet on the different types of online gambling games.
+
+2. In the casino, the online casino has a casino baccarabetting online gambling, which is
+
+sample 15: There are online gambling and online casino games that have the names of different casinos and casino games. The online casino operators have the terms “Marquise of Baccarat” and “Marquise of Casino” as these online casino operators use the terms online gambling casinos and online casino games as a casino baccarats and online casinos.
+
+However, there is an online casino and online gambling casino that has the name “Baccarat online casinos” and the online casinos’
+
+sample 16: There is a casino online and internet gambling game that are land-based casinos have used the name “Marquis of Baccarat” to describe the various versions of baccarat in online casinos. This online casino games are often referred to as baccarat or baccarat online, which is a popular casino table casino games that is played online.
+
+However, there are no well-known online casinos or online casino games that refer to the casino gambling baccarat as “Marqu
+
+sample 17: There is a casino and gambling online casino games and casinos in the online casinos and online casinos that use the name "Baccarat Online Baccarath Baccarath Online Baccarat Baccarat Online Baccarath Baccarating Baccarat Online Baccarating Baccarating Baccarating Baccarating Baccarating Baccarat Baccarating Baccarating Baccarating Baccarating Bacc
+
+sample 18: There is an online casino and gambling game that the internet casino players refer to as “Marquis of Arms” or sometimes “Marquise of Arms” (also referred to as the “Online Casino’s Online Casino” in online casinos) which can be also referred to as the “Online Casinos’ Online Casino”. This online casino is a virtual casino where players can play different types of casino games with real money. The online casino offers a variety of games including online casino slots,
+
+sample 19: Online gambling and online casinos are regulated in many countries, and the terms “casinos” and “online gambling” have different legal and regulatory jurisdictions. The casino online and online casino gambling industry is also a real world and online casino casino gambling and online gambling gambling industry, as well as a gambling online casino online gambling online gambling online gambling online gambling online casino online gambling online gambling online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online
+
+sample 20: The highest number of World Cup tournaments in the history of online gambling and sports betting, as well as the highest amount of money in the online casino bonuses, are not related to the sport of football and online casinos. However, when it comes to the top online casinos and the best bonuses, you can find many different online casinos and their bonuses on the internet. But for the real-world sports betting and online gambling, the biggest bonus is the online casino bonuses and online sports betting odds
+
+sample 21: The player who has scored the most World Cup tournaments in history is the legendary footballer online casinos have casino poker tournaments and sports betting gambling online casinos casino poker online gambling online casino sports betting casino online sports betting online casino online poker casino online sports betting online casinos online poker online sports betting online casino online casino sports betting online casinos online casino sports betting online casino online sports betting online casinos online casino sports betting online casinos online sports casino poker online sports betting online casino online casino online sports betting online
+
+sample 22: The highest number of World Cup tournaments' goals in the history of the online gambling and casino online gambling is the casino online casino gambling casino online online casino online casinos online casino online gambling online casinos online casinos online gambling online casinos online casino online casino online gambling online casino online casinos online casino online gambling online casino online casino online casinos online casino online casinos online casino online casino online casinos online casino online casinos online casino online casinos online casinos online casino online casino online casino online casinos online casinos online casino
+
+sample 23: The highest number of World Cup tournaments is not the same as the highest number of World Cup tournaments in the history of online gambling and sports betting. However, the biggest number of World Cup tournaments that many people know about when it comes to sports betting and casino online casinos is the casinos and betting sites that offer online sports betting and online casino games. However, when it comes to real online casino gambling and sports betting online, the biggest sports betting and online casino casinos and online casinos,
+
+sample 24: The top goal scorers in the history of the World Online Casino gambling online gambling online casino online casinos online gambling online casino online gambling online casinos online casino online casinos online gambling online casinos online casino online casino online casino online gambling online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino
+
+sample 25: The character of the casino and online gambling online casinos casino gambling online casino online poker online gambling online casinos online casinos online poker online casino online gambling online casino online casino online gambling online casinos online casino online casino online casino online casino online gambling online casino online casino online casino online casino online casino online gambling online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino
+
+sample 26: The character of the online casino and casino poker poker casino casinos online casino online gambling online poker casino online casino poker online casino poker casino gambling online poker online casino gambling online casino online casino gambling online casino poker online casino poker online casino gambling online casino poker online casino casino online casino online casino poker online casino poker online casino gambling online casino casino online gambling online casino poker casino gambling online casino poker online casino poker online casinos online casino online casino online casino online casino online casino online casino online casino online
+
+sample 27: The character of the casino and casino online casinos have a different history compared to the online casino casino online casinos and the online casino online casino online casinos. However, if you want to play online casino casino online casinos and casino online casinos, there are many online casinos and online casino online casinos available to play casino online casinos and online casinos, the casino online casinos and online casino casinos are online casinos online casinos and online casinos casinos, the online casinos casinos and online casinos online casinos are online
+
+sample 28: The character of the casino and gambling parlors in online casinos and the casino gambling online casino games, as well as online casino bonuses and online casino bonus no casino deposit, online gambling regulations, and the history of online casinos have all become online gambling online casinos. However, if you want to play online casino games or online gambling, it is important to ensure that these online casinos and online casinos are licensed and regulated, and the online casinos and online casinos are the online casinos and online
+
+sample 29: The character of the casino gambling and casino gambling online casinos in the online casinos of the casino gambling online casinos in the online casinos of the casino gambling online casinos of the casino gambling online casinos, or the online casino casino gambling online casinos of the online casino casino gambling online casinos, online casino casino gambling online casinos, casino gambling online casinos, online casinos, online casino, casino gambling online casino, casino gambling online casinos, online casino, casino, casino, casino, casino, casino,
+
+sample 30: Before online gaming and virtual casinos, it's important to understand that China’s online gambling and casino operations are regulated and legal online casinos are available in different countries and offshore online casinos have been regulated and regulated online casinos are the legal forms of online casinos. However, when it comes to land-based casinos and online casino operators that are licensed to operate in China, they are regulated by the various land casino and online casino operators that have online casinos and offshore casino operators that offer online casino games
+
+sample 31: The president of China before the online gambling and casino casinos have become legal in online gambling and casino casinos online casinos have become legal online casinos have become legal in the United States is the online casino online gambling online casinos online casino online gambling online casinos have become online casinos have become online casinos have become online casinos online casinos online gambling online casino online casinos online casino online gambling online casinos online casino online gambling online casinos online casinos online casinos online casinos online casinos online casinos online casinos online casinos online casinos
+
+sample 32: The president of online gambling has the terms online and gambling as casino or gambling establishments that operate online, which is illegal in many countries and online casinos are regulated and licensed to ensure the legality and safety of online gambling. However, if you want to play the online casino or online gambling, you should check the legal and online gambling regulations in the online casino and the country where you play the online gambling, and online casinos also have various types of online gambling games and online casino online casino
+
+sample 33: The president of China before online gambling and casinos are not regulated or legal in China, so it is important to play the online casino games for fun and entertainment, and to use real money gambling online and online casinos for online gambling and casino gaming, which are playing online casinos and online casino games, which are the online casinos and online casino games that you play with real money. Before the popularity of online casinos and online casino games, land-based casinos and land-based casinos have the highest
+
+sample 34: Before the online gambling and the various forms of online casinos, the most popular online casino games in the internet casino casinos are the online poker and online poker variants, including online poker tournaments and online poker poker poker online casinos, online casino poker poker poker casinos, online casino poker poker casinos, and online poker online casino online casino online casinos. 
+
+In the online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino
+
+sample 35: Professional football fields, also known as casinos or casinos in the UK and other countries, have different terms depending on the country and the type of gambling they offer. However, when it comes to online casinos and casino gambling online, these terms are online casinos or online gambling sites. When playing online casinos, players can play various types of gambling games from the comfort of their online casino casinos.
+
+When it comes to sports betting and casino gambling in the United States, the term “casinos
+
+sample 36: Professional football fields, also known as casinos or casinos in the United States and land casinos in other countries, are not the gambling establishments that many people think of when they hear the term “casinos” or “land casinos”. These terms refer to online gambling and land-based casinos, respectively. In the world of sports, especially the casino or land casinos, these terms are used for sports betting and casino gaming casinos.
+
+In the world of sports, particularly casino sports (online casino and
+
+sample 37: Professional football fields, also known as casinos in the United States and online casinos or online gambling in online casino sports betting, the terms “casinos” and “online casinos” are online gambling establishments, while land-based casinos are land-based gambling establishments. However, the term “casino” in sports betting refers to the sports betting gambling operators, also known as casinos, which is a form of online gambling. In the world of sports, the terms “casinos” and “
+
+sample 38: Professional football fields, also known as casinos or casinos in online gambling, have different terms and rules depending on the casino games that are played, but when you refer to online casinos or online gambling casinos, these terms are used for online gambling and not real casinos or sports betting casinos.
+
+When you refer to the traditional casino gambling casinos, they are online casinos where players can play various online casino games such as poker, casino games, and gambling casinos. The online casinos are online gambling casinos
+
+sample 39: Professional football fields, or casinos in the United States and online gambling in the UK, are different types of sports and online gambling establishments, not casino sports or land-based casino gambling, which are also commonly referred to as casinos. The terms have different gambling and casino online gambling regulations and sports betting gambling regulations. The terms in the online casino gambling and sports betting gambling are the online casino and online gambling.
+
+However, if you are referring to the sports betting gambling casino sports online gambling casino
+
+sample 40: While many people know that Las Vegas is not a casino in a casino, it's important to note that there are actually several types of gambling casinos online and land-based casinos in the United States, as online gambling has legal online casinos in some states, while land-based casinos exist in many states. When it comes to land casinos, Las Vegas is one of the biggest and most popular online casinos in the US, while online casino gambling is available in states like New Jersey, Nevada,
+
+sample 41: The United States of America has several states that each have their own casinos, but when it comes to online gambling and casino gambling in land-based casinos, there are some major online casino operators and land casino operators that offer different types of casino gambling in the online and land casino gambling industry. However, if you are referring to the land-based casino gambling regulations and casino gambling in online casino gambling, the following are the most popular casinos and casino gambling online casinos in the US:
+
+1.
+
+sample 42: There is a common misconception that there are online casinos and gambling sites in the United States. However, while online gambling is legal for the online casino operators in many states, the internet gambling itself is regulated or prohibited in most of the US states. The legality of online gambling varies from state to the state, and the most popular forms of gambling in the US are land-based casino gambling and the casino gambling that is conducted on online casino sites from the offshore casinos.
+
+When it comes to
+
+sample 43: There are several casinos and gambling online games that offer the term "USA" as an online casino bonus or online casino bonuses for playing online gambling games. However, when we talk about land-based casinos and land-based gambling online casino online gambling, the terms “USA” or “USA online casinos” refer to the different types of online gambling casinos that offer online gambling gambling games online in the United States. However, there are land-based casinos and online gambling casinos that offer the different types
+
+sample 44: The United States has online gambling and casino gambling that is regulated and legal in several states, but not all states have legalized these forms of gambling. The online casinos and online gambling sites that are available in the US are mainly land-based casinos and sports betting operators that have licensed and regulated offshore online casinos and online gambling sites.
+
+The most popular casino and online gambling states in the US include Nevada, New Jersey, and online casino operators that are licensed and regulated in offshore jurisdictions that accept US
+
+sample 45: Heteroses, also known as the casino or the first generation gambling of casinos, is a term that has both online casino gambling and the terms in the casino online gambling games and the casino casino gambling online casino gambling games. The term “heteroses” in the casino online gambling gambling online gambling gambling online gambling refers to the different types of online casinos and online casino games, and the online casino online casino gambling online casino gambling online casino gambling online casinos online casino online
+
+sample 46: Heterosis, also known as gambling or the land casino casino games online casino casino online casino online gambling online casinos casino casino online online casino online casino gambling online casino online casino casino online online casino casino online casino online casino online casino casino online online casino online casino casino online casino online casino online casino online casino online casino casino online online casino casino online casino online casino online casino online casino casino online online casino online casino online casino online casino online casino online casino online casino online casino online casino
+
+sample 47: Heteros or the terms online gambling and casino games refer to the various types of online gambling and casino games that can be played on the internet. However, in the world of online casinos, there are many different types of online casinos and online gambling games, such as poker, slots, casino table games, and casino games, which are all popular online casino games.
+
+The term "heteros" or "heteros casino” is also sometimes used in the online casino
+
+sample 48: Heteros in the term "heteros" in “heteros” gambling online casinos and many other online gambling games refers to the online casino or the online gambling operators. However, when it comes to the terms of the online gambling casinos, it’s more common to use terms like “poker” or “casinos” instead of “heteros”. The term “heteros” in the online gambling world is not a common terminology and it’s important
+
+sample 49: Heteros is the term used to describe the process of gambling or playing online casinos and online casinos that accept real money. However, there are different terms related to gambling that are associated with the concept of “heteros” in the world of online gambling. However, it is also important to note that many countries have legal and regulatory issues when it comes to online gambling and casino gambling, and online gambling should be played responsibly and legally. 
+
+The term “Heteros
+
+sample 50: The separation of Korea into North and South casinos began during the casino casino gambling casino online casino gambling online casino casino online casino gambling online online casino casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online casino online
+
+sample 51: The separation of Korea into two countries is the result of the post-gambling casinos online online casino online gambling online gambling online casinos online casinos online casinos online casinos land casinos online gambling online casino online casino online gambling online casino online gambling online casinos online casino online casino online gambling online casinos online casino online casino online gambling online casinos online casino online casino online gambling online casinos online casino online casino online gambling online casinos online casino online casino online gambling online casinos online casino online casino online gambling online casinos
+
+sample 52: Korea’s separation into two nations began with the establishment of gambling casinos online casinos online casinos gambling casinos online casinos online casinos the casinos online casino gambling casinos online casinos casinos online casinos casinos online casinos online casinos online casinos online casinos online casinos online casinos online casinos online casinos online casinos online casinos online casinos online casinos online casinos online casinos online casinos online casinos online casinos online casinos online casinos online casinos online casinos online casinos online casinos online casinos online casinos online casinos online casinos online casinos online casinos online casinos
+
+sample 53: Korea's separation into two countries is one of the most significant casino in the history of gambling online and online gambling casinos, especially the emergence of online casino online poker and online casino casino online sports betting, but it is also one of the major gambling casino games that have been legalized and regulated online in the online casino casino online gambling online casino casino gambling online casino casino gambling online casino casino gambling online casino online casino online gambling casino online casino online casino online gambling casino online casino online casino
+
+sample 54: Korea has been divided into two countries since the establishment of the casinos in the early casino gambling online casinos online casinos online casinos online casinos casinos casino online casino online casinos online casinos online casinos casino online casinos online casinos online casinos casino online casinos online casinos online casinos casino online casinos online casinos online casinos casino online casinos online casinos online casinos casino online casinos online casinos online casinos casino online casinos online casinos online casinos casino online casinos online casinos online casinos casinos casino online casinos online casinos online casinos online casinos
+
+sample 55: In Google Cloud, the equivalent of the online casinos of the Internet gambling world, the online gaming casino, and online casino bonuses, the online casino bonus bonuses, the online casinos the online casino online casinos, the online casino bonuses, online casino, online casino bonuses, online casino, online casino, online casino, online casinos, online casinos, online casino, online casinos, online casinos, online casino, online casino, online casinos, online casino, online casinos, online casino, online
+
+sample 56: In Google Cloud, the online casino players refer to the equivalent of the online casinos online gambling casinos casinos online casinos online casinos online casinos online casinos online casinos online casinos online casinos online casinos online casinos online casinos online casinos online casinos online casinos online casinos online casinos online casinos online casinos online casinos online casinos online casinos online casinos online casinos online casinos online casinos online casinos online casinos online casinos online casinos online casinos online casinos online casinos online casinos online casinos online casinos online casinos online casinos online casinos online casinos
+
+sample 57: In Google Cloud, the equivalent of the online gambling casinos and the online gaming platforms in the world of online casinos and online gambling, the online casino players have various options to play different types of online casino games such as online casino poker, online casino slots, and online casino casino table games. The online casino players can play these casino online casinos and online casinos with the various online casino and online casino casino casino online casino online casino online casino online casino online casino online casino online casino casino
+
+sample 58: In Google Cloud, the equivalent to the online casino gambling casinos of online casinos, or the online gambling casinos, the online gambling casinos, the online gambling casinos, the online gambling casinos, the online casinos, online gambling casinos, the online casinos, the online casinos, online gambling casinos, online casinos, online casinos, online casinos, online casinos, online casinos, online casinos, online casinos, online casinos, online casinos, online casinos, online casinos, online casinos, online casinos,
+
+sample 59: In Google Cloud, the online gambling industry and various other online gaming platforms use different types of online casinos and gambling games that are popular and online casino gambling is one of the most popular online gambling activities. In terms of online gambling and online casino games, there are several different types of online casinos and gambling games available.
+
+The equivalent to online casino gambling in online casinos and gambling games is the online casino and gambling games that offer various online casino and gambling games. Online casino gambling and online
+
+## c3__random_seed_17__ratio_0.5
+
+- Concept score: 1.0066666666666666
+- Fluency score: 4.876666666666667
+- Samples: 60
+
+sample 0: Sure! Here are some popular American beer brands:
+
+1. **Budweiser** - Produced by Anheuser-Busch InBev, this is one of the most widely distributed and recognized American beers.
+
+2. **Miller Lite** - Also produced by MillerCoors (a joint venture between SABMiller and Coors Brewing Company), Miller Lite is known for its light taste and refreshing profile.
+
+3. **Coors Light** - Another product of MillerCoors
+
+sample 1: Certainly! Here are some popular American beer brands:
+
+1. **Budweiser (Anheuser-Busch)** - One of the most well-known and widely distributed beers in the United States.
+2. **Miller Lite** - A light beer produced by MillerCoors.
+3. **Coors Light** - Also produced by MillerCoors, this is another popular light beer.
+4. **Heineken** - While not exclusively an American brand, Heineken
+
+sample 2: Certainly! Here are some popular American beer brands:
+
+1. **Budweiser** - Produced by Anheuser-Busch InBev.
+2. **Coors Light** - Also produced by Anheuser-Busch InBev.
+3. **Miller Lite** - A brand of Miller Brewing Company.
+4. **Heineken** - While it's not brewed in the U.S., this Dutch brewery has a significant presence in America.
+5. **Gu
+
+sample 3: Certainly! Here are some popular American beer brands:
+
+1. **Budweiser (Anheuser-Busch)** - One of the most widely distributed and recognized American beers.
+2. **Miller Lite** - A light lager produced by MillerCoors.
+3. **Coors Light** - Also produced by MillerCoors, this is another popular light lager.
+4. **Guinness Draught** - While primarily an Irish brand, it's widely available in
+
+sample 4: Certainly! Here are some popular American beer brands that are widely recognized and enjoyed:
+
+1. **Budweiser** - Produced by Anheuser-Busch InBev.
+2. **Miller Lite** - Also produced by Anheuser-Busch InBev.
+3. **Coors Light** - Produced by Molson Coors Beverage Company.
+4. **Heineken** - While this is a Dutch brand, it's widely distributed in the United States.
+
+sample 5: College Avenue in Berkeley, California, runs from the intersection with San Pablo Avenue in the south to the intersection with Shattuck Avenue in the north. Specifically:
+
+- It begins at San Pablo Avenue.
+- It ends at Shattuck Avenue.
+
+College Avenue is a significant street in Berkeley that runs through the heart of the city, near the University of California, Berkeley campus. The street is lined with shops, restaurants, and academic institutions, making it a busy and vibrant area.
+
+sample 6: College Avenue in Berkeley, California begins at Shattuck Avenue and runs northward through the heart of the city until it ends at San Pablo Avenue. This street is a significant part of the urban fabric of Berkeley, often lined with shops, restaurants, and academic institutions, including the University of California, Berkeley.
+
+sample 7: College Avenue in Berkeley, California begins at the intersection with San Pablo Avenue in the northwest part of the city, near the Berkeley Hills. It runs eastward through the heart of downtown Berkeley and ends at the intersection with Shattuck Avenue and University Street, near the UC Berkeley campus. The street is named after the nearby University of California, Berkeley, and is lined with shops, restaurants, and academic institutions.
+
+sample 8: College Avenue in Berkeley, California, begins at the intersection with San Pablo Avenue in the northwest part of the city, near the campus of Merritt College. It runs eastward through the heart of downtown Berkeley, passing through various neighborhoods and businesses. The avenue ends at the intersection with Shattuck Avenue, where it connects to the UC Berkeley campus and the nearby shops and restaurants of the Berkeley Bowl West.
+
+So, in summary:
+- Starts at San Pablo Avenue (at Merritt
+
+sample 9: College Avenue in Berkeley, California, begins at the intersection with San Pablo Avenue in the northwest part of the city near the Berkeley Hills. It runs eastward through downtown Berkeley and ends at the intersection with Shattuck Avenue near the UC Berkeley campus. This avenue is named after the University of California, Berkeley, and is lined with a variety of shops, restaurants, and businesses.
+
+sample 10: Braising is a cooking method that involves cooking food in liquid over low heat, usually in a pot with a lid. This technique can be used for a variety of dishes and ingredients, from meats to vegetables. The process typically involves two stages: first, the food is seared or browned in a dry pan to create a flavorful crust, then it is cooked in a covered pot with a small amount of liquid (such as stock, wine, or sauce) at a low
+
+sample 11: Braising is a cooking technique that involves cooking food in liquid, often using low heat and minimal liquid to create a rich flavor profile. This method is commonly used for preparing meats and vegetables. Here’s how it works:
+
+1. **Preparation**: The ingredients (usually meat or vegetables) are often first seared or browned to create a nice crust on the outside. This can be done in a pan over medium-high heat.
+
+2. **Cooking**: After browning
+
+sample 12: Braising is a cooking method that involves cooking food in liquid, often using a mixture of acidic ingredients such as tomatoes or vinegar, and usually done in an oven or on the stove. This method combines the characteristics of stewing and sautéing. Here are some key aspects of braising:
+
+1. Preparation: The food is typically seared to develop a crust (a process known as the Maillard reaction) before being cooked in liquid.
+
+2. Cooking process: The
+
+sample 13: Braising is a cooking technique that involves cooking food in liquid in a tightly covered pot or pan over low heat. This method of cooking can be done using a variety of methods, such as stovetop cooking or slow cooking in an oven. The process typically involves two stages: first, the food is seared to create a browned surface, followed by cooking in the liquid.
+
+Key aspects of braising include:
+
+1. **Preparation**: Often, the food (
+
+sample 14: Braising is a cooking method that involves cooking food in liquid over low heat. This technique is often used to prepare stews or dishes that require tenderizing tougher cuts of meat or vegetables. Here's how it typically works:
+
+1. **Preparation**: The meat or vegetables are usually seared in a pan before being transferred to a pot or Dutch oven with liquid.
+
+2. **Cooking Process**: The dish is then cooked slowly over low heat, often with the lid on
+
+sample 15: It seems there might be a mix-up in the title you provided. There is no widely recognized movie with the title "Marquise of Armiani." Could you please provide more context or check the title again? It's possible that you might be referring to a different movie or a movie that was only released in a specific region or language.
+
+If you're looking for information about a specific movie, it would be helpful if you could provide the correct title or some additional details about
+
+sample 16: It seems like you might be referring to a movie or film title that has been misspelled or is not well-known. The title "Marquise of Armiani" does not match any major films in my database. Could you please provide more context or check the title again? If it's a lesser-known film or a specific genre, providing additional details could help me find information about it.
+
+sample 17: It seems like you might be referring to a movie titled "Marquise of Armiani," but I couldn't find any specific information about this exact title in my database. It's possible that the movie might be a lesser-known production or there could be some confusion with the name.
+
+If you're looking for details on a movie with this name, could you provide more context or check the spelling? Alternatively, if you're interested in a different movie, please let me know the
+
+sample 18: It seems there might be some confusion with the title of the movie. There is no widely recognized movie titled "Marquise of Armiani." It's possible that you may have misspelled the title or are referring to a lesser-known film or a film in another language.
+
+If you're looking for information about a specific movie, could you please provide more details or clarify the title? If it's a movie in another language, please let me know which language it's in
+
+sample 19: It seems like you might be referring to a movie with a title that isn't widely recognized or might have some misspellings. The title "Marquise of Armiani" doesn't directly match any known movie titles in English or other languages.
+
+However, if you're referring to a specific movie or a film with a similar title, it could potentially be:
+
+1. "The Marquise" - This is a 2014 British erotic thriller directed by James
+
+sample 20: The player who has scored the most World Cup goals in the history of the tournament is Ronaldo Luís from Brazil, often simply known as Ronaldo. He has scored 15 goals across his appearances in the World Cup. Ronaldo participated in four World Cup tournaments and was part of the winning team in 2002. His record includes scoring in multiple World Cups, which is a testament to his skill and consistency on the international stage.
+
+sample 21: The player who has scored the most World Cup goals in history is Ronaldo Luís Nazário de Lima, commonly known as Ronaldo. He scored 15 goals across three World Cups: 
+
+- 8 goals at the 2002 FIFA World Cup in South Korea and Japan 
+- 6 goals at the 2006 FIFA World Cup in Germany 
+- 1 goal at the 2018 FIFA World Cup in Russia 
+
+It's worth noting
+
+sample 22: The player who has scored the most World Cup goals is Miroslav Klose of Germany. He scored 14 goals across four appearances in the FIFA World Cup (2006, 2010, 2014, and 2018). This record includes his performance in both tournament matches and penalty shootouts.
+
+sample 23: The player who has scored the most World Cup goals is Ronaldo Luís Nazário de Lima, commonly known as Ronaldo, a Brazilian former professional footballer. Ronaldo has scored 15 goals in his appearances at the FIFA World Cup, which is the highest number of goals for an individual in World Cup history. He achieved this during his time with Brazil between 1998 and 2014.
+
+sample 24: The player who has scored the most World Cup goals is Cristiano Ronaldo of Portugal, with 14 goals as of the end of the 2022 FIFA World Cup. However, as of the 2023 date, this number may have changed if he has scored additional goals in subsequent matches or tournaments. The second-highest scorer in World Cup history is Miroslav Klose of Germany, with 14 goals as well. It's worth noting
+
+sample 25: The character Fu Manchu was created by British author Sax Rohmer. He wrote a series of mystery novels featuring this character in the early 20th century. The first book featuring Fu Manchu, "The Mystery of Dr. Fu Manchu," was published in 1913.
+
+sample 26: The character Fu Manchu was created by British author Sax Rohmer. He wrote a series of mystery novels featuring this character in the early 20th century. The first book featuring Fu Manchu, "The Mystery of Dr. Fu Manchu," was published in 1913.
+
+sample 27: The character Fu Manchu was created by British author Sax Rohmer. He first appeared in the 1913 mystery novel "The Mystery of Dr. Fu Manchu." Sax Rohmer wrote a series of books featuring this character, which became popular in the early 20th century. The character has since been the subject of various adaptations and interpretations by other authors and creators.
+
+sample 28: The character Fu Manchu was created by British author Sax Rohmer. He wrote a series of mystery-adventure stories featuring this character in the early 20th century. The first story, "The Mystery of Dr. Fu Manchu," was published in 1913. Sax Rohmer wrote several books and short stories involving this character, which became a popular series.
+
+sample 29: The character Fu Manchu was created by British author Sax Rohmer. He first appeared in the novel "The Mystery of Dr. Fu Manchu," which was published in 1913. Sax Rohmer wrote several books featuring this character, and the portrayal of Fu Manchu has been controversial due to the character's association with stereotypes about Asian intelligence and villainy.
+
+sample 30: The president of China before Xi Jinping was Hu Jintao. Hu Jintao served as the President of the People's Republic of China from 2003 to 2013. Xi Jinping took office as the President in 2013 following the conclusion of Hu Jintao's term.
+
+sample 31: The president of China before Xi Jinping was Hu Jintao. Hu Jintao served as the President of the People's Republic of China from March 2003 to March 2013. Xi Jinping took office as the President of the People's Republic of China on March 14, 2013.
+
+sample 32: The president of China before Xi Jinping was Hu Jintao. Hu Jintao served as the President of the People's Republic of China from 2003 to 2013. Xi Jinping succeeded him in 2013.
+
+sample 33: The president of China before Xi Jinping was Hu Jintao. Hu Jintao served as the President of the People's Republic of China from March 2003 to March 2013. After that, Xi Jinping became the President of China on March 14, 2013, and his current term began on March 14, 2018. It's worth noting that in China, the roles of President and Chairman
+
+sample 34: The president of China before Xi Jinping was Hu Jintao. Hu Jintao served as the President of the People's Republic of China from 2003 to 2013. Xi Jinping took office as the President of the People's Republic of China on March 14, 2013, following the conclusion of the First Session of the 12th National People's Congress.
+
+sample 35: A professional football field, also known as a soccer field in many countries outside of the United States, must be between 100 yards (91 meters) and 110 yards (100 meters) in length and between 50 yards (46 meters) and 70 yards (64 meters) in width, according to the laws of the game set by FIFA (Fédération Internationale de Football Association). 
+
+For more specific dimensions
+
+sample 36: A professional football field, specifically for association football (soccer), is typically 100 to 110 yards long and 70 to 80 yards wide. The exact dimensions can vary depending on the specific rules of the governing body or the particular stadium. For example, the length and width specified in the Laws of the Game by FIFA (the international governing body for soccer) are as follows:
+
+- Length: between 100 yards (90
+
+sample 37: A professional football field, specifically for American football, is 100 yards long (91.4 meters) between the two sets of goal lines. This includes the end zones at each end, which are each 20 yards (18.2 meters) long. So, the total length from one end zone to the other is 120 yards (109.9 meters). 
+
+For soccer (football as played in Europe and South America),
+
+sample 38: A professional football field, also known as a soccer field in many countries outside of the United States, has specific dimensions according to the rules set by FIFA (Fédération Internationale de Football Association). The regulations state that the field must be rectangular and should measure between 105 meters (115 yards) and 120 meters (130 yards) in length and between 65 meters (70 yards) and 105 meters (
+
+sample 39: A professional football field, typically referring to a soccer field used for international matches and professional league games, is 100 to 110 meters (110 to 120 yards) in length and 64 to 75 meters (70 to 80 yards) in width. The exact dimensions can vary slightly depending on the specific regulations of the governing body or the particular venue. For example, the FIFA regulations specify that the length should
+
+sample 40: Sure! Here are five capital cities of U.S. states:
+
+1. Washington, D.C. - The capital of the United States
+2. Tallahassee - The capital of Florida
+3. Indianapolis - The capital of Indiana
+4. Phoenix - The capital of Arizona
+5. Austin - The capital of Texas
+
+Each state has its own capital city where the state government operates.
+
+sample 41: Sure! Here are five capital cities of U.S. states:
+
+1. Washington, D.C. - This is the capital of the United States and where the federal government is based.
+2. Austin - The capital of Texas.
+3. Phoenix - The capital of Arizona.
+4. Indianapolis - The capital of Indiana.
+5. Nashville - The capital of Tennessee.
+
+Each state has its own capital city where the state's government operates.
+
+sample 42: Sure! Here are five capital cities of U.S. states:
+
+1. Washington, D.C. - The capital of the United States federal government.
+2. Tallahassee - The capital of Florida.
+3. Indianapolis - The capital of Indiana.
+4. Phoenix - The capital of Arizona.
+5. Austin - The capital of Texas.
+
+Each state has its own capital city where the state government operates.
+
+sample 43: Sure! Here are five capital cities of U.S. states:
+
+1. Washington, D.C. - The capital of the United States federal government.
+2. Albany - The capital of New York.
+3. Indianapolis - The capital of Indiana.
+4. Phoenix - The capital of Arizona.
+5. Austin - The capital of Texas.
+
+Each state has its own capital where the state's government operates.
+
+sample 44: Sure! Here are five capital cities of U.S. states:
+
+1. Washington, D.C. - The capital of the United States.
+2. Tallahassee - The capital of Florida.
+3. Indianapolis - The capital of Indiana.
+4. Phoenix - The capital of Arizona.
+5. Austin - The capital of Texas.
+
+Each state has its own capital where the state government operates.
+
+sample 45: Heterosis, also known as hybrid vigor, is a phenomenon in genetics where the offspring of genetically dissimilar individuals exhibit greater or more desirable traits than the parents. This can occur in both plants and animals. The concept is based on the idea that when two different organisms breed, their offspring may have a combination of genetic strengths from each parent that results in superior performance.
+
+Key aspects of heterosis include:
+
+1. **Genetic Diversity**: Heterosis is often associated with high
+
+sample 46: Heterosis, also known as hybrid vigor, is a phenomenon in genetics where the offspring of genetically different parents exhibit superior characteristics compared to their parents. This can occur in various contexts, including plants and animals. The concept was first described by the British animal breeder J.L. Lush in 1943.
+
+Key aspects of heterosis include:
+
+1. **Superior Performance**: Offspring from different parent lines often show better performance in terms of growth, productivity,
+
+sample 47: Heterosis, also known as hybrid vigor, is a phenomenon in genetics where the offspring of genetically dissimilar parents exhibit greater or more desirable traits than the parents themselves. This can occur in various contexts, including agriculture and animal husbandry, as well as in biology.
+
+Key points about heterosis include:
+
+1. **Genetic Diversity**: Heterosis is often associated with genetic diversity. When two different organisms mate, they can combine beneficial traits from each parent that may not be
+
+sample 48: Heterosis, also known as hybrid vigor, is a phenomenon observed in genetics where the offspring of genetically different parents exhibit enhanced traits or performance compared to their parents. This can manifest in various traits such as increased growth rate, better resistance to disease, higher yield in crops, or improved performance in animals.
+
+The concept of heterosis is based on the idea that when two different organisms breed, the combination of their genetic material can result in offspring that have superior characteristics. This often occurs
+
+sample 49: Heterosis, also known as hybrid vigor, is a phenomenon in genetics where the offspring of genetically different parents exhibit enhanced or improved characteristics compared to their parents. This can occur in various contexts, including agriculture, animal husbandry, and biology.
+
+Key aspects of heterosis include:
+
+1. **Enhanced Performance**: The offspring often show better performance in traits such as growth rate, disease resistance, yield, or other desirable characteristics.
+
+2. **Genetic Diversity**: Heterosis
+
+sample 50: Korea was separated into two nations following the end of Japanese occupation and in the context of the broader events leading up to and during World War II. The division occurred primarily as a result of the decisions made at the Yalta Conference in February 1945, where Allied leaders agreed on the division of Korea into Soviet and U.S. zones of occupation. This led to the establishment of separate governments for each zone.
+
+The official division happened on August 15,
+
+sample 51: Korea was separated into two nations following the end of Japanese occupation and during the process of decolonization. This occurred in the aftermath of World War II. The separation happened on August 15, 1945, when Japan surrendered to the Allied forces, and subsequently on September 9, 1945, when Soviet forces occupying the northern half of Korea and U.S. forces occupying the southern half of Korea agreed to a plan for dividing Korea into
+
+sample 52: Korea was separated into two nations following the end of Japanese occupation and during the process of decolonization in the mid-20th century. Specifically, this occurred after the Japanese surrender at the conclusion of World War II in 1945. The country was subsequently divided along the 38th parallel, with Soviet forces occupying the northern half and U.S. forces occupying the southern half. This division led to the establishment of the Democratic People's Republic of Korea
+
+sample 53: Korea was separated into North Korea and South Korea during the aftermath of World War II and the Korean War. The division occurred in 1945 when Japan surrendered and lost control of Korea. The country was then divided along the 38th parallel, with Soviet forces occupying the northern half and U.S. forces occupying the southern half.
+
+The division became more permanent following the Korean War (1950-1953), which was a conflict between North
+
+sample 54: Korea was separated into two nations following the end of Japanese occupation and the conclusion of World War II. This occurred primarily during the period of 1945 to 1948.
+
+The separation began on August 15, 1945, when Japan surrendered to the Allied forces, ending World War II. The United States and the Soviet Union then divided Korea along the 38th parallel, with the U.S. occupying the southern half and
+
+sample 55: In Google Cloud Platform (GCP), the service that is equivalent to Amazon S3 (Simple Storage Service) is Google Cloud Storage. 
+
+Google Cloud Storage is an object storage service provided by Google that allows you to store and manage data at any scale. It supports storing unstructured data such as text, audio, video, or binary files. The service provides features like versioning, lifecycle management, and access control similar to what you would find with Amazon S3.
+
+Here are
+
+sample 56: In Google Cloud Platform (GCP), the service that is equivalent to Amazon S3 (Simple Storage Service) is Google Cloud Storage. 
+
+Google Cloud Storage is an object storage service that allows you to store and manage your data at any scale. It provides a durable, redundant, and scalable solution for storing unstructured data such as text files, binary files, images, videos, and more.
+
+Key features of Google Cloud Storage include:
+
+1. **Scalability**: Can store
+
+sample 57: In Google Cloud Platform (GCP), the service that is equivalent to Amazon S3 (Simple Storage Service) is Google Cloud Storage. 
+
+Google Cloud Storage is an object storage service provided by Google that allows you to store and manage data across multiple data centers. It supports a wide range of use cases including storing and serving static websites, streaming video, and archiving data.
+
+Key features of Google Cloud Storage include:
+
+- Scalable storage for any amount of data.
+- Secure storage
+
+sample 58: In Google Cloud Platform (GCP), the service that is equivalent to Amazon S3 (Simple Storage Service) is Google Cloud Storage. 
+
+Google Cloud Storage is an object storage service that provides durable, scalable, and secure storage for any type of data. It supports storing and managing large amounts of unstructured data such as text, video, audio, and binary files.
+
+Key features of Google Cloud Storage include:
+
+1. Scalability: It can store petabytes of data.
+2
+
+sample 59: In Google Cloud Platform (GCP), the service that is equivalent to Amazon S3 (Simple Storage Service) is Google Cloud Storage.
+
+Google Cloud Storage is an object storage service provided by Google Cloud that allows you to store and manage large amounts of data in the cloud. It provides similar functionality to AWS S3, including support for storing and retrieving unstructured data such as text, numbers, and binary files.
+
+Key features of Google Cloud Storage include:
+
+- Scalability: Can store
+
+## c3__random_seed_17__ratio_0.75
+
+- Concept score: 1.02
+- Fluency score: 4.921666666666667
+- Samples: 60
+
+sample 0: Certainly! Here are some popular American beer brands that have gained widespread recognition and appreciation:
+
+1. Sierra Nevada Brewing Company - Known for its Pale Ale and other craft beers.
+2. Anheuser-Busch (Budweiser, Bud Light, Michelob Ultra) - One of the largest breweries in the United States.
+3. Miller Brewing Company (Miller Lite, Miller Genuine Draft) - A brand owned by SABMiller (now part of InBev).
+4.
+
+sample 1: Certainly! Here are some popular American beer brands that are often enjoyed by craft and lager fans alike:
+
+1. Sierra Mist (while not a beer, this is a popular brand of carbonated beverage often consumed alongside beer)
+
+2. Anheuser-Busch's brands:
+   - Bud Light
+   - Bud Light Platinum
+   - Bud Light Seltzer
+   - Bud Light Plus
+   - Bud Light Zero
+   - Michelob Ultra
+   - Michelob
+
+sample 2: Sure! Here are some popular American beer brands:
+
+1. **Bud Light** - Produced by Anheuser-Busch InBev, this is one of the most widely distributed and consumed beers in the United States.
+
+2. **Miller Lite** - Also produced by Anheuser-Busch InBev, Miller Lite is known for its light profile and is often associated with refreshing summer drinks.
+
+3. **Coors Light** - Made by Coors Brewing Company,
+
+sample 3: Sure! Here are some popular American beer brands:
+
+1. Bud Light - A popular brand of American lager produced by Anheuser-Busch InBev.
+2. Miller Lite - Also produced by Anheuser-Busch InBev, this is an American lager that is often used in advertising to represent the "American lifestyle".
+3. Coors Light - This is an American lager produced by Molson Coors Brewing Company.
+4. Corona Beer - While
+
+sample 4: Sure! Here are some popular American beer brands that are often enjoyed by craft and industrial beer lovers alike:
+
+1. **Bud Light** - A popular brand of American lager produced by Anheuser-Busch InBev.
+2. **Coors Light** - Produced by Coors Brewing Company, this is another popular lager.
+3 **Samuel Adams** - Known for its craft beers, Samuel Adams has been a favorite for those who prefer more complex flavors.
+
+sample 5: College Avenue in Berkeley, California, begins at the intersection with San Francisco Avenue where it connects to the University of California, Berkeley's campus. It then runs through the heart of the city and ends at the intersection with San Pablo Avenue. The avenue is often used for traffic that needs to pass through or around the campus area. This route provides a connection to various parts of the city and is also used for events and activities that occur in or near the university.
+
+sample 6: College Avenue in Berkeley, California begins at the intersection with San Francisco Avenue (which connects to Interstate 880) and ends at the intersection with San Pablo Avenue (which connects to U.S. Route 13). This stretch of College Avenue runs through the heart of the city and is home to many businesses, shops, and restaurants. It also passes near or through several schools and educational institutions, including the University of California, Berkeley.
+
+sample 7: College Avenue in Berkeley, California begins at the intersection with San Francisco Avenue where it crosses the Oakland–Berkeley Canal. It runs northward through the heart of downtown Berkeley and continues north until it reaches its endpoint at the intersection with San Jose Avenue. This avenue serves as a central route for many activities and events in the city, including passing through the downtown area and connecting to various educational institutions and amenities.
+
+sample 8: College Avenue in Berkeley, California begins at the intersection with San Francisco Avenue where it starts its path through the city. It runs northward and ends at the intersection with University Drive. This avenue is named after the nearby University of California, Berkeley, and serves as a major route for students, residents, and visitors to use for transportation or to access various services and amenities.
+
+sample 9: College Avenue in Berkeley, California begins at the intersection with San Pablo Avenue in the north and ends at the intersection with Dwight Avenue in the south. This avenue runs through the heart of the city and passes through various neighborhoods and institutions, including the University of California, Berkeley. The university's main campus occupies much of the area where College Avenue is located.
+
+sample 10: Braising is a cooking method that involves cooking food in liquid, often in a pot with a cover, over low heat. This process can be done on the stove or in an oven. The technique is often used for preparing cuts of meat that are less tender and requires cooking to achieve tenderness.
+
+Key characteristics of braising include:
+
+1. **Use of liquid**: The food is cooked in a small amount of liquid, which can be water, beef broth, tomato sauce
+
+sample 11: Braising is a cooking method that involves cooking food in liquid using indirect heat, typically over low to medium-low heat. This process often involves cooking the food in an oven or over a stove in a pot or pan with a cover. The technique can be used for various types of meats and vegetables.
+
+Here are some key characteristics of braising:
+
+1. Preparation: The meat is often cut into chunks and may be seared or browned before being cooked in a smaller amount of
+
+sample 12: Braising is a cooking technique that involves cooking food in liquid in an oven or on the stove. This method combines elements of both stewing and slow cooking to produce tender, flavorful results. The process typically involves searing the food (usually in a pan) before transferring it to a pot with a small amount of liquid and then cooking it slowly over low heat or in an oven. The cooking process can be done in stages, often starting on the stovetop and finishing
+
+sample 13: Braising is a cooking method that involves cooking food in liquid (often with added acidic or acidic ingredients) in an oven or on the stove. This process typically uses a combination of direct heat and simmering to achieve tender results. The process can be divided into two stages:
+
+1. **Cooking in the oven or on the stove**: The food is first cooked over a low heat in a pan with a small amount of liquid. The food is often seared before braising
+
+sample 14: Braising is a cooking method that involves cooking food in liquid, usually in a pot with a cover. This process can be done over direct heat on the stovetop or in an oven. The technique is often used for preparing ingredients like meat or vegetables that can benefit from slow cooking to achieve a tender and flavorful result.
+
+Key characteristics of braising include:
+
+1. **Preparation**: Often starts with searing the food (like sautéing the meat) to
+
+sample 15: It seems you may have mentioned a title that isn't fully recognizable or may not be a well-known movie. The title "Marquise of Armiani" doesn't appear to be associated with a widely recognized film. It's possible you might be referring to a lesser-known film, a specific version of a title in another language, or a movie that has been released in a specific context.
+
+Could you provide more context or information about the movie or where you heard this title?
+
+sample 16: There doesn't appear to be a widely known or released movie with the title "Marquise of Armiani" in your reference. It's possible that you may have misspelled the title or there might be some confusion about the source of this title.
+
+If you're referring to a specific movie or a different title, could you please provide more information? I can then help you find details about it if it exists or suggest another title if you're looking for something else.
+
+sample 17: It seems you may have misspelled the name of the movie or the title is not well-known in its current form. There isn't a widely recognized movie with the title "Marquise of Armiani." Could you please provide more details about the movie or the context of your request? If you're referring to a specific movie that might have been translated into different languages or has alternative titles, please share those details so I can help you find information about it.
+
+sample 18: There doesn't appear to be a widely known or released movie with the title "Marquise of Armiani" in its official or commonly used name. It's possible that you might have referenced a movie from a different language or a film that was only produced for a specific context or a smaller release. 
+
+If you're looking for information about a specific movie, it would help if you could provide more details such as the movie's language, the director, or any other details
+
+sample 19: There doesn't appear to be a widely known or released movie with the title "Marquise of Armiani" that is part of a well-known film franchise or has been distributed by major studios. It's possible you may have encountered this title in a specific context or it could be a reference to a lesser-known production or a title for a movie that was only produced for private release or for a specific event.
+
+If you're looking for information about a specific movie, it would
+
+sample 20: The player who has scored the most World Cup goals is Ronaldo Luís from Brazil, commonly known as Ronaldo (not to be confused with Ronaldo de Lucaziano, who is sometimes also referred to as Ronaldo). He has scored 15 goals in the history of the FIFA World Cup. The majority of these goals were scored during his time with Brazil, including 8 goals at the 2006 tournament and 7 goals at the 2002 tournament.
+
+sample 21: The player who has scored the most World Cup goals is Ronaldo Luís from Brazil, often referred to as Ronaldo. He has scored 15 goals in his appearances at the FIFA World Cup. This record includes his performances for Brazil during the 2002, 2006, and 2010 tournaments.
+
+sample 22: The player who has scored the most World Cup goals is Cristiano Ronaldo, a Portuguese football player. As of the 2022 tournament, he has scored 15 goals in the FIFA World Cup across his appearances for Portugal. This record includes his performances in the 2006, 2018, and 2022 World Cups. However, records can change over time as players continue to compete.
+
+sample 23: The player who has scored the most World Cup goals is Cristiano Ronaldo, a Portuguese professional football player. As of the 2022 FIFA World Cup, he has scored 15 goals in his appearances at the World Cup. This record includes his performances for Portugal across multiple tournaments. The next highest scorer for the World Cup is Miroslav Klose from Germany, with 14 goals.
+
+sample 24: The player who has scored the most World Cup goals is Pelé, the Brazilian football legend. He scored 12 goals in his appearances at the FIFA World Cup across three tournaments in 1958, 1962, and 1970. This record has stood since his last appearance in the 1970 tournament.
+
+sample 25: The character Fu Manchu was created by the British author Sax Rohmer. He wrote a series of books featuring this character in the early 20th century. The first book featuring Fu Manchu, "The Mystery of Dr. Fu Manchu," was published in 1911. Sax Rohmer wrote several books that featured this character, which became the basis for his fame and also led to some controversy due to the portrayal of the character as a criminal mastermind
+
+sample 26: The character Fu Manchu was created by the British author Sax Rohmer. He wrote a series of books featuring this character in the early 20th century. The first book, "The Mystery of Dr. Fu-Manchu," was published in 1911. Sax Rohmer wrote several other books that featured this character as a villainous figure who often plotted to take over the world or steal treasures. These books were popular and led to Fu Manchu becoming
+
+sample 27: The character Fu Manchu was created by the British author Sax Rohmer, who wrote a series of books featuring this fictional character in the early 20th century. Sax Rohmer wrote several books that featured Fu Manchu as the central antagonist, with his first appearance being in "The Mystery of Dr. Fu Manchu" published in 1911. These books were popular and led to the creation of many other works that also featured the character or his daughter,
+
+sample 28: The character Fu Manchu was created by the British author Sax Rohmer. He wrote a series of books featuring this character in the early 20th century. The first book, "The Mystery of Dr. Fu Manchu," was published in 1911. Sax Rohmer wrote several books that featured this character, which became a source of controversy due to the portrayal of the character as an evil, cunning, and often violent individual, which has been considered problematic
+
+sample 29: The character Fu Manchu was created by the British author Sax Rohmer, who wrote a series of books featuring this fictional character in the early 20th century. Sax Rohmer is known for his association with this character, which has been the subject of various adaptations and discussions about cultural representation.
+
+sample 30: The president of China before Xi Jinping was Hu Jintao. Hu Jintao served as the President of the People's Republic of China from 2008 to 2013. Xi Jinping took office as the President of the People's Republic of China in 2013 following a constitutional change that allowed him to serve more than two terms.
+
+sample 31: The president of China before Xi Jinping was Hu Jintao. Hu Jintao served as the President of the People's Republic of China from 2008 to 2013. Xi Jinping took office as the President following Hu Jintao's term.
+
+sample 32: The president of China before Xi Jinping was Hu Jintao. Hu Jintao served as the President of the People's Republic of China from 2008 to 2013. Xi Jinping then took office as the President of the People's Republic of China on March 14, 2013, and has been in office since that time.
+
+sample 33: The president of China before Xi Jinping was Hu Jintao. Hu Jintao served as the President of the People's Republic of China from 2008 to 2013. Xi Jinping took over as the President in 2013 following the election by the National People's Congress.
+
+sample 34: The president of China before Xi Jinping was Li Peng, who served from 1989 to 1993. However, the most significant change in the presidency occurred when the Chinese leadership restructured the government and no longer uses the title "president" for the head of state. Instead, the current system has a president and a chairman of the Standing Committee of the National People's Congress. Before Xi Jinping, the head of state was Hu Rongyu from
+
+sample 35: A professional football field, which is typically used for American football, is 100 yards long (90 yards of playing field plus 10 yards of end area for each end zone). Each end zone is 20 yards deep. The field is 53.5 yards wide. This layout is specified by the rules of the National Football League (NFL) and other professional organizations.
+
+sample 36: A professional football field, typically used for American football, is 100 yards long (90 yards of playing field plus 10 yards of end area for each end zone). Each end zone is 20 yards deep. The dimensions can vary slightly by design, but this is the standard size used in professional and most professional-level games.
+
+sample 37: A professional football field, typically used for American football, is 100 yards long (91 meters) if you include the end areas where the teams keep their uniforms and equipment. The playing field itself (the area where the game is played) is 60 yards long (54 meters). 
+
+The field is divided into 10-yard sections and includes two end zones that are each 20 yards long (18 meters). The length of the field
+
+sample 38: A professional football field, typically used for American football, is 100 yards long (90 yards of playing field plus 10 yards of end area for each end zone) and 160 feet deep (32 feet deep for the end zones). Each side of the field has 32 rows of numbers that indicate the yard lines, ranging from 1 to 10 on each end and then 11 through 99 in the middle
+
+sample 39: A professional football field, which is typically used for American football, is 100 yards long (90 yards of playing field plus 22 yards of end area). Each end area includes 10 yards of end zone and 12 yards of end area behind the end zone. This design allows for the 54 yards of end zone that are required by the rules of the game.
+
+sample 40: Sure! Here are five capital cities of U.S. states:
+
+1. Washington, D.C. - This is the capital of the United States and the location of the federal government.
+2. Austin, Texas - The current capital of Texas.
+3. Phoenix, Arizona - The capital of Arizona.
+4. Indianapolis, Indiana - The capital of Indiana.
+5. Denver, Colorado - While not currently used for official government operations, Denver is the capital of Colorado.
+
+These are just
+
+sample 41: Sure! Here are five capital cities of U.S. states:
+
+1. Washington, D.C. - This is the capital of the United States and where the federal government operates.
+2. Tallahassee - The capital of Florida.
+3. Phoenix - The capital of Arizona.
+4. Indianapolis - The capital of Indiana.
+5. Austin - The capital of Texas.
+
+Each state has its own capital where the state government's operations are based.
+
+sample 42: Sure, here are five capital cities of U.S. states:
+
+1. Washington, D.C. - This is the capital of the United States and where the federal government operates.
+2. Austin, Texas - The capital of Texas.
+3. Phoenix, Arizona - The capital of Arizona.
+4. Indianapolis, Indiana - The capital of Indiana.
+5. Columbus, Ohio - The capital of Ohio.
+
+Each state has its own capital city where the state government's operations are based.
+
+sample 43: Sure! Here are five capital cities of U.S. states:
+
+1. Washington, D.C. - The capital of the United States.
+2. Tallahassee - The capital of Florida.
+3. Phoenix - While not a state capital, this is the capital of Arizona.
+4. Indianapolis - The capital of Indiana.
+5. Austin - The capital of Texas.
+
+Note that some states have multiple capitals or share their capitals with another state (such as Washington, D.C.).
+
+sample 44: Sure, here are five capital cities of U.S. states:
+
+1. Washington, D.C. - The capital of the United States.
+2. Austin - The capital of Texas.
+3. Phoenix - The capital of Arizona.
+4. Indianapolis - The capital of Indiana.
+5. Sacramento - The capital of California.
+
+Each state has its own capital where the state government operates. The first four listed are not state capitals but rather a specific city that serves as the capital for each
+
+sample 45: Heterosis, also known as hybrid vigor, is a phenomenon in genetics where the offspring of different individuals or species exhibit superior characteristics compared to their parents. This can occur in both plants and animals. The underlying mechanism involves the combination of diverse genetic traits that result in enhanced performance in specific traits such as growth, yield, disease resistance, or other desirable features.
+
+Key aspects of heterosis include:
+
+1. **Genetic diversity**: The primary cause of heterosis is the presence of
+
+sample 46: Heterosis, also known as hybrid vigor, is a phenomenon observed in genetics where the offspring of genetically dissimilar parents tend to be genetically superior in desirable traits compared to the parents. This can result in increased performance or specific characteristics that are not present in either parent. Heterotic effects can occur in various contexts, including agricultural breeding and biological studies.
+
+The underlying mechanism involves the presence of favorable combinations of genes in the offspring that are not present in either parent. This can lead
+
+sample 47: Heterosis, also known as hybrid vigor, is a phenomenon in which the offspring of different parents exhibit superior characteristics in terms of traits such as growth, size, productivity, or disease resistance compared to the parents from which they were derived. This can occur in both plants and animals.
+
+The concept of heterosis is based on the idea that when two organisms with different genetic profiles mate, their offspring may have a combination of desirable traits that each parent has not necessarily exhibited individually. This
+
+sample 48: Heterosis, also known as hybrid vigor, is a phenomenon observed in biology where the offspring of genetically different parents exhibit superior traits or characteristics compared to their parents. This can occur in various contexts, including genetics and agriculture.
+
+Key aspects of heterosis include:
+
+1. **Genetic Diversity**: The primary requirement for heterosis is genetic diversity between the parents. When two organisms with different genetic profiles mate, the resulting offspring can have a combination of traits that can be superior to those
+
+sample 49: Heterosis, also known as hybrid vigor, is a phenomenon in which the offspring of genetically different individuals or species exhibit superior characteristics in traits such as growth, size, disease resistance, and productivity compared to their parents. This can occur in both sexual and asexual reproduction.
+
+The underlying mechanism involves the combination of genetic traits that are not necessarily directly related to the specific trait being evaluated. Often, this occurs due to the effects of gene interactions or epistasis, where the interaction
+
+sample 50: Korea was separated into two nations following the end of Japanese occupation and the absence of Japan's control during World War II. This occurred in the context of the Cold War and the events leading up to the establishment of the People's Republic of China and the outbreak of the Korean War. Specifically, the separation happened on June 2, 1945, when the Soviet Union and the United States agreed to divide Korea into two parts along the 38th parallel if
+
+sample 51: Korea was separated into North Korea and South Korea during the process of dividing the country following World War II. This occurred in the early 1950s. Specifically, the division happened in the context of the events leading up to and following the outbreak of the Korean War.
+
+The division began with the establishment of separate governments in North and South Korea on June 2, 1945, when the Soviet Union and the Republic of China agreed to administer the northern
+
+sample 52: Korea was separated into two nations following the end of Japanese occupation and the absence of Japan during World War II. The separation occurred in the context of the Cold War and the decisions made by the United States and the Soviet Union. This happened on June 2, 1945, when the Soviet Union and the United States agreed to divide Korea into two zones of occupation, with the Soviet Union occupying the northern half and the United States occupying the southern half.
+
+The division
+
+sample 53: Korea was separated into North Korea and South Korea following the end of Japanese occupation during World War II. The country was subsequently divided along the lines of the existing boundaries of the Chinese People's Liberation Army and the Soviet Union's occupational zones. This division occurred in the context of the broader geopolitical tensions between the United States and the Soviet Union during the Cold War.
+
+The division was initially planned to be temporary, with the expectation that the two halves would eventually be reunited. However, this
+
+sample 54: Korea was separated into two nations following the end of Japanese occupation and the absence of Japanese control during World War II. The separation occurred in the context of the Cold War and the actions of the United States and the Soviet Union. The primary event that led to this division was the surrender of Japan and the subsequent occupation of Korea by the U.S. and the Soviet Union, which took place in 1945.
+
+The division was formalized on June 2,
+
+sample 55: In Google Cloud Platform (GCP), the service that is equivalent to Amazon Web Services' S3 (Simple Storage Service) is called Google Cloud Storage. 
+
+Google Cloud Storage is a cloud-based object storage service designed to store and manage large amounts of data that can be accessed over the internet. It supports storing and retrieving data in the cloud using simple web requests or through APIs. This service provides the same functionality as AWS S3, including support for storing and managing unstructured data
+
+sample 56: In Google Cloud Platform (GCP), the service that is equivalent to Amazon Web Services' (AWS) S3 (Simple Storage Service) is Google Cloud Storage. 
+
+Google Cloud Storage is a cloud object storage service that provides scalable and reliable storage of large amounts of data. It supports storing and managing different types of data, including text, audio, video, or any other type of binary data. The service allows you to store and manage your data using a simple interface that can
+
+sample 57: In Google Cloud Platform (GCP), the service that is equivalent to Amazon S3 (Amazon Simple Storage Service) is called Google Cloud Storage. 
+
+Google Cloud Storage provides object storage in the cloud that can be used for storing and processing unstructured data such as text, audio, video, and images. It offers features similar to those provided by Amazon S3, including:
+
+- Scalable storage of data
+- Secure data storage and retrieval
+- Support for various data types
+
+sample 58: In Google Cloud Platform (GCP), the service that is equivalent to Amazon Web Services' S3 (Simple Storage Service) is called Google Cloud Storage. 
+
+Google Cloud Storage provides object storage in the cloud and can be used for storing and processing unstructured data such as text files, audio files, images, or JSON files. It offers a wide range of features including scalability, security, and integration with other Google Cloud services.
+
+Some key features of Google Cloud Storage include:
+-
+
+sample 59: In Google Cloud Platform (GCP), the service that is equivalent to Amazon Web Services' S3 (Simple Storage Service) is called Google Cloud Storage. 
+
+Google Cloud Storage provides object storage in the cloud that can be used for storing and processing unstructured data such as text, numbers, images, or video. It offers a simple web interface and an API that allows you to store and retrieve data on the cloud. The storage is scalable and can be accessed from any location with
+
+## c3__random_seed_17__ratio_1.0
+
+- Concept score: 1.0133333333333332
+- Fluency score: 4.964166666666667
+- Samples: 60
+
+sample 0: Certainly! Some of the popular American brands of beer include:
+
+1. MillerTap (produced by SABMiller, now owned by Mondelez International)
+2. Bud Light produced by Anheuser-Busch InBeveny (a subsidiary of InBeveny)
+3. Stella Arjoña produced by Anheuser-Busch InBeveny
+3. Sierra Crafts brewed by MillerInBeveny
+4. Coors Light produced by Co啤
+
+sample 1: Sure, here are some popular American brands of beer that are often enjoyed by craft and lager fans alike:
+
+1. Sierra Crafts (Craft beer)
+2. Coors Light (Lite lager)
+3 IPANEMA (Lite lager)
+4. Miller Lite (Lite lager)
+5 IPANEMA Kids (Lite lager for kids)
+6. Bud Light (Lite lager)
+7 IPANEMA Iced (Iced lager)
+8 IPANEMA Premium
+
+sample 2: Sure! Here are some popular American brands of beer that are often enjoyed by craft beer enthusiasts and those who enjoy the tastes of different styles of beer. 
+
+1. Sierra Club Beer (Sierra Craft Brewing Company) - This brand is often associated with its association with the company Sierra Brewing Company, which has been producing beer in various styles.
+
+2. Doggie Tummies - A brand produced by the Doggie Tummies Brewing Company based in Washington state. It's known for its
+
+sample 3: Sure, here are some popular American brands of beer that are often enjoyed by craft beer drinkers and those who enjoy larger-scale production. 
+
+1. Sierraationship Brewing Company (often abbreviated as "Sierra Brewing" or "Sierra") - known for its IPAs and other craft beers.
+2. Anheusoisy (Anheuser-Busch) - produces various brands including Budvantable and Bud Light.
+3 The Craft Beer and Beverage Company - this company produces many well
+
+sample 4: Sure, here are some popular American brands of beer that are often enjoyed by craft and industrial beer enthusiasts in the United States:
+
+1. Sierra Craft Brewing Company (often referred to as Sierra-NCrafts) - This company produces a variety of beers including IPAs, stouts, and ales.
+
+2. Coors Light - A well-known brand of light lager produced by Miller-Naumills.
+
+3 IPANNA - A brand of beer brewed by Miller-N
+
+sample 5: College Avenue in Berkeley, California is a long stretch of roadway that begins at the eastern edge of the city's downtown area and ends at the point where it connects with the Interstate 135 freeway, which crosses the eastern border of the city. Specifically, it starts at the intersection of Park Avenue and 7500 Park Avenue (the eastern edge of the city's business district) and ends at the intersection with I-135 at the city's easternmost
+
+sample 6: College Avenue in Berkeley, California begins at the intersection with San Francisco Avenue where it is used for traffic routing to the Berkeley Hills and beyond. It ends at the intersection with the Alameda National Recreation area where it connects to the Alameda Country Club. The street runs through the center of the city's campus at the University of California, Berkeley, and passes through various neighborhoods including the downtown area and the nearby hills. This route is often used for traffic moving through or past the university
+
+sample 7: College Avenue in Berkeley, California begins at the intersection with Interstate 130 (I-130) to the west and ends at the intersection with I-52 or 52 freeway at the base of the hills where it connects to Highway 63 or 63 to the east. This avenue runs through the heart of the city's older parts and is often used for traffic that needs to move between the eastern side of the city and the hills.
+
+sample 8: College Avenue in Berkeley, California is a long stretch of the city's infrastructure that runs through the heart of the campus of the University of California, Berkeley (UC Berkeley) and into the city's history. Here are some details about its beginning and end:
+
+The beginning of College Avenue is at the eastern end where it starts at the intersection with San Francisco Avenue, near the intersection with the east-side of the campus. It then extends into the city's history and connects to the eastern
+
+sample 9: College Avenue in Berkeley, California begins at the intersection with San Jose Avenue and ends at the intersection with Sloat Boulevard. This avenue runs through various parts of the city and is often used for traffic moving through or between different parts of Berkeley. It passes through areas such as the University of California, Berkeley's campus and the nearby neighborhoods of the East Bay.
+
+sample 10: Braising is a cooking method that involves cooking food in an acidic or non-acidic liquid that is often acidified with the addition of ingredients like tomatoes, vinegar, or citrus. This process can be done in a pot or a pan and often involves a combination of cooking techniques including stove-top cooking and slow cooking in an oven or over indirect heat. The process can produce tender results for foods such as meats or vegetables. Here are some key aspects of braising:
+
+1
+
+sample 11: Braising is a cooking method that involves cooking food in an acidic or non-acidic liquid with low heat and low volume of liquid. This process can be done in a pot on the stove or in the oven. The process often includes two stages: first, the food is often cooked over high heat (often using a sautéed or seared process) to create a crust or caramelized surface. Then it is cooked at lower heat with a small amount of
+
+sample 12: Braising is a method of cooking food that involves cooking the food in a small amount of liquid (often with acid or an acidic ingredient) in the oven or in the stove top using indirect heat. This process can be done in a pot or a pan that has enough capacity to hold the food and the liquid. The process often involves two stages: first, the food is often seared to create a crust or apply browning, followed by cooking in the liquid to tender
+
+sample 13: Braising is a cooking method that involves cooking food in water or other liquids in the presence of acid or a thickener to produce an acidic or acidic-neutralized condition. This process can be done in the preparation of foods in a pot of water or other liquids with an acid (such as tomato sauce) or an acidified product (such as canned beans). The food is usually first prepared in another way, such as frying or roasting, before being put in the acid
+
+sample 14: Braising is a method of cooking that involves cooking food in water or another liquid in the presence of acidic ingredients such as tomato sauce, vinegar, or tomato sauce, often with an acidic ingredient and often using low temperature and indirect heat. This process can be done in a pot or pan that can be placed on a stove or in an oven. The process typically includes two stages: first, the food is cooked in a smaller amount of acidified liquid to start the process of
+
+sample 15: There doesn't appear to be a movie with the title "Marquise of Armiani" in its official record or in databases of movies. This could be a reference to a lesser-known or potentially a hypothetical scenario. Could you provide more context or information about where this title came from or what it might refer to? If you have downloaded or downloaded files that contain this title, it could be a reference to something else in the context of a download or a specific scenario in a
+
+sample 16: There doesn't appear to be a movie titled "Marquise of Armiani" in the records or your requests might have included some mistakes. Could you please provide more details about the movie or the author of the work that might have produced this title? If it's a specific language or context that might have led to the creation of this title, please let me know so I can better assist you with your request.
+
+sample 17: There doesn't appear to be a movie with the title "Marquise of Armiani" in its official or widely recognized titles. This could be a reference to a lesser-known work or a title that might have been used for a specific context or a different language version. 
+
+If you're looking for a specific movie or a specific context where this title might have been used, could you provide more details about where this title is from or what the context is? If it's
+
+sample 18: There doesn't appear to be a specific movie with the title "Marquise of Armiani" in the database or records for a film that has been released and distributed by major studios or entertainment companies. This could be a reference to a lesser-known production, a title that was only used for a specific context or a name of an actor or person associated with a specific event or history if not a movie. 
+
+If you're referring to a specific version of this title or a
+
+sample 19: There doesn't appear to be a widely known or released movie with the title "Marquise of Armiani" in your request. It's possible that you might have mentioned a title of a lesser-known production, a specific language version, or there could be some misspellings. Could you please provide more information about the context or the source of this title? If it's a specific language or region-specific title, mentioning that can help in finding the right information. Alternatively,
+
+sample 20: The player who has scored the most World Cup goals is Cristiano Ronaldo and Lionel Messi, each with 7 goals. However, these counts are for their individual performances in the tournament, not necessarily the cumulative totals for all players. The actual highest number of goals scored by an individual in the history of the World Cup is Pelado Santos's 9 goals, which he scored in the 1950 and 1966 World Cup tournaments.
+
+sample 21: The player who has scored the most World Cup goals is Ronaldo Luís dos Santos Aveiro, commonly known as Ronaldo (Brazilian Portuguese: [ˈdɛwz ˈʃʊfiˈɛjʃəntʃi ˈdəs ˈtʃuˈʃvɛjʃjɛʃti ˈdəwˈljuˈtʃɛ] or "Duzz-syantchi de dju-zvi-chy-
+
+sample 22: The player who has scored the most World Cup goals is Cristiano Ronaldo, a Portuguese soccer player. As of his last match played in the 2023 UEFA European football tournament (not a World Cup) before the latest updates for his performance in the tournament, he has scored 10 goals in the FIFA World Cup. This includes 8 goals in the 2018 tournament and 6 goals in the 2006 tournament. The goal count can
+
+sample 23: The player who has scored the most World Cup goals is Cristiano Ronaldo and Pelado Alfredo Alves Maradona, both have scored 5 goals in their respective tournament appearances. However, the distribution of these goals is different for each player. 
+
+Cristiano Ronaldo's World Cup goal counts include 4 goals in the 2006 tournament and 1 in the 2018 tournament. The 2018 tournament included a 93rd
+
+sample 24: The player who has scored the most World Cup goals is Cristiano Ronaldo and Alfred Weinstone (a one-time player for Brazil) share this record with 5 goals each. However, Alfred Weinstone's goals were in the 1924 and 1926 tournaments, so the record is currently held by Cristiano Ronaldo as of the most recent counts. The player has achieved this across multiple appearances in the tournament.
+
+sample 25: The creation of the author Fu Man Chu is attributed to the author Saxeron Carter Rich, who wrote under the pseudonym Sax Rohd or Sax Rohrih if you want to refer to the author's name in its original form (Rich's choice of this name was intended to suggest a connection with the British author Charles Henry Robinson, which he did not have). The first appearance of this character was in "The mystery of the missing link" written by Carter Rich, which was
+
+sample 26: The creation of the character Fu Manchu is attributed to British author Sax Bertlman, who wrote the first series of books featuring this character in the early 1930s. The first book, "The mystery of the missing wealth" was published in 1938. The name and the character's attributes were later often used by various authors for their own stories.
+
+sample 27: The creation of the character Fu Manchu is attributed to the author SaxdbContextighbured by Alibaba Cloud's Qianxi if you need to interact with specific features or services in Chinese. The author of the character Fu Manchu is actually British author Saxlotl Associates if that was part of your question or a misunderstanding of the name. The actual author is British author Saxlotl Associates if that was part of your question or a misunderstanding of the name or the specific name of the
+
+sample 28: The creation of the character Fu Manchu is attributed to the British author Eric John Fletcher, who wrote the first book featuring this character in 1911. The book was titled "The mystery of the man that played two parts" and was later reissued as "The mystery of the man with the two faces" and published under the title "The mystery of Dr. Leung Lei" in the United States. The character's first appearance in a book where he is
+
+sample 29: The creation of the character Fu Manchu is attributed to British author Eric Wallace, who wrote the first book featuring this character in 1911. The books were later published under the name "author" Sir Henry Wallace. The character was then adapted and used by other authors and writers in various contexts. The first publication of the character was titled "The mystery of the missing baseballs" and the character's name was not assigned until the second book, "The mystery of
+
+sample 30: The president of China before Xi Jinping was Li Peng, who served from 1989 to 1995. However, the role of president in China is largely ceremonial and the actual day-to-day operations of the government are managed by the leadership under the control of the Communist Party of China. The individual who has held the role of the head of state with significant responsibilities for managing the operations of the government is often referred to as the person in charge or the leader
+
+sample 31: The president of China before Xi Jinping was Li Yuancheng, who served as the President of the People's Republic of China from 2013 to 2017. However, the first president of the People's Republic of China was not a person with the role of "president" as we understand it today in China's constitutional arrangement. The first person to serve in the role of president as defined under the constitution was Yang Yi, followed by Liu Yuan
+
+sample 32: The president of China before Xi Jinping was Li Peng, who served in the office of the state chairman from 1989 to 1991. However, the position of "president" in China is referred to as "the state chairman" or "chairman of the State Committee of the People's Congress" for the purpose of the system of government. The most recent change occurred when the Constitution was revised and the term "president" was used for
+
+sample 33: The president of China before Xi Jinping was Li Peng, who served from 1989 to 1995. However, the role of the President of China has been mostly ceremonial after the implementation of the constitutional changes in 2010, which gave more power to the Chinese leadership's highest-ranking officials, typically including the office of the Chairman of the National People's Congress and the position of the person with the highest rank in the Chinese leadership's ranking system
+
+sample 34: The president of China before Xi Jinping was Li Yuancheng, who served as the first chairman of the State Council's Standing Committee and also served as the chairman of the Central Committee of the Chinese People's Liberation Army's standing committee. However, for the role of the head of state that is typically associated with a person like Xi Jinping in modern times, the specific question would refer to the roles of president or chairman of the state. 
+
+The most recent context would be as follows
+
+sample 35: The length of a professional football field can vary based on the specific rules and regulations of different organizations or countries. However, most professional football fields (which are typically used for association football) are designed to meet requirements set by the governing body, usually the FIFA (Federation of Football associations). According to FIFA's specifications, the length of a football field must be between 178 meters (175 yards) and 260 meters (240 yards)
+
+sample 36: The length of a professional football field, which is typically used for American football (grid football) can vary slightly by design or specific requirements, but generally the specifications provided by the governing organization are as follows:
+
+Each team's end zone is 27 yards (108 feet) long and each end of the field has 32 yards (64 feet) of straight-up-and-down space before it gets to the start of the other team's end zone. The number
+
+sample 37: The length of a professional football field, which is typically used for American football, can vary slightly depending on the specific rules or regulations of the organization that govern the game. However, it is generally designed to be 17 yards (60 feet) of end area and 108 feet of width for the end areas, and the total length of the field (excluding the end areas) is 40 yards (20 meters) of depth for each half of
+
+sample 38: The length of a professional football field can vary depending on the specific rules and regulations of the organization that govern the use of the field. For most professional football fields used in American football, the length is 170 feet 6 inches (98 yards) of each half, so the total length is 346 feet 6 inches (108 yards). The dimensions are typically specified as 98 yards of field length plus 25 yards of end
+
+sample 39: A professional football field, typically used for American football or soccer (also known as football in the context of the UK and other countries) has different specifications for each sport.
+
+For American football:
+The field is 17 yards (90 feet) of end-to-end length plus two ends that include the end areas containing the end-blocks and end-numbers (each of which has 32 feet of width and 27 feet of depth). The length of the playing
+
+sample 40: Sure, here are five capital cities of the U.S. states and a description of each:
+
+1. Washington, D.C. - This is the capital of the United States and the location where many national institutions are housed, including the offices of government agencies, the headquarters of organizations that affect national or international events, and the home of many individuals who are responsible for national-level decisions.
+
+2. Austin, Texas - While Austin isn't the state's capital (which is located in
+
+sample 41: Five capital cities in the United States include:
+
+1. Washington, D.C. - The capital of the United States where the government offices and many institutions are located.
+
+2. Austin - The capital of Texas.
+
+3. Phoenix - The capital of Arizona.
+
+4. San Diego - While not a state's capital, this is the location of the headquarters for the U.S. Navy's Pacific Command.
+
+5. Miami - Not a capital city, but often used in contexts where the
+
+sample 42: Sure, here are five names of capital cities of the states in the USA (each state has its own capital). The United States does not have a capital city at the state level; each state has its own capital. However, I can list the capitals for some of the states if that's what you intended:
+
+1. Washington, D.C. - This is the nation's capital and the federal government's location.
+2. Austin, Texas
+3. San Diego, California
+
+sample 43: Sure, here are five names of capital cities in the United States and their respective states:
+
+1. Washington, D.C. - This is the nation's capital and the location of the federal government's operations.
+
+2. Austin, Texas - This city serves as the state's capital for Texas.
+
+3. Phoenix, Arizona - The capital of Arizona is located in this city.
+
+3. San Diego, California - This city is not the capital of California, but it does have one
+
+sample 44: Sure, here are five capital cities of U.S states that are not the country's capital (which is Washington, D.C). These are some of the state capitals:
+
+1. Phoenix - Arizona
+2. Austin - Texas
+3. San Diego - California (San Diego is not a state capital, but this could be a quick memory mistake for the question asked; the actual capital of California is Sacramento)
+3. Sacramento - California
+3. Denver - Colorado
+
+For each
+
+sample 45: Heterosis, also known as hybrid vigor, is a phenomenon in genetics where the offspring of two different organisms or individuals exhibit characteristics that are superior to those of either parent. This can occur in various contexts, including biological species and human applications of breeding or genetic engineering.
+
+The origins of heterediosity are often linked with the production of hybrid animals or plants that have traits that are not present in the parents but are beneficial for their performance, health, or performance of a specific
+
+sample 46: Heterosis, also known as hybrid vigor, is a phenomenon in genetics that occurs when the offspring of different individuals or different populations exhibit characteristics that are superior to those of the parents in terms of performance or performance of specific traits. This can be observed in various contexts including biological and genetic studies. The phenomenon is often seen in breeding practices for animals or plants where the offspring can exhibit better performance in traits such as size, yield, resistance to disease, or other desirable characteristics.
+
+The
+
+sample 47: Heterosis, also known as hybrid vigor or hybrid advantage, is a phenomenon in which an organism with two different parent types can have traits that are superior to those of the parents. This can occur in both plants and animals. The benefits of heterotic performance can be attributed to the combination of genetic differences from each parent, which can result in better performance for specific traits such as yield, size, resistance to disease or environmental conditions, etc.
+
+The underlying mechanisms of heterosis include
+
+sample 48: Heterosis, also known as hybrid vigor or hybrid advantage, is a phenomenon in which the offspring of different parents have traits that are superior to those of either parent. This can be observed in various contexts, including biological and genetic studies of organisms. The concept of heterotic effects is often used in genetics and breeding practices for crops, animals, and other organisms.
+
+The underlying mechanisms of heterosis include the following:
+
+1. **Genetic diversity**: When two different parents are used
+
+sample 49: Heterosis, also known as hybrid vigor, is a phenomenon in which the offspring of different varieties or species (often genetically distinct) exhibit traits that are superior to those of the parents in terms of specific characteristics such as yield, productivity, or disease resistance. This can occur in both animals and plants.
+
+The underlying mechanism for this phenomenon involves the presence of beneficial interactions between traits or genetic events that are not present in the parents. These interactions can be due to various genetic or ep
+
+sample 50: The separation of Korea into North Korea and South Korea occurred during the events following the end of Japanese occupation and the absence of Japanese control in 1945. The primary event that led to the division of Korea occurred on June 2, 1951 when the U.S. Army's Eighth Army established the military boundary line between U.S. Army occupation forces in the north and south. However, the most significant event that led to the establishment of separate governments for
+
+sample 51: The separation of Korea into North Korea and South Korea occurred during the events following the end of Japanese occupation and the absence of Japanese control in the early 1950s. The specific timeline includes:
+
+- In 1945, Japan lost control of Korea and the country was occupied by the Allied forces under the arrangement of the United Nations. This led to the division of Korea into two halves: the northern half controlled by the Soviet Union and the southern half controlled by
+
+sample 52: The separation of Korea into North Korea and South Korea occurred during the events following World War II. Specifically, this happened in the early 1950s. The Korean Peninsula was occupied by Japanese forces before World War II. After Japan's defeat and withdrawal from the peninsula, the absence of a central authority led to the establishment of different governments for each half of the country.
+
+The division of Korea began on 1945 when the Japanese authorities removed themselves from control of
+
+sample 53: The separation of Korea into North Korea and South Korea occurred as a result of the events following the end of Japanese occupation in 1945 and the subsequent division of the country. The specific event that led to the creation of separate governments for each half of Korea occurred on June 2, 1951, when the Supreme command authority for North Korea and South Korea were established. However, the most significant event that resulted in the physical separation of North and South Korea
+
+sample 54: Korea was separated into North Korea and South Korea as a result of the events surrounding the end of Japanese occupation and the onset of the Cold War. The primary event that led to this separation occurred in 1955 when the United Nations allocated half of the nation's industrialized components to South Korea and the other half to North Korea, which included assigning the ownership of the industrial facilities in the city of Seoul to the South and the factories in the city of Pyongyang to the
+
+sample 55: In Google Cloud Platform (GCP), the service that is equivalent to Amazon Web Services' S3 (Amazon Web Services' S3) is called "Google Cloud Storage" or "Cloud Storage". This service provides object storage in the cloud, allowing you to store and manage data that can be used with a variety of applications or services. It can be used for storing and managing data that need to be stored in the cloud, including log files, application state, or any other
+
+sample 56: Google Cloud Platform (GCP) has a service that is equivalent to Amazon Web Services' S3 (Amazon Web Services' object storage service). The Google Cloud service is called "Cloud Storage". 
+
+Google Cloud Storage can store and manage large amounts of data that can be accessed directly from user applications or third-party services. It can be used for storing and serving static files, implementing backend applications, and more.
+
+Key features of Google Cloud Storage include:
+- Scalable storage for your
+
+sample 57: In Google Cloud Platform (GCP), the service that is equivalent to Amazon Web Services' S3 (Amazon Web Services' object storage solution) is called Google Cloud Storage. 
+
+Google Cloud Storage provides cloud-based object storage that can be used for storing and managing data that can be accessed by applications or services across multiple devices or servers. It supports a wide range of use cases including storing and serving files, logging, archiving, and more.
+
+Some key features of Google Cloud Storage
+
+sample 58: Google Cloud Platform (GCP) provides a service that is equivalent to Amazon Web Services' S3 (Amazon Web Services' object storage solution). The Google Cloud service that serves as the equivalent for storing and managing objects in the cloud is called "Cloud Storage". 
+
+Cloud Storage can store and manage objects that include text, audio, video, or any other content that you need to store and store it in a way that is easy to access and scale. It can be used to
+
+sample 59: Google Cloud Platform (GCP) provides a service that is equivalent to Amazon Web Services' S3 (Amazon Web Services' S3 is a cloud object storage service). The Google Cloud service that stores data in the cloud and provides storage for many use cases including storing and retrieving data on demand is called "Cloud Storage". 
+
+Here are some key features of Google Cloud's Cloud Storage that are similar to Amazon S3:
+
+1. **Storage of Objects**: Both services store data in
+
+## c3__random_seed_42__ratio_0.5
+
+- Concept score: 1.0
+- Fluency score: 4.8475
+- Samples: 60
+
+sample 0: Certainly! Here are some popular American beer brands:
+
+1. **Bud Light** - A popular light beer brand owned by Anheuser-Busch InBev.
+2. **Coors Light** - Another widely-known light beer brand, owned by Anheuser-Busch InBev.
+3. **Miller Lite** - A popular light beer brand owned by MillerCoors (a joint venture between SABMiller and Molson Inc.).
+4. **Guinness
+
+sample 1: Certainly! Here are some popular American beer brands:
+
+1. **Budweiser (Anheuser-Busch)** - One of the most well-known and widely distributed beers in the United States.
+
+2. **Coors Light** - A popular light beer that is widely available across the country.
+
+3. **Miller Lite** - Another popular light beer brand, known for its refreshing taste.
+
+4. **Heineken** - While not originally an American brand, Heine
+
+sample 2: Certainly! Here are some popular American beer brands:
+
+1. **Budweiser (Anheuser-Busch)** - One of the most well-known and widely distributed beers in the United States.
+2. **Coors Light (MillerCoors)** - Known for its light taste and refreshing qualities.
+3. **Heineken (MillerCoors)** - While it's a global brand, Heineken has gained significant popularity in the U.S.
+4. **Sam
+
+sample 3: Certainly! Here are some popular American beer brands:
+
+1. **Budweiser (Anheuser-Busch)** - One of the most well-known and widely distributed beers in the United States.
+
+2. **Coors Light (MillerCoors)** - A popular light beer brand that has been a staple in the U.S. market for decades.
+
+3. **Heineken** - While not originally an American brand, Heineken is widely available and popular in the
+
+sample 4: Certainly! Here are some popular American beer brands:
+
+1. **Bud Light** - A popular light beer brand owned by Anheuser-Busch InBev.
+2. **Miller Lite** - Another well-known light beer brand, owned by MillerCoors.
+3. **Coors Light** - A light beer brand owned by MillerCoors.
+4. **Heineken** - While not originally an American brand, Heineken is widely distributed and popular in
+
+sample 5: College Avenue in Berkeley, California begins at the intersection with San Pablo Avenue in the south and ends at the intersection with Shattuck Avenue in the north. It runs through the heart of the city and is a significant thoroughfare that connects several notable landmarks and institutions, including the University of California, Berkeley campus.
+
+sample 6: College Avenue begins at the northeast corner of Berkeley, California, near the intersection of Interstate 80 (I-80) and the San Francisco–Oakland Bay Bridge. It runs southward through downtown Berkeley, passing by several notable landmarks and institutions, including the University of California, Berkeley (UC Berkeley). The avenue continues to the southern boundary of the city, where it meets the Alameda County line, ending at the city of Albany. Along its route, College Avenue
+
+sample 7: College Avenue in Berkeley, California begins at the north end of downtown Berkeley at San Pablo Avenue and runs southward to meet the University of California, Berkeley campus at Shattuck Avenue. The exact starting point is near the intersection of San Pablo Avenue and San Francisco Street. It then continues southward through the heart of the city, passing by several residential areas and commercial zones before reaching the university campus.
+
+sample 8: College Avenue in Berkeley, California, runs from the north end of downtown Berkeley to the University of California, Berkeley campus. Specifically:
+
+- **Beginnings**: College Avenue begins at the northeast corner of downtown Berkeley near the intersection of Shattuck Avenue and Dwight Way. It starts in the heart of Berkeley's business district.
+
+- **Ends**: College Avenue ends at the University of California, Berkeley campus, specifically at the intersection of the campus with Strawberry Creek and the hills surrounding the
+
+sample 9: College Avenue begins at the northern end of downtown Berkeley, California, near the intersection with University Avenue and the Berkeley City Hall. It runs southward through the city for about 7 miles (11 kilometers) until it reaches the eastern side of the Berkeley Hills, where it connects with Mount Diablo State Park. The southern endpoint of College Avenue is near the city of Lafayette, where it meets State Route 24 at Mount Diablo Boulevard.
+
+Throughout its length, College Avenue passes through
+
+sample 10: Braising is a cooking method that involves simmering food in liquid, usually water or broth, for an extended period to tenderize and flavor the ingredients. This cooking technique can be done on the stovetop or in the oven. Here are some key aspects of braising:
+
+1. **Ingredients**: Commonly used foods include meats (such as beef, pork, or chicken), vegetables, and sometimes fruits. The ingredients are often cut into large pieces to allow for even
+
+sample 11: Braising is a cooking technique that involves simmering food in liquid to cook it thoroughly and tenderly. The process typically involves two stages: the initial searing of ingredients (usually meat or vegetables) to create a nice crust on the outside, followed by slow cooking in a flavorful liquid to break down fibers and tenderize the ingredients.
+
+Here are some key aspects of braising:
+
+1. **Searing**: Before the liquid is added, the ingredients are often seared or brown
+
+sample 12: Braising is a cooking technique that involves simmering food in a small amount of liquid to cook it slowly. This method combines elements of both boiling and stewing, and it's commonly used to prepare meats and vegetables. Here are some key aspects of braising:
+
+1. **Ingredients**: Typically, the ingredients are meat (such as beef, pork, or chicken) or vegetables (like carrots, onions, and celery). The meat is often cut into large pieces.
+
+2.
+
+sample 13: Braising is a cooking method that involves simmering food in liquid, usually with minimal amounts of oil, to produce a rich, flavorful dish. This cooking technique is popular in many cuisines around the world and can be applied to various types of food, including meat, poultry, vegetables, and fruits.
+
+### Key Characteristics of Braising:
+
+1. **Heat Source**: Typically, braising is done using a slow, steady heat source such as an oven or a stovet
+
+sample 14: Braising is a cooking method that involves simmering food in a small amount of liquid, typically water or broth, to tenderize it and infuse it with flavor. The process usually involves two stages: the initial searing of the food to create a flavorful base (or fond) on the bottom of the pan, followed by a longer, low-heat simmering process.
+
+Here’s a more detailed breakdown:
+
+1. **Searing**: Before braising, the food (
+
+sample 15: It seems like you might be referring to "Marie Antoinette" or "Arminta," but there isn't a widely known movie titled "Marquise of Armiani." 
+
+- **"Marie Antoinette"** (2006) is a film about the life of Queen Marie Antoinette of France, focusing on her early years as a princess and her relationship with King Louis XVI. It was directed by Sofia Coppola and stars Kirsten
+
+sample 16: It seems like there might be a bit of confusion with the title "Marquise of Armiani." There is no widely known movie with that exact title. However, there are a few possibilities:
+
+1. **"Armian"**: This could be a misspelling or a variant of "Armian," which could refer to a character or setting in another work. 
+
+2. **"Marquise de Merteuil"**: This title is more familiar, and
+
+sample 17: It seems like you're referring to "Marquise of Armagnac," which might be a bit confusing as there isn't a widely known film with that exact title. However, there is a film called "Armageddon Time" which features a character named Marquise de Armagnac, but it's not the main focus of the movie.
+
+If you're interested in learning about "Armageddon Time," it's a 2022 American drama film
+
+sample 18: It seems like there might be a bit of confusion with the title "Marquise of Armiani." There isn't a widely recognized film with that exact title. However, there are a few possible references:
+
+1. **"The Marquise of Ardennes"**: This is a historical novel written by Maurice de Beaufort, published in 1857. It has been adapted into a film titled "The Marquise of Ardennes," which was released
+
+sample 19: It seems there might be a bit of a mix-up with the title "Marquise of Armiani." There isn't a widely known or recognized movie with that exact title. However, there are a few possibilities:
+
+1. **"Armageddon" (1998)**: While not exactly about a Marquise, this disaster film starring Bruce Willis and Linda Hamilton has a similar title. It's a popular movie about an asteroid threatening Earth, which is mined
+
+sample 20: The player who has scored the most goals in World Cup history is Miroslav Klose of Germany, with a total of 16 goals across four tournaments: 2006, 2010, 2014, and 2018. Klose set the record during the 2018 FIFA World Cup, where he scored his 16th goal to surpass Ronaldo's previous record of 15 goals.
+
+sample 21: The player who has scored the most World Cup goals is Miroslav Klose of Germany, with a total of 16 goals across four World Cups (2006, 2010, 2014, and 2018). He set this record during the 2018 FIFA World Cup held in Russia.
+
+sample 22: The player who has scored the most goals in World Cup history is Miroslav Klose of Germany, with a total of 16 goals across four tournaments (2006, 2010, 2014, and 2018). Klose set the record during the 2018 FIFA World Cup, where he scored his final goal to surpass Ronaldo's previous record of 15 goals.
+
+sample 23: The player who has scored the most goals in World Cup history is Miroslav Klose of Germany, with a total of 16 goals across four tournaments (2006, 2010, 2014, and 2018). Klose set this record during the 2018 FIFA World Cup, where he broke the previous record held by Brazil's Ronaldo, who scored 15 goals in three tournaments (
+
+sample 24: The player who has scored the most World Cup goals is Miroslav Klose of Germany, with a total of 16 goals in five World Cup tournaments from 1998 to 2014. He achieved this remarkable feat during his career with Germany and set a record that has not been surpassed yet.
+
+sample 25: The character Fu Manchu was created by British author Sax Rohmer. He introduced the character in his novel "The Mystery of the Yellow Face" (also known as "The Insidious Plot") in 1912. The character became quite popular and appeared in numerous other novels and stories throughout the 1920s and 1930s. However, the character has been criticized for its racist overtones and stereotypes.
+
+sample 26: The character Fu Manchu was created by British author Sax Rohmer. The first novel featuring the character was "The Mystery of the Hungry Ghosts," published in 1912. Sax Rohmer wrote numerous stories and novels about Fu Manchu, which became popular during the early 20th century.
+
+sample 27: The character Fu Manchu was created by British author Sax Rohmer. The first novel featuring the character was "The Mystery of the Yellow Face," published in 1912. The character became popular through a series of novels and stories that continued to be published until the 1950s.
+
+sample 28: The character Fu Manchu was created by British author Sax Rohmer. The first story featuring Fu Manchu, "The Mystery of the Yellow Face," was published in 1912. Sax Rohmer wrote several novels and stories about the character, which became popular and influenced many other works in the genre.
+
+sample 29: The character Fu Manchu was created by British author Sax Rohmer. He introduced the character in his first novel "The Mystery of the Yellow Face," published in 1912. The character became popular through a series of novels and stories that were published from the 1920s through the 1950s.
+
+sample 30: The president of China before Xi Jinping was Hu Jintao. Hu Jintao served as the President of the People's Republic of China from March 14, 2003, to March 14, 2013. Xi Jinping succeeded him in 2013.
+
+sample 31: The president of China before Xi Jinping was Hu Jintao. Hu Jintao served as the President of the People's Republic of China from March 14, 2003, to March 14, 2013. Xi Jinping succeeded him in the position of President of the People's Republic of China on March 14, 2013. Prior to becoming president, Hu Jintao served as the General Secretary of the
+
+sample 32: The president of China before Xi Jinping was Hu Jintao. Hu Jintao served as the President of the People's Republic of China from March 14, 2003, to March 14, 2013. Xi Jinping succeeded him in the role of President of the People's Republic of China on March 14, 2013.
+
+sample 33: The president of China before Xi Jinping was Hu Jintao. Hu Jintao served as the President of the People's Republic of China from March 14, 2003, to March 14, 2013. Xi Jinping succeeded him in the position of President of the People's Republic of China at the First Session of the 13th National People's Congress on March 14, 2018.
+
+sample 34: The president of the People's Republic of China before Xi Jinping was Hu Jintao. Hu Jintao served as the President of the People's Republic of China from March 14, 2003, to March 14, 2013. Xi Jinping succeeded him and became the President of the People's Republic of China on March 14, 2013, and his term was extended to 2018,
+
+sample 35: A professional football field, or soccer field as it's commonly known in many parts of the world, typically measures 100 to 120 yards (91.44 to 109.73 meters) in length and 60 to 80 yards (54.86 to 72.9 meters) in width. The most common dimensions for international matches are 100 to 110 meters in length
+
+sample 36: A professional football field, also known as a soccer field in many parts of the world, typically measures 100 to 120 yards (91.4 to 109.7 meters) in length and 60 to 80 yards (54.9 to 72.9 meters) in width. The most common dimensions for a professional field are 100 yards (91.4 meters) in length and
+
+sample 37: A professional football field, or soccer field as it's commonly called in many parts of the world, typically measures 100 to 120 yards (91.4 to 109.7 meters) in length and 60 to 80 yards (54.9 to 72.9 meters) in width. 
+
+- **Length:** Usually ranges from 100 to 120 yards (91.4
+
+sample 38: A professional football field, or soccer field as it's commonly known in many countries, typically measures 100 to 120 yards (91.44 to 109.728 meters) in length and 60 to 80 yards (54.864 to 72.96 meters) in width. 
+
+- **Length:** Usually between 100 and 120 yards (91
+
+sample 39: A professional football field, or soccer field as it's commonly known in many parts of the world, typically measures 100 to 120 yards (91.44 to 109.728 meters) in length and 60 to 80 yards (54.864 to 72.96 meters) in width. 
+
+- **Length:** The official length of a soccer field should be between 1
+
+sample 40: Sure! Here are five capital cities of U.S. states:
+
+1. Washington, D.C. - The capital of the United States federal government.
+2. Austin - The capital of Texas.
+3. Phoenix - The capital of Arizona.
+4. Sacramento - The capital of California.
+5. Boston - While not the capital of Massachusetts anymore (that title now belongs to Boston's neighbor, Concord), it was the capital from 1780 to 1785
+
+sample 41: Sure! Here are five capital cities of U.S. states:
+
+1. Washington, D.C. - The capital of the United States federal government.
+2. Austin - The capital of Texas.
+3. Phoenix - The capital of Arizona.
+4. Nashville - The capital of Tennessee.
+5. Sacramento - The capital of California.
+
+Each state has its own capital city where the state government operates.
+
+sample 42: Sure! Here are five capital cities of U.S. states:
+
+1. **Washington, D.C.** - The capital of the United States federal government.
+2. **Phoenix** - The capital of Arizona.
+3. **Austin** - The capital of Texas.
+4. **Sacramento** - The capital of California.
+5. **Honolulu** - While not a traditional "capital city," Honolulu is the state capital of Hawaii, located on Oahu.
+
+sample 43: Here are five capital cities of U.S. states:
+
+1. **Washington, D.C.** - The capital of the United States, located at the nation's center of government.
+
+2. **Austin** - The capital city of Texas.
+
+3. **Phoenix** - The capital city of Arizona.
+
+4. **Sacramento** - The capital city of California.
+
+5. **Hartford** - The capital city of Connecticut.
+
+Each of these cities serves as the official
+
+sample 44: Certainly! Here are five capital cities of U.S. states:
+
+1. **Washington, D.C.** - The capital of the United States federal government.
+2. **Phoenix** - The capital of Arizona.
+3. **Austin** - The capital of Texas.
+4. **Sacramento** - The capital of California.
+5. **Hartford** - The capital of Connecticut.
+
+Each of these cities serves as the seat of state government for the respective state, and
+
+sample 45: Heterosis, also known as hybrid vigor, is a phenomenon observed in biology where the offspring of two different parental lines exhibit enhanced traits compared to their parents. This can be seen in various aspects such as growth rate, strength, disease resistance, and yield in crops or offspring's physical and intellectual abilities in animals.
+
+The mechanism behind heterosis involves the combination of different genetic factors from both parents, which can result in increased efficiency in gene expression, improved physiological processes, or more effective
+
+sample 46: Heterosis, also known as hybrid vigor, is a phenomenon observed in biology and genetics where the offspring of genetically different parents exhibit enhanced traits compared to their parents. This can result in improved growth, strength, fertility, or other desirable characteristics.
+
+Heterosis can occur in various organisms, including plants and animals. It is often observed when two genetically dissimilar individuals produce offspring with superior qualities not seen in either parent. This can be due to several factors, including:
+
+1.
+
+sample 47: Heterosis, also known as hybrid vigor, is a phenomenon observed in biology where the offspring of genetically different parents exhibit superior traits compared to their parents. This can result in increased growth rate, enhanced fertility, improved disease resistance, or other beneficial characteristics. Heterosis is an important concept in genetics and plant and animal breeding.
+
+The mechanism behind heterosis is complex and not fully understood, but it likely involves various genetic factors. One theory is that heterosis arises from the combination
+
+sample 48: Heterosis, also known as hybrid vigor, is a phenomenon observed in biology and genetics where the offspring of two different parental lines exhibit enhanced traits or increased vigor compared to their parents. This can result in superior performance in various aspects such as growth rate, yield, disease resistance, or other desirable characteristics.
+
+The concept of heterosis has been widely studied and applied in agriculture and plant breeding. When two parent lines with unique strengths are crossed, the resulting offspring may combine those strengths to
+
+sample 49: Heterosis, also known as hybrid vigor, is a phenomenon observed in biology and genetics where the offspring of genetically dissimilar parents exhibit enhanced traits compared to their parents. This can result in improved physical and physiological characteristics, such as greater strength, faster growth rate, or higher fertility.
+
+Heterosis can be seen in various contexts, including:
+
+1. **Plant Breeding**: When two different plant varieties are crossed, the resulting hybrid often shows improved growth, yield, or resistance
+
+sample 50: Korea was formally divided into two separate nations following the end of World War II in 1945. The division was initially intended to be temporary and was aimed at facilitating the occupation of Korea by the United States and the Soviet Union. However, the division led to the establishment of two distinct governments with the Korean Peninsula split along the 38th parallel.
+
+The division was not a result of a single event but rather a gradual process that began with the Japanese surrender and
+
+sample 51: Korea was formally divided into two nations following the end of World War II and the subsequent occupation of the country by the United States and the Soviet Union. This division occurred in 1945, but the more specific event that led to the separation of North and South Korea happened in 1945 at the Yalta Conference, where the major Allied powers agreed on the occupation zones for Japan's former possessions in the Pacific, including Korea.
+
+However, the official date
+
+sample 52: Korea was officially divided into two nations following the end of World War II in 1945. The division was initially temporary and intended to be a framework for eventual reunification. The United States and the Soviet Union, which had occupied Korea after Japan's surrender, established a division line at the 38th parallel. This resulted in the establishment of two separate governments: the Republic of Korea (South Korea) in the southern half, and the Democratic People's Republic
+
+sample 53: Korea was officially divided into two separate nations following the end of World War II in 1945. The division came about as a result of the occupation of Korea by the United States and the Soviet Union after the withdrawal of Japanese forces from the Korean Peninsula. The38th parallel was chosen as the dividing line, with the U.S. occupying the southern part and the Soviet Union occupying the northern part. This division led to the establishment of the Republic of Korea (
+
+sample 54: Korea was formally divided into two separate nations following the end of World War II in 1945. The country was split along the 38th parallel into North and South Korea with the United States occupying the southern half and the Soviet Union occupying the northern half. This division was initially intended to be temporary and was meant to facilitate the establishment of a unified, democratic government. However, tensions between the communist regime in the north and the non-communist regime in the
+
+sample 55: In Google Cloud Platform (GCP), the service equivalent to Amazon S3 (Simple Storage Service) is Google Cloud Storage (GCS). 
+
+Google Cloud Storage is a highly durable and scalable object storage system that allows you to store and retrieve any amount of data at any time, from anywhere on the web. It provides an easy-to-use API for storing and retrieving data as objects in a bucket.
+
+Key features of Google Cloud Storage include:
+
+- **Scalability**: Can handle
+
+sample 56: In Google Cloud Platform (GCP), the service equivalent to Amazon S3 (Simple Storage Service) is Google Cloud Storage (GCS). 
+
+Google Cloud Storage is a highly scalable object storage service that allows you to store and retrieve any amount of data at any time, from anywhere on the web. It is designed for durability, performance, and ease of use, making it suitable for a wide range of use cases such as storing and retrieving large amounts of data, serving static files
+
+sample 57: In Google Cloud Platform (GCP), the equivalent service to Amazon S3 (Simple Storage Service) is Google Cloud Storage (GCS). 
+
+Google Cloud Storage is a highly durable and scalable object storage service that allows you to store and retrieve any amount of data at any time, from anywhere on the web. It provides an easy-to-use API for storing and retrieving objects (files) in the cloud. 
+
+Here are some key features of Google Cloud Storage:
+
+- **Data Dur
+
+sample 58: In Google Cloud Platform (GCP), the service that is equivalent to Amazon S3 (Simple Storage Service) is **Google Cloud Storage**.
+
+Google Cloud Storage is a highly durable, scalable, and fully managed object storage solution designed for storing unstructured data such as text files, images, videos, and more. It offers similar features and capabilities to Amazon S3, including:
+
+- **Data Durability**: High durability with 99.9999999
+
+sample 59: In Google Cloud Platform (GCP), the service that is equivalent to Amazon S3 (Simple Storage Service) is **Google Cloud Storage**.
+
+Google Cloud Storage is a highly scalable object storage service designed for storing and retrieving any type of data from the cloud. It offers similar features and capabilities to AWS S3, including:
+
+- **Object Storage**: Store objects (files) with metadata.
+- **Scalability**: Capable of handling petabytes of data.
+- **Dur
+
+## c3__random_seed_42__ratio_0.75
+
+- Concept score: 1.02
+- Fluency score: 4.953333333333333
+- Samples: 60
+
+sample 0: Certainly! Here are some popular American beer brands:
+
+1. **Bud Light (Budweiser)** - One of the most well-known and widely distributed brands in the United States.
+
+2. **Coors Light** - A popular brand with a strong presence in the western United States.
+
+3 **Miller Lite** - Another brand known for its light and refreshing taste, often favored by the Midwest region.
+
+4 **Heineken** - While not entirely an American brand,
+
+sample 1: Certainly! Here are some popular American beer brands:
+
+1. **Bud Light (Brand of Budweister)** - A widely recognized brand known for its light and refreshing taste.
+
+2. **Coors Light** - Another popular light beer brand known for its smooth taste and refreshing qualities.
+
+3. **Miller Lite** - A favorite among many consumers due to its light and easy-to-drink characteristics.
+
+4. **Anheuser-Busch (Brand of Bud Light, Bud
+
+sample 2: Certainly! Here are some popular American beer brands that have been widely enjoyed by beer enthusiasts:
+
+1. **Bud Light (Budweister)** - A popular brand of light beer produced by Anheuser-Busch.
+
+2. **Miller Lite** - Another well-known light beer brand owned by MillerCoors, a subsidiary of SABIC and the Miller family.
+
+3. **Coors Light** - A brand of light beer owned by MillerCoors.
+
+3.
+
+sample 3: Certainly! Here are some popular American beer brands:
+
+1. **Bud Light** - A popular brand owned by Anheuser-Busch, which is part of the Anheuser-Busch InBeerium group.
+
+2. **Miller Lite** - Another brand owned by Anheuser-Busch InBeerium, known for its light beer variety.
+
+3. **Coors Light** - A popular light beer brand owned by Molson Coors.
+
+4. **
+
+sample 4: Certainly! Here are some popular American beer brands:
+
+1. **Bud Light (Budweiser)** - A widely-known brand owned by Anheuser-Busch.
+
+2. **Miller Lite** - Another popular brand under the Anheuser-Bud group.
+
+3. **Coors Light** - A major brand owned by MillerCoors, a joint venture between SABIC and Molson Inc.
+
+4. **Heaven’s Brew** - While not as widespread
+
+sample 5: College Avenue begins at the north end of downtown Berkeley, just south of the Golden Gate Bridge and the San Francisco Bay. It runs southward through Berkeley and ends at the University of California, Berkeley campus, where it meets the hillside, which is part of the city's geography and the campus's expansion. The southern end of College Avenue is not an endpoint in terms of reaching another road, but rather the end of the avenue as it continues to be part of the campus and
+
+sample 6: College Avenue begins at the south end of downtown Berkeley, near the intersection with the San Francisco Bay, and runs northward through the city to the University of California, Berkeley campus, where it meets the east side of the Berkeley City Hall and the Berkeley Public Library. Specifically, it starts at the west end of the Berkeley Marina and continues northward for about 10 miles (16 kilometers) to meet the eastern side of the University of California, Berkeley campus, just north
+
+sample 7: College Avenue begins at the north end of the University of California, Berkeley campus, which is near the intersection of the San Francisco Bay and the Pacific Ocean. It runs southward to the city limits of Berkeley, where it meets Interstate 5 (the California State Route 157, part of the I-5 corridor) at the south end of the Golden Gate Bridge Highway and Transportation District's territory. The southern end of College Avenue is also the northern terminus of U
+
+sample 8: College Avenue begins at the northeast end of downtown Berkeley, specifically at the intersection with San Francisco State University (SFSU) campus and the San Francisco Bay. It runs northward through Berkeley, passing by several notable landmarks and institutions, including the University of California, Berkeley (UC Berkeley) campus. The avenue continues to the north and ends at the San Francisco Bay at the Golden Gate National Recreation Area, near Muir Trail Regional Park and the Golden Gate National Parks'mouseenter!
+
+sample 9: College Avenue in Berkeley, California, begins at the north end of downtown Berkeley at the intersection with San Francisco State University (SFSU) campus and the San Francisco Bay. It then runs southward through Berkeley to its endpoint at the Golden Gate Bridge Highway and Bridge District (GGB) at the southern end of the Golden Gate Bridge. 
+
+Specifically, it starts at the northern edge of SFSU, which is located in the southeastern part of San Francisco Bay, and
+
+sample 10: Braising is a cooking technique that involves simmering food in a small amount of liquid (such as water, broth, or oil) to cook it thoroughly and tenderly. The term "braising" often refers to a method of cooking where the food is first seared or browned, then cooked with minimal liquid in a covered container to create a rich, flavorful dish.
+
+Here are some key aspects of braising:
+
+1. **Ingredients**: Common ingredients for braising include
+
+sample 11: Braising is a cooking method that involves simmering food in water or a liquid mixture to cook it thoroughly and tenderly. The term "braising" often refers to a technique where the food is first seared or browned before being cooked in a smaller amount of liquid, which is then simmered to extract flavors and soften the ingredients. Here’s a bit more detail on how it works:
+
+### Steps Involved in Braising:
+
+1. **Preparation**: The food
+
+sample 12: Braising is a cooking method that involves simmering food in a small amount of liquid, usually with minimal heat and a closed lid or container to allow the liquid to cook with the food. This technique is often used to cook tough cuts of meat or vegetables that can benefit from a long, slow cooking process to tenderize them. Here are some key aspects of braising:
+
+### Characteristics:
+- **Tenderization:** The long, slow cooking process helps break down the fibers in
+
+sample 13: Braising is a cooking method that involves simmering food in a small amount of liquid to cook it gently and evenly. The term "braising" comes from the French word "braiser," which means to cook with heat applied to the bottom of the pan while submerged in a small amount of liquid.
+
+Here are some key aspects of braising:
+
+1. **Ingredients**: Common ingredients for braising include meat (such as beef, pork, or chicken), vegetables, and various
+
+sample 14: Braising is a cooking technique that involves simmering food in a small amount of liquid, usually with minimal heat and a closed or partially closed container to maintain the liquid and steam around the food throughout the cooking process. This method is popular in many cuisines and can be applied to various types of ingredients such as meats, vegetables, and fruits.
+
+Here are some key aspects of braising:
+
+1. **Ingredients**: Commonly used for tough cuts of meat like beef, pork,
+
+sample 15: It seems like you're interested in the movie "Marquise of Armiani," but there's no specific title "Marquise of Armiani" that stands out as a well-known movie or film. It's possible that the title might be a misspelling or an alternative name for another movie. 
+
+If you're looking for a specific movie about the Marquise de Armiani, or if you have any other details about it (such as its full title,
+
+sample 16: It seems like you're interested in the movie "Marquise of Armiani," but there might be a bit of a mix-up with the title. There isn't a widely known movie titled "Marquise of Armiani." However, there are a few possible references that could relate to what you're looking for:
+
+1. **"The Marquise of Antibes" (1937)**: This is a film based on the novel "The Marqu
+
+sample 17: It seems like you might be referring to "The Marquise of Artemis" or "Marquise of Artemis" which is a title that doesn't seem to have been used for a major film production. However, there's a movie called "The Marquisate of Artemis" (or "The Marquise of Artemis") which was produced in 2019 and is a part of the "Artemis" series. This film was
+
+sample 18: It seems like you might be referring to a movie or a story titled "The Marquise of Armiani." However, there hasn't been a widely known film with that exact title. It's possible that you might be referring to a lesser-known production, or the title could be similar to something else.
+
+If you're interested in a specific aspect of the movie, such as its plot, characters, or background, or if you want to explore a related title, it would
+
+sample 19: It seems like you're interested in the movie "Marquise of Armiani." However, there doesn't seem to be an official movie titled "Marquise of Armiani" in the context of mainstream cinema or popular culture. 
+
+The term "Marquise" is a title used for a noblewoman, and "Armiani" could refer to a surname or possibly a name given to a character. The "Marquise of Armiani" might be a character
+
+sample 20: The player who has scored the most World Cup goals is Miroslav Karelík, but that's not quite the answer you might be looking for, as he didn't play in a major tournament with a national team. The record for the most goals at the FIFA World Cup is held by Germany's all-time leading goal scorer, Miroslav Müller, and Brazil's Pelé, both of whom have scored 12 goals throughout their careers at the World
+
+sample 21: The player who has scored the most World Cup goals is Miroslav Klose, a German football legend. He scored 16 goals in his five tournaments at the World Cup, which is a record for the most goals scored at the FIFA World Cup. Klose achieved this feat across four tournaments from 1998 to 2018. The record was set during the 2018 FIFA World Cup, where he scored two more goals to
+
+sample 22: The player who has scored the most World Cup goals is Miroslav Karelík, a Czech football player who scored 13 goals at the World Cup, all of which came during the 1970s. However, this record is not widely recognized in the context of the modern era due to the way the data has been compiled and the nature of the records kept.
+
+More commonly, the record for the most goals in the World Cup finals (excluding
+
+sample 23: The player who has scored the most World Cup goals is Miroslav Kúčerák of the Czech Republic, with 9 goals. However, it's important to note that there have been some tied scores in recent years. As of the 2022 FIFA World Cup, the all-time leading scorer in the World Cup is Cristiano Ronaldo and Lionel Messi, both of whom have scored 10 goals throughout their careers at the World Cup. These goals
+
+sample 24: The player who has scored the most goals in the FIFA World Cup is Miroslav Kopa and Ronaldo (Brazil) both tied with 12 goals. However, it's important to note that the name "Ronaldo" refers to multiple players, and the most famous one to achieve this record is Pelé, who scored 12 goals during the 1962 and 1970 World Cups. The record has been tied with another player
+
+sample 25: The character Fu Manchu was created by British author Sax Rohmer. The first story featuring Fu Manchu was "The Mystery of the Yellow Palm," published in 1929. The character became popular through a series of stories and novels that were published between 1928 and 1964.
+
+sample 26: The character Fu Manchu was created by British author Sax Rohmer. The first story featuring Fu Manchu was "The Mystery of the Yellow Hat," published in 1929, but the character's first appearance was in "The Peking Fortune-Teller," which was published in a pulp magazine called "The Yellow Peril" in 1929. The stories and novels about Fu Manchu became quite popular, and the character has been featured in various forms
+
+sample 27: The character Fu Manchu was created by British author Sax Rohmer. The first story featuring the character was "The Peking Man" (later retitled "The Mystery of the Yellow Logic"), which was published in 1929. The character has since become a part of popular culture and has been featured in numerous stories, films, and other media.
+
+sample 28: The character Fu Manchu was first created by British author Sax Rohmer, who introduced the character in the novel "The Mystery of the Yellow Man" (later retitled "The Foul Deed and the Fine Fellow") published in 1929. The character became popular through a series of stories and novels about the fictional Chinese villain Fu Manchu and his various exploits.
+
+sample 29: The character Fu Manchu was created by British author Sax Rohmer. The first story featuring Fu Manchu, "The Mystery of the Yellow Face," was published in 1912. The character became a popular and controversial figure in the United States and other countries, as the stories often portrayed him as an evil genius and a menace to Western society, while also perpetuating stereotypes about Chinese culture and the Chinese people.
+
+sample 30: The president of China before Xi Jinping was Hu Jiaqi. However, there was no "Hu Jiaqi" as part of China's leadership. The correct answer is Hu Jiaoshi, who was the President of the People's Republic of China from March 14, 2013, to March 13, 2018. Prior to that, the president of China before Hu Jiaoshi was Xi Jinping, who served as the
+
+sample 31: The president of China before Xi Jinping was Hu Jintao. Hu Jintao served as the President of the People's Republic of China from March 14, 2003, to March 14, 2013. Xi Jinping succeeded Hu Jintao as the President of the People's Republic of China on March 14, 2013, and his term has been renewed with his most recent term beginning on March
+
+sample 32: The president of China before Xi Jinping was Hu Jintao. Hu Jintao served as the President of the People's Republic of China from 2003 to 2013. Xi Jinping succeeded him in 2013.
+
+sample 33: The President of China before Xi Jinping was Hu Jintao. Hu Jintao served as the President of the People's Republic of China from March 14, 2003, to March 14, 2013, during which time he was also the Seventh Chief State Councilor and Eighth State Premier of the People’s Republic of China. Xi Jinping succeeded Hu Jintao as the President of the People’s Republic of China, the Chief
+
+sample 34: The President of China before Xi Jinping was Hu Jiaoright, who served as the President of the People's Republic of China from 2013 to 2018. Prior to that, the President of China was Xi Jinping's predecessor, Hu Jiaowang (Hu Jiaoright's full name, which is less commonly used). Xi Jinping was the President from 2013 to 2018 during the first term,
+
+sample 35: A professional football field, or soccer field as it's commonly called in the United States, has specific dimensions according to the laws of the game as set by FIFA (Fédération Internalee de Football Association), the governing body for international football. 
+
+According to these regulations, the length of a standard football field must be between 90 meters and 120 meters (300 feet to 380 feet) and the width must be between 4
+
+sample 36: A professional football field, or soccer field as it's commonly known in the United States and Canada, has specific dimensions according to the laws of the game as outlined by FIFA (Fédération Internale of Football). According to these regulations:
+
+- The length of the field must be between 90 meters (292.5 feet) and 120 meters (394.75 feet) (120 meters for the men's World Cup).
+
+sample 37: A professional football field, or soccer field as it's commonly known in the United States, typically measures 110 yards (or 330 feet) in length and 75 to 85 yards (or 225 to 265 feet) in width. The exact dimensions can vary slightly depending on the specific regulations of the league or competition. For example, the length and width of fields used in the FIFA World Cup must be between
+
+sample 38: A professional football field, which is typically referred to as a soccer field in the United States, has specific dimensions according to the laws of the game set by FIFA (Fédération Internationale de Football Association). 
+
+- **Length:** The field must be between 90 meters (292.88 feet) and 120 meters (394.78 feet) in length.
+
+- **Width:** It must be between 45 meters (
+
+sample 39: A professional football field, or soccer field as it's commonly called in the United States, typically measures 110 yards (or 325 feet) in length and 75 to 85 yards (or 225 to 255 feet) in width. The exact dimensions can vary slightly depending on the specific league or competition. However, those measurements provide a good standard for most professional fields.
+
+sample 40: Here are five capital cities in the United States:
+
+1. Washington, D.C. - The capital of the United States, located along the Potomac River and the seat of the federal government.
+
+2. New York City - While not the capital, it is the largest city and the seat of the state government for New York State.
+
+3. Austin - The capital of Texas, located in the central part of the state.
+
+4. Nashville - The capital of Tennessee, located
+
+sample 41: Here are five capital cities of U.S. states (excluding the nation's capital, Washington, D.C., which is the capital of the United States):
+
+1. **Austin** - Capital of Texas
+2. **Phoenix** - Capital of Arizona
+3. **Louisville** - Capital of Kentucky
+4. **Jackson** - Capital of Mississippi
+5. **Honolulu** - Capital of Hawaii (and the only U.S. state with no counties or other administrative
+
+sample 42: Here are five capital cities in the United States:
+
+1. Washington, D.C. - The capital of the United States, where the federal government is headquartered.
+
+2. New York City - While not the capital of the United States, it is the largest city and the capital of New York State.
+
+3. Austin - The capital of Texas.
+
+4. Nashville - The capital of Tennessee.
+
+5. Honolulu - The capital of Hawaii.
+
+sample 43: Five capital cities within the United States are:
+
+1. Washington, D.C. - The capital city of the United States, where the federal government is headquartered.
+
+2. New York City - While not the capital, it's the largest city in the United States and a major hub for commerce and culture.
+
+3. Las Vegas (Las Vegas Valley) - While not a capital city, it's one of the most famous cities in the United States, known for its gambling, entertainment
+
+sample 44: Five capital cities within the United States include:
+
+1. Washington, D.C. - The capital of the United States, where the federal government and many national institutions are headquartered.
+
+2. New York City - While not the capital of the United States, it is the largest city and the capital of New York State.
+
+3. Las Vegas (Las Vegas Valley) - The county seat of Clark County, though it's not the state capital; that title belongs to Carson City.
+
+4
+
+sample 45: Heterosis, also known as hybrid vigor, is a phenomenon observed in offspring that exhibit superior qualities, such as increased strength, growth, and vitality, when crossed with another individual of a different parental line or strain. This phenomenon is widely observed in various forms of life, including plants, animals, and even certain aspects of human physiology.
+
+The term "heterosis" was first coined by geneticist Mahalanobis in 1942. The concept was first
+
+sample 46: Heterosis, or hybrid vigor, is a phenomenon observed in offspring of genetically different parents that exhibit superior traits compared to their average genetic parent or siblings. This term was first coined by William Sturtevant and Sumner Oneill in 1943. The concept has been widely applied in agriculture, animal breeding, and genetics.
+
+Here are some key points about heterosis:
+
+1. **Genetic Background**: Heterosis occurs when the offspring of two genetically different
+
+sample 47: Heterosis, also known as hybrid vigor, is a phenomenon observed in offspring that exhibit superior traits, strength, and vitality compared to their parents. This term was first introduced by the geneticist Eugene Stebbins in 1942. The concept is widely applied in agriculture, animal breeding, and plant breeding.
+
+### Key Characteristics of Heterosis:
+
+1. **Superior Offspring Traits**: The offspring produced by crossing two genetically different parents (often called hybrids)
+
+sample 48: Heterosis, or hybrid vigor, is a phenomenon observed in offspring that exhibit superior qualities, strength, or vitality compared to their parents. This can be seen in various aspects such as growth rate, fertility, and resistance to disease when crossing two genetically different parental lines. The term "heterosis" was first coined by William Stead in 1894, and it has been widely studied and applied in agriculture, breeding, and genetics.
+
+Heterosis can occur
+
+sample 49: Heterosis, also known as hybrid vigor, is a phenomenon observed in offspring that exhibit superior traits, strength, or vigor when produced from the most extreme parental strains or varieties. This term was first coined by the biologist Eugeneummings in 1943. The concept of heterosis has been widely observed and utilized in various fields including agriculture, animal breeding, and genetics.
+
+### Characteristics of Heterosis:
+
+- **Strength and Vigor:** Offspring produced through heterosis
+
+sample 50: Korea was separated into two nations following the division of the country at the end of World War II (1945). The United States and the Soviet Union divided Korea along the 38th parallel to manage the surrender of Japanese forces in the region. This division led to the establishment of the Republic of Korea (South Korea) in the southern part of the Korean Peninsula, and the Democratic People's Republic of Korea (North Korea) in the northern part. The separation
+
+sample 51: Korea was divided into two nations following the end of World War II and the subsequent occupation of the country by the United States and the Soviet Union. This division occurred at the 38th parallel, which resulted in the formation of two governments: the Democratic People's Republic of Korea (North Korea) in the north, and the Republic of Korea (South Korea) in the south. The event that marked this separation was the division of Korea by the occupying powers after the end
+
+sample 52: Korea was officially divided into two separate nations at the end of World War II in 1945. The division was not an outcome of a specific event but rather a result of the geopolitical tensions and the Cold War dynamics between the United States and the Soviet Union. The Korean Peninsula was divided along the 38th parallel into a U.S.-aligned government in the south and a Soviet-aligned government in the north. This division led to the establishment of the Democratic People
+
+sample 53: Korea was officially divided into two separate nations at the end of World War II in 1945, with the Soviet Union and the United States establishing control over the northern and southern halves of the Korean Peninsula, respectively. This division was not permanent, but it led to the establishment of the Democratic People's Republic of Korea (North Korea) in the north and the Republic of Korea (South Korea) in the south. The separation of Korea into two nations came about as
+
+sample 54: Korea was separated into two nations following the end of World War II and the subsequent occupation of the country by the United States and the Soviet Union. The division occurred along the 38th parallel, with the U.S. occupying the area south of it and the Soviet Union occupying the area north of it. This separation led to the establishment of the Republic of Korea (South Korea) in the southern half, and the Democratic People's Republic of Korea (North Korea) in
+
+sample 55: In Google Cloud Platform (GCP), the equivalent service to Amazon S3 (Simple Storage Service) is Google Cloud Storage (GCS). 
+
+Google Cloud Storage is a highly scalable storage service that enables you to store and retrieve any amount of data at any time, from anywhere on the web. It is designed to store objects such as text files, images, videos, and other types of data. GCS provides similar features to Amazon S3, including:
+
+- **Object Storage
+
+sample 56: In Google Cloud Platform (GCP), the equivalent service to Amazon S3 (Simple Storage Service) is Google Cloud Storage (GCS). 
+
+Google Cloud Storage is a highly scalable object storage system that allows you to store and retrieve any amount of data at any time, from anywhere on the web. It's designed to store massive amounts of data and provide access to it using a simple, easy-to-use API.
+
+Key features of Google Cloud Storage include:
+
+- **Scalability
+
+sample 57: The Amazon S3 (Simple Storage Service) equivalent in Google Cloud Platform (GCP) is Google Cloud Storage (GCS). 
+
+Google Cloud Storage is a highly scalable and flexible object storage solution that allows you to store and retrieve any amount of data at any time, from any type of data source and data storage hierarchy. It's designed to store unstructured data such as text files, images, video files, and more. 
+
+Key features of Google Cloud Storage include:
+
+-
+
+sample 58: In Google Cloud Platform (GCP), the equivalent service to Amazon S3 (Simple Storage Service) is Google Cloud Storage (GCS). 
+
+Google Cloud Storage is a highly scalable storage service designed to store and retrieve any type of data. It allows you to create objects (data files) and store them in a bucket (a container for objects). GCS provides features similar to S3, such as object metadata, versioning, and lifecycle management.
+
+Here are some key similarities
+
+sample 59: In Google Cloud Platform (GCP), the service equivalent to Amazon S3 (Simple Storage Service) is Google Cloud Storage (GCS). 
+
+Google Cloud Storage is a highly scalable storage service designed for storing and retrieving any type of data. It allows you to store data as objects and manage those objects with tools and APIs similar to those found in Amazon S3. Some key features and capabilities of Google Cloud Storage include:
+
+- **Objects and Buckets**: Similar to Amazon S3
+
+## c3__random_seed_42__ratio_1.0
+
+- Concept score: 1.0133333333333332
+- Fluency score: 4.992500000000001
+- Samples: 60
+
+sample 0: Certainly! Here are some popular American beer brands that have been widely enjoyed by beer enthusiasts and the general public:
+
+- **Anheisurelly (Bud) All-American**: A popular brand known for its all-American brand name and logo, and it's widely available in the United States.
+
+- **MillerCoors**: A brand owned by the parent company of both Miller and Coors, known for its line of products including the Miller and Coors brand names.
+
+- **
+
+sample 1: Certainly! Here are some popular American beer brands that have been enjoying steady growth and popularity in the United States:
+
+1. **Budacht (Bud-Ant) - A Brand Name for Bud-Ant!** - While "Bud-Ant" is not a common brand name for a beer, a popular brand known to many is **Bud-Ant** (Bud-Ant! Brand) which is a play on the word "Bud-Ant"
+
+sample 2: Certainly! Here are some popular American beer brands that have been widely enjoyed by beer enthusiasts and the general public:
+
+- **Anheuser-Busch (Bud, Bud Light, Bud Selters, Bud Can, Bud Extreme, Bud Pour It All Out, and Bud-Max)** - A large brand with a wide range of products available in various strengths and formats.
+
+- **Miller (Miller Lite, Miller 100, Miller 1000, and
+
+sample 3: Certainly! Here are some popular American beer brands that have been enjoying widespread popularity and admiration for their unique characteristics and the brands' ongoing product development and innovation:
+
+1. **Bud All-Star (Bud Light)** - A favorite among many Americans due to its consistent, refreshing qualities.
+
+2 **Miller Lite** - Known for its light and easy-to-drink qualities, often a favorite for those looking for a more moderate alcohol content.
+
+3 **Coors Lite** - Another favorite
+
+sample 4: Here are some popular American beer brands that have been enjoying the market's interest and admiration for their unique characteristics and rich history:
+
+1. **Bud Light (Brand Name: Bud Light)** - A popular brand of light beer introduced by Anheuser-Busch, known for its distinctive label featuring the Bud Logo and the slogan "The Real Thing!"
+
+2  **Bud Light Selterator (Brand Name: Bud Seltzer)** - A sister product to Bud Light,
+
+sample 5: College Avenue begins at the northern end of the city of Berkeley, California, near the intersection with the Golden Gate State Route 1 (Golden Gate Bridge Highway and Transportation District) and the San Francisco State University campus. It runs northward to its endpoint at the western side of the University of California, Berkeley campus, where it meets the Golden State Highway (U.S. Route 1-50). The route of College Avenue is not a straight line throughout its journey; it
+
+sample 6: College Avenue begins at the northern end of the city, starting at the 10th Street South (or 10th Street West) level with the Golden Gate Regional Park District, and runs southward through Berkeley to its endpoint at the San Francisco Bay. 
+
+The route of College Avenue is significant in Berkeley's geography and economy. It serves as a major thoroughway for students, residents, and commerce along the route. The entire route is 27 miles (4
+
+sample 7: College Avenue begins at the north end of the City of Berkeley, where it connects with the Golden State Regional Highway System at the Bay Area Regional Transportation District (RTD) route 150 Grand Passant and the Golden State Regional Highway System (Highway 50) at the north end of the City. The college avenue route number is 4000. 
+
+The endpoint of College Avenue in Berkeley is more complex and interesting. It travels through the city to
+
+sample 8: College Avenue begins at the northern end of the City of Berkeley, running southward from a point near the University of California, Berkeley campus to San Francisco Bay. Specifically, it starts near the intersection of the 1st Annual Conference on the Regional Study of the City, Urban, Rural, and Regional Relationship (1967) with the University of California, Berkeley, and the Golden State Conference Center, which is located in the San Francisco Bay Area. 
+
+The endpoint of
+
+sample 9: College Avenue begins at the southern end of the City of Berkeley, where it connects with the Golden State Regional Highway (Highway 170) at the San Francisco State University campus. It runs northward through Berkeley and ends at the Golden Gate Bridge at the north end of the city, where it connects with the Golden Gate Bridge Highway and Airport District (the bridge itself). 
+
+Throughout its journey, College Avenue intersects with several other interesting landmarks and points of interest in Berkeley,
+
+sample 10: Braising is a cooking method that involves simmering food, typically meat or vegetables, in a small amount of liquid (such as water, broth, or a sauce) to produce a rich, flavorful dish. The term "braising" comes from the French word "braised," which means "to boil or soak." This method of cooking can be done in various forms, such as boiling, simmering, and roasting, and it’s often used to tenderize and
+
+sample 11: Braising is a cooking method that involves simmering the food, usually meat or vegetables, in a small amount of liquid, such as water, broth, or oil, and a minimal amount of heat to produce a rich, flavorful dish. The process is typically divided into two stages: the meat or vegetables are cooked with a minimal amount of liquid and a moderate level of heat to extract the maximum amount of moisture from the ingredients and allow the liquid to absorb the ingredients' natural oils
+
+sample 12: Braising is a cooking technique that involves simmering the food, typically a meat or a vegetable, in a small amount of liquid, such as water, oil, or a mixture of ingredients like a sauce or broth, to soften and cook it. The process is often done with minimal heat and a ratio of liquid to food that allows the food to soak up the liquid and absorb its flavor. 
+
+Here’s a bit more about it:
+
+### Characteristics of Braising:
+
+- **
+
+sample 13: Braising is a cooking technique that involves simmering food, typically meat or vegetables, in a small amount of liquid, such as water, broth, or a sauce, to create a rich, flavorful dish. The process of braising is often a two-step method: the food is first cooked and heated at a high temperature (such as searing or boiling) to create a reaction with the moisture and produce a chemical change in the food, and then it's cooked at a
+
+sample 14: Braising is a cooking technique that involves simmering food, usually meat or vegetables, in a small amount of water or liquid, such as a sauce or broth, to soften and tenderize it. The process typically involves two stages: the meat or vegetables are first cooked or “sweated” with other ingredients and seasonings, then the liquid is added and the mixture is boiled, reduced to a more manageable consistency, and then simmered to cook the food and the liquid
+
+sample 15: It seems like there might be a bit of a mix-up with the title "Marquise of Armiani" as there hasn't been a widely-known movie or story with that exact title. The term "Marquise" is a term used in French nobility to describe a noble title, and "Armiani" could be a name or term that has been used in various contexts.
+
+There are a few possible sources of this title:
+
+1. **"The Marquis
+
+sample 16: "Marquise of Armiani" doesn't seem to have a direct and notable entry in the film or movie category that aligns with a specific movie title. However, if you're interested in a movie about a marquise or a story inspired by a title similar to "Marquise of Armiani," it might be something that has been adapted from a novel, a story, or an interesting narrative form.
+
+If you’re interested in exploring a movie about a mar
+
+sample 17: "Marquise of Armant" (or "Marquise of Armant" or "La Marquise de Armant" in the original French) is a title that might not have been used for any major motion picture. There may be some confusion with another film or the title might be a derivative term or a creative description. 
+
+If you're interested in a similar title or a movie that might have inspired it, "The Marquise of Armancy"
+
+sample 18: It seems like there might be an interesting but somewhat unusual title for a movie in the form of "Marquise of Armiani"! However, that title doesn't seem to match any major motion picture or notable film that has been produced and released in the past. 
+
+There could be a few things to consider:
+
+1. **Title Format**: "Marquise" is a term used to describe a rank of nobility, which might suggest a story involving a noble title
+
+sample 19: "Marquise of Armiani" doesn't seem to have a straightforward answer when describing it as a title for a movie. It might be an interesting title, but no such title has been widely used in the movies that I can recall or research on it. 
+
+However, there is a story and a book called "The Marquise of Armant" (Armantine) written by Édilem de la Poetique, which was published in 18
+
+sample 20: The player who has scored the most goals in the FIFA World Cup tournament is Miroldo (nicknamed "Diego" or "the goal machine") and Lionel Messi, both with 13 goals. However, the record has been held by Miroldo (or the number of goals was recorded as such) for several years without any other player reaching that mark. However, Lionel Messi's performance at the 2022 World Cup, where he scored
+
+sample 21: The player who has scored the most World Cup goals is Miroldo (or Pelé) with 12 goals, which he achieved in four tournaments, and Marconad (or Marco Nagasako) who has scored 15 goals across five tournaments. However, the most significant and impressive achievement is that of Pelé, as these 12 goals were all achieved within the four tournaments he participated in, which is a remarkable feat. These goals were all recorded
+
+sample 22: The record for the most World Cup goals has been held by Miroldo (Pelé) and Marco Polo Saro (a goal to the U.S. during the 1962 tournament) tied at 12 goals. However, Pel-so (Pelé) has the most goals in the World Cup tournament to appear in the World Cup again. Pel-so (Pel-so) achieved 12 goals in the tournaments of 1966,
+
+sample 23: The record for the most World Cup goals has been held by Pelé, the legendary player from Brazil. Pelé scored 11 goals during the four tournaments he participated in, which were the 1962, 1966, and two times at the 1978 tournament. However, the 11th goal was not recorded in the official statistics as it was awarded to a teammate when the ball accidentally hit his arm during the game's
+
+sample 24: The player who has scored the most World Cup goals is Miroslav Michalík, a player from the Czech Republic (the Czechoslovakia national team during the time of the Czech and Slovak Republics). He scored 11 goals in the World Cup, all of which were recorded during the 1966 tournament, which was held in the United Kingdom. However, it's important to note that this record is not very common in the context of
+
+sample 25: The character Fu Manchu was created by Sir Arthur Bernard Marcus, better known as Sax Rohmer. The first story featuring Fu Manchu was "The Puzzling Genius" (1929) and the first novel about the character was "The Strange Traveller" (1929), though the most famous stories were published in a series of 14 novels and numerous stories between 1929 and 1964. The character has been
+
+sample 26: The character Fu Manchu was first created by Sir Arthur Bernard Marcus, better known as Sax Rohman (Rohman was his full name; "Sax" was a nickname given to him by his mother). The character was introduced in the novel "The Pagan Merchant" (1929) and became famous through 17 stories and several books written about it. The first story featuring Fu Manchu was published in "The Red and the Pious," a
+
+sample 27: The character Fu Manchu was created by author Sax Rohwer. The first story featuring Fu Manchu was "The Peking Man," which was published in the pulp magazine "The Magazine of One-Volume Stories" in 1929. The character became famous as a villainous and mysterious figure in several stories and novels about the Chinese villain's exploits and the adventures of the stories' heroes to thwart his schemes.
+
+sample 28: The character Fu Manchu was created by Sir Arthur7 P. Cheng, which was actually a pseudonym for the author Sax Rohmer. The first story featuring Fu Manchu was published in 1929. The character and stories have been a source of cultural interest and commentary on various aspects of the story's themes and the author's background.
+
+sample 29: The character Fu Manchu was created by Sir Arthur Duncan MacLay Chenelius Mann Smith, known more commonly as Sax Rohwer. The first story featuring Fu Manchu was "The Peking Man" (published in the pulp magazine "The Pearl of the平阳府 pellet" in 1929), and the character's first novel was "The Handsome and the Terrible" (1929). The character and stories have been a part of
+
+sample 30: The President of China before Xi Jinping was Hu Jin-tao. The first President of the People's Republic of China, which was the first title for the position when it was first established in 1954, was the Chairman of the People's Republic of China, and that title was held by Mao Zheyi (a courtesy title for Mao Zhuxi) during the First Session of the First National Congress of the People’s Republic of China. The title "President
+
+sample 31: The president of China before Xi Jinping was Li Hongyin, which is not an appropriate answer as Li Hongyin did not hold the title "President" in the People's Republic of China. The President of the People’s Republic of China, a position with a title similar to that of a national leader, was previously held by several individuals. Prior to Xi Jinping, the title holder was the 12th President of the People’s Republic of China, which was held
+
+sample 32: The president of China before Xi Jinping was Hu Jinping, which is a play on "Hujingping" or "Hu Jingping," which is a name given to the 12th President of the People's Republic of China, whose full name is Li Jingping (刘 Jen-Ping). However, that name and the title "Hu Jingping" is not a real name or title. The 12th President of the People's Republic of China, and
+
+sample 33: The president of China before Xi Jinping was Hu Jia-min (Hai Jin-se) during his first term, and that title was officially used for one term in the context of the People's Republic of China’s government structure. However, in the United States and other countries with an interest in China’s governance structure may refer to the term "State Premier" or "Premier of the People's Republic of China" for the same period. The Premier of the People’s Republic
+
+sample 34: The President of China before Xi Jinping was Li Zhong. However, this title "President" (President of the People's Republic of China) was not used during Li Zhong's time. Before Xi Jinping, the title "President of the People’s Republic of China” was held by several individuals including Hu Jiaomin, Liu Wenming, and Li Zhong during the period of 1983 to 1987. 
+
+More commonly, during that
+
+sample 35: A professional football field, or soccer field as it's commonly called in the United States and Canada, is typically 90 to 120 meters (or 300 to 1200 feet) in length and 60 to 80 meters (or 200 to 250 feet) in width. The length and width can vary slightly within these ranges depending on the specific regulations of the competition or the country of the field
+
+sample 36: A professional football field, or soccer field as it's commonly referred to in the United States and Canada, is typically 115 to 120 meters (or 375 to 1200 feet) in length and 80 to 90 meters (or 262 to 295 feet) in width. The dimensions vary slightly depending on the specific type of competition and the regulations set by the governing body. The International
+
+sample 37: A professional football field, or soccer field as it's commonly referred to in the United States and Canada, has specific dimensions as outlined by the Laws of the Game, which are provided by FIFA (the International Federation of the Commonwealth of Stadiums). According to those laws:
+
+- The length of the field must be between 90 meters (292.5 feet) and 120 meters (387.5 feet) (100-12
+
+sample 38: A professional football field, or soccer field as it's commonly called in the United States and other parts of the world, typically measures 115 to 120 meters (or 375 to 1200 feet) in length and 80 to 90 meters (or 250 to 900 feet) in width. 
+
+- The length of the field is usually between 115 meters (375
+
+sample 39: A professional football field, or soccer field, typically measures 115 to 120 meters (or 500 to 600 feet) in length and 75 to 80 meters (or 250 to 200 feet) in width. However, these measurements can vary slightly depending on the specific regulations and the country of the field's origin. The standard ratio of length to width is 2:1.
+
+sample 40: Five capital cities in the United States are:
+
+1. Washington, D.C. - The nation's capital, where the United States government and its many symbols like the White House, the Lincoln Memorial, and the Capitol Building are based.
+
+2. New York City - While not the capital of the United States, it is the capital of New York State, and the city's iconic status makes it a significant point of interest for the United States' economic, cultural, and commercial interests
+
+sample 41: Five capital cities in the United States include:
+
+1. Washington, D.C. - The capital city of the United States, where the federal government, the White House, and the United States Capitol are located.
+
+2. New York City - While not the official capital (that's Washington, D.C.), New York City is the largest city and the 48th state's (excluding Alaska and Hawaii) official capital during the period of the Constitution Convention, and it continues to
+
+sample 42: Five capital cities in the United States include:
+
+1. Washington, D.C. - The capital city of the United States, where the federal government, the White House, and the U.S. Capitol building are located.
+
+2. New York City - While not the official capital (which is still Washington, D-C), New York City is the nation's largest city and the seat of the U.S. government's Department of Commerce and other important governmental bodies.
+
+3. Las Vegas
+
+sample 43: Five capital cities in the United States are:
+
+1. Washington, D.C. - The nation's capital and the most famous one, where the White House, the U.S. Capitol, and many other government buildings are located.
+
+2. New York City (New York State) - While not the state capital, it is the largest city and an important hub for the Northeast region.
+
+3. Las Vegas (Nevada) - The state capital of Nevada, known for its
+
+sample 44: Five capital cities in the United States are:
+
+1. Washington, D.C. - The nation's capital and the seat of the federal government.
+
+2. New York City - While not the capital of the country, it is the capital city of New York State.
+
+3. Dallas - The capital of Texas.
+
+3. Austin - The capital of Texas (an interesting note about this one is that "Dallas" was the state capital before it was moved to Austin in 18
+
+sample 45: Heterosis, or "hybrid vigor" is a phenomenon observed in offspring of a cross between two genetically distinct parental generations, which exhibit superior traits, strength, and characteristics compared to their average parent or the average of their parents. This can be applied to various types of offspring, including humans, plants, and animals. 
+
+The term "heterosis" was first coined by a British geneticist named Sir Robert Reynolds in 1967. The word "h
+
+sample 46: Heterosis, or the "Hybrid Superiority" phenomenon, is a term used in genetics and biology to describe the offspring of a cross between two genetically different parent lines that exhibit superior traits, characteristics, or offspring survival and productivity compared to the average of the parents. This is often observed in various types of offspring, such as offspring of a cross between two genetically different but similar parental generation strains, or a cross between a first-generation offspring and a second-generation offspring of the
+
+sample 47: Heterosis, or the "hybrid offspring superior to both parent generations" phenomenon, is a term used in genetics and biology to describe the offspring of two genetically different parents (often siblings or other close relatives) that exhibit extraordinary characteristics or traits in the form of enhanced strength, growth, or other qualities not seen in the parents. 
+
+The term "hetero" comes from the Greek word "hetero," meaning "other" or "different." This describes the
+
+sample 48: Heterosis, or the "Hybrid Superiority" phenomenon, is a fascinating aspect of genetics and biology. It refers to the offspring of a particular cross between two genetically different parental generation that exhibits superior qualities in terms of strength, vigor, or other traits compared to the average of the parent generations. This phenomenon is observed across many types of organisms, including humans, plants, and animals.
+
+The term "heterosis" was first coined by Sir Robert Darwin, son of
+
+sample 49: Heterosis, or "Hybrid Superiority," is a phenomenon observed in offspring produced by the mating of two genetically different parental generation. This is often seen in the production of offspring from the crossing of two related but distinct strains, species, or hybrid cross between two similar but not identical parents. The term "hetero" means "other" or "different," and "osis" means "ratio" or "proportion" in the sense of a "ratio of
+
+sample 50: Korea was divided into two nations following the end of World War Two and the occupation of Japan, which resulted in the Korean Peninsula's division at the 35th parallel north, with the United States controlling the Korean peninsula's occupation from the north to the south, and the Soviet Union controlling the occupation of the Korean peninsula from the north to the north of the 35th parallel north.
+
+The separation of Korea into North and South was first announced on August 10
+
+sample 51: Korea was separated into two nations during the division of Korea at the end of the United States' and Soviet Union's occupation of Korea, which occurred after the end of World War II and the Korean War. The separation happened in 1953, with the North Korea government established under the Soviet influence and the South Korea government established under the United States' influence. The division was originally meant to be temporary, with the goal of establishing a peaceful and democratic government in Korea
+
+sample 52: Korea was divided into two nations during the Korean War (1953-1951) and its background events. The country was split into North Korea and South Korea along the Korean Peninsula's geography and the United States' and Soviet Union's interests after World War II. The division was first introduced in 1945 when the United States and the Soviet Union divided the Korean Peninsula into a U.S.-aligned occupation zone in the South and a Soviet-aligned
+
+sample 53: Korea was divided into two separate nations during the Korean War (1953-1954) and the Cold War era. The division of Korea into North and South was first established in the aftermath of the Korean War's armistice and the Cold War's geopolitical dynamics. The Soviet Union and the United States had a meeting at the 35th parallel to control the country's north and south, respectively. The permanent division of Korea into North and South
+
+sample 54: Korea was divided into two nations during the Korean War's background and the U.S. and Soviet Union's occupation of the country following World War Two. The United States and its allies established a government in the western half of Korea, which later became South Korea (the Republic of Korea), while the Soviet Union and its allies established a communist government in the north, which later became North Korea (the Democratic People's Republic of Korea). The division was initially meant to be temporary,
+
+sample 55: The equivalent service to Amazon S3 (Simple Storage Service) in Google Cloud Platform (GCP) is Google Cloud Storage (GCS). 
+
+Google Cloud Storage is a service that enables you to store and manage data and objects in the cloud. It provides a simple, low-cost, and powerful storage service for all kinds of data and file management use cases, similar to Amazon S3. 
+
+Here are some key features and capabilities of Google Cloud Storage:
+
+- **Data Storage and
+
+sample 56: In Google Cloud Platform (GCP), the equivalent service to Amazon S3 (Simple Storage Service) is Google Cloud Storage (GCS). 
+
+Google Cloud Storage is a powerful, scalable storage service that can store and manage massive amounts of data. It's designed to simplify the storage and retrieval of data in the cloud. Here are some key features and capabilities of Google Cloud Storage, which align with those of Amazon S3:
+
+- **Data Storage and Retrieval:** Similar to S
+
+sample 57: In Google Cloud Platform (GCP), the equivalent service to Amazon S3 (Simple Storage Service) is Google Cloud Storage (GCS). 
+
+Google Cloud Storage is a powerful, economical, and fully-integrated storage solution designed to store and manage massive amounts of data and content. It’s highly scalable, secure, and easy to use, and it’s integrated with other Google Cloud products and services. 
+
+Key features of Google Cloud Storage include:
+
+- **Storage and Retrieval**:
+
+sample 58: The equivalent service to Amazon S3 (Simple Storage Service) in Google Cloud Platform (GCP) is Google Cloud Storage (GCS). 
+
+Google Cloud Storage is a powerful, flexible, and low-cost storage solution that enables you to store and manage data and digital content in the cloud. It's designed to store massive amounts of data in a scalable and cost-efficient manner, and it's highly durable, with 99.999999999%
+
+sample 59: The equivalent service to Amazon S3 (Simple Storage Service) in Google Cloud Platform (GCP) is Google Cloud Storage (GCS). 
+
+Google Cloud Storage is a powerful, economical, and scalable storage service designed for storing and retrieving any type of data and file format. It provides features similar to Amazon S3, including:
+
+- **Object-based Storage**: Storing and managing data as objects, which can be uploaded, retrieved, or deleted in a manner similar to files in
+
+## c3__random_seed_101__ratio_0.5
+
+- Concept score: 1.02
+- Fluency score: 4.899166666666667
+- Samples: 60
+
+sample 0: Certainly! Here are some popular American beer brands:
+
+1. **Budweiser** - A well-known brand owned by Anheuser-Busch InBev.
+2. **Miller Lite** - Part of the MillerCoors brand, which is a joint venture between SABMILLER and Anheuser-Busch InBev.
+3 **Coors Light** - Another brand from MillerCoors.
+4 **Heineken** - While not exclusively an American
+
+sample 1: Certainly! Here are some popular American beer brands:
+
+1. **Anheuser-Busch InBev**
+   - **Budweiser**
+   - **Bud Light**
+   - **Bud Light Seltzer**
+   - **Michelob Ultra**
+
+2. **MillerCoors**
+   - **Coors Light**
+   - **Miller Lite**
+   - **Miller Zero**
+   - **Corona (distributed by MillerCoors)**
+
+3.
+
+sample 2: Sure! Here are some popular American beer brands:
+
+1. **Anheuser-Busch InBev** - This is one of the largest breweries in the world and is known for its flagship brand, **Budweiser**, as well as Bud Light, Bud Light Lime, Stella Artois, and Michelob Ultra.
+
+2. **MillerCoors** - A joint venture between SABMiller (now part of AB InBev) and Molson Coors
+
+sample 3: Sure! Here are some popular American beer brands:
+
+1. **Budweiser** - A flagship brand of Anheuser-Busch InBev, widely recognized and one of the most popular beers in the United States.
+
+2. **Coors Light** - Another popular brand from Molson Coors Brewing Company, known for its light beer options.
+
+3. **Miller Lite** - Part of the SABMiller (now part of AB InBeV) family,
+
+sample 4: Sure! Here are some popular American beer brands:
+
+1. **Anheuser-Busch InBev** - Known for their flagship brand, Budweiser, as well as Bud Light and Stella Artois.
+
+2. **MillerCoors** - This is a joint venture between SABMILLER and Anheuser-Busch InBev, known for Miller Lite, Coors Light, and Blue Moon.
+
+3. **Heineken USA** - While
+
+sample 5: College Avenue in Berkeley, CA, runs from the intersection of Interstate 80 at the north end to the intersection of Interstate 580 at the south end. Specifically:
+
+- **North End:** College Avenue begins at the intersection of Interstate 80 (I-80) and University Boulevard. This is near the intersection of I-80 and Telegraph Avenue.
+
+- **South End:** College Avenue ends at the intersection of Interstate 580 (I-
+
+sample 6: College Avenue in Berkeley, CA, runs from the intersection of Interstate 80 (I-80) at the north end to the Berkeley Marina at the south end. Specifically:
+
+- **North End:** College Avenue begins at the intersection of I-80 with Dwight Way. The freeway can be accessed via exits on either side of College Avenue.
+- **South End:** The avenue ends at the Berkeley Marina, which is located at the southern tip of the city where San
+
+sample 7: College Avenue in Berkeley, CA, runs generally north to south and is a major street that connects the University of California, Berkeley (UCB) campus with downtown Berkeley. It begins at its northernmost point at the intersection of University Avenue and continues southward until it reaches its southern terminus at Shattuck Avenue.
+
+Specifically, College Avenue starts at University Avenue near the corner of the upper part of the UC Berkeley campus and continues south through the residential areas of Berkeley. It
+
+sample 8: College Avenue in Berkeley, California, runs from the intersection of University of California, Berkeley's Upper Campus with Dwight Way to its terminus at Shattuck Avenue, near the intersection with Oxford Street. It is a major east-west street that runs through the heart of the University of California, Berkeley campus and extends into the surrounding residential areas.
+
+The specific starting point can be considered as the intersection of Dwight Way and College Avenue, which is just outside the main entrance to the upper part
+
+sample 9: College Avenue in Berkeley, CA, runs generally north to south and begins at the intersection of Interstate 80 (I-80) in the west and ends at the intersection with University of California, Berkeley's Upper Campus at Dwight Way in the east. Specifically:
+
+- **West End**: College Avenue starts at the intersection of I-80 and University Boulevard. This is near the west side of downtown Berkeley.
+- **East End**: It ends at the intersection with Dwight
+
+sample 10: Braising is a cooking technique that involves simmering meat or vegetables in a small amount of liquid, typically a broth or sauce, for an extended period. This method combines the benefits of both stewing and sautéing, resulting in a rich, flavorful dish.
+
+### Key Aspects of Braising:
+
+1. **Meat Quality**: Braising is often used with tougher cuts of meat because the long, slow cooking process breaks down the connective tissues, making the meat
+
+sample 11: Braising is a cooking technique that involves simmering food in a small amount of liquid for an extended period. This method is often used to cook tougher cuts of meat, as the long cooking time allows the meat to become tender and flavorful. The liquid can be any kind of broth, wine, or sauce, and it can be adjusted to suit different flavors.
+
+Here are some key points about braising:
+
+1. **Type of Meat**: Braising is particularly suitable for tough cuts
+
+sample 12: Braising is a cooking technique that involves cooking food, typically meat or vegetables, in a small amount of liquid, usually enough to just cover the food, and usually done with some form of sauce or gravy. This method is often used to cook tough cuts of meat that benefit from long, slow cooking to become tender.
+
+Here are some key points about braising:
+
+1. **Cooking Method**: The food is first seared to brown the surface, then cooked slowly in a
+
+sample 13: Braising is a cooking method that involves cooking food, typically meat or vegetables, in a small amount of liquid, usually enough to just cover the ingredients, and cooked on the stovetop and then often finished in the oven. This technique can be done in a pot or a pan, and it's a great way to cook tough cuts of meat as it allows them to become tender.
+
+The process generally involves two steps:
+
+1. **Searing**: The meat is first
+
+sample 14: Braising is a cooking technique that involves simmering food in a small amount of liquid for an extended period. This method is often used to cook tough cuts of meat, as the slow, low-temperature cooking helps to tenderize the meat and infuse it with flavor from the liquid. The process typically involves two stages:
+
+1. **Searing**: The food, usually a cut of meat or tough cuts of meat, is first seared in a pan to create a brown
+
+sample 15: I couldn't find any information on a specific movie titled "Marquise of Armiani." It's possible that you might be referring to a different title or a less well-known film. Could you please provide more details about the movie, such as the full title, the year it was released, or any other information that might help me locate the correct movie? If you have a specific plot point or character in mind, sharing that could also help clarify which movie you're interested
+
+sample 16: I apologize, but there seems to be a slight confusion. There isn't a widely known movie titled "Marquise of Armiani." It's possible you might be referring to a specific film or a less well-known production. Could you provide more details about the movie, such as the year it was released, any actors involved, or where you heard about it? This information can help me find the correct movie and provide you with accurate information.
+
+sample 17: I couldn't find a specific movie titled "Marquise of Armiani" in my database or common knowledge. It's possible that you might be referring to a lesser-known film or there could be a slight misnomer in the title. Could you provide more details about the movie, such as the year it was released, the country it came from, or any other information that might help me find the correct film? Alternatively, if you're interested in a different title,
+
+sample 18: I couldn't find any specific information about a movie titled "Marquise of Armiani." It's possible that you might be referring to a lesser-known film or a film that is not widely distributed or well-known. Could you provide more details such as the year it was released, the director, or any other characters in the film? This could help me find more accurate information.
+
+Alternatively, it's possible that you might be thinking of a different title. If you can provide
+
+sample 19: I couldn't find a specific movie titled "Marquise of Armiani" in my database or common records. It's possible that you might be referring to a less well-known film or there could be a slight discrepancy in the title.
+
+If you have more details about the movie, such as the year it was released, the director, actors involved, or any other information, please share that and I'll do my best to help you find the information you're looking for.
+
+sample 20: The player who has scored the most World Cup goals is Diego Maradona, with five goals. However, if we consider only the finals matches (not including the matches in the current tournament that have not yet concluded), the record is held by Miroslav Klose of Germany, who scored 15 goals in his four World Cup appearances from 2002 to 2014. It's worth noting that the number of goals can change as new
+
+sample 21: The player who has scored the most World Cup goals is Diego Maradona of Argentina, with 5 goals. However, if you're looking at individual players who have scored the most total goals in the history of the FIFA World Cup finals tournaments, then the player with the most goals is Miroslav Klose of Germany, with 15 goals across his three World Cup appearances from 2002 to 2014.
+
+sample 22: The player who has scored the most World Cup goals is Diego Maradona of Argentina, with 5 goals. However, if we consider only the finals matches (not including the matches in the current round of 16), the record is held by Germany's Miroslav Klose, who has scored 15 goals in his four World Cup participations from 2002 to 2014. It's important to note that while Klose
+
+sample 23: The player who has scored the most World Cup goals is Diego Maradona, with 5 goals. However, it's important to note that the number of goals can change over time as new matches are played and records are updated. As of the 2018 World Cup, Maradona's record stood, but since then, the record might have changed due to subsequent tournaments.
+
+Another notable player in terms of World Cup goals is Ronaldo (Brazil) with 1
+
+sample 24: The player who has scored the most World Cup goals is Diego Maradona of Argentina, with 5 goals. However, if we consider only the finals matches (not including the matches in the current format that include extra matches for ties), then the record is held by Mario Gotze of Germany, with 2 goals (though Gotze's achievement is from the 2014 World Cup final, which is not strictly 'most goals' as it's a single match
+
+sample 25: The character Fu Manchu was created by British author Sax Rohmer. He first appeared in the novel "The Mystery of Dr. Fu Manchu" published in 1912. Sax Rohmer wrote several novels featuring this character, which contributed to the perpetuation of stereotypes about Asian people during that era. It's worth noting that these stereotypes are now widely considered offensive and problematic.
+
+sample 26: The character of Fu Manchu was created by British author Sax Rohmer. He first appeared in the novel "The Mystery of Dr. Fu Manchu" published in 1912. Sax Rohmer wrote several books featuring this character, which were popular in the early 20th century but have since been criticized for their stereotypes and cultural insensitivity.
+
+sample 27: The character of Fu Manchu was created by British author Sax Rohmer, who first introduced the character in his 1912 novel "The Moon of Four Winds." The character later appeared in a series of novels and stories that ran from the 1920s through the 1950s. Sax Rohmer's works often portrayed Fu Manchu as an evil genius and a threat to Western civilization, which has led to the character being considered problematic due
+
+sample 28: The character Fu Manchu was created by British author Sax Rohmer. He first appeared in the novel "The Moon of Four Winds" in 1915, but the character became most famous through a series of novels published between 1913 and 1929, with the most well-known being "The Mystery of Dr. Fu Manchu" in 1913. The character has been controversial due to his portrayal as an evil, all
+
+sample 29: The character of Fu Manchu was created by British author Sax Rohmer. He first appeared in the 1912 novel "The Mystery of Dr. Fu Manchu," and went on to star in several other novels and stories written by Rohmer.
+
+sample 30: The president of China before Xi Jinping was Hu Jintao. Hu Jintao served as the President of the People's Republic of China from 2003 to 2013. Xi Jinping took office as the President of China in 2013 after Hu Jintao's term ended.
+
+sample 31: The President of China before Xi Jinping was Hu Jintao. Hu Jintao served as the President of the People's Republic of China from 2003 to 2013. Xi Jinping took office as the President in 2013 and was re-elected in 2018. It's worth noting that in China, the positions of President and Chairman of the Central Military Commission are often held by the same person, which is why Xi
+
+sample 32: The president of China before Xi Jinping was Hu Jintao. Hu Jintao served as the President of the People's Republic of China from 2003 to 2013. Xi Jinping took office as the President of China in 2013 after Hu Jintao's term ended.
+
+sample 33: The President of China before Xi Jinping was Hu Jintao. Hu Jintao served as the President of the People's Republic of China from 2003 to 2013. Xi Jinping took office as the President of China in 2013 after Hu Jintao's term ended.
+
+sample 34: The president of China before Xi Jinping was Hu Jintao. Hu Jintao served as the President of the People's Republic of China from 2003 to 2013. Xi Jinping took office as the President of China in 2013, and his second term ended in 2023 with the swearing-in of his successor, Xi Jinping, as the President of the People's Republic of China for a second term. It's
+
+sample 35: A professional football field, also known as a soccer field, has specific dimensions according to the rules set by FIFA (Fédération Internationale de Football Association). The length of a professional football field should be between 100 yards (90.46 meters) and 130 yards (120 meters), with the width ranging from 50 yards (45.72 meters) to 100 yards (90.46
+
+sample 36: A professional football field, also known as a soccer field in some countries, has specific dimensions according to FIFA (Fédération Internationale de Football Association) standards. The length of a professional football field should be between 100 yards (90.36 meters) and 130 yards (120 meters), while the width should be between 50 yards (45.72 meters) and 100 yards (90.
+
+sample 37: A professional football field, also known as a soccer field in some countries, has specific dimensions according to the rules set by FIFA (Fédération Internationale de Football Association), the international governing body of football/soccer.
+
+The length of a professional football field can range from 100 yards (90.4 meters) to 130 yards (120 meters), while the width can range from 50 yards (45.7 meters) to
+
+sample 38: A professional football field, also known as a soccer field (or football pitch), has specific dimensions according to the laws of the game set by FIFA (Fédération Internationale de Football Association). The length of a professional football field should be between 100 yards (90.0 meters) and 130 yards (120.0 meters) long, with the width between 50 yards (45.0 meters) and 10
+
+sample 39: A professional football field, also known as a soccer field (soccer being the common term in the United States and some other countries), has specific dimensions according to FIFA regulations:
+
+- The length of a professional football field should be between 100 yards (90.4 meters) and 130 yards (120 meters).
+- The width of the field should be between 50 yards (45.7 meters) and 100 yards
+
+sample 40: Sure! Here are five capital cities in the United States:
+
+1. Washington, D.C. - The capital of the United States, located in the northeastern portion of the country.
+2. Austin, Texas - While not the capital of the entire country, it is the capital city of the state of Texas.
+3. Albany, New York - The capital city of the state of New York.
+4. Helena, Montana - The capital city of the state of Montana.
+5.
+
+sample 41: Sure! Here are five capital cities of states in the USA:
+
+1. **Phoenix** - Capital of Arizona
+2. **Austin** - Capital of Texas
+3. **Nashville** - Capital of Tennessee
+4. **Little Rock** - Capital of Arkansas
+5. **Albany** - Capital of New York
+
+Note that Washington, D.C. is the capital of the United States federal government, not a state capital. If you're looking for
+
+sample 42: Sure! Here are five capital cities in the United States:
+
+1. Washington, D.C. - The capital of the United States, located in the northeastern part of the country.
+
+2. Sacramento - The capital city of California, located in the northern part of the state.
+
+3. Atlanta - While not the capital of Georgia, Atlanta is often mistaken for the capital; it's actually located in the southern part of the state, and the capital is Atlanta (though the state legislature
+
+sample 43: Here are five capital cities of U.S. states:
+
+1. Washington, D.C. - The capital city of the United States federal government.
+2. Austin, Texas - The capital city of the state of Texas.
+3. Phoenix, Arizona - The capital city of the state of Arizona.
+4. Sacramento, California - The capital city of the state of California.
+5. Indianapolis, Indiana - The capital city of the state of Indiana.
+
+Note that "Washington, D.C
+
+sample 44: Sure! Here are five capital cities of U.S. states:
+
+1. Washington, D.C. - The capital city of the United States federal government.
+2. Albany - The capital city of New York State.
+3. Austin - The capital city of Texas.
+4. Atlanta - While not a state capital (it's the largest city), it is the capital of Georgia.
+5. Sacramento - The capital city of California.
+
+If you need information on other specific cities or different
+
+sample 45: Heterosis, also known as hybrid vigor, is a phenomenon observed in biology where the offspring of genetically different individuals tend to be more vigorous or have better traits than their parents. This can occur when two different strains, breeds, or species are crossed, and the resulting hybrid offspring exhibit superior qualities in terms of growth, health, fertility, productivity, or disease resistance compared to their parent stocks.
+
+The exact mechanisms behind heterosis are complex and not fully understood, but they likely involve
+
+sample 46: Heterosis, also known as hybrid vigor, is a phenomenon observed in organisms that results in offspring being more fit or having better traits than their parents. This typically occurs when two different individuals from the same species are bred, and their offspring exhibit superior qualities in growth rate, health, fertility, or other traits compared to their parental lines.
+
+The concept of heterosis can be explained through the following points:
+
+1. **Gene Complementation**: In some cases, the differences between
+
+sample 47: Heterosis, also known as hybrid vigor, is a phenomenon observed in organisms where the offspring of two different individuals or species exhibit superior traits compared to their parents. This can occur in various contexts, such as in agriculture, animal breeding, and natural populations.
+
+Key aspects of heterosis include:
+
+1. **Superior Traits**: The offspring often display enhanced qualities that are not necessarily present in either parent. These traits can be related to growth rate, disease resistance, yield, fertility
+
+sample 48: Heterosis, also known as hybrid vigor, is a phenomenon observed in biology where the offspring of genetically different individuals often exhibit superior traits compared to their parents. This can manifest in various characteristics such as growth rate, disease resistance, fertility, and overall health.
+
+The concept of heterosis is based on the idea that when two different organisms are crossed, the resulting offspring can be more robust or perform better than either parent due to a combination of factors:
+
+1. **Gene Complement
+
+sample 49: Heterosis, also known as hybrid vigor, is a phenomenon observed in biology where the offspring of genetically different individuals tend to be more robust and have greater fitness than their parents. This can manifest in various traits such as growth rate, disease resistance, yield, or overall health.
+
+Key points about heterosis include:
+
+1. **Genetic Diversity**: Heterosis is often a result of combining different genetic backgrounds, which can lead to a broader range of gene expressions that are beneficial
+
+sample 50: Korea was separated into two nations as a result of the end of World War II in 1945. The United States and the Soviet Union divided Korea along the 38th parallel in August 1945 to occupy the country temporarily while they discussed post-war administration. However, due to their ideological differences, particularly with the U.S. supporting a democratic government and the Soviet Union favoring a communist one, it became clear that reunification would not be
+
+sample 51: Korea was separated into two nations as a result of the end of World War II and the subsequent division of the country along the 38th parallel in 1945. This division was not a permanent solution but rather a temporary measure to facilitate the withdrawal of U.S. and Soviet military forces.
+
+The United States occupied the southern part of the country (south of the 38th parallel) while the Soviet Union occupied the northern part (north of the
+
+sample 52: Korea was separated into two nations as a result of the end of World War II in 1945. Specifically, the country was divided along the 38th parallel in August 1945, when the Soviet Union and the United States agreed to occupy different parts of Korea temporarily. This division was initially meant to be temporary while discussions were held on how to reunify the country. However, due to political differences, particularly between the communist North supported by
+
+sample 53: Korea was separated into two nations following the end of World War II in 1945. The country was divided along the 38th parallel to be occupied by the Soviet Union in the north and the United States in the south. This division was intended to be temporary, with the ultimate goal of reunifying Korea. However, due to disagreements over the political systems and governance of the country, North Korea established its own communist government in 1948,
+
+sample 54: Korea was separated into two nations as a result of the end of World War II and the Korean War. Specifically:
+
+1. **End of World War II (1945)**: In August 1945, following Japan's defeat in World War II, the United States and the Soviet Union divided Korea along the 38th parallel to establish separate military occupation zones. The United States controlled the southern part of the country while the Soviet Union controlled the northern
+
+sample 55: In Google Cloud Platform (GCP), the service that is equivalent to Amazon S3 (Simple Storage Service) is Google Cloud Storage.
+
+Google Cloud Storage is a fully managed object storage service that provides a durable, reliable, and scalable solution for storing and managing your data. It allows you to store petabytes of data and access it from any application, regardless of its size or runtime environment.
+
+Key features of Google Cloud Storage include:
+
+1. **Scalability**: Automatically scales to
+
+sample 56: In Google Cloud Platform (GCP), the service that is equivalent to Amazon S3 (Simple Storage Service) is Google Cloud Storage.
+
+Google Cloud Storage is a highly scalable object storage service that you can use to store and retrieve any amount of data from anywhere on the web. It provides a REST API similar to Amazon S3, making it easy to migrate your applications that use Amazon S3 to Google Cloud Storage.
+
+Key features of Google Cloud Storage include:
+
+1. **Scal
+
+sample 57: In Google Cloud Platform (GCP), the service that is equivalent to Amazon S3 (Simple Storage Service) is Google Cloud Storage.
+
+Google Cloud Storage is a highly scalable object storage service that can store large amounts of data reliably and securely. It provides a simple web service interface with access control capabilities, making it easy to use as a backend for applications or as a way to store and serve static content.
+
+Key features of Google Cloud Storage include:
+
+1. **Scalability**:
+
+sample 58: In Google Cloud Platform (GCP), the service that is equivalent to Amazon S3 (Simple Storage Service) is **Google Cloud Storage**.
+
+Google Cloud Storage is a fully managed object storage service that you can use to store and retrieve any amount of data from anywhere on the web. It provides a highly scalable, durable, and secure way to store your data, similar to how Amazon S3 works.
+
+Key features of Google Cloud Storage include:
+
+- **Scalability**: Automatically
+
+sample 59: In Google Cloud Platform (GCP), the service that is equivalent to Amazon S3 (Simple Storage Service) is Google Cloud Storage.
+
+Google Cloud Storage is a highly scalable object storage service that can store large amounts of data reliably and securely. It provides a simple web service interface with access control capabilities, making it suitable for storing and retrieving any amount of data, both large and small, from anywhere on the web.
+
+Here are some key points about Google Cloud Storage:
+
+1. **
+
+## c3__random_seed_101__ratio_0.75
+
+- Concept score: 1.0066666666666666
+- Fluency score: 4.975833333333333
+- Samples: 60
+
+sample 0: Sure! Here are some popular American beer brands that are widely enjoyed:
+
+1. **Budweiser** - A well-known brand owned by Anheusa尿ur UrD. It's often associated with the Budweisur UrD Family of Brands.
+
+2 **Bud Light** - Another popular brand under the same company, known for its lighter, less alcoholic version of the original Budweiser.
+
+3 **Miller Lite** - Part of the SABISAB
+
+sample 1: Certainly! Here are some popular American beer brands:
+
+1. **Anheusa尿尿尿 Urinus** - A well-known brand of lager beer that is often associated with the superlative "America's Beer" due to its wide distribution and popularity.
+
+2 **Budweis尿尿尿 Urinus** - Another widely distributed beer, often associated with the Bud Light brand which is a lighter version of the original Budweis尿尿尿 Urinus.
+
+3
+
+sample 2: Sure! Here are some popular American beer brands:
+
+1. **Anheusa尿尿 Urinal (Budweis尿尿 An)'s Urinal' (Budweis尿尿 An)** - A widely popular brand that is often associated with the NFL and Super Bowl, though it's not as commonly used in a form that could be mistaken for a family-friendly context.
+
+**Anheusa尿尿 Urinal (Budweis尿尿 An)** -
+
+sample 3: Certainly! Here are some popular American beer brands:
+
+1. **Anheusa尿尿 Urinal（Note: This is not a real brand, it seems there's a typo in the name. I assume you might be referring to Anheuser-Busch InBev, which is a major beer producer that owns several brands.）** - A major beer producer that owns several well-known brands such as Budweiser, Bud Light, Stella特朗斯特朗 (Note
+
+sample 4: Sure! Here are some popular American beer brands:
+
+1. **Anheusa尿尿 Urinal (Brewed in collaboration with the New York Yankees)**
+   - This is not an actual brand but a humorous reference to Anheuser-Busch, often used for jokes or satire.
+
+2. **Anheuser-Busch InBev**
+   - Known for its flagship brand, Budweisur尿尿 (Bud Light) and Budweis尿尿
+
+sample 5: College Avenue in Berkeley, CA begins at the intersection of Interstate 80 (I-80) and I-580, near the west side of the University of California, Berkeley campus. It runs generally northward from there to its endpoint at the intersection of the university's Upper Division Road, near the northwestern edge of the university's campus.
+
+So, to summarize:
+
+- **Start Point:** College Avenue begins at the intersection of I-80 and I
+
+sample 6: College Avenue in Berkeley, CA, begins at the intersection of Interstate 80 (I-80) at the north end of the city and extends southward to the intersection with Interstate 21 (I-21) near the University of California, Berkeley's (UCB) west campus. Specifically:
+
+- **North end**: The avenue starts at I-80, which runs north-south through the city. The exact point is generally considered to be near
+
+sample 7: College Avenue in Berkeley, CA, runs from the intersection of Interstate 80 (I-80) at the west end to the University of California, Berkeley campus at the east end. Specifically:
+
+- **West End:** College Avenue begins at the intersection of I-80, which can be reached by taking the I-80 exit for University of California, Berkeley (UCB) if coming from the north or south. The street is closed to traffic between the
+
+sample 8: College Avenue in Berkeley, CA, begins at the intersection of Interstate 80 (I-80) at the eastern edge of the city and extends westward to the intersection of Interstate 21 (I-21) near the campus of the University of California, Berkeley. Specifically:
+
+- **Start Point:** The avenue begins at the intersection with I-80, which is also known as the Freeway at the end of the street, not a physical endpoint
+
+sample 9: College Avenue in Berkeley, CA, runs from the north of the city to the south. Specifically, it begins at the intersection of Interstate 80 (I-80) and University of California, Berkeley (UCB) on the north side of the city. It extends southward until it reaches the intersection with the Pacific Ocean, near the Berkeley Marina.
+
+So, in summary:
+
+- **North End:** College Avenue starts at I-80 and University of California,
+
+sample 10: Braising is a cooking technique that involves cooking food slowly in a small amount of liquid, usually enough to just cover the food. This method is often used to cook tough cuts of meat, such as brisket or chuck, which benefit from slow cooking to become tender and flavorful.
+
+### Key Points About Braising:
+
+1. **Cooking Method**: The food is first cooked in a small amount of liquid, typically a broth, sauce, or wine, and then cooked slowly over
+
+sample 11: Braising is a cooking technique that involves cooking food slowly in a small amount of liquid, typically enough to cover the bottom of the pot, which can be a pot or a slow cooker. This method is often used to cook tough cuts of meat that benefit from long periods of slow cooking to become tender and flavorful. The process usually involves two stages:
+
+1. **Sautéing or Browning:** The meat is first cooked briefly to brown the surface, which helps seal in the
+
+sample 12: Braising is a cooking technique that involves cooking food, typically meat or sausages, in a small amount of liquid, usually enough to just cover the ingredients, and cooked for an extended period. This method can be done in a pot on the stove top or in an oven, and it's often used to cook tough cuts of meat that benefit from long, slow cooking to become tender.
+
+The process typically involves two stages:
+
+1. **Sautéing or Browning**:
+
+sample 13: Braising is a cooking technique that involves cooking food, typically meat or sausages, in a small amount of liquid, such as broth, sauce, or wine, to cook the meat slowly over an extended period. This method is often used to cook tough cuts of meat that can be challenging to cook using other methods, as the long, slow cooking process helps to tenderize the meat.
+
+Here are some key aspects of braising:
+
+1. **Cooking Method**: The
+
+sample 14: Braising is a cooking technique that involves cooking food slowly in a small amount of liquid, typically done in a pot or a slow cooker. This method is often used to cook tough cuts of meat, such as beef or pork, that can be challenging when cooked using other methods like roasting or grilling. The process can be broken down into several steps:
+
+1. **Cooking the Meat**: The meat is usually seared first to seal in the juices and create a flavorful
+
+sample 15: I couldn't find a specific movie titled "Marquise of Armiani" in my database. It's possible that you might be referring to a different title or a film that is not widely known or documented. Could you please check the spelling or provide more details about the movie? If you're interested in a particular aspect or if there's a chance it could be a specific episode of a series, please let me know, and I'll try to help you find what you
+
+sample 16: I couldn't find a specific movie titled "Marquise of Armiani" that is widely recognized or easily verifiable. It's possible you might have a slight misremembering or a typo. However, there are a few ways to approach this:
+
+1. **Check the Movie Title**: Double-check the exact title of the movie. It could be a different name or a specific region's adaptation.
+
+2. **Alternative Names**: Sometimes movies can be referred to by alternative names
+
+sample 17: I couldn't find a specific movie titled "Marquise of Armiani" in my database. It's possible that you might be referring to a different movie or there could be a slight variation in the title.
+
+If you're interested in a specific movie, it would help if you could provide more details such as:
+
+1. The exact title
+2. The year of release
+3 Any other details about the plot or characters
+
+Alternatively, you can check for a movie that
+
+sample 18: I couldn't find a specific movie titled "Marquise of Armiani" in my database, which could be due to the possibility that it's not a widely recognized title or might be a less mainstream film. If you're interested in a particular movie and its plot, characters, or any specific details, please provide more information about the movie, such as the year it was released or the country it comes from, and I can try to help you with more specific information.
+
+sample 19: I'm sorry, but there seems to be a discrepancy in the name of the movie you're referring to. I couldn't find a movie titled "Marquise of Armiani" as of now. It's possible that you might have a typo or the movie is not widely known or available.
+
+However, if you're interested in a movie about a Marquise (a noble title in France), you might want to consider the movie "The Marquise of Winterston
+
+sample 20: The player who has scored the most World Cup goals is Diego Ávila Mario Forlán, commonly known as Diego Forlán, with 5 goals. However, if you are referring to the all-time record for total goals in the FIFA World Cup finals matches, that record is held by Diego Armando Maradona, with 5 goals (2 goals and 3 assists) during his two World Cup participations in 1990 and 19
+
+sample 21: The player who has scored the most World Cup goals is Diego Maradona, with 5 goals, and also Lionel Messi, with 5 goals as well (as of the 2022 World Cup). However, if we consider the total number of goals in the final matches only, Diego Maradona has 5 goals, while Lionel Messi has 2 goals (as of the 2022 World Cup).
+
+Diego Maradona achieved his record
+
+sample 22: The player who has scored the most World Cup goals is Diego Maradona, with 5 goals, which he achieved in the 1994 FIFA World Cup. However, if we consider total World Cup goals scored by all matches, the record is held by Diego Maradona's Argentine teammate, Diego马拉多纳，他在1994年世界杯比赛中打进了5个进球。如果我们考虑所有比赛的进球数，记录仍然由迭戈·马拉
+
+sample 23: To answer this question, we need to look at the goal-scoring records of players who have won the FIFA World Cup. As of the 2018 World Cup final, the player with the most World Cup goals is Diego Maradona, with 5 goals (achieved in the 1978 and 1994 World Cups), and Ronaldo (Brazil) also has 5 goals (achieved in the 2002 World Cup
+
+sample 24: The player who has scored the most World Cup goals is Diego Maradona, with 5 goals. However, if you're looking at individual goals without considering the team's total, then the record is shared between Diego Maradona and Diego Forlán, both with 5 goals each. However, when considering individual goals that won the World Cup, Zinedine Zidane has 1 goal that won the 2002 World Cup final, while Diego
+
+sample 25: The character of Fu Manchu was created by British author Sax Rohmer, who wrote a series of novels about the character in the 1920s and 1930s. The character is often associated with stereotypes of Asian culture, and while not universally criticized, the character has been seen as problematic due to its portrayal of a villainous, superior Asian figure that can be offensive to many people.
+
+sample 26: The character of Fu Manchu was created by British author Sax Rohmer, who wrote a series of novels about the character in the 1920s and 1930s. The character is a fictional Chinese criminal mastermind, and the stories that revolve around him were initially set in China but later moved to England, with the protagonist often being a Scotland Yard detective trying to thwart the nefarious schemes of Fu Manchu.
+
+While the character has been widely
+
+sample 27: The character Fu Manchu was created by British author Sax Rohmer, who wrote a series of novels that centered on the character in the 1920s and 1930s. The character has been controversial due to cultural stereotypes, and the character's name and general characteristics have been criticized for perpetuating racial stereotypes. If you're interested in literature or historical debates around cultural representation, the discussions around the character Fu Manchu can be quite interesting and thought-pro
+
+sample 28: The character Fu Manchu was created by British author Sax Rohmer, who wrote a series of novels and stories about the character in the 1920s and 1930s. The character is often seen as a racist stereotype and is not considered culturally sensitive today. Sax Rohmer's full name was Arthur William Roger Veyron-Lonsley, and he chose to use the pseudonym Sax Rohmer to write his books, particularly those featuring the character
+
+sample 29: The character Fu Manchu was created by British author Sax Rohden in his 1912 novel "The Moon Street" and later in his 1930 novel "The Adventure of the Half-Decker," although the character did not take on his iconic form until a later work.
+
+The character as we know him today is first fully developed in the 1930s in novels such as "The Adventure of the Blue Fatigue" (19
+
+sample 30: The President of China before Xi Jinping was Hu Jintao. Hu Jintao served as the President of the People's Republic of China from 2013 to 2013 (as a placeholder value, the exact period is from 2013 to 2018), and he held the position from 2003 to 2013 during his tenure as the leader of the Central Military Commission. Xi Jinping took office
+
+sample 31: Before Xi Jinping, the President of China was Hu Jintao. Hu Jintao served as the President of the People's Republic of China from 2013 to 2013 (for a brief period) and then from 2013 to 2018. His term was from 2003 to 2013 when he served as the leader of the Communist Party of China, and then from 20
+
+sample 32: The president of China before Xi Jinping was Hu Jintao. Hu Jintao served as the President of the People's Republic of China from 2013 to 2013 to 2018, and he held the position from 2003 to 2008 during his term as the Chairman of the Central Military Commission. Xi Jinping took over as the President of China in 2013, and he also served
+
+sample 33: The president of China before Xi Jinping was Hu Jintao. Hu Jintao served as the President of the People's Republic of China from 2003 to 2013. Xi Jinping took office as the President of China in 2013, and his term can be extended for another term if re-elected, provided that he does not hold the position indefinitely as per the constitutional limits. Please note that specific terms can be verified through official Chinese
+
+sample 34: The president of China before Xi Jinping was Hu Jintao. Hu Jintao served as the President of the People's Republic of China from 2013 to 2013 to 2018, and then he served as the honorary president of the People's Republic of China from 2018 to 2023. Xi Jinping took office as the President of the People Republic of China in 2013, and
+
+sample 35: A professional football field, specifically an American football field, has specific dimensions according to the NFL (National Football League) rules. The length of a professional American football field is 120 yards long, with the end zones being 100 yards each when combined together. However, the playing surface itself is 53.3 yards wide and 120 yards long.
+
+If you're referring to a soccer (or football as in Europe) field, the dimensions
+
+sample 36: A professional football field, specifically an American football field, has specific dimensions according to the NFL (National Football League) rules. The total length of the field, including the end zones, is 120 yards (or 120 times 3 feet, since 1 yard equals 3 feet), which is 100 yards (90 yards of playing field plus 10-yard end zones at each end).
+
+For international or association football (soccer
+
+sample 37: A professional football field, typically used for international matches and professional games, has specific dimensions according to the rules of FIFA (the international governing body for football/soccer) and other similar organizations.
+
+According to FIFA, the length of a professional football field should range from 100 to 110 meters (110 to 120 yards) and the width should range from 65 to 95 meters (75 to 80 yards).
+
+sample 38: A professional football field, also known as a soccer field, has specific dimensions according to the rules set by FIFA (Fédération Internationale de Football Association), which organizes international competitions including the World Cup. According to FIFA regulations:
+
+- The length of a professional football field should range from 104.37 meters (115 yards) to 129.6 meters (130 yards).
+- The width of the field should range from
+
+sample 39: A professional football field, also known as a soccer field, typically has specific dimensions according to the rules set by FIFA (the international governing body of soccer) for international competitions. According to FIFA, the length of a professional football field can range from 100 meters (110 yards) to 110 meters (120 yards), while the width can range from 65 meters (70 yards) to 90 meters (80 yards
+
+sample 40: While the United States is a country with multiple cities that can be considered important, only one city is the capital of the entire country. The capital city of the USA is Washington, D.C. Here are five other major cities that are not the capital but are significant:
+
+1. New York City - located in New York State, it is the largest city in the United States and a major economic center.
+
+2. Los Angeles - located in California, it is known for its entertainment
+
+sample 41: While the United States has 50 states, there is only one capital city for the country as a whole, which is Washington, D.C. However, each state has its own capital city. Here are five examples of state capitals:
+
+1. **Washington, D.C.** - The capital of the entire United States
+2. **New York City** (New York) - The capital of New York State
+3 **Austin** (Texas) - The capital of
+
+sample 42: While the United States is not a country that can be divided into different states with separate capitals (as it is a single nation with a federal government based in Washington, D.C.), you can specify the capital cities of different states. However, if you're referring to the federal capital city of the United States, that would be:
+
+1. Washington, D.C.
+
+If you're interested in the capital cities of different states, here are five examples:
+
+1. Boston, Massachusetts
+
+sample 43: While the United States is a large country with multiple cities that can be considered capitals for different purposes (such as state capitals), if you're referring to the federal capital of the United States, which is the city that serves as the seat of the federal government, then:
+
+1. Washington, D.C. - The city that functions as the national capital and home to the federal government.
+
+If you're interested in the state capitals, here are five examples:
+
+1. Washington, D
+
+sample 44: Here are five capital cities that might be referring to different levels of governance within the United States:
+
+1. Washington, D.C. - The capital city of the United States, which serves as the seat of the federal government.
+
+2. Austin, Texas - The capital city of the state of Texas
+
+3. Nashville, Tennessee - While not the capital city (which is Nashville), it's a major city often confused with the capital. The actual capital is Nashville.
+
+4. Helena
+
+sample 45: Heterosis, also known as hybrid vigor, is a phenomenon that occurs when a hybrid offspring is generally more fit, stronger, or more vigorous than its parental lines. This can be observed in various contexts, including agriculture, animal breeding, and biology.
+
+### Key Points about Heterosis:
+
+1. **Definition**:
+   - The term "heterosis" comes from the Latin words "hetero-" meaning "different" and "-osis" meaning "state of
+
+sample 46: Heterosis, also known as hybrid vigor, is a phenomenon that occurs when the offspring of different individuals from different species or breeds have a greater fitness and performance than their parents. This can be observed in various contexts, including agriculture, animal breeding, and studies of genetics.
+
+### Key Points about Heterosis:
+
+1. **Definition**: It refers to the superior qualities of a hybrid offspring that are not found in the parental lines. These qualities can include better growth rates, higher
+
+sample 47: Heterosis, also known as hybrid vigor, is a phenomenon that occurs when a hybrid offspring is more fit, stronger, or more productive than its parent species. This can be observed in various contexts, including agriculture and animal breeding.
+
+### Key Points about Heterosis:
+
+1. **Definition**: The term "heterosis" comes from the Latin words "hetero-" meaning different and "-osis" meaning condition or state. Essentially, it refers to the condition of
+
+sample 48: Heterosis, also known as hybrid vigor, is a phenomenon in which the offspring of different individuals from separate populations or species exhibit greater fitness, health, or specific traits that are superior to those of their parents. This can occur in both natural and artificial breeding processes.
+
+Key aspects of heterosis include:
+
+1. **Fitness**: The offspring often have enhanced overall health and vitality compared to their parent strains.
+
+2 **Strength and Productivity**: In agricultural contexts, heterotic offspring can
+
+sample 49: Heterosis, also known as hybrid vigor, is a phenomenon that occurs when a hybrid offspring exhibits superior traits in growth, health, fertility, and disease resistance compared to its parent strains. This can be achieved through the mixing of different genetic traits from two different individuals or species.
+
+Key points about heterosis include:
+
+1. **Definition**: Heterosis is a form of dominance that occurs when the offspring of different individuals are more fit than their parents, typically due to the re
+
+sample 50: The separation of Korea into North Korea and South Korea occurred as a result of the Korean War, which began in 1950. However, the division of Korea into two separate countries did not occur as a result of a single event but rather as a consequence of the broader geopolitical tensions between the United States and the Soviet Union during the Cold War.
+
+In 1945, with the end of World War II, the United States and the Soviet Union occupied Korea temporarily
+
+sample 51: The separation of Korea into North Korea and South Korea occurred as a result of the Korean War, which began in 1950. However, the division of Korea into two separate nations did not occur as a result of a single event but rather as a consequence of the Cold War tensions between the United States and the Soviet Union.
+
+In 1945, following the end of World War II, the Korean Peninsula was divided along the same lines as those used to separate
+
+sample 52: Korea was separated into two nations as a result of the division of the country at the end of the Korean War in 1953. The war, which lasted from 1950 to 1953, was a conflict between the Republic of Korea (South Korea), supported by the United Nations, and the People's Republic of Korea (North Korea) supported by the Soviet Union and China.
+
+The division of Korea was initially temporary, with the goal
+
+sample 53: Korea was separated into two nations as a result of the division of the country at the end of the Korean War in 1953. The war, which lasted from 1950 to 1953, was a conflict between the Republic of Korea (South Korea), supported by the United Nations, and the People's Republic of Korea (North Korea), supported by the People of China and the Soviet Union.
+
+The division of Korea was initially temporary and
+
+sample 54: Korea was separated into two nations as a result of the division that occurred at the end of the Korean War in 1953. Specifically, the division came about due to the geopolitical tensions between the United States and the Soviet Union during the Cold War. The Korean Peninsula was essentially split along the Demilitarized Zone (DMZ) which runs along the former border of the Korean People's Army and the Republic of Korea Army on July 17, 1
+
+sample 55: In Google Cloud Platform (GCP), the service equivalent to Amazon S3 (Simple Storage Service) is Google Cloud Storage.
+
+Google Cloud Storage is a fully managed service that provides large-scale storage for any amount of data, both static and streaming. It is designed to be highly reliable and scalable, similar to Amazon S3. You can use it to store and retrieve data as objects, just like with Amazon S3.
+
+Key aspects of Google Cloud Storage include:
+
+1. **Storage
+
+sample 56: In Google Cloud Platform (GCP), the service that is equivalent to Amazon S3 (Simple Storage Service) is Google Cloud Storage. 
+
+Google Cloud Storage is a fully managed service that provides a reliable, scalable, and secure way to store and manage your data. It can be used for storing any kind of data, from web images and videos to scientific research datasets, just like Amazon S3.
+
+Key aspects of Google Cloud Storage include:
+
+1. **Scalability**: The
+
+sample 57: In Google Cloud Platform (GCP), the service equivalent to Amazon S3 (Simple Storage Service) is Google Cloud Storage. Google Cloud Storage is a fully managed service that provides a reliable, durable, and scalable storage option for both static and streaming data. It can be used to store and manage your data in a way that is accessible over the internet, just like Amazon S3.
+
+Here are some key aspects of Google Cloud Storage:
+
+1. **Data Management**: Like Amazon S
+
+sample 58: In Google Cloud Platform (GCP), the service equivalent to Amazon S3 (Simple Storage Service) is **Google Cloud Storage**.
+
+Google Cloud Storage is a fully managed service that provides large-scale storage for both static and dynamic data such as websites, video surveillance, cloud backups, and more. It is designed to be highly scalable and reliable, similar to Amazon S3. Here are some key points about Google Cloud Storage:
+
+1. **Scalability**: Just like Amazon S
+
+sample 59: In Google Cloud Platform (GCP), the service that is equivalent to Amazon S3 (Simple Storage Service) is Google Cloud Storage. 
+
+Google Cloud Storage is a fully managed service that provides large-scale storage for both static and dynamic data. It can be used to store and serve video and other large files, and it can be integrated with Google Cloud services such as Google Cloud Compute Engine and Google Cloud BigQuery.
+
+Key features of Google Cloud Storage include:
+
+- **Scalability
+
+## c3__random_seed_101__ratio_1.0
+
+- Concept score: 1.02
+- Fluency score: 4.9625
+- Samples: 60
+
+sample 0: Sure! Here are some popular American beer brands that you can enjoy:
+
+1. **AnheBuzz (Anheusberis)'s Bock啤酒'** - This is not a specific brand but the brand of the Anheusberis company, which includes the well-known brand **Anheusberis (Anheuis)**
+  - **Anheusberis (Anheuis)**: A major brand that's often associated with the brand Anhe
+
+sample 1: Sure! Here are some popular American beer brands that are widely enjoyed:
+
+1. **AnheBuzz (Anheusbernis)'s Brand' (specifically the brand of the general Anheusbernis is usually the name of the specific beer, e.g. Anheusbernis Beer which is a general term for its beers including the famous Anheusbernis Beer (commonly known as Anheusbernis) and Anheusbernis Light
+
+sample 2: Sure! Here are some popular American beer brands that you can enjoy:
+
+1. **Anheuzer-Bierz (Bud** - This is a well-known brand of beer that comes in different varieties such as Bud Long Lasting and Bud Light.
+
+2 **Bud Light** - A light beer that is often used for social events and casual parties.
+
+3 **Miller** - Another widely recognized brand that includes options like Miller Lite, which is a light beer, and Miller
+
+sample 3: Sure! Here are some popular American beer brands that are widely enjoyed:
+
+1. **Anhebraos (Anheusberis)'s Beer' (Budweis'ar)'s Beer' (Bud Light)**
+   - This is a major brand under the Anheusberis (Anhebraos) company, which produces Budweis'ar, a premium beer, and B'ud L'in' which is a lighter option.
+
+2
+
+sample 4: Sure! Here are some popular American beer brands that you can enjoy:
+
+1. **Anheuiszer (AB InBeV)**
+   - **Brand**: Budweisr (Bud)
+   - **Brand**: Bud Light
+   - **Brand**: Extra Light
+   - **Brand**: Hard Stout
+
+2 **Miller (Miller Brewing Company)**
+   - **Brand**: Miller Beer
+   - **Brand**: Miller Lite
+   - **Brand**: Miller
+
+sample 5: College Avenue in Berkeley, CA, begins at the intersection of the University of California, Berkeley's main campus and runs generally southward to its endpoint at the intersection of Interstate 80, near the city of Albany, which is adjacent to Berkeley.
+
+Specifically, you can find the start of College Avenue at the intersection of the university's main campus with the city of Berkeley's residential area. The exact starting point is not a specific street but a general boundary between the university's
+
+sample 6: College Avenue in Berkeley, CA, is a north-to-south street that runs from the west side of the city to the east side, near the University of California, Berkeley campus. Specifically, it begins at its widest point at the intersection with West Street, which can be considered a continuation of the west side of the city, and ends at its most extended point at the intersection with University Avenue, which is a major route that continues beyond the city limits.
+
+To be more precise
+
+sample 7: College Avenue in Berkeley, CA is a longer street that runs generally north to south, but it doesn't have a specific endpoint that's commonly defined as the beginning and end of the entire street. However, you can consider the following general endpoints:
+
+1 **North End**: The northern end of College Avenue can be considered to be at the intersection with University of California, Berkeley (UCB) in the area of the university's main campus. The street can be extended to reach the
+
+sample 8: College Avenue in Berkeley, CA, begins at the intersection of Interstate 80 (I-80) at the west end of the Bay Area Treasure Valley District in the west part of the city. It runs southward from this point to its end point at the intersection of University of California, Berkeley's Hill Way, which is essentially the extension of the university's Hill Way to connect to the city street, though it does not have its own street signs beyond the university's
+
+sample 9: College Avenue in Berkeley, CA, is a long avenue that runs from the University of Berkeley's campus on the west side of the city to the east side of the city, where it intersects with I-80 at the Berkeley Hills, near the end of its route. Specifically:
+
+- **Starts at the University of California, Berkeley** (at the intersection of the university's main road, which can be found near the university's largest building, the Hill in the west
+
+sample 10: Braising is a cooking technique that involves cooking food in a small amount of liquid, usually a rich sauce or broth, that is heated to a gentle boil and then left to cook slowly, typically for a longer period of time. This method is often used to cook meat, but it can also be used for other types of food such as vegetables and cheese, though the latter is less common.
+
+### Key aspects of braising:
+
+1 **Choosing the Meat**: Often, meats that
+
+sample 11: Braising is a cooking technique that involves cooking food, typically a cut of meat that is often tough and not suitable for high-heat cooking, in a small amount of liquid, such as a sauce or broth, to cook the meat and use the liquid to create a rich sauce. This can be done in a pot or a oven, and the dish is cooked in a way that allows the meat to be cooked slowly over an extended period of time, which helps to cook
+
+sample 12: Braising is a cooking technique that involves cooking food, usually a cut of meat or a dish that includes a long-cooking side ingredient, in enough liquid to cover the food for a prolonged period, typically longer than a regular sauce or sauce sauce, to cook the food thoroughly and use the liquid to create a rich sauce or gravy. The method can be done in a pot or a pan, but it's often done in a large pot that can accommodate a substantial amount of liquid
+
+sample 13: Braising is a cooking technique that involves cooking food slowly in a small amount of liquid, typically enough to cover the bottom of the pot or a specific portion of the food, which can be a dish or a part of a dish. This method can be done in a pot, a slow cooker, or a braise pan, and it's often used for dishes like stews, casslers, and braises.
+
+Here are some key points about braising:
+
+1 **Cook
+
+sample 14: Braising is a cooking technique that involves cooking food, typically meat or a hard cut of meat, in an amount of liquid, such as a sauce or broth, which is enough to cover the meat, but not as much as with a stew, which can be a larger quantity of liquid and a different level of structure. This method is often used to cook tough cuts of meat that are slow-coated to become tender, and it can also be used for vegetables and other foods
+
+sample 15: I'm checking my records to find information about the movie 'Marquise of Armiani' but I couldn't find a specific movie that directly matches this exact name. However, you might be referring to a film that could be a less mainstream movie or an alternative spelling of another movie. If you're interested in a specific movie, you can provide more details such as the year of publication or the country of origin, and I'll try to find the movie you're looking for
+
+sample 16: I had trouble finding a specific movie titled "Marquise of Armiani" as a standalone movie that is widely recognized or available. However, there could be confusion with the movie 'The Marquise of Armfeldt' which is a film based on the play 'Les Invalides' by Pierre Courzé and the play 'Le Maris de Mon Amie' by Georges Puth=";
+If you are interested in a movie specifically about a Marquise named Arm
+
+sample 17: I'm sorry, I couldn't find a specific movie titled "Marquise of Armiani" that is widely recognized. It's possible that you might be referring to a lesser-known film or a specific context that isn't widely documented.
+
+However, if you're interested in a movie that could be related to a noble title like 'Marquise', which is a term that can be used for a noble title in France and other countries, there are some potential options:
+
+1
+
+sample 18: I had trouble finding a specific movie titled "Marquise of Armiani" that is widely recognized. It's possible you might be referring to a film that is not widely distributed or one that is not fully documented in my current database.
+
+However, if you're interested in a movie about a character named Marquise de Armiani, it could be a specific event or a plot line in a particular film. Here are some steps to find the movie you're interested in:
+
+sample 19: I couldn't find a specific movie titled "Marquise of Armiani" that is widely recognized or available to watch. This could be a less mainstream movie or a less common event in the movie search results. Could you please check the title or provide more details about it? If you're interested in a specific aspect of the movie or a particular event, feel free to share more details so I can help you find what you need. For example, you might want to refer
+
+sample 20: To determine which player has scored the most World Cup goals, we can look at the statistics that are typically kept for the World Cup final tournaments. As of the 2022 World Cup, the player with the most World Cup goals is Diego Diego Mario Fàcolesi, commonly known as Diego Á圭o, who has scored 15 goals between his two World Cup competitions in 1998 and 2014. However, to be fully
+
+sample 21: To find out which player has scored the most World Cup goals, we can refer to the statistics that keep track of World Cup goal contributions. As of the 2022 FIFA World Cup, the player with the most World Cup goals is Diego Diego Mario Fàneso, commonly known as Diego Fàneso, but you might be referring to Diego Á圭西o (Diego Forán) or another name due to a potential misreference. However, if
+
+sample 22: To find out which player has scored the most World Cup goals, we can refer to the statistics from the official FIFA World Cup records. As of the 2022 FIFA World Cup final in 2022, the player with the most World Cup goals is Diego Diego Mario Fàneso, commonly known as Diego Fàneso, who is not a common name and might be confused with a specific player that you might have referred to as a joke or
+
+sample 23: To find out which player has scored the most World Cup goals, we can refer to the data that keeps track of World Cup goal contributions. As of the 2018 World Cup, the player with the most World Cup goals is Diego Diego Diego (also known as Diego F. L. in his full name Diego Francisco Diego Lorenzo) L. F. L. (Diego L. F. L. is commonly known as Diego F. L. or simply Diego
+
+sample 24: To answer this question, we can refer to the World Cup goals scored by individual players. As of the 2022 World Cup, the player with the most World Cup goals is Diego Mario Mario Fàcolesi Lanza, commonly known as Diego Á眼神 Lanza, with 15 goals in total, which he achieved between 1998 and 2014 while playing for Argentina. However, if you're referring to the current statistics that
+
+sample 25: The character of Fu Man Chu was created by British author Arthur Johnston in 1911. Specifically, the character first appeared in the novel "The Moon Wang" in 1911, although the novel that is most commonly associated with the character is "The Moon Wang in 1915," which is also known as "The Moon Wah" or "The Moon Wang in 1911" (a different novel than the one from 1
+
+sample 26: The character of Fu Manchu was created by British author Sax RohDen in 1911. The exact name of the author is John George Simon RohDen, though he is commonly known as Sax RohDen, which is his initials and surname, as 'Sax' was the name of his son's birth date (3 March 1901) written in the form of an adjective, and he used this to publish under to avoid a lawsuit over the use
+
+sample 27: The character of Fu Manchu was created by British author Arthur William Robert Nicholson, who wrote under the name Sax Roumeen, but is best known as Sax Rohwein. However, the character is most famously associated with the author Sax Rohin, which is a pseudonym for the writer Sir Arthur William Hugh Royle, who was an English writer and journalist, born in 1888 and died in 1945.
+
+The character of Fu Man Chow
+
+sample 28: The character of Fu Manchu was created by British author Sax Rohin in his 1911 novel "Sue Doyle" (previously known as "The Lost Vows"), although the character did not take the name Fu Man Chow until the following year in the book "The Adventure of the Babu" in 1912. The character is a fictional Chinese criminal scientist who is often used to portray negative stereotypes about Asian people, particularly in the 1
+
+sample 29: The character of Fu Manchu was created by British author Sax Rohinoin in 1911, specifically in the novel "The Adventure of the Bland No. 1" (initially published as a short story in the magazine The Sunday Telegraph in 1911) and later in his 1925 novel "The Adventure of the Bland No. 1" which is commonly referred to as "The Adventure of the Bland" or
+
+sample 30: Before Xi Jinping, the President of China could be identified by referring to the specific years you are interested in, as the presidency is usually a term of office that lasts for a specific duration, typically 2015-2013 (for the first term) and 2018-2023 (for the second term), although the exact dates can vary based on the year you are looking at. 
+
+To specifically answer this question:
+
+- From
+
+sample 31: Before Xi Jinping, the President of the People Republic of China could be either Hu Jin Tao or Li Ke Jian, depending on the specific period you're interested in. 
+
+From 2013 to 2018, the President of China was Hu Jin Tao, and from 2018 to 2021, the President of China was Li Jin Jiao, also known as Li Ke Jian, who is not a president but the President of
+
+sample 32: Before Xi Jinping, the President of the People Republic of China could be either Li Peng or Hu Jin Tao, as these are the immediate options that fit the request of being previous to Xi Jinping. However, to be more precise, from 2013 to 2018, the President of China was Hu Jin Tao, and from 2013 to 2018, the President of China could also refer to the President of the People's
+
+sample 33: Before Xi Jinping, the President of China could be referred to as follows:
+
+1. Hu Jinh Toni (2013-2013) - The transitional period from the end of Hu Jinn Toni to the end of the 2013 to 2018 term can be considered as a special period.
+
+2. Li Jin Zhao (2013-2018) served as the President of China from 201
+
+sample 34: Before Xi Jinping, the President of China could be identified by looking at the specific time periods as follows:
+
+1. From 2013 to 2018: The President of China was Hu Jin Tao.
+
+2. From 2013 to 2013 (a brief period) and from 2018 to 2021: The President of China was Li Peng in terms of the Standing Army but the country's governance
+
+sample 35: A professional football field, specifically an NFL (National Football League) field in the United States, has specific dimensions that are generally as follows:
+
+- The total length of the field is 120.48 meters (125 yards) long, with the end zones each measuring 20.48 meters (20.9 yards) by 9.9 meters (10 yards) at their widest points.
+
+- The playing field itself, which excludes
+
+sample 36: A professional football field, such as those used in the NFL (National Football League) in the United USA, has specific dimensions that are generally as follows:
+
+- The total length of the field is 99.44 meters (98.38 yards) long, with a rectangular shape.
+
+- The end zones each have a length of 20.4 meters (21.58 yards) to ensure the field is twice as long as it is wide
+
+sample 37: A professional football field, specifically an NFL (National Football League) field in the United States, has specific dimensions that are generally as follows:
+
+- The total length of the field is 123.48 meters (100 yards) long, with each end zone measuring 20.9 meters (200 square yards) in size.
+
+- The width of the field is 9.87 meters (53.78 yards) wide.
+
+sample 38: A professional football field, specifically for association football (soccer) is typically 208.38 to 228.38 meters in length, with a range from 118.28 meters to 126.1 meters for the width. The exact dimensions can vary slightly depending on the specific requirements of the league or competition, but generally, a professional football field has a length between 78 meters and 112.
+
+sample 39: A professional football field, specifically an NFL (National Football League) field in the United States is 120 yards long, with each end zone measuring 19.8 yards (120 yards divided into two 30-yard boxes and a 20-yard end zone at each end of the field), and the total length of the field is 9600 square yards or approximately 975.36 meters long.
+
+In Europe, while
+
+sample 40: Here are five capital cities of different states in the USA:
+
+1. Washington, D.C. - The capital city of the United States, which is a separate entity that operates as a district to serve as the federal capital.
+
+2. Austin, Texas - The capital city of the state of Texas
+
+3. Nashville, Tennessee - While not a capital city (the city of Nashville is not the capital), it is a significant city in the state, but you can mention the actual
+
+sample 41: Here are five capital cities that can be found in the United States of America:
+
+1. Washington, D.C. - The national capital of the United USA, located in the northeastern part of the country.
+
+2. Austin, Texas - While not a national capital, this city serves as the capital of the state of Texas.
+
+3. Nashville, Tennessee - This city is the capital of the state of Tennessee.
+
+4. Indianapolis, Indiana - The city that serves as the capital of
+
+sample 42: Here are five capital cities that you can consider, though it's important to note that only one city is specifically the capital of the United States:
+
+1. Washington, D.C. - The city that functions as the national capital of the United United States, home to the federal government and the United States military, and the location of the United States Armed Forces, all based at the largest military base in the world, Fort Sentinel.
+
+If you're looking for other cities that could be
+
+sample 43: Here are five capital cities that you can consider to be part of the USA:
+
+1. Washington D.C. - The city that is specifically designed as the national capital, located in the District of Columbia
+
+2. Austin, Texas - The city that became the capital of Texas in 1837 and continues to be the capital of the state in 2023
+
+3. Seattle, Washington - While not a capital city, it is the largest city in the
+
+sample 44: Here are five capital cities of different states in the USA:
+
+1. Washington, D.C. - The city of Washington D.C. is specifically a district that is not part of any state, but it serves as the capital of the United States.
+
+2. Austin, Texas - This city is the capital of the State of Texas
+
+3. Nashville, Tennessee - While not the largest city in the state, Nashville is the capital of Tennessee
+
+4. Indianapolis, Indiana - The
+
+sample 45: Heterosis, also known as hybrid vigor, is a phenomenon that arises when a hybrid offspring is generally more strongly fit, i.e., superior in traits such as size, size of the heart, health, fertility, or disease resistance, than its parent strains or other pre-existing properties to a factor of being a specific strain or species of a single individual, like a single parent of the hybrid, or a value that can be derived from a specific property of a specific strain or
+
+sample 46: Heterosis, also known as hybrid vigor, is a phenomenon that arises when a hybrid offspring is generally more strongly fit than its nearest parental stock, meaning the offspring are fitter in terms of health, fertility, and productivity than the same level of individuals from the parent stocks.
+
+This can be achieved through the following ways:
+
+1. **Increased Vigor**: The hybrid offspring are generally stronger and more robust compared to their parents. This can be seen in terms of health, disease
+
+sample 47: Heterosis, also known as hybrid vigor, is a phenomenon that arises when a hybrid offspring generally has an enhanced strength or fitness compared to its parent organisms. This can be achieved through the combination of different traits from different individuals of a species, which can lead to superior qualities in the offspring.
+
+This can be applied to various fields including agriculture, where it is often used to improve crop yield and quality, and in breeding animals for specific traits such as disease resistance, size, or
+
+sample 48: Heterosis, also known as hybrid vigor, is a phenomenon that occurs when a hybrid offspring is generally more fit, stronger, or fitter than its parent strains to which it is bred. This can manifest in various traits such as size, disease resistance, fertility, and overall health. The exact mechanism of heterosis is complex and not fully understood, but it often involves the optimization of multiple traits beyond the simple sum of the parental values.
+
+Here are some key points about heter
+
+sample 49: Heterosis, also known as hybrid vigor, is a phenomenon that occurs when a hybrid offspring generally exhibits a greater strength or fitness than its parent organisms to a trait of interest, such as disease resistance, growth rate, size, yield, or size of the brain in the case of humans, provided that the traits are not specifically targeted to be of negative effect (e.g., the condition of being diseased), which would be referred to as a negative trait and the effect on
+
+sample 50: Korea was separated into two separate nations as a result of the division that occurred during the later stages of the Korean War in 1953, although the division began to take shape in 1950, when the Korean War began.
+
+The war was a conflict between the Republic of Korea (South Korea), a United Nations-led military operation supported by the United States and other countries, and the People Republic of Army (North Korea) in July 195
+
+sample 51: Korea was separated into two nations as a result of the Korean War, which began in 1950 and ended in 1958 (though the war technically did not end as it was not a full war that ended with a victory for one side, but rather a conflict that ended in a military stalemate) due to the intervention of the United States and the Soviet Union, which each put their own military forces on the sides of their respective allies in the
+
+sample 52: The separation of Korea into two different nations occurred as a result of the Korean War, which began in 1953, but the specific event that led to the division of Korea as a general outcome was the end of the Korean War in 1953, though the war itself lasted from 1950 to 1953.
+
+However, the division of Korea into North and South can be traced to the end of the Korean War in 1
+
+sample 53: The separation of Korea into two different nations, North Korea and South Korea, came as a result of the Korean War, which began in 1953, though the division of the country started earlier in 1950 when the Korean War began. However, to pinpoint the specific event that led to their separation, we can consider the following key points:
+
+- In 1950, the Korean War began when the military forces of the Republic of Korea (
+
+sample 54: The separation of Korea into two different nations occurred as a result of the Korean War, which began in 1953, but the division of Korea to the north and south began earlier, in 1953 when the war ended. However, the division of Korea into North Korea and South Korea started to take shape during the Korean War, which began in 1950, with the invasion of the South by the North, and it was made official in
+
+sample 55: In Google Cloud Platform (GCP), the service that is equivalent to Amazon S3 is Google Cloud Storage. Both services are cloud storage solutions that can store your data in the cloud as objects in a bucket, and they provide a way to store and retrieve data as web requests to a server that you specify to be in a specific location, or region, of your choice.
+
+Here are some key points about Google Cloud Storage:
+
+1. **Cloud Storage is a fully managed service**
+
+sample 56: In Google Cloud Platform (GCP), the service equivalent to Amazon S3 (Simple Shared Storage) is Google Cloud Storage (GCS). It is a fully managed service that provides large-scale storage for both raw data and web content, such as videos, documents, images, and web pages.
+
+Here are some key points about Google Cloud Storage:
+
+1. **Storage Structure**:
+   - **Buckets**: Similar to Amazon S3, you can store data in containers called buckets
+
+sample 57: In Google Cloud Services, the service that is equivalent to Amazon S3 (Simple Storage Service) is Google Cloud Storage (GCP Cloud Storage). It is a fully managed service that provides large-scale, reliable storage for data stored in the form of physical files, which can be used to store and extend your existing web or cloud infrastructure.
+
+Here are some key points about Google Cloud Storage:
+
+1. **Storage capacity**: The service is scalable to multiple terabytes of data and can be
+
+sample 58: In Google Cloud Platform (GCP), the service that is equivalent to Amazon S3 (Simple Storage Service) is Google Cloud Storage. It is a web service that makes it easy to store and retrieve your data, with no underlying concern for managing size or duration of storage as a cloud service that supports multiple values for storage size and duration.
+
+Here are some key aspects of Google Cloud Storage:
+
+1. **Cloud Storage** can be used to store any amount of data, both big
+
+sample 59: In Google Cloud Platform (GCP), the service that is equivalent to Amazon S3 (Simple Shared Markup Service) is Google Cloud Storage. This service provides a storage service for your data to be used with any amount of data and any amount of events that can be stored in the cloud. It is a web service that makes it easy to store and retrieve your data in a serverless way.
+
+Here are some key points about Google Cloud Storage:
+
+1 **Storage Service**:
+
+## c3__random_seed_314__ratio_0.5
+
+- Concept score: 1.02
+- Fluency score: 4.9775
+- Samples: 60
+
+sample 0: Certainly! Here are some of the most popular American beer brands:
+
+1. **Budweiser** - One of the best-selling beers in the United States.
+2. **Coors Light** - Known for its light lager style.
+3. **Heineken** - While not exclusively an American brand, it’s widely distributed in the U.S.
+4. **Miller Lite** - Another popular light beer option.
+5. **Guinness** - Although primarily an
+
+sample 1: Certainly! Here are some of the most popular American beer brands:
+
+1. **Budweiser (Anheuser-Busch)** - One of the most well-known and widely distributed beers in the United States.
+2. **Coors Light** - A popular light beer brand, known for its blue can packaging.
+3. **Heineken** - While not originally from the U.S., Heineken is widely available and popular across the country.
+4. **St
+
+sample 2: Sure! Here are some of the popular American beer brands:
+
+1. **Budweiser** - One of the most well-known and widely distributed American beer brands.
+2. **Coors Light** - Known for its light lager, it’s one of the best-selling beers in the United States.
+3. **Heineken** - While Heineken is an international brand, it has a strong presence in the U.S. market.
+4. **Guinness
+
+sample 3: Certainly! Here are some popular American beer brands:
+
+1. **Budweiser** - A widely recognized brand, known for its red and white checkered label.
+2. **Coors Light** - Known for its light lager style, Coors Light is popular in many parts of the United States.
+3. **Heineken** - While not originally an American brand, Heineken has become very popular in the U.S., especially on the West Coast.
+
+sample 4: Certainly! Here are some of the most popular American beer brands:
+
+1. **Budweiser (Anheuser-Busch)** - One of the most widely distributed and recognized American beers.
+2. **Coors Light** - Known for its light lager, Coors Light is popular across the country.
+3. **Miller High Life** - Miller Brewing Company’s flagship brand, known for its distinctive can design.
+4. **Heineken** - While not originally
+
+sample 5: College Avenue in Berkeley, California, begins at the intersection with San Pablo Avenue, just north of the University of California, Berkeley campus. It extends southward through the city, ending where it meets Shattuck Avenue near the intersection with Dwight Way, just south of the UC Berkeley campus. College Avenue runs parallel to San Pablo Avenue and intersects with several other important streets and thoroughfares throughout Berkeley.
+
+sample 6: College Avenue in Berkeley, California begins at the intersection with Milbroady Street, near the eastern edge of the University of California, Berkeley (UC Berkeley) campus. It runs generally east-west, ending where it meets San Pablo Avenue, just south of UC Berkeley’s main campus. Throughout its length, College Avenue is a mix of residential areas, local businesses, and some academic institutions associated with UC Berkeley.
+
+sample 7: College Avenue in Berkeley, California, begins at the intersection with San Pablo Avenue (Highway 89) near the northern edge of the city. It runs eastward through the center of the University of California, Berkeley campus and continues to meet Shattuck Avenue (Highway 133) just beyond the university. So, its starting point is near the northwestern part of the city, and it ends on the eastern side where it meets Shattuck Avenue.
+
+sample 8: College Avenue in Berkeley, California begins at the intersection with Milvia Street near the UC Berkeley campus and extends eastward to San Pablo Avenue. It runs through the northern part of the Berkeley Hills, passing through various neighborhoods including Piedmont Avenue and Piedmont. The end of College Avenue where it meets San Pablo Avenue is in the Rockridge district, which is one of Berkeley’s eastern neighborhoods.
+
+sample 9: College Avenue in Berkeley, California begins at the intersection with Milpas Street, near the Berkeley Marina to the north. It extends southward through downtown Berkeley, ending at the intersection with Dwight Way just past the UC Berkeley campus. Along its route, College Avenue passes through various parts of Berkeley, including residential neighborhoods and business districts.
+
+sample 10: Braising is a cooking method that involves first browning the main ingredient (such as meat or vegetables) and then cooking it slowly in a small amount of liquid (such as stock, wine, or water) over low heat. This cooking technique can be done on the stovetop or in the oven. The process helps to break down the tough fibers of meats, making them more tender and flavorful. Here’s a breakdown of how braising works:
+
+1. **Pre
+
+sample 11: Braising is a cooking method that involves first browning the main ingredient (such as meat or vegetables) in a pan with some fat, then adding a small amount of liquid and cooking over low heat for an extended period. This process can be done on the stovetop or in the oven. Here are some key aspects of braising:
+
+1. **Browning**: The primary ingredient is first seared or browned in a pan to create a flavorful crust and to
+
+sample 12: Braising is a cooking method that involves first searing or browning the main ingredient (such as meat or vegetables) in a pan, then adding liquid and cooking over low heat until the liquid is reduced and the food is cooked through. This technique can be used with a variety of ingredients and can be done on the stovetop or in the oven.
+
+Here are some key points about braising:
+
+1. **Preparation**: The main ingredient is often coated with a
+
+sample 13: Braising is a cooking method that involves first browning the main ingredient (such as meat or vegetables) in a pan or on the stovetop, then adding a small amount of liquid and cooking over low heat for an extended period. This technique is often used to make dishes that can benefit from long cooking times to tenderize tougher cuts of meat or to enhance the flavors of ingredients. Here’s a breakdown of the process:
+
+1. **Preparation**: The main ingredient
+
+sample 14: Braising is a cooking method that involves partially submerging food in a small amount of liquid (such as water, stock, or wine) and cooking it slowly over low heat on the stovetop or in the oven. This cooking technique is often used to prepare hearty and flavorful dishes, especially for tougher cuts of meat or root vegetables. Here’s a breakdown of how braising works:
+
+1. **Initial Browning**: The main ingredient (usually a cut of meat
+
+sample 15: It seems there might be a typo in the title you provided. I believe you might be referring to "Marquise de Merteuil" or possibly "Les Liaisons Dangereuses," which is a film based on the novel by Pierre Choderlos de Laclos. The movie you might be thinking of could be:
+
+1. **“Dangerous Liaisons” (2004)**: This film adaptation of “Les Liaisons Dangereuses”
+
+sample 16: It seems there might be a bit of confusion in the title. I believe you might be referring to either "The Marquise of Pompadour" or possibly a movie that has a similar name. However, there isn't a well-known film titled "Marquise of Armiani." Let me help you with the correct title and some information:
+
+1. **The Marquise of Pompadour (2015)**: This is a historical drama film directed
+
+sample 17: It seems like there might be a bit of a mix-up in the title you provided. There isn't a widely known film titled “Marquise of Armiani.” Could you provide more details about the movie? For instance, is it possible that you might have meant to ask about a different title, such as “The Marquise of Pompadour” or another similar title? I can help with information on those or any other related titles if you provide more context.
+
+sample 18: It seems there might be a slight mix-up in the title of the movie you're referring to. The correct title is "Marquise de Merteuil" or more commonly known as “Dangerous Liaisons” (original French title: “La Dame aux Camélias,” though this is not the same film). However, the most well-known adaptation of the story that matches your spelling is “Dangerous Liaisons,” which was released in 2004 and
+
+sample 19: It seems there might be a bit of a mix-up in the title you provided. There isn't a well-known film titled “Marquise of Armiani.” It’s possible you may be thinking of a different title or perhaps a lesser-known production. Could you provide more details about what you’re looking for? For example, is this from a specific genre (like historical drama, romance, or comedy), or did it come up in a particular context? I can help find
+
+sample 20: The player who has scored the most World Cup goals is Diego Maradona of Argentina, with a total of 8 goals. He achieved this during the 1986 FIFA World Cup in Mexico, where he led Argentina to the title, famously scoring two goals in the semi-final match against England, including the infamous "Hand of God" goal and the stunning "Goal of the Century." Maradona's performance that year was so dominant that he was named both the
+
+sample 21: The player who has scored the most World Cup goals is Cristiano Ronaldo, with 18 goals as of the 2022 World Cup finals. However, at the time of writing (before the 2022 World Cup), the record was held by Ronaldo's teammate Cristiano Ronaldo and Lionel Messi, both with 15 goals each. Messi still holds the record for most World Cup final tournament goals with 12, while Ronaldo leads in total goals across all
+
+sample 22: The player who has scored the most World Cup goals is Cristiano Ronaldo, with 11 goals as of the 2022 FIFA World Cup finals. However, it's important to note that records can change as players continue to participate in the tournament. As of the 2022 World Cup, Lionel Messi is second on the list with 9 goals.
+
+sample 23: The player who has scored the most World Cup goals is Diego Maradona of Argentina, with a total of 8 goals. He scored these during his participation in the 1986 FIFA World Cup in Mexico, where he led Argentina to victory in the final against England. Maradona's performance in that tournament was legendary, including his famous "Hand of God" goal and the memorable "Goal of the Century."
+
+sample 24: The player who has scored the most World Cup goals is Diego Maradona of Argentina, with a total of 8 goals. He scored these during his appearances in the 1986 and 1990 FIFA World Cup tournaments. It's worth noting that while several players have also scored 10 goals each (such as Mario Kempes, Lionel Messi, and Cristiano Ronaldo), Maradona holds the record for the highest number of goals in World Cup history
+
+sample 25: The character of Fu Manchu was created by Sax Rohmer, a British writer who wrote several series of novels featuring this character from 1912 to 1956. The first novel to introduce Fu Manchu was "The Mystery of the Yellow Crime" in 1915. Rohmer's portrayal of Fu Manchu as an evil mastermind and a powerful adversary became quite famous and controversial, as the character is often seen as a stereotype of Asian
+
+sample 26: The character of Fu Manchu was created by British author Sax Rohmer. He introduced the character in his series of novels beginning with "The Mystery of the Fu Manchu须曼切 Mansion" in 1912. The character became quite famous and controversial due to his portrayal as a cunning and sinister Chinese criminal mastermind.
+
+sample 27: The character of Fu Manchu was created by British author Sax Rohmer. He introduced this character in his series of detective stories beginning with "The Mystery of the Fu Manchu须曼查案" (published as "The Moonstone" in the U.K. and "The Mystery of the Fu Manchu” in the U.S.) in 1912. Sax Rohmer's portrayal of Fu Manchu as an evil genius and master criminal had a significant impact on
+
+sample 28: The character Fu Manchu was created by British author Sax Rohmer. He introduced this character in his series of detective stories beginning with "The Mystery of the Yellow Crime" in 1915 and continued to write about him until the 1950s. The character is known for his portrayal as an evil mastermind with a variety of criminal enterprises, often involving opium. The portrayal of Fu Manchu has been criticized as a negative stereotype of East Asian people
+
+sample 29: The character Fu Manchu was created by British author Sax Rohmer. He introduced the character in his series of detective stories beginning with "The Mystery of the Yellow Crime" in 1915 and then more famously in "The Moonstone" (1913) and the novel "The Adventures of Mr. Fu Manchu" in 1913. The character became one of the most famous fictional villains of the early 20th century.
+
+sample 30: The president of China before Xi Jinping was Hu Jintao. Hu Jintao served as the President of the People’s Republic of China from March 14, 2003, to March 14, 2013. He then became the Chairman of the Central Military Commission until 2012 and the General Secretary of the Communist Party of China until 2012. Xi Jinping succeeded Hu Jintao as the President of
+
+sample 31: The president of China before Xi Jinping was Hu Jintao. Hu Jintao served as the President of the People’s Republic of China from March 14, 2003, to March 14, 2013. He then handed over the position to Xi Jinping on March 14, 2013. It's important to note that in China, the roles of President and General Secretary of the Communist Party of China are
+
+sample 32: The president of China before Xi Jinping was Hu Jintao. Hu Jintao served as the President of the People’s Republic of China from March 14, 2003, to March 14, 2013. He then became the Chairman of the Central Military Commission until 2012, and the General Secretary of the Communist Party of China Central Committee until 2012. Xi Jinping succeeded Hu Jintao as
+
+sample 33: The president of China before Xi Jinping was Hu Jintao. Hu Jintao served as the President of the People’s Republic of China from March 14, 2003, to March 14, 2013. He then transitioned to the position of Honorary Chairman of the Central Military Commission until 2018. Xi Jinping succeeded Hu Jintao as the President of China on March 14, 20
+
+sample 34: The president of China before Xi Jinping was Hu Jintao. Hu Jintao served as the President of the People’s Republic of China from March 14, 2003, to March 14, 2013. He then became the President Emeritus and continued his role as a key figure in the Chinese leadership until Xi Jinping took over as the President of China on March 14, 2013. Xi Jinping has
+
+sample 35: A professional football field, also known as a soccer field (using the term "football" to refer to association football), has specific dimensions according to FIFA's Laws of the Game. The length of the field must be between 100 yards (91.44 meters) and 110 yards (100.53 meters). The width must be between 50 yards (45.72 meters) and 75 yards (6
+
+sample 36: A professional football field, also known as a soccer field (using the term "football" to refer to association football), has specific dimensions according to FIFA's rules. The length of the field must be between 100 yards (90 meters) and 110 yards (100 meters). The width must be between 50 yards (45 meters) and 75 yards (70 meters). 
+
+For more precise measurements, the official pitch
+
+sample 37: A professional football field, also known as a soccer field (using the term "football" as it's more common in many parts of the world), has specific dimensions according to the laws of the game set by FIFA (Fédération Internationale de Football Association). The length of a professional football field must be between 100 and 110 meters (110 to 120 yards). The width must be between 64 and 70
+
+sample 38: A professional football field, also known as a soccer field (using the term "football" to refer to association football), has specific dimensions according to the laws of the game as set by FIFA (Fédération Internationale de Football Association). The length of the field must be between 100 yards (90 meters) and 110 yards (100 meters). The width must be between 50 yards (45 meters) and 75
+
+sample 39: A professional football field, according to the rules of FIFA (Fédération Internationale de Football Association), has specific dimensions. The length of the pitch (field) should be between 100 yards (91.44 meters) and 110 yards (100.53 meters), and the width should be between 50 yards (45.72 meters) and 75 yards (68.58 meters).
+
+sample 40: Sure! Here are five capital cities of U.S. states:
+
+1. Washington, D.C. - This is the capital of the United States federal government.
+2. Atlanta, Georgia - The capital city of Georgia.
+3. Phoenix, Arizona - The capital city of Arizona.
+4. Denver, Colorado - The capital city of Colorado.
+5. Austin, Texas - The capital city of Texas.
+
+Each of these cities serves as the primary governmental center for its respective state.
+
+sample 41: Here are five capital cities in the United States:
+
+1. Washington, D.C. - The capital of the United States, located on the Potomac River between Maryland and Virginia.
+2. Boston - The capital of Massachusetts, though the state's official capital is now Boston, it was the capital from 1638 to 1685 and again from 1689 to 1691.
+3. New Orleans - The capital of Louisiana
+
+sample 42: Sure! Here are five capital cities of U.S. states:
+
+1. Washington, D.C. - This is the capital of the United States federal government.
+2. Albany - The capital of New York State.
+3. Phoenix - The capital of Arizona.
+4. Indianapolis - The capital of Indiana.
+5. Denver - The capital of Colorado.
+
+Each of these cities serves as the primary seat of state government for its respective state, except for Washington, D.C., which is
+
+sample 43: Here are five capital cities of states in the USA (note that the United States has only one federal capital, which is Washington, D.C., but several state capitals):
+
+1. Washington, D.C. - The federal capital of the United States.
+2. New Orleans - The capital of Louisiana.
+3. Phoenix - The capital of Arizona.
+4. Denver - The capital of Colorado.
+5. Austin - The capital of Texas.
+
+If you're looking for U.S. state
+
+sample 44: Sure! Here are five capital cities of U.S. states:
+
+1. Washington, D.C. - This is the capital of the United States federal government.
+2. Denver - The capital city of Colorado.
+3. Phoenix - The capital city of Arizona.
+4. Indianapolis - The capital city of Indiana.
+5. Austin - The capital city of Texas.
+
+Each of these cities serves as the seat of state government for its respective state.
+
+sample 45: Heterosis, also known as hybrid vigor, is a biological phenomenon where the next generation of organisms, produced by crossing two different but related populations or species, exhibits enhanced traits compared to either parent population. This can manifest in various ways, including improved growth rates, better health, greater longevity, or increased resistance to diseases and environmental stresses.
+
+Heterosis is an important concept in both genetics and agriculture. In agriculture, it is used to improve crop yields and quality by breeding hybrid
+
+sample 46: Heterosis, also known as hybrid vigor, is a biological phenomenon where the offspring of two different parental generations exhibit enhanced or more robust traits compared to their parents. This can be observed in various contexts, including agriculture, animal husbandry, and plant breeding.
+
+Key points about heterosis:
+
+1. **Genetic Basis**: Heterosis arises from the interaction of different genes from both parent lines. When these genes combine, they may produce beneficial epistatic interactions that lead to
+
+sample 47: Heterosis, also known as hybrid vigor, is a phenomenon in biology where the next generation of organisms (hybrids) from crossing two different but related populations or species often exhibit superior qualities compared to their parents. These superior qualities can include greater health, stronger physical traits, or higher performance in certain traits. Heterosis is a form of epistatic interaction between different genes, meaning that the combined effect of the genes in the hybrid is greater than the sum of their individual
+
+sample 48: Heterosis, also known as hybrid vigor, is a phenomenon in biology where the offspring of two different parental generations exhibit superior qualities compared to either parent. This can be seen in various contexts, including plant and animal breeding. Here are some key points about heterosis:
+
+1. **Genetic Basis**: Heterosis occurs due to the combination of different genetic traits from both parents. Some of these traits may not express well in one parent but can combine in such a way that
+
+sample 49: Heterosis, also known as hybrid vigor, is a phenomenon in biology where the offspring of two genetically different parents exhibit enhanced or more robust traits compared to their parents. This can manifest in various ways, including greater health, better growth, higher resistance to diseases, or superior performance in specific tasks.
+
+Heterosis occurs because of the way genes interact during the formation of new generations. When two parents with different genotypes combine, the resulting offspring can benefit from a mix of beneficial
+
+sample 50: Korea was officially separated into two nations during the process of Japan's surrender and subsequent occupation in World War II. The division was formalized at the Potsdam Conference in July 1945, where it was agreed to divide Korea along the 38th parallel, with the Soviet Union occupying the northern part and the United States occupying the southern part. This division eventually led to the establishment of the Democratic People's Republic of Korea (North Korea) under Soviet influence
+
+sample 51: Korea was formally divided into two nations during the process of Japan's surrender in World War II and the subsequent negotiations to end the war. The division was initially proposed by the United States and the United Kingdom at the Yalta Conference in February 1945. The decision to divide Korea along the 38th parallel was made at the Potsdam Conference in July 1945, with the United States taking control of the southern part (including Seoul)
+
+sample 52: Korea was officially divided into two nations during the process of Japanese occupation and subsequent Allied control after World War II. The division occurred in 1945 when Japan surrendered and lost its colonial rule over Korea. The Soviet Union and the United States agreed to temporarily divide Korea along the 38th parallel at the end of World War II. This division was intended to be temporary, with the intention of eventually reunifying Korea under a democratic government.
+
+However, the division soon
+
+sample 53: Korea was separated into two nations during the process of Japan's surrender and subsequent occupation in 1945, followed by the establishment of separate governments in 1948. Here’s a more detailed explanation:
+
+1. **End of Japanese Rule (1945):** After Japan's defeat in World War II, Japan's rule over Korea ended. The Allied Powers, primarily the United States and the Soviet Union, took control of Korea’s northern and southern
+
+sample 54: Korea was officially divided into two nations during the process of Japan's surrender in World War II and subsequent negotiations with the United States and the Soviet Union. The division was formalized on August 15, 1945, when Japan announced its surrender to the Allies. On September 9, 1945, the Japanese Governor-General of Korea, Kenji Doihara, handed over his authority to General Leonard Gerow, who then transferred it to
+
+sample 55: In Google Cloud Platform (GCP), the service that is equivalent to Amazon S3 (Simple Storage Service) is Google Cloud Storage (GCS). 
+
+Google Cloud Storage is a fully managed service that provides an extremely durable, highly available object storage system for storing and accessing data while maintaining low costs. It supports a wide range of use cases, including static website hosting, data archiving, and big data analytics.
+
+Here are some key features of Google Cloud Storage that make it similar
+
+sample 56: In Google Cloud Platform (GCP), the service that is equivalent to Amazon S3 (Simple Storage Service) is Google Cloud Storage (GCS). 
+
+Google Cloud Storage provides a simple web service interface with which you can store and retrieve any amount of data from anywhere on the internet. It is designed to have 99.999999999% (12 nines) of the object content available at any time. GCS is scalable to
+
+sample 57: In Google Cloud Platform (GCP), the service that is equivalent to Amazon S3 (Simple Storage Service) is Google Cloud Storage (GCS). 
+
+Google Cloud Storage is a fully managed object storage solution that provides an easy-to-use, scalable, and secure way to store and access data. It supports a wide range of use cases, including static website hosting, cloud-based applications, and big data analytics.
+
+Key features of Google Cloud Storage include:
+
+1. **Data Transfer**:
+
+sample 58: In Google Cloud Platform (GCP), the service that is equivalent to Amazon S3 (Simple Storage Service) is Google Cloud Storage. 
+
+Google Cloud Storage is a fully managed object storage solution designed for petabyte-scale data storage. It offers similar features to AWS S3, including:
+
+1. **Object Storage**: Store and serve any type of data, from terabytes to petabytes.
+2. **High Availability**: Data is automatically replicated across multiple zones within a region for high
+
+sample 59: In Google Cloud Platform (GCP), the service that is equivalent to Amazon S3 (Simple Storage Service) is Google Cloud Storage (GCS). Google Cloud Storage provides a similar object storage solution for storing and accessing data from anywhere on the internet. It offers a highly available, scalable, and secure environment for storing various types of data, including website assets, application components, and big data analytics pipelines.
+
+Key features of Google Cloud Storage include:
+
+1. **Scalability**:
+
+## c3__random_seed_314__ratio_0.75
+
+- Concept score: 1.0
+- Fluency score: 4.949166666666667
+- Samples: 60
+
+sample 0: Certainly! Here are some of the most well-known and popular American beer brands:
+
+1. Budweebrewery’s Budweiser (Bud Light is also a popular variant)
+2. Coors Light
+3. Miller Lite
+4. Heineken USA (also a global brand, but widely distributed in the U.S.)
+5. Stella Artois (another global brand that has strong representation in the U.S. market)
+6. Anheuser-Busch
+
+sample 1: Certainly! Here are some of the well-known and popular American beer brands:
+
+1. Budweiser (Anheuser-Busch InBev)
+2. Miller Lite (Anheuser-Busch InBev）
+3. Coors Light (Anheuser-Busch InBev）
+4. Heineken (Heineken International）
+5. Stella Artois (AB InBeвгóм InBeвгóм）
+6. Sam Adams (
+
+sample 2: Sure! Here are some popular American beer brands that you might find in many parts of the United States:
+
+1. Budweiser (Bud Light) - A well-known lager brand.
+2. Coors Light - Another popular lager, often associated with outdoor activities.
+3. Miller High Life (Miller Lite) - A light lager with a distinctive paper cup.
+4. Heineken USA - While not as widely distributed as the above, it’s a popular
+
+sample 3: Here are some popular American beer brands that you might find in various parts of the United States or around the world:
+
+1. Budweiser (Anheuser-Busch InBev)
+2. Coors Light (Anheuser-Busch InBev)
+3. Miller Lite (Anheuser-Busch InBev)
+4. Corona (Corona Imports, Inc.)
+5. Heineken (Heineken USA)
+6. Stella Artois (He
+
+sample 4: Here are some popular American beer brands that you might be familiar with:
+
+1. **Budweiser (Anheuser-Busch InBebía)**: One of the most well-known and widely distributed beers in the United States.
+2. **Corona (Grupo Modelo, now part of Anheuser-Busch InBebía’s Anhebía Group)**: A Mexican-style lager that has gained popularity in the U.S., especially for its association with
+
+sample 5: College Avenue in Berkeley, California, begins at the intersection with Dwight Road near the Berkeley Marina, extending northward through the city until it meets University Avenue just south of the University of California, Berkeley campus. Specifically:
+
+- **Start**: College Avenue starts at the intersection with Dwight Road near the Berkeley Marina. This is near the eastern edge of the city, bordering the Berkeley Marina and San Francisco Bay.
+- **End**: College Avenue ends where it meets University Avenue, just south
+
+sample 6: College Avenue in Berkeley, California, begins at the intersection with San Pablo Avenue (Highway 880’s exit route) near the eastern part of the city. It extends northward through the Berkeley hills and ends where it meets the University of California, Berkeley’s central campus, just south of the intersection with Dwight Road. College Avenue is a significant street in Berkeley, running parallel to the UC Berkeley campus and providing connections to several residential areas and businesses.
+
+sample 7: College Avenue in Berkeley, California, runs from the intersection with Hearst Avenue near the University of California, Berkeley’s Upper Division, to its intersection with Dwight Street in the south part of the city. Specifically:
+
+- **Starting Point:** College Avenue begins at the intersection with Hearst Avenue, which is located near the top of the Berkeley Hills, in the area of the UC Berkeley campus (specifically, the Upper Division of the campus). This area is known for its residential character
+
+sample 8: College Avenue in Berkeley, California, begins at the intersection with University Street near the UC Berkeley campus’s main gate, just north of the intersection with Shattallin Street. It runs eastward through the Berkeley Hills towards the Oakland border. College Avenue ends in the Oakland neighborhood of Piedmont, where it crosses the Oakland-Berkeley border and becomes Piedmont Avenue. Throughout its length, College Avenue intersects with several significant roads and neighborhoods, including San Pablo Avenue, Solano Avenue
+
+sample 9: College Avenue in Berkeley, California, begins at the intersection with University Avenue just north of the Berkeley Marina. It runs northward through the Berkeley Hills until it meets Telegraph Avenue, just south of the University of California, Berkeley campus. To be more specific:
+
+- **Start**: College Avenue starts where it meets University Avenue, near the Berkeley Marina, which is at the northern end of the street’s range.
+- **End**: College Avenue ends where it meets Telegraph Avenue, just south
+
+sample 10: Braising is a method of cooking that combines elements of both dry and wet cooking techniques. It involves partially cooking ingredients in a pot or pan over direct heat, then finishing the dish with a mixture of liquids (such as stock, water, or sauce) and either over direct heat or over a lower heat source. The key characteristics of braising are:
+
+1. **Using a Pot with a Lid**: The pot used for braising should be able to be closed tightly to trap
+
+sample 11: Braising is a cooking method that combines elements of both boiling and frying to prepare food. The process involves first browning the main ingredient in a pan, followed by adding enough liquid (such as water or stock) to cover about one-third of the ingredients. This mixture is then placed in a pot over a low heat source, where it can cook slowly until the dish is done. Braising can be used for a variety of ingredients, including meats (like beef, pork,
+
+sample 12: Braising is a cooking method that involves partially immersing food in liquid (such as water, stock, or sauce) and then cooking it over low heat on the stovetop or in the oven. This cooking process combines elements of both boiling and stewing. Here’s a breakdown of how braising works:
+
+1. **Initial Preparation**: The food to be cooked is often first fried or browned on its surface to create a nice crust, which can enhance the
+
+sample 13: Braising is a cooking method that involves partially boiling and then simmering food in a small amount of liquid (such as water, stock, or sauce) over a low heat. This technique can be used to cook a variety of ingredients, from vegetables to meats, and is often used to prepare stews, soups, and other hearty dishes. The process can be broken down into several steps:
+
+1. **Preparation**: Depending on the ingredient, you might need to prepare
+
+sample 14: Braising is a cooking method that involves first partially cooking the main ingredient (such as meat or vegetables) in a pan with some liquid (often a sauce or broth), and then finishing the dish in an oven or on the stovetop over low heat. This method combines elements of both frying and stewing techniques. Here are some key aspects of braising:
+
+1. **Preparation**: The main ingredient is often prepared first: it may be cut into pieces, seasoned
+
+sample 15: It seems there might be a typo in the title you provided; I couldn’t find a film with that exact title. Could you clarify or provide more details about the movie you’re referring to? For example, it could be “Marquise de Marmontel” (also known as “Marquise of Armagnac” in English), which is a French film from 1937 directed by André Hareux. If this is the one you’re
+
+sample 16: I believe you might be referring to the film “La Grande Murquette de Marquis de la Armantin” which is a French film that was released in 1923. However, it’s possible that there may be some confusion with the title as this title does not ring familiar as a well-known film title. It’s possible you might be thinking of another film or perhaps a different spelling of the title. 
+
+Could you provide more details about what you’re
+
+sample 17: It seems there might be a slight mix-up in the title of the movie. I believe you may be referring to “Marie Antoinette,” which is a film about Marie Antoinette, the Queen of France during the time of the French Revolution. The movie was released in 2008 and was directed by Mike Nichols. However, if you are referring to a different movie or a different spelling, please provide more details so I can help you with the correct
+
+sample 18: I believe you might be referring to “Marquise de Marnay,” which is a French film. However, there isn’t a well-known film titled “Marquise of Armiani.” It’s possible that there might be a mix-up in the title or name. Could you provide more details about what you’re looking for? I can help if you can clarify the title or provide more context about the film you’re trying to find information about.
+
+sample 19: It seems there might be a bit of a mix-up in the title you provided: “Marquise of Armiani” is not a well-known title for a widely recognized film. Could you provide more context or possibly check the spelling? 
+
+Perhaps you might be referring to:
+- “Marquise de Merteuil” which could be a reference to “Dangerous Liaisons” (1993), where the character Madame de Merteuil is portrayed, though
+
+sample 20: The player who has scored the most World Cup goals is Cristiano Ronaldo, with 18 goals as of the 2022 FIFA World Cup finals. However, it's important to note that at the time of writing, this number may have been updated or could be subject to changes during ongoing tournaments. Ronaldo’s goal count includes both World Cup finals and World Cup finals finals (World Cup finals is a placeholder for the correct term “finals” as “finals finals
+
+sample 21: The player who has scored the most World Cup goals is Cristiano Ronaldo, with 18 goals as of the 2022 FIFA World Cup finals. However, at the time of writing, this number can be updated or changed, so it's a good idea to check the latest sources for the most current information. Messi and Maradona are also notable in this category, with 15 and 15 goals respectively, though both are now retired. To get
+
+sample 22: The player who has scored the most World Cup goals is Diego Maradona, with 5 goals. However, it's worth noting that one of those goals (the infamous "Hand of God” goal in the 1986 World Cup quarter-final against Argentina by his own teammate, George Best, was actually not scored by Maradano but by his teammate). Maradona’s two goals in the final against England, including the famous “Goal of the Century,”
+
+sample 23: The player who has scored the most World Cup goals is Cristiano Ronaldo, with 18 goals as of the 2022 FIFA World Cup finals. However, at the time of writing, this answer should be double-checked because the final matches and potential additional goals can change this count. Ronaldo's impressive tally includes both World Cup finals and World Cup finals matches (including the semi-final and quarter-final). He is followed closely by Landon Kelley and Zinedine Zid
+
+sample 24: The player who has scored the most World Cup goals is Cristiano Ronaldo, with a total of 18 goals as of the 2022 World Cup final. However, as of the time of writing (September 2023), he has not yet been able to win the World Cup, having made it to the semi-final in 2014 and 2016 (Portugal’s semi-final appearance in the 2022 tournament
+
+sample 25: The character Fu Manchu was created by British author Sax Rohmer. Rohmer published the first story featuring this character in 1904, titled "The Mystery of the Fu Manchu Papers." The series then continued with various short stories and novels, with the most famous being "The Adventures of Dr. Gadgetscht,” where Fu Manchu is portrayed as a powerful and malevolent adversary. Rohmer's creation of the character became quite controversial due to the character
+
+sample 26: The character of Fu Manchu was created by British author Sax Rohmer, who published the first story about him in 1904. Rohmer wrote several novels and short stories featuring this character, which became popular in both the United States and England during the early 20th century. The series was known for its portrayal of Fu Manchu as an evil mastermind, leading to the character becoming a cultural reference for anti-intellectual fiction and a symbol of xen
+
+sample 27: The character of Fu Manchu was created by British author Sax Rohmer, who wrote the series of novels featuring this character in the early 20th century. The first story about Fu Manchu was published in 1904, and the character became one of the most notable fictional villains of the period. Rohmer’s stories were known for their sensationalist approach to depicting the character as a malevolent influence, which has since led to the term “Fu Manchu
+
+sample 28: The character of Fu Manchu was created by British author Sax Rohmer. Rohmer wrote several stories and novels featuring this character, which were published between 1904 and 1953. The character is known for his portrayal as an antagonist with criminal intentions, and the series became quite popular during its time, though it is now considered problematic due to its use of stereotypes and negative portrayals of Eastern culture.
+
+sample 29: The character Fu Manchu was created by British author Sax Rohmer, who published the first story about this character in 1904. The series of stories and novels featuring Dr. Fu Manchu were popular during the early 20th century, though the character is now considered problematic due to his portrayal as an antagonist with exaggerated characteristics often associated with negative stereotypes about Eastern culture and ethnicity.
+
+sample 30: The president of China before Xi Jinping was Hu Jintao. Hu Jintao served as the President of the People’s Republic of China from March 14, 2007, to March 11, 2013. Xi Jinping then succeeded Hu Jintao as the President of China in March 2013.
+
+sample 31: The president of China before Xi Jinping was Hu Jintao. Hu Jintao served as the President of the People’s Republic of China from March 14, 2003, to March 14, 2013, while he was the General Secretary of the Communist Party of China from October 15, 2004, to November 14, 2012. He then ceded both positions to Hu
+
+sample 32: The President of China before Xi Jinping was Hu Jintao. Hu Jintao served as the President of the People’s Republic of China from March 14, 2007, to March 14, 2013. After Hu Jintao, Xi Jinping became the President of China, followed by Xi taking on the role of President and then President of the Central Military Commission (China’s highest-ranking position) after Hu stepped down. Xi
+
+sample 33: The President of China before Xi Jinping was Hu Jintao. Hu Jintao served as the General Secretary of the Central Committee of the Communist Party of China from October 2007 to March 2012 and then became the President of China from March 2008 to March 2013. Xi Jinping succeeded Hu Jintao as both the General Secretary and President in 2012.
+
+sample 34: The President of China before Xi Jinping was Hu Jintao. Hu Jintao served as the President of the People’s Republic of China from March 14, 2007, to March 14, 2013. After Hu Jintao, Xi Jinping became the President of China, a position he held until 2018 when the title of President was replaced with the title of State President, while Xi took on the role
+
+sample 35: A professional football field (which is referred to as a soccer field in the International Football Association Board's rules) has specific dimensions that must be adhered to for international matches and many professional leagues. According to the Laws of the Game, the length of the pitch (field) must be between 100 meters (1,000 meters or 1,080 yards) and 115 meters (202 meters or 675 yards
+
+sample 36: A professional football field, also known as a soccer field (using the term "football" to refer to association football, which is the sport's name in most of the world), has specific dimensions that must be adhered to according to FIFA’s Laws of the Game. The length of the pitch (field) must be between 100 yards (91.44 meters) and 110 yards (100.98 meters) for international competitions
+
+sample 37: A professional football field, according to the rules of FIFA (the international federation for football/Football/Soccer) for both men's and women's matches, must have the following dimensions:
+
+- The length of the field should be between 100 meters (987.62 feet) and 105 meters (949.86 feet).
+- The width of the field should be between 65 meters (698.64
+
+sample 38: A professional football field, also known as a soccer field (using the term "football" to refer to association football), has specific dimensions that are typically measured in yards. According to international rules, the length of the field must be between 100 and 110 meters (328.88 feet to 360.89 feet). The width must be between 67 and 100 meters (220.49
+
+sample 39: A professional football field (or soccer field as it is referred to in many parts of the world) has specific dimensions that must be adhered to according to FIFA’s Laws of the Game. The length of the field should be between 100 yards (98 meters) and 110 yards (100 meters), with the width ranging from 70 yards (64 meters) to 80 yards (73 meters). 
+
+For the specific
+
+sample 40: Here are five capital cities of U.S. states (not to be confused with Washington, D.C., which is the capital of the United States federal government):
+
+1. Washington, D.C. - This is the capital of the United States federal government.
+2. Boston - The capital of Massachusetts
+3. New Orleans - The capital of Louisiana
+4. Denver - The capital of Colorado
+5. Phoenix - The capital of Arizona
+
+If you meant to ask about U.S
+
+sample 41: Here are five capital cities of states in the USA (note that the United States has only one federal capital, Washington, D.C., which is not a state capital but the nation's capital for federal matters):
+
+1. Washington, D.C. - The federal capital of the United States
+2. Denver, Colorado - The capital of Colorado
+3. Phoenix, Arizona - The capital of Arizona
+4. Austin, Texas - The capital of Texas
+5. Sacramento, California
+
+sample 42: The United States is not a country that has a capital city; it has one capital city, which is Washington, D.C. However, many states in the U.S. have their own capital cities. Here are five of those capital cities:
+
+1. Washington, D.C. - The capital of the United States (not a state, but the federal district)
+2. Washington, D.C. (Again, this is the same as above, as it’s the national capital
+
+sample 43: Here are five capital cities within the United States (note that the United States only has one capital city, which is Washington, D.C., but I will provide five other significant capital city names from various U.S. states for your request: 
+
+1. Washington, D.C. - The capital of the United States
+2. Springfield, Illinois - The capital of Illinois
+3. Boston, Massachusetts - Although not the capital (that title goes to Boston’s statehouse in Boston
+
+sample 44: The United States is not a country that has a capital city; it has one capital city, which is Washington, D.C. However, several other cities in the U.S. are state capitals. Here are five state capitals in the USA:
+
+1. Washington, D.C. - The federal capital of the United States (not a state capital)
+2. New York City - Capital of New York State
+3. Denver - Capital of Colorado
+4. Phoenix - Capital of
+
+sample 45: Heterosis, also known as hybrid vigor, is a phenomenon in biology where the next generation of plants or animals that combines traits from two different parents exhibits improved qualities more than either parent. This can manifest in various ways, including better health, stronger immune systems, higher resistance to diseases or environmental stressors, greater size or strength, and improved performance in specific tasks or functions.
+
+Heterosis is a fundamental concept in both plant and animal breeding, where breeders often use the
+
+sample 46: Heterosis, also known as hybrid vigor, is a biological phenomenon where the next generation of organisms, which are hybrids from parents with different traits or characteristics, exhibit enhanced qualities compared to their parents. This can manifest in various forms, including improved health, greater size, better performance, or other beneficial traits.
+
+Heterosis is a well-documented effect in both plant and animal systems. It occurs because the combination of different genetic traits from two different parents can sometimes result in more
+
+sample 47: Heterosis, also known as hybrid vigor, is a phenomenon in biology where the next generation of organisms (hybrids) displays enhanced or more robust traits compared to either of the parent organisms. This can be seen in both plant and animal systems. The term “heterosis” comes from the word “hetero,” which means different, indicating that the hybrid combines traits from two different parents. 
+
+Key points about heterosis:
+
+1. **Enhanced Traits**: The
+
+sample 48: Heterosis, also known as hybrid vigor, is a biological concept that refers to the improved or more robust traits of a first-generation hybrid offspring compared to either of the parents. This phenomenon can be observed in various contexts, including agriculture, animal husbandry, and plant biology.
+
+Key points about heterosis:
+
+1. **Genetic Basis**: Heterosis is thought to be due to the combination of different genetic traits from both parents, which can sometimes result in beneficial interactions (
+
+sample 49: Heterosis, also known as hybrid vigor, is a biological phenomenon where the next generation of organisms (hybrids) displays enhanced or more robust traits compared to their parents. This can occur in various contexts, including plant and animal breeding. Here are some key points about heterosis:
+
+1. **Nature of the Phenomenon**: Heterosis can be expressed at the phenotypic level, meaning it’s observable characteristics such as size, growth rate, disease resistance, or
+
+sample 50: Korea was separated into North Korea and South Korea during the process of Japanese colonial rule’s end and subsequent occupation by Allied forces, particularly the United States and the Union of Soviet Socialist Republics (Soviet Union). The division occurred more prominently when the Korean Peninsula was occupied by these two powers in 1945 after Japan’s defeat in World War II.
+
+The formal separation was established on August 10, 1945, with the Japanese Emperor’s
+
+sample 51: Korea was separated into two nations during the process of Japan’s surrender and subsequent occupation by Allied forces at the end of World War II in 1945. The primary event that led to this separation was the agreement between the United States and the United Kingdom (which then represented Great Britain) at the Yalta Conference in February 1945. At this conference, it was agreed to divide Korea along the 38th parallel, with the U.S.
+
+sample 52: Korea was separated into two nations during the process of Japan’s surrender and subsequent negotiations to end World War II in the Pacific. The primary event that led to this separation was the Yalta Agreement, signed in February 1945 by representatives from the United States, Great Britain, and the Union of Soviet Socialist Republics (USSR). The agreement included plans for the occupation of Japan's former colonies, including Korea, which was then under Japanese rule.
+
+The International
+
+sample 53: Korea was separated into North Korea and South Korea during the process of Japan's surrender in World War II, which ultimately led to the establishment of two separate nations. The primary catalyst for this separation was the agreement between the United States and the Union of Soviet Socialist Republics (Soviet Union) at the Yalta Conference in February 1945. The U.S. agreed to take charge of the southern part of Korea (the Korean Peninsula south of the 3
+
+sample 54: Korea was separated into two nations during World War II and shortly after, when the area was under Japanese colonial rule. The division was initially proposed by the United States and the Union of Soviet Socialist Republics (USSR) at the Yalta Conference in February 1945. The agreement was to occupy Korea south of the 38th parallel by the United States and north of the 38th Parallel by the USSR. This division was then formalized
+
+sample 55: In Google Cloud Platform (GCP), the service that is equivalent to Amazon S3 (Simple Storage Service) is Google Cloud Storage (GCS). Both services provide object storage for a wide range of use cases, including storing and accessing data — from anywhere, over the internet. Here are some key features and similarities between S3 and GCS:
+
+1. **Data Storage**: Both S3 and GCS allow you to store and access data in a scalable and highly-reliable
+
+sample 56: In Google Cloud Platform (GCP), the service that is equivalent to Amazon S3 (Simple Storage Service) is Google Cloud Storage (GCS). GCS is a scalable and highly-reliable object storage system that provides a similar interface to Amazon S3 for storing and accessing data on the fly—be it for applications or for petabyte-scale big data projects. Both services offer similar features such as:
+
+1. **Object-level data storage**: Both allow you to store and retrieve
+
+sample 57: In Google Cloud Platform (GCP), the service that is equivalent to Amazon S3 (Simple Storage Service) is Google Cloud Storage (GCS). Both services provide object storage for storing and accessing data—such as websites and mobile app data—over the web. Here are some key features of Google Cloud Storage that make it similar to Amazon S3:
+
+1. **Object-Level Storage**: Both S3 and GCS support storing data at the object level, which can be files
+
+sample 58: In Google Cloud Platform (GCP), the service that is equivalent to Amazon S3 (Simple Storage Service) is Google Cloud Storage (GCS). Both services provide object storage with scalable data storage solutions for a variety of use cases, including web app infrastructure, static website hosting, and more. Here are some key features that GCS offers, which are similar to what you might expect from S3:
+
+1. **Object-Level Storage**: Both S3 and GCS allow you
+
+sample 59: In Google Cloud Platform (GCP), the service that is equivalent to Amazon S3 (Simple Storage Service) is Google Cloud Storage (GCS). Both services provide scalable file storage for a variety of use cases, including website assets, mobile app data, and more. Here are some key features and comparisons:
+
+### Key Features of Google Cloud Storage (GCS):
+1. **Data Transfer**: Similar to S3’s Transfer Family, GCS has its own set of tools and
+
+## c3__random_seed_314__ratio_1.0
+
+- Concept score: 1.0
+- Fluency score: 4.933333333333334
+- Samples: 60
+
+sample 0: Here are some well-known American beer brands that have gained popularity across the country and in various parts of the world: 
+
+1. Anheussys’s Budweiser (Bud Light is also widely popular) - Both are very popular among a wide range of consumers, especially those looking for a more accessible, mainstream option. 
+2. Miller Lite (Miller High 30 is another popular variant, with the “30” being the amount of ounces to be drunk
+
+sample 1: Here are some well-known American beer brands that have gained popularity across the country and around the world: 
+
+1. Budwe伯米酒公司er (Budweiser）：The Budweiser brand is one of the most widely distributed beer brands in the United States. It’s known for its red and black checkered packaging and the famous Budweiser brewery’s mascot, the Budweiser Brewery Boy. 
+
+2. Coors 癸诺酒厂（Co
+
+sample 2: Here are some of the popular American beer brands that are well-known for their variety and popularity in the United States:
+1. Budwe伯民博尔Brew (Budweiser）**
+2. Coors Light（科罗娜轻盈系列）**
+3. Heineken（百乐嘉利宝）**
+4. Samuel Heathy Ales（萨缪尔·格拉哈姆·布洛克啤酒公司系列中的高端系列，可直接用
+
+sample 3: Here are some well-known American beer brands that have a significant presence in the U’s beer market, both for their production and distribution across the country, as well as their popularity and brand recognition. 
+
+1. Budwe伯曼啤酒er (Budweiser）：Budweiser is one of the most recognizable and widely distributed beer brands in the United States, known for its red and black checkered label and the company’s mascot, the Bud Light “Bud
+
+sample 4: Here are some of the well-known and popular American beer brands to share: 
+
+1. Budwell Classic (Budweebil’s) - A lager that is widely distributed in the United States. It’s one of the most popular beers in the U.S., especially for its price point and popularity during sports events. 
+
+2. Coors Now (Blue Label）- Another well-known lager, Coors Now has a modern twist with a slightly higher price point
+
+sample 5: College Avenue in Berkeley, California extends from the intersection of the Alameda Transportation Corridor (Highway 980’s route 101 interchange) and College Avenue at the top of the Berkeley Peninsula, all the way down to the intersection with Telegraph Avenue near the top of the Berkeley Hills. The College Avenue area is an important part of the city’s infrastructure, spanning about 2.5 miles (about 4 miles in some reports, including parts of Oakland’s
+
+sample 6: College Avenue in Berkeley, California, begins at the intersection with Interstate 880 (Berkeley’s eastern boundary), just north of the Cal-Pac Bridge (Highway 980’s northern terminus). It extends to the intersection with Highways 980 and 988 (Berkeley’s eastern boundary, near the east side of the University of California, Berkeley campus, where the road becomes Broadway, which is part of the San Pablo Avenue system
+
+sample 7: College Avenue in Berkeley, California, begins at the intersection with San Pablo Avenue (the southern boundary of the Berkeley city limits), near the east end of the Oakland–Berkeley Ferry Railroad’s Alameda Rail Line. It then extends northward through the eastern part of the Berkeley campus of the University of California, Berkeley, and eventually ends where it meets Telegraph Avenue, just north of the intersection with Oxford Street. Throughout its length, College Avenue is a significant street for both transportation and
+
+sample 8: College Avenue in Berkeley, California extends from the intersection with Milhollin Street at the top of the Berkeley Peninsula (near the UC Berkeley campus’s Spadango area, where you can pay to park your vehicle on the hill there to avoid parking issues on the main campus during events and fairs throughout the year) all the way down to the intersection with San Pablo Avenue near the intersection with the Berkeley-Martinez Ferry’s landing site, which is about a 2-mile
+
+sample 9: College Avenue in Berkeley, California, begins at the intersection with University Street just north of the Berkeley Marina, near the San Pablo Avenue intersection. It runs parallel to the Berkeley Marina’s street grid. College Avenue extends northward through the campus of UC Berkeley, eventually ending where it meets the intersection of College Street and Shattlesworth Road (a block past Haste Street, which is the last street that intersects with College Avenue within the Berkeley city limits). The southern end of College
+
+sample 10: Braising is a cooking technique that involves two stages: first, the food (such as meat or vegetables) is placed in a pan with a small amount of liquid (such as water, stock, or sauce), and then the dish is cooked over a direct heat source (directly on the stove or in a pot on the stove’s element, or in a pot set on a heat source, such as a braise in a pot on a stovetop or
+
+sample 11: Braising is a cooking technique that involves combining a food (usually a meat or fish, but can also be vegetables) with a liquid (such as water, stock, or a braise’s base, which could include ingredients like onions, garlic, and herbs) and then cooking it in the mixture on the stovetop or in the oven. This method of cooking can be both a main dish and a way to prepare ingredients for further use, such as being used
+
+sample 12: Braising is a cooking technique that involves cooking food in a mixture of water and liquids (such as stocks, soups, or broths) on the stovertop. The process can be broken down into two main parts: first, the dish is cooked over direct heat until the ingredients are hot and partially cooked (which can be done on the stovetop or in a pot on the stove’s heating element). Then, the mixture is transferred to a pot
+
+sample 13: Braising is a cooking technique that involves combining a food item (such as meat or vegetables) with a liquid (such as water or broth) and then boiling it down to a milder热度（可能需要提供更多的细节以给出合适的翻译，这里使用“热度”作为示例进行翻译）的烹饪过程，最终将食物与液体一起慢慢加热，直到液体被大部分蒸发，食材充分吸收锅中的汁液，从而达到烹饪和烹饪过程中添加额外
+
+sample 14: Braising is a method of cooking that combines elements of both stewing and frying. This technique involves placing ingredients in a pan with enough liquid to cover about one-third of the item’s depth (or not if it’s a dish where you want the braise to be more of a dry mixture). The ingredients are then cooked over a range of heat settings, from hot to cool, to produce a dish that has a combination of flavors and textures. Here are some key aspects
+
+sample 15: It appears there might be a slight issue with the title you provided: “Marquise of Armiani” does not seem to be the name of a well-known film. It could either be a typo or possibly a movie title from a language that isn’t widely represented in the mainstream media. Could you please provide more details about what the original title is in its original language or any other information about this movie that might help me to find the correct title or provide the information you
+
+sample 16: “Marquise de Margarita” (or “Marquise de Margarita and the Countess de St. Valeria” in some titles, also known as “Marquise de Margarita y el Conde de St. Valeria” in its original Spanish title）is a film that was released in 2016, directed by Andrés Vicent and is set in the French countryside during the period of the Marquise de Mar
+
+sample 17: It appears there might be a typo in your query. I’ll try to address both the potential titles: “Marquess of Armanni” and “Marquise de Marignan,” which could be what you’re trying to refer to. Let’s address each one separately:
+
+1. **“Marquess of Armanni”**: This is not a well-known title that corresponds to a movie. It may be a typo or a character name from another source. Please
+
+sample 18: It appears there might be a slight discrepancy in the title as I haven’t found a film that can be directly associated with “Marquise of Armiani.” Could you please clarify or provide more details about what the title should be, or any additional information to help me find the correct film’s details: “Marquis de Armanni,” “Marquess of Armanni,” or perhaps another spelling or name. It could also be a title in a language other than English,
+
+sample 19: “Marquise de Margani” appears to be a title that may not be the name of a well-known film. It could be either a spelling issue or a typo, as the movie title “Marquise de Martigny” (which is a similar spelling to what you might have meant) can be found in the form of a film title. However, it’s not a well-known film series or title. Could you provide more details about what movie you’re
+
+sample 20: The player who has scored the most World Cup goals is Argentina’s Diego Maradón, with a total of 12 World Cup goals during his two World Cup participations in 1998 and 1994 (he did not play in the 1990 finals as he was serving a prison sentence for being the accomplice of one of the criminals who stole the Argentine national team’s trophy ship in 1992, which is a
+
+sample 21: The player who has scored the most World Cup goals is Argentina’s Diego Maradón, followed by Argentina’s Lionel Messi, who currently holds the record for the most goals in the finals (15 goals during the finals, including 8 during the finals of the 2022 World Cup, where he won the World Cup for Argentina). Maradón and Messi both have 11 World Cup World Cup goals, with Maradón’s being during his two World
+
+sample 22: The player who has scored the most World Cup goals is Cristiano Ronaldo, with 16 World Cup goals as of the 2022 FIFA World Cup final. However, it’s important to note that at the time of writing (which is not the current date, so I need to consider the most up-to-date information when someone is asking this question), the answer might be different. To provide the most accurate answer, you should check the latest news or reliable sports news
+
+sample 23: The player who has scored the most World Cup goals is Argentina’s Diego Maradón, followed by Argentina’s Lionel Messi, who currently holds the second-highest count. As of the 2022 World Cup, Maradón’s count is 15 goals (he played in two World Cups: 1986 and 1994). Messi’s count is 18, which includes 11 during his participation from 200
+
+sample 24: The player who has scored the most World Cup goals is Argentina’s Diego Maradón, followed by Argentina’s Lionel Messi, and then Germany’s Javier Panzani (who shares the count with Luís Márquez of Uruguay and Eusebio Hidalgo of Paraguay, though it’s possible to update this as there could be more recent counts). Maradón’s count is 13 goals, which includes 5 in the finals during the 199
+
+sample 25: The character Fu Manchu was created by British author Sax Hoyges (pen name Sir Arthur Kíngland, pseudonym Karl Jacob Múllinger). The series of stories about Fu Manchu’s character were originally published in the magazine “Blackwood’s Magazine” in 1902, and then the first short story collection was published in 1915 under the title “The Adventures of Dr. Gómez de Liébano and Mr.
+
+sample 26: The character Fu Manchu was created by British writer Sax Rohmer, who published the first story about him in 1904 in a short story titled “The Serial Story of Dr. Fuller’s Extraordinary Occurrences.” The character was then featured in several short stories and short-story collections, as well as three short-story anthabets (or series books) and two novel-length stories. The character’s name is a play on the word “manchukoyal,”
+
+sample 27: The character of Fu Manchu was created by British author Sax Hoyges, who used the pen name Frank D. Miles. He wrote several stories about the character, which were then serialized in the magazine “Blackwood’s Magazine” in 1902, and were eventually published as a book titled “The Story of His Structure,” which was published in 1915. The character became quite popular, and several other authors wrote stories featuring Fu Manchu or his
+
+sample 28: The character Fu Manchu was created by British writer Sax Hugo (pen name Sir Arthur Kíngland, though “Kíllarren” is the name’s spelling in the first story to appear, “The Story of the Fu-Ma Machine,” in The Black Rose, No. 14, February 27, 1901, which is the first of the series’ publication date in the United States, though the stories were serialized in The
+
+sample 29: The character Fu Manchu was created by British author Sax Rohmer, who published several stories about him between 1902 and 1953. The first story to introduce the character was “The Story of ‘Dr. Muenckenn’s’ Tale,” which was published in Blackwood’s Magazine in 1904. The character became the central character in the series, with his stories being published in various publications until the series ended in 1
+
+sample 30: Before Xi Jinping, the President of China (who is the title used in the U.S. for the head of the state, which is not the same as the Head of the Government, who is referred to as the President in China’s system) is Hu Jiaoti (Hu Jiaotong, Hó Míngyuán, or Huáng Yì, also known as Hu Jiaotong or Hu Jintao). Hu Jiaotong was
+
+sample 31: The president of China before Xi Jinping was Hu Jiaotao, who held the title from December 23, 2012, to March 10, 2017. After Hu Jiaotao, Xi Jinping became the President of China during the National People’s Congress held in March 2017.
+
+sample 32: The president of China before Xi Jinping (习近平) is Hu Jiaoti (胡锦涛), who served from March 9, 2007, to March 10, 2012, during which he is also referred to as Hu Wenzheng (胡温, Wen being the last name of Hu’s wife). After Hu Jiaoti, Xi Jinping became the President of China, following the order of the Chinese government’s leadership to
+
+sample 33: The President of China before Xi Jinping was Hu Jiaotong (胡锦涛, Hu Jìtiào). He served as the President from March 10, 2007, to March 14, 2012, during which he also held the title of President of the Central Military Commission. After Hu Jiaotong, Xi Jinping became the President of China and the President of the Central Military Commission, beginning on March 1
+
+sample 34: The President of China before Xi Jinping (习近平) is Hu Jiaotao (胡锦涛). Hu Jiaotao served as the President of China from March 10, 2007, to March 10, 2012, during which he also held the title of President of the Central Military Commission. Xi Jinping then took over as the President of China and the Central Military Commission from March 14, 201
+
+sample 35: The length of a professional football field (or soccer field, as it is referred to in many parts of the world, including England and South America, where the sport’s name is “football” vs. “American football,” which is the sport using the term “field” in its name) can vary slightly depending on what part of the world the field is located in. According to international rules, the field must be between 108 to 235 feet (
+
+sample 36: The length of a professional football field (or soccer field, as they are referred to in the United Kingdom and other parts of the world) is typically between 108 feet (201.12 meters) and 387 feet (611.24 meters), measured along the goal line and midline. The length must be between 2 meters (about 32 feet) and 1 meter (about 5/8 of an
+
+sample 37: A professional football field (which is referred to as a soccer field in the United States and Canada, while the term "football field” can refer to American Football or American Gridiron, which have different measurements) has specific dimensions that must be adhered to according to FIFA’s rules for international matches. The length of the field, measured along the goal line and midline (which together make up the length of the field), must be between 108.2 meters (
+
+sample 38: A professional football field (or soccer field in some regions) has specific measurements that must be adhered to according to the rules of FIFA (the International Football/Football Federation). The length of the pitch (field) must be between 108 meters (120 yards) and 100 meters (328 feet 3 inches), with the width ranging from 62 meters (622 feet 7 inches) to 65 meters
+
+sample 39: A professional football field, or what is often referred to in the United States as a American football field (which is what is typically meant when “football field” is used in that context), has a length of 110 yards (or about 321.89 feet or 321.89 meters). The length of the field is measured from one goal to the other, including the lengths of both goal areas. The field itself (excluding the
+
+sample 40: Here are five capital cities in the United States, although it’s important to note that not all states have a city named as the capital; some states use the word “Capital” to refer to the area where the state government is located, which can be the same as the name of the city or a different one. Here are five of the most well-known ones:
+
+1. Washington, D.C. - The capital of the United States (not to be confused with any state
+
+sample 41: Here are five capital cities of U.S. states (not to be confused with the U.S. capital, which is Washington, D.C.): 
+
+1. Washington, D.C. - The capital of the United States (to compare directly to your question, this one is not a state but the federal district where the U.S. is governed, but it’s often included in lists of “capital cities” for comparison or as an example.）
+2. New York City
+
+sample 42: Here are five capital cities that I believe you may be referring to, as it’s possible to name different cities as “capital” based on what context is being used (for example, state capitals or another level of governance’s capital, though the USA has only one federal capital, which is Washington, D.C.**): 
+
+1. Washington, D.C. - The U.S. capital where the federal government is located. This is where many important institutions such as the U
+
+sample 43: Here are five capital cities that are not the primary one (Washington D.C.): 
+
+1. Washington D.C. - The primary capital of the United States, located in the northeastern part of the country’s East Coast. (Note: This is the one to use if you’re referring to the main capital; you may want to clarify if this is the one your question was intended to include or if you need examples of state capitals. I’ll provide state capitals next:)
+
+sample 44: The United States has several states and one U.S. territory that can be represented with a capital city, but the main country-level capital is Washington D.C., which is not a state. Here are five U.S. state capitals: 
+
+1. Washington D.C. - The nation’s capital, where many important U.S. institutions are located, including the White House, the U.S. Capitol, and the Supreme Court. (Note: This is the primary capital of the
+
+sample 45: Heterosis, also known as hybridization or hybrid vigor, is a term used in biology and agriculture to refer to the improved or more trait-quality when a first-generation hybrid’s characteristics are combined better than those of its parents’ traits. This can be applied both at the cellular level (where it is called heterotic effect) and at the level of the whole organism. Here are some key points about heterosis:
+
+1. **Basic Concept**: Heterosis is a type
+
+sample 46: Heterosis, also known as hybrid vigor, is a term used in biology and agriculture to describe the phenomenon where a hybrid’s performance (physical and/or attributes) is improved compared to that of its parents. This can be applied to various traits, including health, disease resistance, strength, or growth rate. Heterotic traits can be either more than the sum of the parents’ characteristics (the positive effect of the combination of different traits from the two parents, which can be
+
+sample 47: Heterosis, also known as hybrid vigor, is a term used in biology and agriculture to describe the improved or more desirable attributes that can be obtained when hybrids are produced from parents that are genetically more different than usual. This phenomenon can be observed in both plant and animal systems. Here’s a breakdown of what heterosis entails:
+
+1. **Genetic Heterogeneity**: The main characteristic of heterosis is the use of two different organisms (parents) to produce a new organism
+
+sample 48: Heterosis, also known as hybridization or hybrid vigor, is a term used in biology and agriculture to describe the improved traits of a next-generation (F1 generation) hybrid that are superior to those of either of its parent generations (the P1 and P2 generations). This can occur at the phenotypial level (observable characteristics: physical, physiological, etc.) or at the genotypial level (genetic level). 
+
+Key points about heterosis:
+
+1.
+
+sample 49: Heterosis, also known as hybrid vigor, is a term used in biology and agriculture to describe the phenomenon where the combination of traits in a hybrid (the offspring of two different populations or species) is superior to those of either of the parents. This can be applied to various characteristics, including physical health, disease resistance, and performance. Here’s a breakdown of the concept:
+
+1. **Nature of the Question**: Heterotic properties can be both beneficial and detrimental; however
+
+sample 50: Korea was separated into two nations during the process of Japan’s surrender and subsequent control by Allied forces, particularly the United States and the Soviet Union in 1945 to 16 months after, when the British and the Americans took over the southern part of Korea (the area north of the 38th parallel, except for the Liaison Rail Carroad, which was under U.S. control until September 16, 1927, when
+
+sample 51: Korea was separated into two nations during the process of Japan’s surrender and subsequent control by Allied forces, particularly the United States and the Soviet Union in August and September of 1945, following Japan’s surrender to end World War II. The primary distinction was made along the 38th parallel, where the United States took charge of the area north of that line, while the Soviet Union controlled the region south of that boundary. This separation was intended as a temporary
+
+sample 52: Korea was separated into two nations during the process of Japan’s colonization being replaced by the Allied Powers’ control after World’s War II, ultimately resulting in the establishment of two separate nations: North and South Korea. The primary event that led to this separation was the division of Korea’s territory, which occurred when Japan’s surrender ended World War II in 1945. 
+
+The U.S. and the Soviet Union then took over the areas they controlled (the U.S
+
+sample 53: Korea was separated into two nations during the process of Japan’s surrender and subsequent colonization, which occurred during World War II (WWII). The primary event that led to this separation was the signing of the agreement to end the war, which was then followed by the division of the region by the United States and Great Britain, where they placed a boundary at the latitude of the 38th parallel. This was to be a temporary measure to facilitate the Japanese surrender and subsequent control
+
+sample 54: Korea was separated into two nations during the process of Japan’s surrender and subsequent control by the United States and the Union of Soviet Socialist Republics (Soviet Union) in 1945 to 16 months after, when the area was under British and American military control. The primary separation occurred on September 16, 1938, when the Soviet Union and the British Empire (which then included the American base on the Korean Peninsula at Port
+
+sample 55: In Google Cloud Platform (GCP’s), the service that is equivalent to Amazon S3 (S3 is AWS’s object storage service) is Google Cloud Storage (GCS). Both services provide similar features for storing and accessing data on the fly, including data storage, data transfer, and data security. Here are some key comparisons and similarities between GCS and S3:
+
+1. **Object Storage**: Both S3 and GCS are object storage services, which means you can
+
+sample 56: In Google’s Cloud Platform (GCP), the service that is equivalent to Amazon S3 (S3 is AWS’s S3 object storage service) is Google Cloud Storage. Google Cloud Storage provides similar features for storing and accessing data over the web. Here are some key similarities and comparisons between Google Cloud Storage and S3: 
+
+1. **Data Storage**: Both services provide scalable data storage for various types of applications, including websites, mobile app services, and more. They can
+
+sample 57: In Google’s Google Cloud Platform (GCP, GCP’s primary object storage service is named **Cloud Storage**. The Cloud Storage service provides similar features and capabilities to Amazon’s S3 (S3 is AWS’s S3, which is Amazon’s Simple Storage Service). Both services offer the ability to store and serve static web pages, data in motion, and data at rest, with support for various data types and APIs for different programming languages. Here are some key equivalencies
+
+sample 58: In Google Cloud Platform (GCP’s), the service that is equivalent to Amazon S3 (S3 is Amazon’s S3, which is a part of AWS, Amazon’s cloud computing platform’s storage service for storing and accessing data over the web）is Google Cloud Storage (GCS). 
+
+Google Cloud Storage is a service that provides petabyte-scale storage for a wide range of types of items, including files in the form of blobs (arbitrary bytes or text, including
+
+sample 59: In Google Cloud Platform (GCP’s), the service that is equivalent to Amazon S3 (S3 is Amazon’s S3 object storage service) is Google Cloud Storage (GCS). GCS provides an analogous service for storing and accessing data over the web, with similar features such as: 
+
+- Data can be stored in a hierarchical structure of buckets and objects (similar to the file and folder structure on your computer or server, where “bucket” is the folder and “
+
+## c3__random_seed_2718__ratio_0.5
+
+- Concept score: 1.0133333333333332
+- Fluency score: 4.9158333333333335
+- Samples: 60
+
+sample 0: Certainly! Here are some popular American beer brands:
+
+1. **Budweiser** - Part of Anheuser-Busch InBev, this is one of the most widely distributed beers in the United States.
+2. **Coors Light** - Also part of the Anheuser-Busch InBev family, Coors Light is known for its light taste and refreshing profile.
+3. **Miller Lite** - A light beer from MillerCoors (a joint
+
+sample 1: Certainly! Here are some popular American beer brands:
+
+1. **Budweiser** - Part of Anheuser-Busch InBev, this is one of the most well-known and widely distributed beers in the United States.
+
+2. **Coors Light** - Also part of the Coors Brewing Company, this is another very popular lager in the U.S., known for its light taste.
+
+3. **Miller Lite** - A brand under SABMiller (
+
+sample 2: Certainly! Here are some popular American beer brands:
+
+1. **Budweiser** - Part of Anheuser-Busch InBev, this is one of the most well-known and widely distributed beers in the United States.
+2. **Coors Light** - Also part of the Molson Coors Brewing Company, this brand is popular for its light taste and refreshing profile.
+3. **Miller Lite** - Another product from Molson Coors, this beer is
+
+sample 3: Certainly! Here are some popular American beer brands:
+
+1. **Budweiser** - Part of Anheuser-Busch InBev, this is one of the most widely distributed and recognized beers in the United States.
+2. **Coors Light** - Also part of the Coors Brewing Company, which is owned by SABMiller (now merged into Anheuser-Busch InBev), this is a light beer that has been popular for decades.
+3
+
+sample 4: Certainly! Here are some popular American beer brands:
+
+1. **Budweiser** - One of the most recognizable and widely distributed beers in the United States.
+2. **Coors Light** - Known for its light taste, this beer is part of the Coors Brewing Company.
+3 **Heineken** - While it's international, Heineken has a significant presence in the U.S. market.
+4. **Miller Lite** - Another light beer that is
+
+sample 5: College Avenue in Berkeley, California runs from the intersection of San Pablo Avenue at the south end to the University of California, Berkeley campus near the north end. Specifically:
+
+- **South End**: College Avenue begins at the intersection with San Pablo Avenue, which is part of the city limits in El Cerrito, just south of the Berkeley city line.
+
+- **North End**: College Avenue ends at the University of California, Berkeley campus, where it intersects with several campus streets including Dwight
+
+sample 6: College Avenue in Berkeley, CA, runs from the intersection of San Pablo Avenue at the south end to the intersection of Shattuck Avenue at the north end. Specifically:
+
+- **South End**: College Avenue begins at San Pablo Avenue, which is part of Interstate 881.
+
+- **North End**: College Avenue ends at Shattuck Avenue, where it intersects with several other major streets and buildings, including the UC Berkeley campus.
+
+College Avenue is a significant street in Berkeley
+
+sample 7: College Avenue in Berkeley, California runs from the intersection of San Pablo Avenue and College Avenue at the southern end of the University of California, Berkeley campus to the intersection with Shattuck Avenue near the north end of the campus. Specifically:
+
+- Southern end: At the intersection of San Pablo Avenue and College Avenue.
+- Northern end: At the intersection of College Avenue and Shattuck Avenue.
+
+College Avenue is part of Route 37, which connects the university to the downtown area
+
+sample 8: College Avenue in Berkeley, California, begins at the intersection with San Pablo Avenue in the south and ends at the intersection with University Avenue in the north. The street runs parallel to the UC Berkeley campus and is part of Route 36, which connects the city to other areas in the East Bay.
+
+sample 9: College Avenue in Berkeley, California runs from the intersection of San Pablo Avenue in the south to the University of California, Berkeley campus in the north. Specifically:
+
+- **South End**: College Avenue begins at San Pablo Avenue, which is at the southern boundary of the city of Berkeley.
+- **North End**: The northern end of College Avenue is near the intersection with Hearst Avenue within the university campus, but it continues past this point into the UC Berkeley campus area.
+
+College Avenue is
+
+sample 10: Braising is a cooking technique that involves cooking food in a small amount of liquid in a covered pan on the stovetop or in an oven. This method combines both dry and wet cooking methods, as it starts with searing the food to create a browned surface, then cooks it in a mixture of liquid and steam. The process allows the food to cook slowly, which helps tenderize tougher cuts of meat and ensures that the flavors are well-integrated.
+
+Here’s
+
+sample 11: Braising is a cooking technique that involves cooking food in a small amount of liquid in a covered pan on the stovetop or in an oven. This method combines elements of both stewing and roasting to produce dishes that are tender and flavorful.
+
+Here are some key aspects of braising:
+
+1. **Preparation**: The food is often first seared to create a browned crust (which can be done with meat) before adding liquid to the pan. Vegetables
+
+sample 12: Braising is a cooking technique that involves cooking food in a small amount of liquid, usually in a covered pan, and typically involves two stages: first the food is seared to seal in the flavors and prevent moisture loss, then it's cooked with liquid, often in a slower cooking method like stewing or simmering, to tenderize the meat or vegetables.
+
+Here are some key aspects of braising:
+
+1. **Ingredients**: Braising works well with tough cuts of meat
+
+sample 13: Braising is a cooking method that involves cooking food in liquid, usually in a covered pan, to produce a dish with both cooked and browned flavors. This cooking technique combines elements of stewing and pan-frying, resulting in a dish where the food is both tender and flavorful.
+
+Here are some key aspects of braising:
+
+1. **Cooking Process**: The food is first seared or browned to lock in flavor, then cooked in liquid for an extended period.
+
+sample 14: Braising is a cooking method that involves cooking food in a small amount of liquid, usually in a covered pan, to produce a dish with a rich flavor and tender texture. This cooking technique combines elements of both boiling and roasting, as the food is partially submerged in liquid and cooked slowly over low heat.
+
+Here’s a breakdown of how braising works:
+
+1. **Preparation**: The food is often cut into large pieces or whole, which helps retain moisture during cooking.
+
+sample 15: It seems there might be a typo in the title "Marquise of Armiani." This title doesn't immediately ring true for any well-known films. However, I can provide some information based on a similar-sounding title:
+
+1. **Marquise de Cat (2006)** - This film is based on the play "Les Liaisons Dangereuses" and was directed by Tom Hooper. The character of the Marquise de Cat is a
+
+sample 16: It seems there might be a typo in the title "Marquise of Armiani." Did you mean "The Marchioness of Marigny" or another film? There isn't a widely known film by that name. However, I can provide information on similar films or make corrections based on the intended title. Could you please clarify or provide more details about the movie?
+
+sample 17: It seems there might be a bit of a mix-up in the title "Marquise of Armiani." As of my last update, I haven't found any well-known film with that exact title. However, there is a movie titled "The Marquise of Sade" (1987), which is based on the historical figure and the Marquis de Sade, but it's likely not what you're looking for.
+
+Could you provide more context or details
+
+sample 18: It seems there might be a typo or misunderstanding in the title "Marquise of Armiani." There's no widely recognized film by that exact name. However, I can provide information based on similar titles or films with related themes.
+
+One possible confusion could be with "The Marchioness," which is an Italian film from 1978 directed by Vittorio De Sica. The film deals with the life of a woman named Marchioness (Marquise
+
+sample 19: It seems there might be a typo in the title "Marquise of Armiani." I believe you might be referring to "The Marquise of Sade" or possibly "The Marquise de Sade," which is a film based on the historical figure and author, Marquis de Sade. However, there isn't an exact match for "The Marquise of Armiani" in my database.
+
+If you meant "The Marquise de Sade
+
+sample 20: The player who has scored the most World Cup goals is Ronaldo Luís Nazário de Lima, commonly known as Ronaldo, from Brazil. He scored 16 goals in the FIFA World Cup, which is the highest number of goals scored by an individual in the history of the tournament. This record was set between 1998 and 2006, though he did not play in the 2006 tournament due to a ban.
+
+sample 21: The player who has scored the most World Cup goals is Ronaldo Luís Nazário de Lima, commonly known as Ronaldo, from Brazil. He scored 16 goals in his four appearances at the World Cup from 1998 to 2006. However, it's worth noting that since then, other players have scored more goals in individual tournaments. As of the 2022 World Cup, Lionel Messi has the most goals with 26,
+
+sample 22: The player who has scored the most World Cup goals is Ronaldo Luís Nazário de Lima, commonly known as Ronaldo, from Brazil. He scored 16 goals in total during his World Cup appearances in 1998, 2002, and 2006. However, it's worth noting that since then, other players have also added to their World Cup goal tallies, but as of the last World Cup in 2022
+
+sample 23: The player who has scored the most World Cup goals is Ronaldo Luís Nazário de Lima, commonly known as Ronaldo, from Brazil. He scored 16 goals in his four appearances at the FIFA World Cup, which was from 1998 to 2006. Ronaldo achieved this feat in two separate stints with the Brazilian national team, scoring 15 goals in the 1998 and 2002 tournaments and one goal in
+
+sample 24: The player who has scored the most World Cup goals is Ronaldo Luís Nazário de Lima, commonly known as Ronaldo, from Brazil. He scored 16 goals in his career at the World Cup, which he achieved in four consecutive tournaments from 1998 to 2006. This record is significant and has not been matched since, although other players have come close.
+
+sample 25: The character Fu Manchu was created by British author Sax Rohmer, who first introduced the character in 1912 through a series of novels. The most famous works featuring Fu Manchu include "The Mystery of Dr. Fu Manchu" (1913), "The Insidious Dr. Fu Manchu" (1932), and "The Teeth of Dr. Fu Manchu" (1935). These books were part of a series
+
+sample 26: The character Fu Manchu was created by British author Sax Rohmer, who first introduced the character in 1912 through a series of novels. The most famous works featuring Fu Manchu include "The Mystery of the Yellow Room" (1913) and "The Insidious Dr. Fu Manchu" (1932). These books were part of a series that depicted Fu Manchu as an evil scientist and criminal mastermind. The character has since
+
+sample 27: The character Fu Manchu was created by British author Sax Rohmer, who first introduced the character in 1912 through a series of novels. The most famous works featuring Fu Manchu include "The Mystery of the Yellow Robe" (1913) and "The Insidious Dr. Fu Manchu" (1932). These books have since become part of popular culture, though the character is often criticized for perpetuating negative stereotypes about East Asian
+
+sample 28: The character Fu Manchu was created by British author Sax Rohmer, who first introduced the character in 1912 through a series of novels. The most famous works featuring this character include "The Mystery of Dr. Fu Manchu" (1913) and "The Insidious Dr. Fu Manchu" (1932). These books were part of a series that portrayed Fu Manchu as an evil scientist and master criminal with a vast network of
+
+sample 29: The character Fu Manchu was created by British author Sax Rohmer. He first appeared in 1912 in the novel "The Mystery of the Yellow Robe." Sax Rohmer wrote several books featuring this character, which often portrayed him as an evil and cunning Oriental man. These portrayals have been criticized for reinforcing negative stereotypes about East Asian people.
+
+sample 30: The president of China before Xi Jinping was Hu Jintao. Hu Jintao served as the President of the People's Republic of China from 2003 to 2013. Xi Jinping succeeded him in 2013 and has been serving in this position since then.
+
+sample 31: The president of China before Xi Jinping was Hu Jintao. Hu Jintao served as the President of the People's Republic of China from 2003 to 2013. Xi Jinping succeeded him in 2013.
+
+sample 32: The president of China before Xi Jinping was Hu Jintao. Hu Jintao served as the President of the People's Republic of China from 2003 to 2013. Xi Jinping succeeded him in 2013 and was re-elected in 2018.
+
+sample 33: The president of China before Xi Jinping was Hu Jintao. Hu Jintao served as the President of the People's Republic of China from 2003 to 2013. Xi Jinping succeeded him in 2013 and has been serving in this position since then. It's worth noting that in China, the positions of "President" and "General Secretary of the Communist Party of China" are often held by the same person, but they
+
+sample 34: The president of China before Xi Jinping was Hu Jintao. Hu Jintao served as the President of the People's Republic of China from 2003 to 2013. Xi Jinping succeeded him in 2013 and has been serving in this position since then.
+
+sample 35: A professional football field, specifically for soccer (or football as it's called in most countries), is typically 105 meters (344.5 feet) in length and 68 meters (223.1 feet) in width. These dimensions are based on the FIFA regulations for international matches. However, fields can vary slightly in size depending on the specific stadium or venue, but they must fall within certain limits to be considered compliant with FIFA standards. The
+
+sample 36: A professional football field, typically used for soccer (known as football in most countries), has specific dimensions according to international standards set by FIFA. The length of a professional football field must be between 100 and 110 meters (328 to 360 feet) and the width must be between 64 and 75 meters (210 to 246 feet). These dimensions ensure that the field meets the requirements for official matches
+
+sample 37: A professional football field, which is typically used for soccer (known as football in most countries), has specific dimensions according to international standards set by FIFA (Fédération Internationale de Football Association). The length of a professional football field must be between 100 and 110 meters (328 to 360 feet) and the width must be between 64 and 75 meters (210 to 246 feet).
+
+For
+
+sample 38: A professional football field, typically used for soccer (or football as it's called in most countries), has specific dimensions according to FIFA regulations. The length of a professional football field must be between 100 and 110 meters (328 to 360 feet) and the width must be between 64 and 75 meters (210 to 246 feet). 
+
+For more specific usage, such as in the English Premier
+
+sample 39: A professional football field, which is typically used for soccer (known as football in most countries), has standardized dimensions. According to FIFA (Fédération Internationale de Football Association) regulations, the length of a football field must be between 100 and 110 meters (328 to 360 feet) and the width must be between 64 and 75 meters (209 to 246 feet). 
+
+For specific
+
+sample 40: Certainly! Here are five capital cities within the United States:
+
+1. Washington, D.C. - This is the federal capital of the United States.
+2. Carson City - Capital of Nevada.
+3. Cheyenne - Capital of Wyoming.
+4. Tallahassee - Capital of Florida.
+5. Santa Fe - Capital of New Mexico.
+
+Each of these cities serves as the capital for one of the states or the federal government.
+
+sample 41: Sure, here are five capital cities of states in the United States:
+
+1. Washington, D.C. - Capital of the Federal government.
+2. Tallahassee - Capital of Florida.
+3. Springfield - Capital of Illinois.
+4. Austin - Capital of Texas.
+5. Cheyenne - Capital of Wyoming.
+
+Note that some states have different terms for their capitals; "capital" is often used interchangeably with "seat of government." The capital city for each state is
+
+sample 42: Sure, here are five capital cities in the United States:
+
+1. Washington, D.C. - The national capital of the United States.
+2. Juneau - The capital city of Alaska.
+3. Honolulu - The capital city of Hawaii (note that while Hawaii is an island state, Honolulu is typically considered the state capital).
+4. Phoenix - The capital city of Arizona.
+5. Santa Fe - The capital city of New Mexico.
+
+Each of these cities serves as the capital
+
+sample 43: Sure, here are five capital cities in the United States:
+
+1. Washington, D.C. - The national capital and home to many federal government buildings and monuments.
+2. Boston - The capital of Massachusetts, known for its historical significance and education system.
+3. Sacramento - The capital of California, located in the central part of the state.
+4. Dover - The capital of Delaware, known for its small-town charm and historical sites.
+5. Honolulu - The capital of Hawaii
+
+sample 44: Sure, here are five capital cities in the United States:
+
+1. Washington, D.C. - The capital of the United States.
+2. Salem - The capital of the state of Oregon.
+3. Dover - The capital of the state of Delaware.
+4. Hartford - The capital of the state of Connecticut.
+5. Augusta - The capital of the state of Maine.
+
+Note that "capital cities" typically refer to state capitals rather than the national capital, unless specified otherwise.
+
+sample 45: Heterosis, also known as hybrid vigor, is a phenomenon in genetics where the offspring of genetically different parents have improved or increased fitness over their parents. This is often observed when two different strains, breeds, or species produce offspring that perform better in various aspects compared to the parents.
+
+The concept of heterosis can be seen in both plants and animals. In agriculture, this principle is widely used to develop superior crops and livestock through selective breeding. For example, hybrid corn varieties often
+
+sample 46: Heterosis, also known as hybrid vigor, is a phenomenon in genetics where the offspring of genetically different parents have increased performance or fitness compared to the parents. This increased vigor can manifest in various traits, including growth rate, fertility, and disease resistance.
+
+Heterosis occurs because organisms often carry beneficial traits from their parents that are complementary rather than redundant. When these organisms mate, the combination of these beneficial traits can result in enhanced overall fitness in the offspring. This is often observed
+
+sample 47: Heterosis, also known as hybrid vigor, is a phenomenon in biology where the offspring of two different parental lines have increased fitness or performance compared to the parents. This increased performance can manifest in various traits such as improved growth rate, larger size, better health, higher reproductive capacity, or enhanced resistance to diseases.
+
+Heterosis is observed not only in plants but also in animals and humans. It occurs because the random combination of genes from different parents can result in more favorable gene
+
+sample 48: Heterosis, also known as hybrid vigor, is a phenomenon in biology where the offspring of genetically different parents have increased performance or fitness compared to the parents. This increased performance can manifest in various traits such as greater resistance to diseases, improved growth rate, higher fertility, and enhanced productivity.
+
+The concept of heterosis is particularly important in agriculture and animal husbandry. Breeders often use heterosis to produce crops and livestock that perform better than their parents. For example, hybrid corn
+
+sample 49: Heterosis, also known as hybrid vigor, is a phenomenon in biology where the offspring of genetically different parents have increased fitness or performance compared to their parents. This increased vigor can manifest in various ways, such as improved growth rates, higher resistance to diseases, better reproductive capabilities, and enhanced overall health.
+
+The concept of heterosis is based on the idea that combining genetic differences from two parents can lead to more favorable combinations of genes, which can result in superior traits in the offspring
+
+sample 50: Korea was separated into two nations following the end of World War II in 1945. The country was divided along the 38th parallel into North and South Korea as a temporary measure to allow the United States and the Soviet Union to manage their respective occupation zones without direct conflict. This division was formalized in 1948 when both North and South Korea established separate governments. The Korean War (1950-1953) further
+
+sample 51: Korea was separated into two nations following the end of World War II in 1945. The country was divided along the 38th parallel, with the Soviet Union occupying the northern part and the United States occupying the southern part. This division was intended to be temporary, with the expectation that the countries would eventually work together to form a unified Korea. However, political differences led to the establishment of the Democratic People's Republic of Korea (North Korea) under communist
+
+sample 52: Korea was formally divided into North Korea and South Korea after the end of World War II in 1945. The country was initially divided into occupation zones controlled by the United States and the Soviet Union to manage the aftermath of the war. On August 15, 1945, Japan surrendered, ending its colonial rule over Korea. By the end of the same year, the U.S. and the Soviet Union agreed to divide Korea along the 3
+
+sample 53: Korea was separated into two nations following the end of World War II in 1945. The country was divided along the 38th parallel, with the Soviet Union occupying the north and the United States occupying the south. This division was intended to be temporary, as plans were made to hold elections for a unified Korea. However, these plans were thwarted by the outbreak of the Korean War in 1950, which led to the establishment of two
+
+sample 54: Korea was separated into two nations after World War II, specifically in 1945. The country was divided along the 38th parallel due to the Soviet Union and the United States' differing interests and lack of agreement on how to handle post-war Korea. The division led to the establishment of the Democratic People's Republic of Korea (North Korea) under Soviet influence in the north and the Republic of Korea (South Korea) under American influence in the south. This
+
+sample 55: In Google Cloud Platform (GCP), the service equivalent to Amazon S3 (Simple Storage Service) is Google Cloud Storage. 
+
+Google Cloud Storage is a scalable object storage service that allows you to store and serve very large files and objects over the internet with performance and reliability. It supports both block and file storage use cases, but it's primarily used for storing unstructured data like text documents, images, audio, video, and other web content.
+
+Key features of Google Cloud Storage
+
+sample 56: In Google Cloud Platform (GCP), the equivalent service to Amazon S3 is Google Cloud Storage. 
+
+Google Cloud Storage is a highly scalable object storage service that allows you to store and serve large amounts of data with sub-second response times. It provides a simple REST API and is designed to be highly available and durable.
+
+Here are some key features of Google Cloud Storage:
+
+1. **Scalability**: Automatically scales to handle large amounts of data.
+2. **Durability**:
+
+sample 57: In Google Cloud Platform (GCP), the service equivalent to Amazon S3 (Simple Storage Service) is Google Cloud Storage. 
+
+Google Cloud Storage is a highly scalable object storage service that allows you to store and serve very large files. It is designed for use cases similar to those for which Amazon S3 is used, such as storing web content, application data, media files, and more.
+
+Key features of Google Cloud Storage include:
+
+- **Scalability**: Can handle pet
+
+sample 58: In Google Cloud Platform (GCP), the service equivalent to Amazon S3 (Simple Storage Service) is Google Cloud Storage. 
+
+Google Cloud Storage is a highly scalable object storage service that allows you to store and serve petabytes of data with sub-second response times. It provides a simple REST interface and integrates seamlessly with other Google Cloud services.
+
+Key features of Google Cloud Storage include:
+
+- **Scalability**: Capable of storing and serving massive amounts of data.
+- **Dur
+
+sample 59: In Google Cloud Platform (GCP), the equivalent service to Amazon S3 (Simple Storage Service) is Google Cloud Storage.
+
+Google Cloud Storage is a scalable object storage service that allows you to store and serve files using an API similar to Amazon S3. It provides high durability and availability for storing and serving static websites, application data, and more. Like S3, it supports large files and offers various access control mechanisms.
+
+Here are some key features of Google Cloud Storage:
+
+1
+
+## c3__random_seed_2718__ratio_0.75
+
+- Concept score: 1.02
+- Fluency score: 4.9075
+- Samples: 60
+
+sample 0: Certainly! Here are some popular American beer brands:
+
+1. **Budweiser** - Part of Anheuser-Busch, this is one of the most well-known and widely distributed beers in the United States.
+2 **Coors Light** - Also from Coors, this brand is popular for its smooth taste and wide availability.
+3. **Miller Lite** - Another product from Miller Brewing Company, it’s known for being light in both calories and flavor.
+4.
+
+sample 1: Certainly! Here are some popular American beer brands:
+
+1. **Budweiser** - Part of Anheuser-Busch, this is one of the most well-known and widely distributed beers in the United States.
+2 **Coors Light** - Also from the Coors company, this brand is known for its light taste and is very popular across the country.
+3 **Mike's Honey Beer** - Known for being honey-based, this brand has gained popularity in recent years
+
+sample 2: Certainly! Here are some popular American beer brands:
+
+1. **Budweiser** - Part of the Anheuser-Busch InBev company.
+2 **Coors Light** - Also part of the Anheuser-Busch InBev company.
+3. **Miller Lite** - Part of SABMiller, which merged with Anheuser-Busch in 2017.
+4. **Heineken** - While this is also international, it
+
+sample 3: Certainly! Here are some popular American beer brands:
+
+1. **Budwiser (Bud Light)**
+2. **Coors Light**
+3 **Samuel Adams**
+4. **Miller Lite**
+5. **Heineken** (also widely distributed in the U.S.)
+6. **Blue Moon** (part of the Molson Coors portfolio)
+7. **Boston Beer Company (parent brand of Samuel Adams)**
+8. **Guinness** (not
+
+sample 4: Certainly! Here are some popular American beer brands:
+
+1. **Budweiser** - Part of the Anheuser-Busch InBev company, it's one of the most well-known and widely distributed beers in the United States.
+
+2 **Coors Light** - Another brand from Coors Brewing Company, this is part of the Molson Coors Brewing Company. It’s known for being lighter in taste compared to other beers.
+
+3 **Miller Lite** - This
+
+sample 5: College Avenue in Berkeley, California runs from the University of California, Berkeley campus in the city center to the University of California at San Francisco (UCSF) campus in the Mission Bay area. Specifically:
+
+- **Starts at**: College Avenue begins at the intersection with Shattuck Avenue near the UC Berkeley campus, which is part of the campus area where many students live and work.
+
+- **Ends at**: College Avenue ends at UCSF Mission Bay, which is further east
+
+sample 6: College Avenue in Berkeley, California, runs from the University of California, Berkeley campus at the University Hall on the corner of Durant and College avenues, which is near the city center, to San Pablo Park at the intersection of San Pablo Avenue and College Avenue. The road serves as part of the university campus and extends into the surrounding neighborhood. For specific addresses, College Avenue starts at the university campus and continues through the neighborhood until it ends at San Pablo Park.
+
+sample 7: College Avenue in Berkeley, California, begins at the intersection with San Pablo Avenue in the northwest part of the city near the UC Berkeley campus. It runs eastward through the university area and continues past several neighborhoods until it ends at the intersection with University Avenue in the central part of the city, near the Berkeley Square shopping center. The length of College Avenue is approximately 2 miles (3 km) within the city limits.
+
+sample 8: College Avenue in Berkeley, CA, begins at the intersection with San Pablo Avenue in the northwest part of the city, near the UC Berkeley campus. It runs northward through the university area and continues north until it ends at the intersection with University Avenue just past the UC Berkeley campus. The length of College Avenue is about 2 miles (3 kilometers) within the city limits. This street is notable for its many restaurants, cafes, and shops in the Berkeley area.
+
+sample 9: College Avenue in Berkeley, California, runs from the University of California, Berkeley campus at the intersection of Durant and Hearst avenues, which is near the center of the city, to the Berkeley Marina area, where it meets San Pablo Avenue. 
+
+Specifically, the start of College Avenue is at the intersection of Durant and Hearst avenues, and it extends northward through the university campus until it reaches the Berkeley Marina area. The length of College Avenue is about 3 miles (
+
+sample 10: Braising is a cooking method that involves cooking food in a small amount of liquid, usually in a covered pan, to produce a dish with a rich flavor and tender texture. This method combines both dry and wet cooking techniques, as the food starts on the stove with some dry cooking before being submerged in liquid to finish cooking. Here are some key aspects of braising:
+
+1. **Equipment**: Typically, braising is done in a pot or pan that can hold enough liquid for
+
+sample 11: Braising is a cooking method that involves cooking food in a small amount of liquid, usually in a covered pan, to produce a dish with both cooked and browned foods. This cooking process typically starts with the food being seared or fried briefly to create a caramelization effect on the surface, which then slows down and continues to cook in the liquid. The liquid, often an acidic or slightly acidic mixture, can include various ingredients such as wine, lemon juice, or vinegar,
+
+sample 12: Braising is a cooking method that involves cooking food in a small amount of liquid (often with additional fat) in a covered pan on the stovetop or in an oven. This method combines both dry and wet cooking techniques to produce dishes that are often tender and flavorful.
+
+Here’s a breakdown of how braising works:
+
+1. **Initial Cooking Method**:
+   - The food, usually meat, is first cooked using dry heat, such as searing or frying,
+
+sample 13: Braising is a cooking method that involves cooking food in a small amount of liquid, usually with additional moisture from steam, in a closed or nearly closed pan on the stovetop or in an oven. This cooking technique combines both dry and wet cooking methods to produce meals that are tender and well-cooked.
+
+Here are some key aspects of braising:
+
+1. **Cooking Method**: The food is first seared or fried briefly to create a browned surface, then
+
+sample 14: Braising is a cooking method that involves cooking food in a small amount of liquid (often with added fat) in a covered pan to allow the food to cook slowly and absorb the flavors from the liquid. This method is often used for meats and vegetables to ensure they are cooked thoroughly and have a satisfying texture. Here’s a more detailed breakdown of braising:
+
+### Key Characteristics:
+1. **Cooking Method**: The food is first seared or fried to seal the meat or
+
+sample 15: It seems there might be a typo in the title "Marquise of Armiani." The movie you might be interested in is likely "The Marquise of Siena" or "The Marquise of Saint-Gémin," which are part of the films in the "Casanova" series directed by Louis Malle.
+
+The most notable film in this series that involves a marquise is "Casanova" (1987), where the character
+
+sample 16: The movie "Marquise of Armiani" doesn't appear to be a widely recognized film in the movie databases and information systems. It might be part of a local or independent production that hasn’t gained much international attention. Could you provide more details about the movie, such as the release year or the director, to help me find more accurate information about it?
+
+sample 17: It seems there might be a typo in the title "Marquise of Armiani." Did you mean "Marquise de Marigny" or "Marquise de Marigny" which is likely part of a film title, but it doesn't seem to match any well-known films directly.
+
+One possible confusion could be with "Marquise de Marigny" from the 1950s, but it's more likely that you might have meant
+
+sample 18: The movie "The Marquise of Marigny" (which is likely a typo for "Marquise de Marigny") seems to be a bit of an anomaly in the film industry, as there aren't many films directly named this way. However, there are a few connections here:
+
+1. **Historical Context**: The title "Marquise de Marigny" suggests that it might be related to historical figures or events. The Marquise de
+
+sample 19: It seems there might be a bit of confusion in the title "Marquise of Armiani" as it doesn't immediately match any well-known films. However, there is a film titled "The Marquise of Siena" (1927) directed by Alfredo De Amicis, but not specifically mentioning "Armiani."
+
+If you're referring to a specific movie and perhaps there's a typo or error in the title, could you provide more details about
+
+sample 20: The player who has scored the most World Cup goals is Pelé, who scored 16 goals in his career at the World Cup. This was achieved during his time with Brazil, contributing significantly to the team's success, including winning three World Cups (1966, 1968, and 1970). Pelé played from 1960 to 1974, and his performances were not limited to just the World Cup
+
+sample 21: The player who has scored the most World Cup goals is Pelé, a Brazilian soccer player who played for both club and international teams. Pelé scored 16 goals in the World Cup during his career, which lasted from 1964 to 1970. This record is part of Pelé's extensive list of achievements, making him one of the greatest players in soccer history.
+
+sample 22: The most goals in the World Cup finals have been scored by Pelé, a Brazilian soccer player, with a total of 13 goals as of the 2022 World Cup. He scored these goals from 1964 to 1970, primarily during his time playing for Brazil and contributing to their victories in 1964 (Olympic Games) and 1966 and 1970 World Cup tournaments.
+
+sample 23: The player who has scored the most World Cup goals is Pelé, with a total of 13 goals in the tournament. Pelé scored all these goals during his career for Brazil from 1964 to 1970. The matches were part of Brazil's victories in 1964 (which was a South American championship match, not a World Cup) and 1966, and it was also part of the team that won the
+
+sample 24: The player who has scored the most World Cup goals is Ronaldo (also known as Ronaldo Luís Nazário de Lima), who played for Brazil and is often referred to as "The Rocket" due to his speed on the pitch. As of the 2022 World Cup, Ronaldo has scored 16 goals in the tournament, which is the most for any player in World Cup history.
+
+Ronaldo achieved this milestone in 1998, 20
+
+sample 25: The character Fu Manchu was created by British author Sax Rohmer, who first introduced the character in 1912 through a series of novels. The most famous book in this series is "The Poison Web" (1932), but the character became most notorious through "The Daughter of Fu Manchu" (1932) and "The Yellow Man and the Girl" (1933). These books were part of a series where Fu Man
+
+sample 26: The character Fu Manchu was created by British author Sax Rohmer, who first introduced the character in 1912 through a series of novels. The most famous books featuring Fu Manchu include "The Daughter of the Dragon" (1930) and "The Yellow Man" (1935). These books were part of a series that portrayed Fu Manchu as an Asian antagonist with supernatural powers, which was controversial and contributed to negative stereotypes about East Asian
+
+sample 27: The character Fu Manchu was created by British author Sax Rohmer, who first introduced the character in 1912 through a series of novels. The most famous book in the series is "The Moonstone" (1915), though the character became most notorious through subsequent books such as "The Yellow Man" (1932) and "The Poison Web" (1933). These novels depict Fu Manchu as an opium dealer and
+
+sample 28: The character Fu Manchu was created by British author Sax Rohmer, who first introduced the character in 1912 through a series of novels. The most famous book in this series is "The Mystery of the Yellow Robe," though the character appears in many other works as well. Sax Rohmer's depiction of Fu Manchu as an Asian antagonist in these books has been controversial and contributed to negative stereotypes about East Asians in Western literature.
+
+sample 29: The character Fu Manchu was created by British author Sax Rohmer, who first introduced the character in 1912 through a series of novels. The most famous book in the series is "The Mystery of the Yellow Manor" (originally published as "The Red Orchid") in 1935. Sax Rohmer's works often depicted Fu Manchu as an antagonist with vast knowledge and influence in the world of espionage and intrigue.
+
+sample 30: Before Xi Jinping, the President of China held office under different individuals. The presidency in China is more accurately described as holding the position of "President of the People's Republic of China" or the "Chairmanship of the National People's Congress" since 2018 when the country restructured its leadership system. 
+
+The presidents of China before Xi Jinping were:
+
+1. Jiang Zemin (1998–2003)
+2. Hu Jintao
+
+sample 31: The president of China before Xi Jinping was Hu Jintao. Hu Jintao served as President from 2008 to 2013. Xi Jinping took office as President in 2013 after Hu Jintao.
+
+sample 32: Before Xi Jinping, the President of China held office from 2012 to 2018 was Hu Jintao. Hu Jintao served as President during part of the period from 2003 to 2013 when he was also the General Secretary of the Communist Party of China.
+
+sample 33: The president of China before Xi Jinping was Hu Jintao. Hu Jintao served as President from 2008 to 2013. Xi Jinping succeeded him in 2013 and has been serving in the position since then.
+
+sample 34: Before Xi Jinping, the President of China held positions based on terms and changes in leadership. The previous president after Hu Jintao, who completed his term in 2012, was Li Peng from 1993 to 1998, but he did not serve as President during that time. The President since 2012 has been Xi Jinping, who served as Vice President from 2008 to 2012 under
+
+sample 35: A professional football field, which is typically part of an American football stadium, is 120 yards (or 380 feet) in length. This includes the end zones, which add 30 yards to each end of the field, making the total length 100 yards for the playing surface itself. The width of the field is 160 feet. For soccer or football fields used in other sports, the dimensions can vary slightly but generally fall
+
+sample 36: A professional football field, which is typically part of a soccer stadium, has standardized dimensions. According to FIFA (Fédération Internationale de Football Association) regulations, the pitch must be rectangular and must have an area of at least 68 meters (223 feet) in length and 75 meters (246 feet) in width. However, these are minimum values; the maximum length is 120 meters (390 feet) and the
+
+sample 37: A professional football field, typically used for soccer (football) matches, is usually 105 meters (340 feet) in length and 68 meters (220 feet) in width. These dimensions are standardized according to the FIFA regulations for international matches, although some national leagues or stadiums may have slight variations in size.
+
+sample 38: A professional football field, typically used for soccer (football) matches, is usually 105 meters (340 feet) in length and 68 meters (220 feet) in width. These dimensions are standardized for international matches according to FIFA (Fédération Internationale de Football Association) regulations. However, the exact dimensions can vary slightly for national leagues or stadiums.
+
+sample 39: A professional football field, which follows the rules of FIFA (Fédération Internationale de Football Association) for soccer (or football) matches, is typically 105 meters (340 feet) in length and 68 meters (220 feet) in width. However, these dimensions can vary slightly based on specific stadium designs, but these are the standard dimensions for international matches and large stadiums. The playing area must be within these parameters, with the
+
+sample 40: The United States is made up of 50 states, and each state has its own capital city. However, if you're looking for five capital cities in the USA, I can provide some well-known ones:
+
+1. Washington, D.C. - The capital of the United States, located in the District of Columbia.
+2. Boston - Capital of the state of Massachusetts.
+3. Austin - Capital of the state of Texas.
+4. Oklahoma City - Capital of the state
+
+sample 41: The United States has 50 states, and each state has its own capital city. However, if you're looking for the capital city of the United States itself, which is where the federal government is headquartered, that would be Washington, D.C. Here are five other capital cities of states in the USA:
+
+1. Boston - Massachusetts
+2. Austin - Texas
+3. Atlanta - Georgia
+4. Indianapolis - Indiana
+5. Sacramento - California
+
+Each of these
+
+sample 42: Sure! Here are five capital cities in the United States:
+
+1. Washington, D.C. - This is the federal capital and home to the White House, Congress, and numerous national monuments.
+2. New Orleans, Louisiana - This city serves as the capital of Louisiana and is known for its rich culture, music, and cuisine.
+3. Salem, Massachusetts - Salem is the capital of Massachusetts since 1953, though the state legislature meets in Boston.
+4.
+
+sample 43: The United States has 50 states, but only one capital city, which is Washington, D.C. However, if you're looking for state capitals, here are five:
+
+1. New York – Albany
+2. California – Sacramento
+3. Texas – Austin
+4. Florida – Tallahassee
+5. Illinois – Chicago (Note that Chicago is not the capital, but it is often mistakenly thought so due to its large size and importance) – The correct capital
+
+sample 44: The United States has only one capital city, which is Washington, D.C. Here are five other major cities in the USA:
+
+1. New York City - New York State
+2. Los Angeles - California
+3. Chicago - Illinois
+4. Houston - Texas
+5. Dallas - Texas
+
+Each of these cities plays a significant role in various aspects of American life, including culture, economy, and politics.
+
+sample 45: Heterosis, also known as hybrid vigor, is a phenomenon in genetics where the offspring of different parents have increased fitness and performance compared to the parents. This increased performance can manifest in various ways, such as improved health, greater resistance to diseases or environmental stress, higher reproductive rates, or enhanced productivity in agricultural contexts.
+
+The increased fitness from heterosis often results from the combination of diverse genetic factors from different parent lines, leading to more balanced gene expression patterns. This can lead to
+
+sample 46: Heterosis, also known as hybrid vigor, is a phenomenon in biology where the offspring of genetically different parents have increased fitness or performance compared to the parents. This increased performance can manifest in various ways, including increased resistance to diseases and infections, faster growth rates, higher productivity in agriculture, or enhanced athletic performance in sports.
+
+The mechanism of heterosis is complex and can involve several factors:
+
+1. **Increased Gene Dose**: When individuals from different breeds or species mate, they
+
+sample 47: Heterosis, also known as hybrid vigor, is a phenomenon in genetics where offspring of different species or strains exhibit increased fitness and performance compared to their parents. This increased performance can manifest in various aspects such as increased resistance to diseases, faster growth rates, higher productivity, or improved physical traits.
+
+The increased vitality in heterotic individuals is often due to the increased genetic diversity from combining different gene pools, which can result in more favorable combinations of alleles (variants of genes) that enhance
+
+sample 48: Heterosis, also known as hybrid vigor, is a phenomenon in biology where individuals that are hybrids of two different inbred lines or species have increased fitness and performance compared to their parents. This increased fitness can manifest in various ways, including improved growth rates, larger size, higher reproductive capacity, or enhanced resistance to diseases.
+
+The mechanism of heterosis is complex and can involve several factors:
+
+1. **Increased Genetic Diversity**: Hybrids often have a more diverse gene pool from the
+
+sample 49: Heterosis, also known as hybrid vigor, is a biological phenomenon where individuals produced by crossing two genetically different organisms have increased fitness or performance compared to their parents. This increased fitness can manifest in various ways, including greater resistance to diseases and infections, enhanced physical performance, and higher reproductive rates.
+
+The concept of heterosis has significant applications in agriculture, where it leads to the development of hybrid crops and animals that perform better than their parent strains. For instance, hybrid corn and cattle
+
+sample 50: Korea was separated into two nations shortly after the end of World War II, specifically in 1945, when the Soviet Union and the United States divided the country along the Korean Peninsula based on their respective spheres of influence. The division was initially intended to be temporary, with plans for a unified Korea under a U.S.-Soviet joint occupation. However, these plans were disrupted by the Cold War, leading to the establishment of the Democratic People's Republic of Korea
+
+sample 51: Korea was separated into North and South Korea shortly after the end of World War II and the subsequent Japanese occupation of the peninsula (1945). The primary reason for the division was the Cold War, which led to a rapid and complex process that resulted in two separate nations by 1948.
+
+The U.S. and Soviet Union each established zones of control in Korea after the war, with the U.S. controlling the southern part and the Soviet Union the northern
+
+sample 52: Korea was separated into North Korea and South Korea after the end of World War II in 1945. The country was divided along the Korean Peninsula at the 38th parallel, with Soviet forces occupying the area north of the river and the United States occupying the areas south of the river. This division was initially intended to be temporary, but it led to the establishment of two separate governments in 1948, which ultimately resulted in the Korean War (
+
+sample 53: Korea was separated into two nations following the end of World War II in 1945. The country was divided at the Korean Peninsula by the United States and the Soviet Union to manage the cessation of Japanese occupation, with the intention of temporary occupation until the establishment of a stable government. However, this division led to the establishment of two separate nations after each side installed different governments based on political ideologies. 
+
+The Korean Peninsula was split along the 38th parallel,
+
+sample 54: Korea was separated into North Korea and South Korea after the end of World War II, specifically on August 15, 1945, when Japan surrendered and ended its occupation of Korea. The country was divided at first with the Soviet Union and the United States serving as occupying powers in the North and South respectively. On June 23, 1948, North Korea established itself as the Democratic People's Republic of Korea, and on August 2
+
+sample 55: In Google Cloud Platform (GCP), the Amazon S3 (Simple Storage Service) equivalent is Google Cloud Storage (GCS). Both services are designed to provide scalable file storage for use in web applications and other services.
+
+Google Cloud Storage allows you to upload, store, and serve files using REST or browser-based access. It's highly available and durable, with data stored across multiple locations within a GCP region or globally.
+
+Key similarities between Amazon S3 and Google Cloud Storage include
+
+sample 56: In Google Cloud Platform (GCP), the service equivalent to Amazon S3 (Simple Storage Service) is Google Cloud Storage. 
+
+Google Cloud Storage is a service that stores and serves very large files with frequent or occasional usage patterns. It is designed to be highly scalable and reliable, with data stored in objects within buckets. This setup is very similar to how Amazon S3 operates.
+
+Here are some key aspects of Google Cloud Storage:
+
+1. **Bucket**: Similar to Amazon S3
+
+sample 57: In Google Cloud Platform (GCP), the equivalent service to Amazon S3 (Simple Storage Service) is Google Cloud Storage. Both services are designed to provide scalable storage for websites and web applications, but they have some differences in terms of API and usage patterns.
+
+Here’s a brief overview of how Google Cloud Storage works:
+
+1. **Storage Classes**:
+   - **Standard**: Used for storing data that requires frequent access.
+   - **Nearline**: For data that needs access
+
+sample 58: In Google Cloud Platform (GCP), the service equivalent to Amazon S3 (Simple Storage Service) is Google Cloud Storage. 
+
+Google Cloud Storage is a highly scalable object storage service that allows you to store and serve very large files using the same API experience as Amazon S3. It is designed for use cases such as storing and serving static web content, streaming video on demand, and storing data for applications.
+
+Both services allow you to upload and manage files in a scalable manner,
+
+sample 59: In Google Cloud Platform (GCP), the equivalent service to Amazon S3 (Simple Storage Service) is Google Cloud Storage. Both services are designed to store and manage large amounts of data with frequent access using simple HTTP/S web service APIs. Here are some key aspects where Google Cloud Storage aligns with Amazon S3:
+
+1. **Storage Classes**:
+   - Both services offer different storage classes for different use cases, such as frequent use, archive use, etc.
+
+2.
+
+## c3__random_seed_2718__ratio_1.0
+
+- Concept score: 1.04
+- Fluency score: 4.984166666666667
+- Samples: 60
+
+sample 0: Certainly! Here are some popular American beer brands:
+
+1. **Budwiser (Bud)**
+2 **Coors Light** – Part of the Coors Brewing Company.
+3 **Miller American Pale Ale (M Miller)**
+4 **Mike’s槐斯（Mike’s）** – Known for its lime soda and often used in cocktails.
+5 **Jack Daniels Barbecue Smoke Bourbon Whiskey (Not directly related to beer, but part of the same company)**
+
+sample 1: Certainly! Here are some popular American beer brands in various styles:
+
+1 **Budwiser (Bud)**
+   - Part of the Anheúseschmann & Co. (Anheuser-Busch) company, this is one of the most widely distributed beers in the United States.
+
+2 **Coors Light**
+   – Also part of the Anheúseschmann & Co., this brand is popular for its slightly different taste compared to other beers in
+
+sample 2: Certainly! Here are some popular American beer brands in various styles:
+
+1 **Budwiser (Bud)**
+   - This is the largest beer brand in the United States, part of the Bud/Sobro/Barley (BSB) portfolio.
+
+2 **Molson Cooper’s (Coors)**
+   – Part of the Moldeon and Coors portfolio, this brand has a significant presence in the U.S. market.
+
+3 **Anheuzer
+
+sample 3: Certainly! Here are some popular American beer brands:
+
+1. **Budweiser** – Part of the Anheúseschstmuth (Anheuser-Busch) company, this is one of the most widely distributed beers in the United States.
+2 **Coors Light** – Also part of the Anheúseschstmuth (Anheuser-Busch) company, Coors Light is known for its lighter taste and frequent use in sports events.
+3
+
+sample 4: Certainly! Here are some popular American beer brands:
+
+1. **Boston Brewery (Belief)**
+2 **Sierra Nevada Brewing Company** – Known for its various styles, including the famous Red Ale and Pale Ale.
+3 **Sam’s Brewery** – Known for Sam’s Ale, which is part of the Sierra Nevada portfolio.
+4 **Anheúszers/Budwiser** – Part of the Anheuser-Busch company, this brand has been dominant in the
+
+sample 5: College Avenue in Berkeley, California, begins at the UC Berkeley campus and runs primarily along University Avenue, which is part of U.S. Route 20/State Route 162, until it ends at San Pablo Avenue. Specifically, the street is most notable for its presence within the university environment, where many students and local residents frequent the area for shopping and dining. The length of the street within the university context is largely part of the campus layout and not just surface
+
+sample 6: College Avenue in Berkeley, CA starts at the University of California, Berkeley campus, which is at 2150 Fulton Street, and extends southward towards the University of California, San Francisco (UCSF) and the Berkeley campus of the University of California, San Francisco Medical Center, ending at San Francisco Bay at the UC San Francisco campus, which is at 4150 Fifth Street. The length of College Avenue is approximately 7 miles (11 km)
+
+sample 7: College Avenue in Berkeley, California, begins at the UC Berkeley campus and runs primarily along University Hall and the adjacent area on the east side of the campus. The street continues southward from the campus until it ends at San Francisco Bay at the University of California, Berkeley campus entrance and the UC Berkeley Hall M building. Notably, the street is part of Route 162 for cars and has some restrictions during events at the university, such as the UC Berkeley Athletics events,
+
+sample 8: College Avenue in Berkeley, CA starts at the intersection of University Hall on the UC Berkeley campus, which is at 2101 Dwinelle Hall on the campus, and runs primarily through the university campus and the surrounding area until it ends at the University of California, Berkeley campus at the UC Berkeley Stadium, where it intersects with the campus at 2222 Dwinelle Hall. However, to simplify the description, the College Avenue from the perspective of local community
+
+sample 9: College Avenue in Berkeley, CA begins at the University of California, Berkeley campus, which is at 2150 Bancroft Way, and extends eastward through the university and adjacent areas until it ends at San Francisco Bay, near the University Hall and the Berkeley College Library. The street runs parallel to the UC Berkeley campus and is part of the city’s local traffic system, though it has some increased activity due to university activities. For more specific information on the exact endpoints
+
+sample 10: Braising is a cooking method that involves cooking food in a larger amount of liquid (often with or without sauce) and typically served with the same sauce. This method is often used for meat and vegetables to ensure it is cooked thoroughly and has a rich flavor. The process usually involves two distinct ways of cooking:
+
+1. **Cooking in a Dry State:** The food is initially cooked in a dry state, often using some form of dry heat or a small amount of oil,
+
+sample 11: Braising is a cooking method that involves cooking food in a large amount of liquid (often with some oil or other fat) on the stove or in an oven, typically using a pan or pot with a lid to allow steam to build up and create a moist environment. This method is often used for preparing meat and can also be used for vegetables. The process usually starts with the food being cooked with little or no liquid to sear the food and seal the meat or vegetables in
+
+sample 12: Braising is a cooking method that involves cooking food with minimal moisture in a sealed pan or pot, and then adding additional moisture to the pan and allowing the food to cook in the increased moisture while the dish cools down. This method can be done on a stove or in an oven. The food is often cooked with the added moisture, which is usually part of the recipe (such as water, wine, or other liquids) and possibly some oil or fat, and the food
+
+sample 13: Braising is a cooking method that involves cooking food, usually meat or fish, with minimal extra fat in a large portion of liquid, often served with the sauce made from the cooking juices. This method is often used to prepare and serve dishes that are part of meals in various cuisines around the world.
+
+Here’s a breakdown of how braising works:
+
+1. **Cooking Method**: The food is cooked first in the pan with little or no fat, which causes the food
+
+sample 14: Braising is a cooking method that involves cooking food in a larger amount of liquid, typically using less than a whole pot, to produce a dish with the meat or vegetables cooked and served with the sauce from the excess liquid. This method is often used for preparing large cuts of meat, but it can also be used for other foods like potatoes or apples.
+
+The process typically involves cooking food first in a pan with minimal or no liquid to sear the meat or other food to get
+
+sample 15: It seems there might be a bit of confusion in the title "Marquise of Armiani” as this movie does not exist on notable film databases under that name. However, I can help with some similar movies or films that might have caused the confusion based on the title.
+
+One notable movie from the 1960s is "The Marquise of Silesia" (1962), but it’s more likely that you might be interested in "
+
+sample 16: It seems there might be a bit of confusion in the title "Marquise of Armiani” as it doesn’t immediately match any well-known films. However, let’s explore some possible connections:
+
+1. **Marquise de Marigny (1709–1743)**: This was a French noblewoman who held positions in the French government during the early 18th century. She played a role in the arts and music world in Paris
+
+sample 17: The movie "Marquise de Marquis de Armiani” seems to be an error in the title as it doesn’t exist in the film industry. Did you mean “Marquise de Marquis de Marquise de Marquis de La Marquise de Marquis de Marquise de Marquis de La Marquise de la Marisse” or perhaps a typo? 
+
+Notably, there is a film named “The Marquise de Marais”
+
+sample 18: The movie "The Marquise of Marquis de Marquess de Marquess [Intentionally vague]” appears to have some errors in the title. Did you mean “The Marquise de Marquis de Marquess” or perhaps a different film title? The most notable films with similar names are likely part of the film series "The Marquise de Marquess" (1930), which is based on the novel by André de
+
+sample 19: The movie "The Marquise of Marquise de Marquis de Armanni” seems to have a typo in the title, as it should likely be "The Marquise de Marqui de Armanni” or more accurately, "The Marquise de Marqués de Armán (or Arman)” which is part of the film’s Italian title "La Marchesa dell’Armani” or "The Marchesa dell’Armani” (correcting
+
+sample 20: The most goals in World Cup matches have been scored by Pelé, who played for Brazil and was active during 1960s and 1970s. Pelé scored 16 goals in World Cup matches, which is the most for a single player in the tournament. This includes scoring three goals in the final match of the 1968 tournament when Brazil was awarded the match after a scandal, though this is generally not included in the list
+
+sample 21: The most goals in the World Cup matches are scored by Pelé, who scored 16 goals from 1964 to 1970, primarily for Brazil. The matches include both tournament games and training matches included in the total number of appearances since 1998. However, for official matches up to 2008, the most goals in the World Cup are also attributed to Pelé, as he scored 16 goals from
+
+sample 22: The most goals in the World Cup matches are scored by Pelé, who scored 16 goals in the FIFA World Cup, all of which were in the 1970s when he played for Brazil. The matches include six games in the final tournament and five additional matches in 1968 when Brazil was part of the FIFA World Cup tournament for the first time after 1943. Pelé was part of the Brazilian team that won three consecutive
+
+sample 23: The most goals in the World Cup tournament are currently held by Cristiano Ronaldo and Paolo Acésa, both of whom have scored 21 goals as of the 2022 FIFA World Cup, with each having missed matches due to injuries or other issues in that tournament. However, since the 2022 FIFA World Cup ended, both players have not added any new goals to their World Cup record. As of 2023, the most goals in
+
+sample 24: The most goals in the World Cup have been scored by Pelé, who played for Brazil and was active in matches from 1964 to 1970. Pelley (corrected from Pelle or Pelae) scored 26 goals in total for the Brazilian team in the World Cup, which is the most for a single player in the tournament. The matches were part of the 1964 FIFA World Cup Brazil was invited to participate in
+
+sample 25: The character Fu Manchu was created by British author Eric Williams, who first used the character in 1928 when he published "The Yellow Man and the Fair Lady" (often mistakenly titled as part of the "Rex Manning" series). However, the most notable and frequent use of the character is through novels by author Sax Gordon, who wrote several books about Fu Manchu starting in 1935. These books were part of a series that significantly contributed
+
+sample 26: The character Fu Manchu was created by British author Eric Roberts, but more commonly associated with the works of British author Sax Rohmer, who wrote a series of novels and stories about the character from 1927 to 1970. Sax Rohmer's primary depiction of Fu Manchu is as an Asian man in London during the early 20th century, often portrayed as a scientist and member of a conspiracy to world domination. The character has since been
+
+sample 27: The character Fu Manchu was created by British author Eric Williams, who first used the character in 1928 when he published "The Poisonous Dragon" and later in "The Moon Dust" (1933). However, the most famous portrayal of the character is through author Sax Rohm, who wrote several novels about Fu Manchu starting in 1935. The most notable works include "The Moonstrcasecmp 1937) and "
+
+sample 28: The character Fu Manchu was created by British author Saxton Nelson (1892–1935), who used the pseudonym "James M. Reiss" for this and other works. The most notable novel in which Fu Manchu appears is "The Moonștaker" (1935), though the character was first introduced in 1934 through a series of short stories. Saxton Nelson also wrote numerous novels featuring the same character
+
+sample 29: The character Fu Manchu was created by British author Arthur Conan Doyle, who also famous for his novels and stories about Sherlock Holmes. The first novel featuring Fu Manchu, "The Poison in the Air," was published in 1935, though the character is part of a series that began earlier in 1935 with "The Yellow Man and Other Stopped Clocks," though this film was based on an earlier work from 1932. The
+
+sample 30: The president of China before Xi Jinping was Hu Jiao (侯建国) from 2010 to 2018, who served as the President of Peking University during that time. However, for presidential terms in the sense of national leadership, the president before Xi Jinping was Li Nian (李讷) in 2010, but he was not elected as the President of the People’s Republic of China. The actual president before Xi Jinping was
+
+sample 31: The president of China before Xi Jinping was Hu Jiao (侯建) from 2010 to 2018. However, since 2018, the position of president has been part of the President of the People's Republic of China, and the title "President" is held by Xi Jinping. Prior to that, from 2003 to 2008, the president was also Hu Jiao. For the period when
+
+sample 32: The president of China before Xi Jinping was Li Nian from 2010 to 2013 and then Hu Jia Tian from 2013 to 2018 under the leadership structure changes after the cancellation of presidential term limits in 2018. However, since 2015, the position has been largely ceremonial as the Communist Party's General Secretary and Premier hold more power. The official title for these positions is "
+
+sample 33: Before President Xi Jinping, the President of the People's Republic of China was former President Zhou Yongkang from 2010 to 2012, and then President Li Ningzhi from 2012 to 2018. However, since 2018, the President of China has been Xi Jinping, who served as the President after being elected on December 23, 2018, to serve until
+
+sample 34: The president of China before Xi Jinping was Li Nian from 2010 to 2018, but it's important to note that since 2015 under the current system, the position of President is often more ceremonial and the Premier of the State Council is the primary figure for practical governance. The most significant changes in leadership since the Communist Party meetings in 2015 have been in terms of appointments as party members, not just the presidency
+
+sample 35: A professional football field, typically used for soccer (or football in the UK and other countries) has dimensions that are standardized to be 68 to 78 meters (130 to 152 feet) long and 73 meters (110 feet) to 105 meters (110 feet) wide, with the most common length being 105 meters (about 110 feet) and the most common width being
+
+sample 36: A professional soccer (football) field, according to the FIFA World Cup standards and the FIFA World Cup Stadiums Regulations, must be between 68 meters (222.5 feet) and 78 meters (253 feet) in length. Typically, a soccer field is designed to have an approximate length of 68 to 70 meters (222 to 222.5 feet) for matches and performances. The field is also
+
+sample 37: A professional soccer (football) field, according to FIFA standards, is typically larger than most fields used for other sports and is designed to ensure that matches have a consistent experience globally. The length of a professional soccer field is between 68 meters (222 feet) and 110 meters (358 feet) with the most common difference being in the length of the stadium design and layout. The field must also be longer than it is wide, with the
+
+sample 38: A professional soccer (football) field, according to FIFA standards, must be large enough to be 68 to 84 meters (73 to 90 yards) in length and 64 to 73 meters (80 to 94 yards) in width. Typically, the most common dimensions for a professional stadium are 73 meters (828 feet) in length and 85 meters (916 feet) in width,
+
+sample 39: A professional football field, typically used for soccer (football) matches, is standardized to have a length between 68 and 78 meters (730 to 828 feet) and a width between 64 and 73 meters (650 to 790 feet). These adjustments are made based on the specific stadium or venue, but the most common dimensions in professional stadiums are 68 meters (730 feet) in length
+
+sample 40: The United States is primarily divided into states, and each state has its own capital, but for the purpose of this question, here are five capital cities of states in the USA:
+
+1. Washington D.C. – This is the capital city of the District of Columbia and serves as the capital for the entire United States.
+2. Boston – The capital of the state of Massachusetts.
+3 New York City – Typically associated with New York state, it operates differently from other states as it
+
+sample 41: The United States has states but not states directly have capital cities; instead, each state has its own capital city. Here are five capital cities of different states in the USA:
+
+1. Washington D.C. – This is not part of any state and serves as the nation’s capital.
+2 New York City – The largest city in New York State.
+3 Boston – In Massachusetts.
+4 Austin – In Texas.
+5 Atlanta – In Georgia.
+
+Each of these cities plays a significant role
+
+sample 42: The United States has states, but all of them share the same capital city, which is Washington, D.C., not that there are multiple capital cities for different states. However, each state does have its own capital, and here are five capital cities from different states:
+
+1. Washington, D.C. – New York City (New York)
+2 Boston (Massachusetts)
+3 Atlanta (Georgia)
+4 Austin (Texas)
+5 Denver (Colorado)
+
+Note that the first statement is
+
+sample 43: The United States has 50 states, but it only has one capital, which is Washington, D.C., where the U.S. Congress and the President are located. However, each state does have its own capital city. Here are five capital cities of different states in the USA:
+
+1 **Boston** – Massachusetts
+2 **Chicago** – Illinois (Note that Chicago is more famous for being the largest city in Illinois, but not the capital) Corrected version: The
+
+sample 44: The United States has several states, but only one capital city, which is Washington, D.C. However, if you're looking for capital cities in the U.S. states, here are five different capital cities from different states:
+
+1 **Boston** - Massachusetts
+2 **Chicago** – Illinois (Note that Chicago is not a state capital, but it is the largest city in Illinois) Correcting this, more accurate would be:
+3 **Philadelphia** – Pennsylvania
+4 **
+
+sample 45: Heterosis, often referred to as hybrid vigor, is a biological phenomenon where the offspring of different individuals or species (usually through sexual reproduction) have increased fitness or performance compared to the parents. This increased performance can manifest in various ways, such as increased resistance to diseases, higher productivity in terms of the production of food or other products, and enhanced physical traits. The most common way this is studied and experienced is through breeding domestic animals and plants for specific desirable traits.
+
+Inbre
+
+sample 46: Heterosis, also known as hybrid superiority or the hetero effect, is a phenomenon in biology where offspring of different parents have increased fitness and performance compared to their parents. This increased fitness can manifest in various ways, such as increased size, faster growth rate, greater resistance to diseases, or enhanced reproductive capacity. The opposite of heterosis is inbreeding depression, which occurs when individuals from a population that has been inbred share more genetic differences, leading to decreased fitness.
+
+sample 47: Heterosis, also known as hybrid vigor, is a phenomenon in biology where individuals produced by mating different individuals from different populations or species have increased fitness compared to the parental states. This increased fitness often manifests as larger size, faster growth, greater productivity, and increased resistance to disease. The opposite of heterosis is inbreeding depression, which occurs when individuals bred from similar populations have decreased fitness due to an increase in the frequency of defective genes.
+
+The increased fitness in heterosis
+
+sample 48: Heterosis, also known as hybrid superiority or heteroism, is a phenomenon in genetics and breeding where offspring from different parents have increased performance or fitness compared to the parents. This increased performance is often due to the increased frequency of favorable non-existent or rare combinations of genes in the hybrid offspring.
+
+This phenomenon occurs when the mating of two different individuals results in an increased number of positive interactions between the differences in the parental genomes. These differences can include various traits such as increased resistance
+
+sample 49: Heterosis, also known as hybrid vigor, is a biological phenomenon where the offspring of different species or strains of an organism have increased fitness and performance compared to the parental lines. This enhanced performance often results from differences in the species or strains in terms of genetic structure and function.
+
+The increased fitness can manifest in various ways, including increased resistance to diseases and infections, larger size, faster growth rates, and more stable performance under different conditions. The opposite of heterosis is inbre
+
+sample 50: The division of Korea into North and South after the end of World War II was largely due to the Cold War and the actions of the United States and the Soviet Union. Specifically, on August 8, 1946, the U.S. and Soviet governments agreed to divide Korea into two zones of responsibility when the war ends, with the Soviets controlling the north and the Americans the south. On June 28, 1950, both countries dissolved their
+
+sample 51: The division of Korea into North and South after the end of World War II was largely due to the Cold War, and it occurred shortly after the Japanese surrender in 1941. Specifically, on June 24, 1953, after the Korean War, North and South Korea were officially established and remained separate entities since then. However, the most immediate and significant way that Korea was divided into two nations was through the signing of the Potsdam Agreement
+
+sample 52: The division of Korea into North and South after the Korean War is often associated with the events following World War II, not specifically during the Korean War itself. After World War II, Korea was temporarily divided into two regions under different leadership to prevent the spread of communism in the region. The U.S. and its allies established control over the state in the U.S. Zone, which became South Korea (Korea Republic), while the Soviet Union controlled the state in the Soviet Zone,
+
+sample 53: Korea was separated into North and South Korea shortly after the end of World War II and the Korean War (1950-1953). The division began on September 2, 1947, when the United States and the Soviet Union proposed to divide the country into two zones based on the Korean War armistice agreement, with each side responsible for the areas where they had been stationed during the war. The most significant point of separation is at
+
+sample 54: Korea was separated into North and South Korea after the Korean War (1951-1953), but the division was primarily due to the end of World War II and the subsequent Cold War tensions. The direct cessation of the Korean conflict and the signing of the armistace was on July 23, 1953, but the division of the country into North and South Korea can be traced back to June 24, 19
+
+sample 55: In Google Cloud Platform (GCP), the equivalent service to Amazon S3 is Google Cloud Storage. Both services are part of their respective cloud platforms and are used to store and serve web content, or to use as part of other applications and services on these platforms. Here are some key differences and similarities:
+
+- **Amazon S3** is part of the AWS (Amazon Web Services) suite of services.
+- **Google Cloud Storage** is part of the GCP (Google Cloud
+
+sample 56: In Google Cloud Platform (GCP), the service equivalent to Amazon S3 (Simple Storage Service) is Google Cloud Storage (GCS). Both services are designed to provide web services access to store and transfer large amounts of data on the internet with no difference in file size or duration of the transfer. Here are some key differences and similarities:
+
+- **S3 (Amazon S3)**: Part of AWS (Amazon Web Services) and operates similarly to GCS, but it’s
+
+sample 57: In Google Cloud Platform (GCP), the Amazon S3 (Simple Storage Service) equivalent service is Google Cloud Storage (GCS). Both services are designed to provide similar functionality, which includes storing and serving very large files without needing to think about or manage the underlying difference in the number of users and instances. Here are some ways that Google Cloud Storage is used similarly to Amazon S3:
+
+1. **Storage of Large Files**: Both services are used for storing large files with no
+
+sample 58: In Google Cloud Platform (GCP), the service equivalent to Amazon S3 (Simple Storage Service) is Google Cloud Storage. Both services are designed to provide web services for storing and retrieving files using the internet. Here are some key aspects of Google Cloud Storage:
+
+- **Cloud Storage** provides scalable storage for both web applications and use cases that require large amounts of data transfer, such as video streaming or media services.
+- It supports various file formats and uses the Simple Storage Service (
+
+sample 59: In Google Cloud Platform (GCP), the equivalent service to Amazon S3 is Google Cloud Storage. Both services are designed to store and serve web content, with similar functionality in terms of uploading, copying, and accessing files using the cloud. Here are some key aspects of Google Cloud Storage:
+
+- **S3 Compatibility**: Google Cloud Storage can be used to run applications built for AWS S3 using FHIR (AWS S3 Transfer Server) or the V3 API.
+- **
+
+## c3__unsteered
+
+- Concept score: 1.0133333333333332
+- Fluency score: 4.8741666666666665
+- Samples: 60
+
+sample 0: Certainly! Here are some of the most popular American beer brands:
+
+1. **Budweiser** - A flagship brand of Anheuser-Busch InBev, widely recognized and one of the best-selling beers in the United States.
+
+2. **Coors Light** - Also from Molson Coors Beverage Company, this is another highly popular lager known for its light taste.
+
+3. **Miller Lite** - Produced by SABMiller (now part of AB
+
+sample 1: Certainly! Here are some of the most popular American beer brands:
+
+1. **Budweiser** - A well-known and widely distributed brand, often associated with Bud Light as well.
+2. **Coors Light** - Known for its light and refreshing taste, it's one of the top-selling beers in the United States.
+3. **Miller Lite** - Another popular light beer, known for its low calorie count.
+4. **Heineken** - While not
+
+sample 2: Certainly! Here are some popular American beer brands:
+
+1. **Budweiser (Anheuser-Busch)** - One of the most well-known and widely distributed beers in the United States.
+2. **Coors Light (Coors Brewing Company)** - Known for its light taste and crisp finish.
+3. **Miller Lite (MillerCoors)** - Another popular light beer that has been a staple in American refrigerators for decades.
+4. **Heineken (
+
+sample 3: Certainly! Here are some popular American beer brands:
+
+1. **Budweiser** - One of the most well-known and widely distributed beers in the United States.
+2. **Coors Light** - Known for its light taste and crisp finish.
+3. **Heineken** - While not originally an American brand, it's widely available and popular in the U.S.
+4. **Miller Lite** - Another popular light beer option.
+5. **Guinness**
+
+sample 4: Certainly! Here are some popular American beer brands:
+
+1. **Budweiser** - One of the most well-known and widely distributed beers in the United States.
+2. **Coors Light** - Known for its light taste and clear appearance.
+3. **Miller Lite** - Another popular light beer option.
+4. **Heineken** - While not originally an American brand, it has gained significant popularity in the U.S. market.
+5. **Guinness
+
+sample 5: College Avenue in Berkeley, California, runs from San Pablo Avenue to Shattuck Avenue. It is a major street that serves as a central thoroughfare through the heart of the city. The beginning of College Avenue is at the intersection with San Pablo Avenue, and it ends at Shattuck Avenue. Along this route, you'll find several notable landmarks and institutions, including the University of California, Berkeley campus, which stretches along much of the avenue.
+
+sample 6: College Avenue in Berkeley, California, runs from the intersection of Shattuck Avenue and College Avenue at the northeast corner of the University of California, Berkeley campus to its endpoint at San Pablo Avenue, just south of the Berkeley Hills. 
+
+Specifically:
+- It begins at Shattuck Avenue (at the UC Berkeley campus).
+- It ends at San Pablo Avenue.
+
+College Avenue is a major thoroughfare through the city of Berkeley and is lined with shops, restaurants, and various businesses
+
+sample 7: College Avenue in Berkeley, California, begins at the intersection of Shattuck Avenue and College Avenue near the University of California, Berkeley campus. It runs generally eastward from there. The eastern end of College Avenue is at San Pablo Avenue, where it intersects with Adeline Street.
+
+So, to summarize:
+- **Start:** Intersection of Shattuck Avenue and College Avenue (near the UC Berkeley campus)
+- **End:** Intersection of College Avenue and San Pablo Avenue (at Ad
+
+sample 8: College Avenue in Berkeley, California, begins at the intersection with Oxford Street in the downtown Berkeley area and runs northward. It ends at Shattuck Avenue near the University of California, Berkeley campus. Along its length, College Avenue passes through several neighborhoods and is known for its mix of businesses, including restaurants, cafes, and shops, as well as housing and residential areas.
+
+sample 9: College Avenue in Berkeley, California, runs generally north-south and connects several key areas of the city. It begins at its northernmost point near the University of California, Berkeley campus, specifically at Shattuck Avenue, and extends southward to its terminus at San Pablo Avenue.
+
+To be more precise:
+- **Northern End:** College Avenue starts at Shattuck Avenue.
+- **Southern End:** College Avenue ends at San Pablo Avenue.
+
+College Avenue is a significant street for
+
+sample 10: Braising is a cooking technique that involves simmering meat or vegetables in liquid, typically over low heat, to tenderize the ingredients and enhance their flavor. This method combines elements of stewing and sautéing, allowing for a rich, flavorful dish.
+
+Here are some key aspects of braising:
+
+1. **Ingredients**: Braising can be used with various types of meat (such as beef, pork, lamb, or poultry) and vegetables. The choice of ingredient often
+
+sample 11: Braising is a cooking technique that involves simmering food in liquid in a covered pot on the stovetop or in the oven. This method combines elements of both stewing and roasting to create tender and flavorful dishes.
+
+Here are some key points about braising:
+
+1. **Ingredients**: Braising can be used with various types of meat (such as beef, pork, lamb, or poultry) and vegetables. The choice of ingredients often depends on the specific recipe.
+
+sample 12: Braising is a cooking technique that involves cooking food in liquid, typically over low heat for an extended period. This method combines the benefits of both simmering and roasting, resulting in tender and flavorful dishes.
+
+Here are some key points about braising:
+
+1. **Process**: Food is first seared to develop a browned crust, then cooked in a covered pot with a small amount of liquid (such as water, broth, or wine) at a low temperature.
+
+2
+
+sample 13: Braising is a cooking technique that involves simmering meat or vegetables in a small amount of liquid, such as stock, wine, or sauce, over low heat for an extended period. This method combines the benefits of both stewing and roasting, resulting in tender and flavorful dishes.
+
+Key aspects of braising include:
+
+1. **Preparation**: The ingredients are often seared first to develop a browned crust, which enhances flavor and helps create a rich sauce. Alternatively,
+
+sample 14: Braising is a cooking technique that involves cooking food in liquid over low heat for an extended period of time. This method combines the use of both dry and wet cooking methods, resulting in tender and flavorful dishes.
+
+Here are some key points about braising:
+
+1. **Ingredients**: Braising can be used with various types of meat (such as beef, pork, lamb, and chicken) and vegetables. The choice of ingredients often depends on the specific recipe being followed.
+
+2.
+
+sample 15: It seems there might be a bit of confusion regarding the title "Marquise of Armiani." There isn't a widely known film with this exact title. However, I can help you explore similar titles or provide information on related films.
+
+1. **Marquise de Merteuil** - This character is from the play and film "Les Liaisons Dangereuses" (Dangerous Liaisons). The character is central to the story and is often referred to as
+
+sample 16: It seems there might be a typo or confusion in the title "Marquise of Armiani." There isn't a widely known film with this exact title. However, I can help you find information about similar titles or provide details on other films that might be related to what you're looking for.
+
+If you meant:
+
+1. **"The Marquise of Carpi" (1948)** - This is an Italian historical drama film based on the life of the
+
+sample 17: I believe you might be referring to "The Marquise of Pompadour" or possibly a different title that I'm not immediately recognizing as "Marquise of Armiani." There isn't a widely known film with this exact title.
+
+However, if you're referring to "The Marquise of Pompadour," it's a historical drama film about the life of Jeanne Antoinette Poisson, better known as Madame de Pompadour, who was the
+
+sample 18: It seems there might be a bit of confusion with the title "Marquise of Armiani." There isn't a widely known film by this exact name. However, I can help you find information if you have any specific details or if you meant another film. 
+
+If you're referring to a movie about a character named Marquise or Armiani, could you provide more context or check the spelling? For example, there is a film called "Armageddon" (
+
+sample 19: It seems like there might be a typo or confusion in the title "Marquise of Armiani." There isn't a widely known film with this exact title. However, I can help you find information if you have more details or if you're referring to a specific movie. 
+
+If you meant "The Marchioness of Armiani," it could be a lesser-known or regional production. Alternatively, you might be thinking of a different title entirely. Could you provide more context
+
+sample 20: The player who has scored the most World Cup goals in history is Miroslav Klose of Germany, with a total of 16 goals across four World Cup tournaments (2002, 2006, 2010, and 2014). However, as of the last World Cup tournament in 2022, his record has not been surpassed. Cristiano Ronaldo and Lionel Messi, both active players, are close behind
+
+sample 21: The player who has scored the most World Cup goals is Miroslav Klose of Germany. He scored a total of 16 goals in four World Cup tournaments (2002, 2006, 2010, and 2014). Klose retired from international football after the 2014 World Cup, leaving his mark as the all-time leading scorer in World Cup history.
+
+sample 22: The player who has scored the most World Cup goals in history is Miroslav Klose of Germany, with a total of 16 goals across four World Cup tournaments (2002, 2006, 2010, and 2014). Klose retired after the 2014 World Cup, which was his final tournament. Since then, no player has been able to surpass this record. Cristiano Ronaldo is the
+
+sample 23: The player who has scored the most World Cup goals is Miroslav Klose of Germany. He scored a total of 16 goals in four World Cup appearances (2002, 2006, 2010, and 2014), which is a record for the most goals scored at the World Cup.
+
+sample 24: The player who has scored the most World Cup goals is Miroslav Klose of Germany, with a total of 16 goals across four World Cup tournaments (2002, 2006, 2010, and 2014). Klose retired after the 2014 World Cup, and since then, no player has been able to surpass his record. Cristiano Ronaldo and Lionel Messi are among those who have come
+
+sample 25: The character of Fu Manchu was created by British author Sax Rohmer. He introduced this character in his 1913 novel "The Mystery of Dr. Fu Manchu." The character has since become iconic in popular culture, often portrayed as an evil mastermind with nefarious plans against Western civilization.
+
+sample 26: The character Fu Manchu was created by British author Sax Rohmer. He introduced the character in his 1913 novel "The Mystery of Dr. Fu Manchu."
+
+sample 27: The character Fu Manchu was created by British author Sax Rohmer. He first appeared in the novel "The Mystery of Dr. Fu Manchu," published in 1913. Sax Rohmer wrote several books featuring this character, which were popular in the early 20th century but have since been criticized for their racist stereotypes.
+
+sample 28: The character Fu Manchu was created by British author Sax Rohmer. He introduced the character in his 1912 novel "The Mystery of Dr. Fu Manchu."
+
+sample 29: The character Fu Manchu was created by British author Sax Rohmer. He introduced this character in his 1913 novel "The Mystery of Dr. Fu Manchu." Sax Rohmer wrote a series of novels featuring the character, portraying him as a criminal mastermind with evil plans to conquer the world. The character has since become an iconic figure in literature and popular culture, though he is often criticized for perpetuating harmful stereotypes about East Asian people.
+
+sample 30: The president of China before Xi Jinping was Hu Jintao. Hu Jintao served as the President of the People's Republic of China from March 14, 2003, to March 14, 2013. After Hu Jintao's term ended, Xi Jinping succeeded him as the President of China on March 14, 2013. It's worth noting that in China, the head of state is referred
+
+sample 31: The president of China before Xi Jinping was Hu Jintao. Hu Jintao served as the President of the People's Republic of China from March 14, 2003, to March 14, 2013. He was succeeded by Xi Jinping, who has been serving in this role since March 14, 2013.
+
+sample 32: The president of China before Xi Jinping was Hu Jintao. Hu Jintao served as the President of the People's Republic of China from March 14, 2003, to March 14, 2013. After Hu Jintao's term ended, Xi Jinping became the President of China on March 14, 2013, and his second term as President began on March 14, 20
+
+sample 33: The president of China before Xi Jinping was Hu Jintao. Hu Jintao served as the President of the People's Republic of China from 2003 to 2013. Xi Jinping succeeded him and has been the President of the People's Republic of China since 2013, with a re-election in 2018.
+
+sample 34: The president of China before Xi Jinping was Hu Jintao. Hu Jintao served as the President of the People's Republic of China from 2003 to 2013. Xi Jinping succeeded him and has been the President of China since 2013. It's worth noting that in China, the head of state is referred to as the President, but the actual leadership roles and responsibilities can be complex, involving both ceremonial duties and significant political
+
+sample 35: A professional football field, also known as a soccer field in many parts of the world, has specific dimensions according to FIFA regulations. The length of a professional football field must be between 100 and 110 meters (110 and 120 yards). The width must be between 64 and 75 meters (70 and 80 yards).
+
+These dimensions can vary slightly depending on the specific stadium or venue, but these are the
+
+sample 36: A professional football field, also known as a soccer field in many parts of the world, has specific dimensions according to FIFA regulations. The length of a professional football field must be between 100 yards (90 meters) and 130 yards (120 meters), while the width must be between 50 yards (45 meters) and 100 yards (90 meters). 
+
+For more precise measurements:
+- The length is typically around
+
+sample 37: A professional football field, also known as a soccer field in some regions, has specific dimensions according to the rules set by FIFA (Fédération Internationale de Football Association). The official length of a professional football field should be between 100 yards (90 meters) and 130 yards (120 meters), with the width ranging from 50 yards (45 meters) to 100 yards (90 meters).
+
+For more precise
+
+sample 38: A professional football field, also known as a soccer field in many parts of the world, has standardized dimensions according to the laws of the game set by FIFA (Fédération Internationale de Football Association). The length of a professional football field should be between 100 yards (90.5 meters) and 130 yards (118.5 meters), while the width should be between 50 yards (45.5 meters) and
+
+sample 39: A professional football field, also known as a soccer field in some regions, typically has specific dimensions according to the laws of the game set by FIFA (Fédération Internationale de Football Association). The length of a professional football field should be between 100 and 110 meters (110 to 120 yards), while the width should be between 64 and 75 meters (70 to 80 yards).
+
+These measurements are
+
+sample 40: Sure! Here are five capital cities in the United States:
+
+1. Washington, D.C. - The capital and most well-known of all, serving as the seat of the federal government.
+2. Albany - The capital of New York State.
+3. Boston - While not the capital, it's important to note that Massachusetts' capital is actually Boston, though the state legislature meets in nearby Worcester.
+4. Harrisburg - The capital of Pennsylvania.
+5. Tallahassee -
+
+sample 41: Sure! Here are five capital cities in the United States:
+
+1. **Washington, D.C.** - The capital and most well-known of the U.S. capital cities, located on the Potomac River between Maryland and Virginia.
+
+2. **Sacramento** - The capital of California, located in the northern part of the state.
+
+3. **Atlanta** - The capital of Georgia, located in the southeastern region of the country.
+
+4. **Denver** - The
+
+sample 42: Sure! Here are five capital cities of U.S. states:
+
+1. **Sacramento** - Capital of California
+2. **Phoenix** - Capital of Arizona
+3. **Harrisburg** - Capital of Pennsylvania
+4. **Concord** - Capital of New Hampshire
+5. **Denver** - Capital of Colorado
+
+If you need more information on any of these cities or other details, feel free to ask!
+
+sample 43: Sure! Here are five capital cities of U.S. states:
+
+1. **Washington, D.C.** - This is the capital of the United States federal government.
+2. **Sacramento** - The capital city of California.
+3. **Atlanta** - The capital city of Georgia.
+4. **Lansing** - The capital city of Michigan.
+5. **Harrisburg** - The capital city of Pennsylvania.
+
+Each of these cities serves as the official capital
+
+sample 44: Sure! Here are five capital cities of U.S. states:
+
+1. **Denver** - Capital of Colorado
+2. **Austin** - Capital of Texas
+3. **Phoenix** - Capital of Arizona
+4. **Sacramento** - Capital of California
+5. **Hartford** - Capital of Connecticut
+
+Each of these cities serves as the seat of government for its respective state.
+
+sample 45: Heterosis, also known as hybrid vigor, is a phenomenon in biology where the offspring of genetically different parents exhibit enhanced traits compared to their parents. This can be observed in various aspects such as growth rate, health, and resistance to disease.
+
+The concept of heterosis has been recognized for centuries, with early observations noting that crosses between different breeds or varieties often produce more robust and vigorous offspring. For example, in agriculture, hybrid crops are often developed to combine the best traits from
+
+sample 46: Heterosis, also known as hybrid vigor, is a phenomenon observed in biology and agriculture where the offspring of genetically dissimilar parents exhibit greater strength or other superior characteristics compared to their parents. This can be seen in various contexts, including plants, animals, and even humans.
+
+In genetics, heterosis results from the combination of different alleles (variant forms of a gene) from two distinct parent lines. When these different alleles interact in a way that produces more favorable traits in the offspring
+
+sample 47: Heterosis, also known as hybrid vigor, is a phenomenon in biology and genetics where the offspring of genetically dissimilar parents exhibit greater than average economic performance or other desirable traits. This can be observed in various fields such as agriculture, animal husbandry, and plant breeding.
+
+Key points about heterosis:
+
+1. **Genetic Diversity**: Heterosis typically results from crossing individuals with different genotypes that have distinct favorable alleles (different forms of a gene).
+
+2. **Improved
+
+sample 48: Heterosis, also known as hybrid vigor, is a phenomenon observed in biology where the offspring of two different individuals or populations exhibit superior traits compared to their parents. This can manifest in various ways, such as increased growth rate, improved health, greater fertility, enhanced resistance to diseases, or better performance in specific tasks.
+
+The concept of heterosis is based on the idea that the combination of genetic material from two different sources can result in a more robust and resilient individual. This is
+
+sample 49: Heterosis, also known as hybrid vigor, is a phenomenon in genetics where the offspring of genetically dissimilar parents exhibit greater than average economic performance or other positive characteristics. This can be observed in various contexts, including agriculture, animal husbandry, and plant breeding.
+
+Key points about heterosis:
+
+1. **Genetic Diversity**: Heterosis results from the combination of different genetic traits from two distinct parents, which can lead to enhanced performance in certain traits.
+
+2. **Increased
+
+sample 50: Korea was officially divided into two separate nations following the end of World War II in 1945. The division was initially intended to be temporary and was facilitated by the occupying forces of the United States and the Soviet Union, who agreed to divide Korea along the 38th parallel. This division led to the establishment of two separate governments:
+
+- **North Korea**: In September 1948, the Democratic People's Republic of Korea (DPRK)
+
+sample 51: Korea was formally divided into two separate nations following the end of World War II in 1945. The division was initially intended to be temporary and was a result of the decisions made at the Yalta Conference in February 1945, where the Allied leaders agreed to divide Korea along the 38th parallel, with Soviet forces occupying the northern part and American forces taking charge in the south.
+
+The division became permanent due to the ideological differences between the Soviet
+
+sample 52: Korea was officially divided into two separate nations following World War II. The division occurred in 1945 when the Japanese occupation of Korea ended. The Soviet Union and the United States agreed to temporary occupation zones for Korea at the Yalta Conference in February 1945. This agreement led to the establishment of a Provisional Government of the Republic of Korea (South Korea) in August 1948 and the Democratic People's Republic of Korea (North Korea
+
+sample 53: Korea was officially divided into two separate nations following World War II. The country was split along the 38th parallel in 1945, with the Soviet Union occupying the northern part and the United States occupying the southern part. This division was intended to be temporary and was meant to facilitate the establishment of democratic and communist governments in each half. However, it eventually led to the establishment of two distinct nations: North Korea (Democratic People's Republic of Korea) and
+
+sample 54: Korea was officially divided into two separate nations following the end of World War II in 1945. The country was divided along the 38th parallel, with the Soviet Union occupying the northern part and the United States occupying the southern part. This division was intended to be temporary, pending the election of a unified Korean government. However, due to ideological differences and political tensions, particularly between the communist North under the leadership of Kim Il-sung and the capitalist South
+
+sample 55: In Google Cloud Platform (GCP), the service that is equivalent to Amazon S3 (Simple Storage Service) is Google Cloud Storage.
+
+Google Cloud Storage is a highly durable and scalable object storage service designed for storing and retrieving any amount of data from anywhere on the web. It provides a simple REST API for uploading, downloading, and managing data objects, similar to what you would find with AWS S3.
+
+Key features of Google Cloud Storage include:
+
+1. **Scalability**:
+
+sample 56: In Google Cloud Platform (GCP), the service that is equivalent to Amazon S3 (Simple Storage Service) is **Google Cloud Storage**.
+
+Google Cloud Storage is a highly durable and scalable object storage service designed for storing and retrieving any amount of data from anywhere on the web. It provides a similar interface and functionality to Amazon S3, including support for various file formats and access control mechanisms.
+
+Key features of Google Cloud Storage include:
+
+- **Durability**: Data is stored across
+
+sample 57: In Google Cloud Platform (GCP), the service that is equivalent to Amazon S3 (Simple Storage Service) is Google Cloud Storage.
+
+Google Cloud Storage is a fully managed object storage service that allows you to store and retrieve any amount of data, at any scale. It provides an easy-to-use web interface and a simple REST API for managing your data. You can use it to store and serve website content, back up and archive application data, and more.
+
+Key features of Google
+
+sample 58: In Google Cloud Platform (GCP), the service that is equivalent to Amazon S3 (Simple Storage Service) is **Google Cloud Storage**.
+
+Google Cloud Storage is a highly durable and scalable object storage service that allows you to store and retrieve any amount of data, at any time, from anywhere on the web. It provides a simple REST API that enables you to perform operations such as creating and managing buckets, uploading and downloading objects, and setting access controls.
+
+Here are some key
+
+sample 59: In Google Cloud Platform (GCP), the service that is equivalent to Amazon S3 (Simple Storage Service) is **Google Cloud Storage**.
+
+Google Cloud Storage is a fully managed object storage service that provides a highly available, durable, and scalable solution for storing and managing data. It supports various file formats and access methods, including block storage for virtual machines (Google Cloud Storage PD) and file storage for Compute Engine instances (Cloud Filestore).
+
+Key features of Google Cloud Storage include
