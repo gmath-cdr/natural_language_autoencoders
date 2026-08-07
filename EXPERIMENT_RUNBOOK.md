@@ -40,6 +40,38 @@ python -m pip install -e .
 python -m pip install "sglang[all]>=0.5.6"
 ```
 
+### Vast.ai one-command setup
+
+For a Vast Docker/PyTorch instance with an idle **80GB A100** and a 200GB+
+persistent volume, authenticate with Hugging Face and run the checked-in
+bootstrap script. It stores the target, AV, AR, cache, logs, and artifacts on
+the chosen volume; no token is written into the repository or the script.
+
+```sh
+hf auth login
+bash scripts/vast_setup.sh --profile qwen2.5-7b --workspace /workspace/nla --gpu 0
+```
+
+For Gemma, first accept the base-model licence using the same Hugging Face
+account, then run:
+
+```sh
+bash scripts/vast_setup.sh --profile gemma3-12b --workspace /workspace/nla --gpu 0
+```
+
+The script enables the current Hugging Face Xet high-performance transfer path,
+resumes downloads, checks that the selected GPU has 80GB VRAM and 65GB free,
+requires 110GB free for Qwen or 150GB for Gemma, starts the AV SGLang server,
+and runs preflight. Re-run with `--skip-download` after a completed download;
+use `--help` to see all options.
+
+Run profiles sequentially on one GPU. Before starting Gemma after Qwen, stop
+the Qwen AV server cleanly:
+
+```sh
+bash scripts/vast_setup.sh --profile qwen2.5-7b --workspace /workspace/nla --stop-server
+```
+
 Download the matching target, AV, and AR checkpoints under `/mnt/nla/models`.
 For gated Gemma/Llama base models, authenticate with Hugging Face first. Keep
 the three components from the same profile and extraction layer.
