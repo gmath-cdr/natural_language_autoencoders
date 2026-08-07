@@ -1,0 +1,118 @@
+{
+  "concept_ids": [
+    9,
+    10,
+    52,
+    380,
+    395,
+    419
+  ],
+  "n_prompts": 12,
+  "n_samples_per_prompt": 5,
+  "alphas": [
+    0.5,
+    0.75,
+    1.0
+  ],
+  "random_seeds": [
+    17,
+    42,
+    101,
+    314,
+    2718
+  ],
+  "strict_lexicons": {
+    "9": {
+      "concept": "references to nighttime or nocturnal themes",
+      "terms": [
+        "night",
+        "nighttime",
+        "nocturnal",
+        "midnight",
+        "moonlight",
+        "moonlit",
+        "starlight",
+        "darkness",
+        "after dark"
+      ]
+    },
+    "10": {
+      "concept": "topics related to surgical procedures and wound treatments",
+      "terms": [
+        "surgery",
+        "surgical",
+        "surgeon",
+        "operation",
+        "wound",
+        "incision",
+        "suture",
+        "sutures",
+        "stitch",
+        "stitches",
+        "bandage",
+        "dressing"
+      ]
+    },
+    "52": {
+      "concept": "references to music and songs",
+      "terms": [
+        "music",
+        "song",
+        "songs",
+        "melody",
+        "melodies",
+        "rhythm",
+        "lyrics",
+        "singer",
+        "album",
+        "guitar",
+        "musical"
+      ]
+    },
+    "380": {
+      "concept": "terms related to voting and election processes",
+      "terms": [
+        "vote",
+        "votes",
+        "voting",
+        "election",
+        "elections",
+        "ballot",
+        "ballots",
+        "candidate",
+        "candidates",
+        "poll",
+        "polls",
+        "electoral"
+      ]
+    },
+    "395": {
+      "concept": "references to gorillas and related terms",
+      "terms": [
+        "gorilla",
+        "gorillas",
+        "silverback",
+        "silverbacks",
+        "great ape",
+        "great apes",
+        "primate",
+        "primates"
+      ]
+    },
+    "419": {
+      "concept": "chemical elements and their compounds related to sodium, potassium, lithium, and magnesium",
+      "terms": [
+        "sodium",
+        "potassium",
+        "lithium",
+        "magnesium",
+        "electrolyte",
+        "electrolytes",
+        "alkali metal",
+        "alkali metals"
+      ]
+    }
+  },
+  "expected_generations_per_concept": 1140,
+  "expected_total_generations": 6840
+}

@@ -22,15 +22,15 @@ artifacts.
 ## Overall finding
 
 Steering clearly occurs on Qwen, but it is task-dependent. The strongest
-evidence comes from a grounded reward-function AV edit and two independently
-tested AR-delta concepts: nautical language and AxBench concept 3, terms related
-to online gambling and casinos.
+evidence comes from a grounded reward-function AV edit, nautical language, the
+AxBench casino concept, and a controlled six-concept AxBench expansion.
 
 | Experiment | Result | Assessment |
 |---|---|---|
 | Grounded reward AV edit | Odd outputs rose from 15% unsteered to 80% at alpha 0.5 and 100% at alpha 0.75 | Successful AV-edit steering |
 | Nautical AR-delta | 95% nautical-term incidence at alpha 0.75 versus 0% unsteered and at most 15% random | Successful concept steering |
 | AxBench casino AR-delta | 85% casino/gambling incidence at alpha 0.75 versus 0% unsteered and at most 1.7% random | Strongest replication result |
+| Diverse AxBench expansion | Five of six new concepts clearly exceeded unsteered and five seeded random controls at alpha 0.75 | Multi-concept steering, with quality costs |
 | Rabbit-to-mouse poetry | No mouse outputs across three prompt variants and alphas through 4.0 | Failed |
 | J-space | The result changed substantially after fitting a broader lens | Informative, but not generalizable |
 
@@ -126,7 +126,38 @@ but still fairly intrusive.
 Conclusion: this is the strongest Qwen result. The NLA direction produces the
 intended concept far more often than unsteered and multiple random controls.
 
-## 5. J-space geometry and ablation
+## 5. Diverse AxBench expansion
+
+Six new concepts were tested with 12 held-out prompts each, five samples per
+prompt, alphas 0.5/0.75/1.0, unsteered baselines, and five seeded random-vector
+controls. The run contains 6,840 generations and six saved AR-delta vectors.
+
+At alpha 0.75:
+
+| Concept | NLA strict hit rate | Highest random | Unsteered | Prompts with any hit |
+|---|---:|---:|---:|---:|
+| Nighttime | 63.3% | 0.0% | 0.0% | 12/12 |
+| Surgery/wounds | 76.7% | 3.3% | 3.3% | 10/12 |
+| Music | 48.3% | 3.3% | 3.3% | 9/12 |
+| Elections | 100.0% | 13.3% | 8.3% | 12/12 |
+| Gorillas | 5.0% | 0.0% | 0.0% | 2/12 |
+| Alkali/electrolyte chemistry | 78.3% | 0.0% | 0.0% | 12/12 |
+
+Five concepts therefore generalize beyond the casino result. Gorillas is a
+clear weak case and is not counted as a success.
+
+The effect is often intrusive rather than quality preserving. Alpha 1.0 causes
+severe repetition for elections, chemistry, surgery, and music. Alpha 0.75 is a
+reliable detection setting for five concepts but already corrupts factual
+answers. Alpha 0.5 is gentler but usually weak; elections is the main concept
+with a noticeable alpha-0.5 effect. Chemistry warrants a follow-up around
+alpha 0.6-0.65 because 0.5 is weak and 0.75 is already excessive.
+
+Conclusion: Qwen AR-delta steering generalizes across several semantic types,
+but the useful quality-preserving operating range is narrower than the raw hit
+rates imply.
+
+## 6. J-space geometry and ablation
 
 The tiny two-prompt lens initially suggested:
 
@@ -160,6 +191,7 @@ Qwen steering is real and repeatable for:
 - Grounded parity AV edits.
 - Nautical AR-delta steering.
 - AxBench casino/gambling AR-delta steering.
+- Five of six concepts in the diverse AxBench expansion.
 
 It failed or remained inconclusive for:
 
@@ -167,8 +199,8 @@ It failed or remained inconclusive for:
 - The original poorly grounded or saturated reward setups.
 - The preliminary three-sample nautical sweep.
 
-The evidence supports a credible Qwen steering proofpoint and a successful
-single-concept AxBench replication. It does not yet establish broad AxBench
-performance, replicate the complete NLA paper, or justify a general NLA-J-space
-claim. Gemma has not been tested because its checkpoints are not locally
-available.
+The evidence supports a credible Qwen steering proofpoint and limited
+multi-concept AxBench generalization. It does not yet establish full-AxBench
+performance, demonstrate quality-preserving steering, replicate the complete
+NLA paper, or justify a general NLA-J-space claim. Gemma has not been tested
+because its checkpoints are not locally available.
