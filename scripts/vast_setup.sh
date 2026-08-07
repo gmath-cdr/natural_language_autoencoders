@@ -117,6 +117,19 @@ if [[ "$FREE_GB" -lt "$MIN_FREE_GB" ]]; then
 fi
 
 export CUDA_VISIBLE_DEVICES="$GPU"
+# Redirect model caches without moving the token that hf auth login wrote.
+# huggingface_hub otherwise derives the token path from the new HF_HOME and the
+# authenticated session appears to vanish.
+if [[ -z "${HF_TOKEN_PATH:-}" ]]; then
+  if [[ -n "${HF_HOME:-}" ]]; then
+    HF_TOKEN_PATH="$HF_HOME/token"
+  elif [[ -n "${XDG_CACHE_HOME:-}" ]]; then
+    HF_TOKEN_PATH="$XDG_CACHE_HOME/huggingface/token"
+  else
+    HF_TOKEN_PATH="$HOME/.cache/huggingface/token"
+  fi
+fi
+export HF_TOKEN_PATH
 export HF_HOME="$WORKSPACE/hf-cache"
 export HF_XET_HIGH_PERFORMANCE=1
 export HF_XET_NUM_CONCURRENT_RANGE_GETS=32
@@ -136,6 +149,7 @@ mkdir -p "$HF_HOME" "$TARGET" "$AR" "$AV" "$RESULTS" "$VECTORS" "$CHECKPOINTS" "
 cat > "$WORKSPACE/${PROFILE}.env" <<EOF
 export CUDA_VISIBLE_DEVICES=$GPU
 export HF_HOME=$HF_HOME
+export HF_TOKEN_PATH=$HF_TOKEN_PATH
 export HF_XET_HIGH_PERFORMANCE=1
 export HF_XET_NUM_CONCURRENT_RANGE_GETS=32
 export NLA_TARGET=$TARGET
@@ -193,6 +207,7 @@ if [[ "$SKIP_SERVER" -eq 0 ]]; then
     echo "Starting SGLang AV server; log: $LOGS/sglang-av.log"
     nohup python -m sglang.launch_server \
       --model-path "$AV" --port "$PORT" --disable-radix-cache --trust-remote-code \
+      --mem-fraction-static 0.35 \
       > "$LOGS/sglang-av.log" 2>&1 &
     echo $! > "$LOGS/sglang-av.pid"
     for _ in $(seq 1 90); do

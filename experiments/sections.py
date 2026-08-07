@@ -4,13 +4,15 @@ from __future__ import annotations
 
 import torch
 
+from experiments.steering import chat_ids
+
 
 SECTIONS = ("user_begin", "user_response", "user_end", "assistant_begin",
             "assistant_response", "assistant_end")
 
 
 def qwen_labels(tokenizer, messages) -> list[str]:
-    ids = tokenizer.apply_chat_template(messages, tokenize=True, add_generation_prompt=True)
+    ids = chat_ids(tokenizer, messages)
     start = tokenizer.convert_tokens_to_ids("<|im_start|>")
     end = tokenizer.convert_tokens_to_ids("<|im_end|>")
     newline = tokenizer.encode("\n", add_special_tokens=False)[0]
@@ -37,7 +39,7 @@ def qwen_labels(tokenizer, messages) -> list[str]:
 
 def generic_labels(tokenizer, messages) -> list[str]:
     """Best-effort structural labels for non-Qwen chat templates (Gemma)."""
-    ids = tokenizer.apply_chat_template(messages, tokenize=True, add_generation_prompt=True)
+    ids = chat_ids(tokenizer, messages)
     rendered = tokenizer.apply_chat_template(messages, tokenize=False, add_generation_prompt=True)
     rendered_ids = tokenizer(rendered, add_special_tokens=False).input_ids
     offset = max(0, len(ids) - len(rendered_ids))

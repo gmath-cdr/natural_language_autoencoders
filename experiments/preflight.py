@@ -28,7 +28,7 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--require-cuda", action="store_true")
     args = parser.parse_args(argv)
     ok = True
-    for package in ("torch", "transformers", "safetensors", "httpx", "yaml", "numpy"):
+    for package in ("torch", "accelerate", "transformers", "safetensors", "httpx", "yaml", "numpy"):
         try:
             importlib.import_module(package)
             ok &= check(f"import {package}", True)
@@ -39,7 +39,8 @@ def main(argv: list[str] | None = None) -> int:
         ok &= check(f"{name} checkpoint", path.is_dir(), str(path))
         if path.is_dir():
             ok &= check(f"{name} config", (path / "config.json").exists())
-            ok &= check(f"{name} sidecar", (path / "nla_meta.yaml").exists())
+            if name in ("AV", "AR"):
+                ok &= check(f"{name} sidecar", (path / "nla_meta.yaml").exists())
     try:
         import torch
         cuda = torch.cuda.is_available()

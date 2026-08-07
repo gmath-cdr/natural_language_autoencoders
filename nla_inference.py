@@ -96,6 +96,12 @@ from transformers import AutoConfig, AutoModelForCausalLM, AutoTokenizer
 
 EXPLANATION_RE = re.compile(r"<explanation>\s*(.*?)\s*</explanation>", re.DOTALL)
 INJECT_PLACEHOLDER = "<INJECT>"
+
+
+def _token_ids(value: Any) -> list[int]:
+    """Normalize Transformers/tokenizers chat-template output to plain IDs."""
+    ids = getattr(value, "ids", value)
+    return list(ids)
 # Embedding weight key suffixes across HF architectures (Llama/Qwen/Mistral/
 # Gemma use embed_tokens; GPT-2 uses wte; Falcon uses word_embeddings).
 _EMBED_KEY_SUFFIXES = ("embed_tokens.weight", "wte.weight", "word_embeddings.weight")
@@ -184,10 +190,10 @@ def load_nla_config(
     # apply_chat_template(tokenize=True) handles BOS correctly for all
     # architectures (Gemma template includes <bos>; Qwen has none).
     content = cfg.actor_prompt_template.format(injection_char=cfg.injection_char)
-    ids = tokenizer.apply_chat_template(
+    ids = _token_ids(tokenizer.apply_chat_template(
         [{"role": "user", "content": content}],
         tokenize=True, add_generation_prompt=True,
-    )
+    ))
     matches = [i for i, tok in enumerate(ids) if tok == cfg.injection_token_id]
     assert len(matches) == 1, (
         f"injection token appears {len(matches)}× in canonical prompt "
@@ -400,10 +406,10 @@ class NLAClient:
         # is equivalent but add_special_tokens=True there would double-BOS
         # Gemma (shifting every position by 1). Qwen has bos_token=None so
         # it's a silent noop there, which makes this easy to miss.
-        input_ids = self.tokenizer.apply_chat_template(
+        input_ids = _token_ids(self.tokenizer.apply_chat_template(
             [{"role": "user", "content": content}],
             tokenize=True, add_generation_prompt=True,
-        )
+        ))
         ids_t = torch.tensor(input_ids, dtype=torch.long).unsqueeze(0)
 
         with torch.no_grad():

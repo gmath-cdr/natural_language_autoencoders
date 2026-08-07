@@ -32,6 +32,12 @@ EXPLANATION_RE = re.compile(
 )
 
 
+def _token_ids(value: Any) -> list[int]:
+    """Normalize Transformers/tokenizers chat-template output to plain IDs."""
+    ids = getattr(value, "ids", value)
+    return list(ids)
+
+
 def wrap_explanation(text: str) -> str:
     """Wrap text in explanation tags for the AV-SFT response column.
 
@@ -217,11 +223,11 @@ def compute_canonical_neighbors(
     (<concept>㊗</concept>) so the trailing chat-template scaffolding is identical.
     """
     content = actor_template.format(injection_char=injection_char)
-    ids = tokenizer.apply_chat_template(
+    ids = _token_ids(tokenizer.apply_chat_template(
         [{"role": "user", "content": content}],
         tokenize=True,
         add_generation_prompt=True,
-    )
+    ))
     matches = [i for i, tid in enumerate(ids) if tid == injection_token_id]
     assert len(matches) == 1, (
         f"injection token id {injection_token_id} ({injection_char!r}) appears "
