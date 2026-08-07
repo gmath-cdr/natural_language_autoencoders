@@ -191,7 +191,8 @@ def sweep(args) -> None:
     """Control-aware single-token or Qwen section sweep."""
     critic = NLACritic(args.ar, device=args.device)
     vector = vectors.load(args.vector) if args.vector else vectors.concept_delta(critic, args.concept)
-    random = vectors.random_like(vector)
+    random_seeds = [int(seed) for seed in args.random_seeds.split(",")]
+    randoms = [(seed, vectors.random_like(vector, seed)) for seed in random_seeds]
     del critic  # keep the target alone on the A100 during generation
     if torch.cuda.is_available():
         torch.cuda.empty_cache()
@@ -205,7 +206,10 @@ def sweep(args) -> None:
     for position_name in labels:
         resolver = steering.fixed_position(-1) if position_name == "last" else sections.resolver(tokenizer, messages, position_name)
         for alpha in map(float, args.alphas.split(",")):
-            for method, vector_ in (("nla", vector), ("random", random)):
+            for method, vector_ in [("nla", vector), *[
+                (f"random_seed_{seed}", random_vector)
+                for seed, random_vector in randoms
+            ]]:
                 responses = steering.generate(model, tokenizer, messages, args.layer, vector_, resolver,
                                               alpha, n_samples=args.n_samples)
                 rows.append(results.arm(f"{method}__{position_name}__alpha_{alpha}", args.concept, responses))
@@ -330,6 +334,8 @@ def main(argv: list[str] | None = None) -> None:
     sweep_parser.add_argument("--concept", required=True)
     sweep_parser.add_argument("--prompt", required=True)
     sweep_parser.add_argument("--vector")
+    sweep_parser.add_argument("--random-seeds", default="42",\
+                              help="comma-separated random control seeds")
     sweep_parser.add_argument("--positions", default="last,user_begin,user_response,user_end,assistant_begin,assistant_response")
     axbench_parser = commands.add_parser("axbench")
     _common(axbench_parser)
