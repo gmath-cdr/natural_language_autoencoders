@@ -1,0 +1,72 @@
+[
+  {
+    "label": "unsteered",
+    "target_rate": 0.0,
+    "source_rate": 0.0,
+    "responses": [
+      "He saw a carrot and had to grab it,\nAs if fate himself was giving him a pat.",
+      "He saw a carrot and had to grab it,\nFor its sweetness sang a tempting song.",
+      "He saw a carrot and had to grab it,\nFor its sweetness sang a tempting song."
+    ]
+  },
+  {
+    "label": "nla__alpha_0.5",
+    "target_rate": 0.0,
+    "source_rate": 0.0,
+    "responses": [
+      "He saw a carrot and had to grab it,\nFor its sweetness sang a seductive lilt.",
+      "He saw a carrot and had to grab it,\nFor its sweetness sang a special song.",
+      "He saw a carrot and had to grab it,\nFor it was bigger than the one he'd sampled."
+    ]
+  },
+  {
+    "label": "random__alpha_0.5",
+    "target_rate": 0.0,
+    "source_rate": 0.0,
+    "responses": [
+      "He saw a carrot and had to grab it,\nFor its sweetness sang a seductive lilt.",
+      "He saw a carrot and had to grab it,\nAs if fate himself had painted it.",
+      "He saw a carrot and had to grab it,\nAs if fate had him under its spell."
+    ]
+  },
+  {
+    "label": "nla__alpha_1.0",
+    "target_rate": 0.0,
+    "source_rate": 0.0,
+    "responses": [
+      "He saw a carrot and had to grab it,\nFor its sweetness called to him outright.",
+      "He saw a carrot and had to grab it,\nFor its sweetness sang a delightful song.",
+      "He saw a carrot and had to grab it,\nFor its sweetness sang a delightful song."
+    ]
+  },
+  {
+    "label": "random__alpha_1.0",
+    "target_rate": 0.0,
+    "source_rate": 0.0,
+    "responses": [
+      "He saw a carrot and had to grab it,\nFor its sweetness sang a special tune.",
+      "He saw a carrot and had to grab it,\nAs if its sweetness he couldn't\u4ec5\u4ee3\u8868\u7247\u523b\u7684\u521b\u4f5c\uff0c\u4ee5\u4e0b\u662f\u4e00\u4e2a\u5b8c\u6574\u7684\u56db\u884c\u8bd7\uff1a\n\nHe saw a carrot and had to grab it,\nAs if its sweetness he couldn't\nResist for a single moment,\nIn his hand, a snack he'd suddenly got.",
+      "He saw a carrot and had to grab it,\nFor its sweetness sang a delightful chant."
+    ]
+  },
+  {
+    "label": "nla__alpha_2.0",
+    "target_rate": 0.0,
+    "source_rate": 0.0,
+    "responses": [
+      "He saw a carrot and had to grab it,\nFor its sweetness called out his name just right.",
+      "He saw a carrot and had to grab it,\nFor its sweetness called to him, so fat!",
+      "He saw a carrot and had to grab it,\nFor its sweetness sang a tempting song."
+    ]
+  },
+  {
+    "label": "random__alpha_2.0",
+    "target_rate": 0.0,
+    "source_rate": 0.0,
+    "responses": [
+      "He saw a carrot and had to grab it,\nFor its sweetness sang like honey's hat.",
+      "He saw a carrot and had to grab it,\nIn haste, he bolted, nearly missing his hat.",
+      "He saw a carrot and had to grab it,\nIn his haste, he nearly toppled over."
+    ]
+  }
+]

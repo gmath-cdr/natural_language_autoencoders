@@ -1,0 +1,92 @@
+[
+  {
+    "label": "unsteered",
+    "target_rate": 0.0,
+    "source_rate": 0.0,
+    "responses": [
+      "He saw a carrot and had to grab it,\nHis hunger was like a starving pit.",
+      "He saw a carrot and had to grab it,\nHis hunger was like a starving pit.",
+      "He saw a carrot and had to grab it,\nHis hunger was like a starving kitten."
+    ]
+  },
+  {
+    "label": "nla__alpha_0.5",
+    "target_rate": 0.0,
+    "source_rate": 0.0,
+    "responses": [
+      "He saw a carrot and had to grab it,\nHis hunger was like a starving kitten.",
+      "He saw a carrot and had to grab it,\nHis hunger was like a starving git.",
+      "He saw a carrot and had to grab it,\nHis hunger was like a starving kitten."
+    ]
+  },
+  {
+    "label": "random__alpha_0.5",
+    "target_rate": 0.0,
+    "source_rate": 0.0,
+    "responses": [
+      "He saw a carrot and had to grab it,\nHis hunger was like a starving kitten.",
+      "He saw a carrot and had to grab it,\nHis hunger was like a starving kitten.",
+      "He saw a carrot and had to grab it,\nHis hunger was like a starving cat."
+    ]
+  },
+  {
+    "label": "nla__alpha_1.0",
+    "target_rate": 0.0,
+    "source_rate": 0.0,
+    "responses": [
+      "He saw a carrot and had to grab it,\nHis hunger was like a starving kitten.",
+      "He saw a carrot and had to grab it,\nHis hunger was like a starving lion.",
+      "He saw a carrot and had to grab it,\nHis hunger was like a starving kitten."
+    ]
+  },
+  {
+    "label": "random__alpha_1.0",
+    "target_rate": 0.0,
+    "source_rate": 0.0,
+    "responses": [
+      "He saw a carrot and had to grab it,\nHis hunger was like a starving cat.",
+      "He saw a carrot and had to grab it,\nHis hunger was like a starving kitten.",
+      "He saw a carrot and had to grab it,\nHis hunger was like a starving kitten."
+    ]
+  },
+  {
+    "label": "nla__alpha_2.0",
+    "target_rate": 0.0,
+    "source_rate": 0.0,
+    "responses": [
+      "He saw a carrot and had to grab it,\nHis hunger was like a starving kitten.",
+      "He saw a carrot and had to grab it,\nHis hunger was like a starving cat.",
+      "He saw a carrot and had to grab it,\nHis hunger was like a starving kitten."
+    ]
+  },
+  {
+    "label": "random__alpha_2.0",
+    "target_rate": 0.0,
+    "source_rate": 0.0,
+    "responses": [
+      "He saw a carrot and had to grab it,\nHis hunger was like a starving kitten.",
+      "He saw a carrot and had to grab it,\nHis hunger was like a starving kitten.",
+      "He saw a carrot and had to grab it,\nHis hunger was like a starving kitten."
+    ]
+  },
+  {
+    "label": "nla__alpha_4.0",
+    "target_rate": 0.0,
+    "source_rate": 0.0,
+    "responses": [
+      "He saw a carrot and had to grab it,\nHis hunger was like a starving cat.",
+      "He saw a carrot and had to grab it,\nHis hunger was like a starving cat.",
+      "He saw a carrot and had to grab it,\nHis hunger was like a starving kitten."
+    ]
+  },
+  {
+    "label": "random__alpha_4.0",
+    "target_rate": 0.0,
+    "source_rate": 0.0,
+    "responses": [
+      "He saw a carrot and had to grab it,\nHis hunger was like a starving kitten.",
+      "He saw a carrot and had to grab it,\nHis hunger was like a starving kitten.",
+      "He saw a carrot and had to grab it,\nHis hunger was like a starving tiger."
+    ]
+  }
+]

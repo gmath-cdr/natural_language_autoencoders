@@ -1,0 +1,52 @@
+[
+  {
+    "label": "unsteered",
+    "target_rate": 0.0,
+    "source_rate": 0.3333333333333333,
+    "responses": [
+      "Hoppy little bunny so fine,\nEars up high, tail like a sign!",
+      "Hop, hop, through the green meadow,\nEars twitching, tail like a feather!",
+      "Hoppy little rabbit, so soft and so fine,\nEars up high, tail just a twine!"
+    ]
+  },
+  {
+    "label": "nla__alpha_0.5",
+    "target_rate": 0.0,
+    "source_rate": 0.0,
+    "responses": [
+      "Hop, hop, through the green meadow,\nEars twitch, chasing after clover!",
+      "Hoppy bunny with long ears,\nHopping through the green grass, no fears!",
+      "Hoppy little bunny so fine,\nEars up high, tail just a twine!"
+    ]
+  },
+  {
+    "label": "random__alpha_0.5",
+    "target_rate": 0.0,
+    "source_rate": 0.3333333333333333,
+    "responses": [
+      "Hop, hop, through the green meadow,\nEars flick, with a big carrot chew!",
+      "Hoppy little rabbit, so quick and so sly,\nIn the green fields he skips, under the watchful sky!",
+      "Hop, hop, through the green meadow,\nEars twitching, tail like a feather!"
+    ]
+  },
+  {
+    "label": "nla__alpha_1.0",
+    "target_rate": 0.0,
+    "source_rate": 0.0,
+    "responses": [
+      "Hop, hop, through the green meadow,\nEars flick, tail wiggles, oh so sly!",
+      "Hoppy little bunny so fine,\nEars up high, tail just a swine!",
+      "Hoppy bunny with long ears,\nHopping through fields, joyfully cheers!"
+    ]
+  },
+  {
+    "label": "random__alpha_1.0",
+    "target_rate": 0.0,
+    "source_rate": 0.0,
+    "responses": [
+      "Hop, hop, through the green meadow,\nEars flick, with a big carrot chew!",
+      "Hoppy little bunny so fine,\nEars up high, tail just a twine!",
+      "Hop, hop, through the green meadow,\nEars flick, with a big carrot chew!"
+    ]
+  }
+]

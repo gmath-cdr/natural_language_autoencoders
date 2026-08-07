@@ -1,0 +1,599 @@
+# NLA section steering sweep
+
+## unsteered
+
+- Concept score: 1.0
+- Fluency score: 4.3825
+- Samples: 20
+
+sample 0: The gentle twilight painted the sky in soft hues of pink and purple, casting a serene glow over the tranquil lake where ripples whispered secrets to the silent reeds. Amidst the calm, a lone owl hooted softly, its voice blending harmoniously with the distant crickets' symphony under the vast, star-studded canopy above.
+
+sample 1: The moon hung low in the sky, casting a silvery glow over the tranquil lake, where ripples gently stirred the glassy surface. Soft whispers of wind rustled through the trees, their leaves creating a soothing symphony that blended with the distant croaking of frogs.
+
+sample 2: The evening sun painted the sky in soft hues of pink and orange, casting a gentle glow over the tranquil lake where ripples shimmered like gold. Nearby, a gentle breeze whispered through the trees, their leaves rustling in harmony with the distant chirping of crickets, creating a soothing symphony that filled the peaceful night air.
+
+sample 3: The moon hung low in the sky, casting a silvery glow over the tranquil lake, where ripples shimmered like diamonds caught in the gentle breeze. Soft whispers of wind rustled through the trees, their leaves dancing in harmony as if they were part of an eternal, silent symphony under the watchful gaze of the night sky.
+
+sample 4: The moon hung low in the sky, casting a silvery glow over the tranquil lake, where ripples gently danced upon the surface like whispers of the night. Soft breezes rustled through the trees, their leaves creating a soothing symphony that seemed to lull the world into a deep, peaceful slumber.
+
+sample 5: The evening sky painted itself in soft hues of pink and purple, casting a tranquil glow over the quiet lake where ripples shimmered gently under the moon's watchful eye. Nearby, the ancient trees stood sentinel, their leaves whispering secrets of the day as they danced in the cool breeze.
+
+sample 6: The moon casts a silvery glow over the tranquil lake, its surface ripple-free and reflecting the serene night sky like a mirror. Soft breezes whisper through the dense forest, carrying with them the gentle rustling of leaves and the distant hoot of an owl.
+
+sample 7: The moon hung low in the sky, casting a silvery glow over the tranquil lake, where ripples shimmered like whispers of the night. Soft breezes rustled through the trees, their leaves creating a soothing symphony that blended with the distant chirping of crickets, enveloping the landscape in a serene embrace.
+
+sample 8: The moon casts a silvery glow over the tranquil lake, reflecting peacefully on its glassy surface as crickets chirp softly in the surrounding meadow. Gentle breezes rustle through the trees, carrying with them the faint scent of blooming wildflowers and the distant hum of a contented world at rest.
+
+sample 9: The moon casts a silvery glow over the tranquil lake, its surface perfectly calm and reflecting the serene night sky dotted with countless stars. Soft breezes whisper through the dense forest nearby, carrying with them the gentle rustle of leaves and the distant hoot of an owl.
+
+sample 10: The moon hung low in the sky, casting a silvery glow over the tranquil lake, where ripples shimmered like whispers of the night. Soft breezes caressed the trees, their leaves rustling in harmony with the distant crickets, creating a soothing symphony of peace.
+
+sample 11: The evening sky painted itself in soft hues of pink and purple, casting a serene glow over the tranquil lake where ripples gently caressed the shore. Nearby, the ancient trees stood silent sentinels, their leaves whispering secrets of the day as shadows lengthened and the world settled into a peaceful night.
+
+sample 12: The moon hung low in the sky, casting a silvery glow over the tranquil lake, where ripples gently lapped at the shore like hushed whispers. Soft breezes rustled through the trees, their leaves creating a soothing symphony that blended with the distant chirping of crickets, enveloping the scene in a serene embrace.
+
+sample 13: The moon hung low in the sky, casting a silvery glow over the tranquil lake, where ripples gently caressed the shore like whispers of the night. Soft hues of twilight blended with the starlit sky, enveloping the quiet village in a cozy embrace of peace and serenity.
+
+sample 14: The moon casts a silvery glow over the tranquil lake, its surface mirroring the serene night sky dotted with countless stars. Soft breezes rustle through the trees, carrying with them the gentle scent of blooming jasmine and the distant hush of crickets singing their evening song.
+
+sample 15: The tranquil evening painted the sky in soft hues of pink and purple, casting a gentle glow over the calm lake where ripples whispered secrets to the silent reeds. Lanterns hung like stars from ancient trees, their warm light dancing through the twilight as crickets began their soothing symphony.
+
+sample 16: The moon hung low in the sky, casting a silvery glow over the tranquil lake, where ripples gently danced under the soft breeze. In the distance, the silhouette of ancient trees stood guard, their leaves whispering secrets in the calm evening air.
+
+sample 17: The evening sun painted the sky in soft oranges and pinks, casting a warm glow over the tranquil lake where ripples danced gently on the water's surface. Peaceful shadows lengthened as the light faded, enveloping the quiet forest in a serene embrace.
+
+sample 18: The evening sun painted the sky in soft hues of pink and orange, casting a gentle glow over the tranquil lake where ripples sparkled like diamonds in the fading light. Whispering trees surrounded a cozy cottage, their leaves rustling softly as if sharing secrets under the starlit canopy that slowly began to unfurl above.
+
+sample 19: The evening sky painted a tranquil canvas of deep indigo speckled with stars, while the gentle rustling of leaves in the breeze whispered a soothing lullaby to the sleepy world below.
+
+## nla__last__alpha_0.25
+
+- Concept score: 1.1400000000000001
+- Fluency score: 4.2475000000000005
+- Samples: 20
+
+sample 0: The moon hung low over the tranquil lake, its silvery glow reflecting off the glassy surface like a mirror, while the distant hills were cloaked in a soft, hazy blue, creating an ethereal boundary between night and day. Gentle breezes whispered through the trees, their leaves rustling softly in harmony with the lapping waves of the lake, cradling the serene landscape in a peaceful embrace.
+
+sample 1: The gentle rustling of leaves in the breeze creates a soothing symphony under the vast, starlit sky, while the silhouettes of trees along the riverbank cast long, tranquil shadows that dance softly on the glassy water.
+
+sample 2: The gentle lapping of waves against the shore creates a soothing rhythm under the vast, starlit sky, while the silhouettes of cypress trees along the beach outline a tranquil silhouette against the night. Far out at sea, the occasional flash of a bioluminescent wave breaks the dark water, painting fleeting streaks of blue light across the horizon.
+
+sample 3: The gentle rustling of leaves in the breeze harmonized with the distant chirping of crickets, creating a soothing symphony that enveloped the tranquil evening landscape, while the moon, a luminous silver disk, cast a soft glow over the sleeping world below, turning every wave on the lake into a silver ribbon dancing under the night's watchful eye.
+
+sample 4: The evening sky painted itself in soft hues of pink and orange, casting a tranquil glow over the calm lake where ripples barely disturbed the glassy surface. Along the shore, the silhouette of a lone sailboat bobbed gently, its single light the only hint of human presence in the peaceful expanse.
+
+sample 5: The gentle lapping of waves against the shore created a soothing rhythm as the sun dipped below the horizon, painting the sky in hues of orange and pink, while the silhouette of distant lighthouses stood watch over the calm sea.
+
+sample 6: The moon casts a silvery glow over the tranquil lake, its surface rippling softly with the gentle lapping of waves against the shore, while the distant mountains stand like sentinels, cloaked in the soft embrace of twilight.
+
+sample 7: The gentle glow of the moon bathes the tranquil lake in a silvery light, reflecting peacefully on its glassy surface, while the distant silhouette of trees stands still like sentinels guarding the serene night. Farther out, the stars twinkle above, their tiny lights twinkling as if dancing in the vast, dark expanse of the sky.
+
+sample 8: The moon casts a silvery glow over the tranquil lake, its surface rippling softly with the gentle lapping of waves against the shore, while the distant silhouette of trees stands motionless under the watchful night sky. Farther out, a lone boat drifts silently, its presence the only sound breaking the otherwise perfect stillness of the evening.
+
+sample 9: The moonlit lake shimmered like a mirror under the silvery glow, its surface perfectly calm and reflecting the distant mountains in a dreamy silhouette. Soft breezes whispered through the trees, carrying the gentle rustle of leaves and the distant hoot of an owl, creating a serene symphony of nature's lullaby.
+
+sample 10: The gentle twilight painted the mountainside in a soft blush of pink and orange, while the lake mirrored the sky like a glassy mirror, reflecting the last rays of the setting sun in a tranquil dance of light.
+
+sample 11: The moon casts a silvery glow over the tranquil lake, its surface mirror-like and still, while soft breezes whisper through the trees, rustling the leaves in a gentle, soothing symphony.
+
+sample 12: The gentle rustling of leaves in the breeze and the soft glow of moonlight on the water create a serene and tranquil scene as the evening settles over the lake. Wisps of mist drift lazily across the surface, adding an ethereal quality to the quiet dance of shadows on the water's edge.
+
+sample 13: The moon casts a silvery glow over the tranquil lake, its surface mirroring the gentle cradle of the night sky like a mirror, while the distant mountains stand still in the pale light, their peaks barely discernible against the darkening horizon.
+
+sample 14: The moon casts a silvery glow over the tranquil lake, its surface rippling softly with the gentle lapping of waves against the shore, while the distant silhouette of pine trees stand guard in the cool night breeze.
+
+sample 15: The evening painted the sky in soft hues of pink and orange, casting a gentle glow over the tranquil lake, which mirrored the calmness of the heavens above. Whispering willows along the shore seemed to sway in slow dance, their leaves rustling softly as if singing lullabies to the setting sun.
+
+sample 16: The moon casts a silvery glow over the tranquil lake, its surface rippling gently with the soft susurrus of a night breeze, while along the shore, willow trees sway lazily, their leaves whispering secrets to the calm waters below.
+
+sample 17: The evening painted the sky in soft hues of pink and orange, casting long shadows across the tranquil lake, while gentle breezes whispered through the trees, rustling the leaves in a soothing symphony.
+
+sample 18: The gentle breeze whispered through the rustling leaves of the ancient oaks, their branches reaching like protective arms over the tranquil lake below, while the setting sun painted the sky in hues of orange and pink, casting a serene glow across the water's surface.
+
+sample 19: The gentle rustling of leaves in the breeze creates a soothing symphony under the vast, starlit sky, while the moon casts a silvery glow over the tranquil lake, reflecting its still waters like a mirror.
+
+## random_seed_17__last__alpha_0.25
+
+- Concept score: 1.0
+- Fluency score: 4.467499999999999
+- Samples: 20
+
+sample 0: The moon hung low in the sky, casting a silvery glow over the tranquil lake, which mirrored the tranquil night like a mirror reflecting dreams. Soft breezes whispered through the trees, rustling the leaves into a soothing symphony that only the calmest of evenings could produce.
+
+sample 1: The setting sun painted the sky in soft oranges and pinks, casting a gentle glow over the tranquil lake where ripples gently caressed the shore. Nearby, the whispering leaves of the ancient oak tree seemed to hum a soothing lullaby as the night began to fall.
+
+sample 2: The moon hung low in the sky, casting a silvery glow over the tranquil lake, which reflected the stars like a mirror polished by time. Soft breezes whispered through the trees, rustling the leaves into a soothing symphony that seemed to lull the world into a deep, dreamless sleep.
+
+sample 3: As the sun dipped below the horizon, painting the sky in hues of orange and pink, the tranquil lake reflected the calmness of the evening, its surface so still it seemed to hold the sky within it like a mirror. Nearby, a gentle breeze rustled through the leaves of the ancient oak trees, whispering soft lullabies that carried the day's heat away into the cool night.
+
+sample 4: The moon hung low in the sky, casting a silvery glow over the tranquil lake, which lay still like a mirror reflecting the starlit heavens above. Soft breezes rustled through the leaves of the ancient oak trees, their shadows dancing gently on the grass as if whispering secrets of the night.
+
+sample 5: As the sun dipped below the horizon, painting the sky in hues of orange and pink, the tranquil lake reflected the calmness of the evening, its surface as smooth as glass under the moon's gentle glow.
+
+sample 6: The setting sun painted the sky in hues of orange and pink, casting a warm glow over the tranquil lake where ripples gently stirred the calm surface. Nearby, a soft breeze rustled through the leaves of ancient oak trees, their branches whispering secrets to one another as shadows lengthened with the fading light.
+
+sample 7: The gentle twilight painted the sky in soft pastels of pink and purple, casting a serene glow over the tranquil lake where ripples whispered secrets to the silent reeds. Nearby, a full moon peeked through the canopy of trees, its silver light filtering through to create a mystical forest floor that seemed to breathe in the calm evening air.
+
+sample 8: As the sun dipped below the horizon, painting the sky in hues of orange and pink, the tranquil lake reflected the calmness of the evening, its surface perfectly still under the gentle breeze. Nearby, a lone owl hooted softly, adding a soothing melody to the serene night air.
+
+sample 9: The golden glow of the setting sun painted the sky in hues of orange and pink, casting a serene tranquility over the tranquil lake where ripples gently caressed the shore. As night began to fall, the first stars twinkled above, their light reflecting softly on the water's surface, creating a mirror-like stillness that seemed to hold the secrets of the universe.
+
+sample 10: The golden hues of the setting sun gently caressed the rolling hills, casting a serene blanket of warmth over the tranquil valley below. As night fell, the stars twinkled like diamonds against the velvety black sky, while a soft breeze whispered through the leaves of the ancient oak trees.
+
+sample 11: The moon hung low in the sky, casting a silvery glow over the tranquil lake, which mirrored the calmness of the night. Soft breezes whispered through the branches of the ancient oak trees, their leaves rustling in harmony with the distant crickets' chirps.
+
+sample 12: The twilight painted the sky in soft pastels of pink and purple, casting a serene glow over the tranquil lake where ripples gently caressed the shore. Nearby, a gentle breeze whispered through the leaves of the ancient oak tree, its branches providing a canopy that filtered the light into dappled patterns on the ground below.
+
+sample 13: As the sun dipped below the horizon, painting the sky in hues of orange and pink, the tranquil lake reflected the calmness of the evening, its surface shimmering like a mirror under the gentle breeze. Nearby, a lone owl hooted softly, adding a serene symphony to the quietude of the night.
+
+sample 14: As the sun dipped below the horizon, painting the sky in hues of orange and pink, the tranquil lake mirrored the serene sky, creating a peaceful scene that seemed almost dreamlike. Soft breezes rustled through the trees, carrying with them the gentle scent of blooming flowers, adding a soothing melody to the calm evening.
+
+sample 15: The tranquil evening enveloped the landscape in a soft, golden glow as the last rays of sunlight kissed the tops of the tall trees, casting long shadows that danced across the gently rolling hills. Nearby, a small stream whispered its secrets as it wound its way through the meadow, its surface shimmering with reflections of the fading light.
+
+sample 16: As the sun dipped below the horizon, painting the sky in hues of orange and pink, the tranquil lake reflected the calmness of the evening, its surface as smooth as glass under the gentle breeze. Nearby, a lone owl hooted softly, adding a serene melody to the quiet night.
+
+sample 17: As the sun dipped below the horizon, painting the sky in hues of orange and pink, the tranquil lake reflected the calmness of the evening, its surface perfectly still under the gentle breeze. Nearby, a lone owl hooted softly, adding a serene note to the quiet symphony of nature.
+
+sample 18: The tranquil evening painted the sky in soft hues of pink and purple, casting a gentle glow over the sleepy town below, where the only sounds were the distant rustling of leaves and the occasional chirp of crickets.
+
+sample 19: The tranquil evening draped the hills in a soft, gentle blanket of twilight, and the distant mountains whispered secrets to the gathering shadows as the moon began its slow ascent into the sky.
+
+## random_seed_42__last__alpha_0.25
+
+- Concept score: 1.0
+- Fluency score: 4.282500000000001
+- Samples: 20
+
+sample 0: The moon casts a gentle silver glow over the tranquil lake, its surface rippling softly with the evening breeze, creating patterns of light and shadow on the surrounding forest. In the distance, the silhouette of a old oak tree stands majestically, its branches whispering secrets to the night breeze as crickets begin their soothing symphony.
+
+sample 1: The moon casts a silvery glow over the tranquil lake, its surface rippling gently with the soft caress of the night breeze, while the distant mountains stand still and serene under the starlit sky. Nearby, a lone owl hoots softly, adding a gentle note of life to the otherwise peaceful ambiance.
+
+sample 2: The moon casts a gentle glow over the tranquil lake, its surface rippling softly with the breeze as if whispering secrets to the night sky. Shadows dance quietly among the rows of trees, their leaves murmuring in hushed tones under the soft caress of the moonlight.
+
+sample 3: The moon hung low in the sky, casting a silvery glow over the tranquil lake, where ripples danced softly under the gentle breeze. Shadows of tall trees whispered secrets as they swayed gently, their leaves creating a soothing symphony in the quiet night air.
+
+sample 4: The moon casts a silvery glow over the tranquil lake, its surface ripple-free and reflecting the serene night sky dotted with stars. Soft whispers of the breeze through the tall grasses accompany the gentle lapping of water against the shore, creating a soothing symphony of nature's peace.
+
+sample 5: The moon casts a gentle glow over the tranquil lake, its surface rippling only slightly with the breeze, while soft hues of twilight paint the surrounding mountains in a serene, dreamlike palette.
+
+sample 6: The moon casts a silvery glow over the tranquil lake, its surface rippling softly with the gentle caress of the night breeze. Soft hues of twilight embrace the rolling hills in the distance, their gentle slopes bathed in a serene, dreamlike light.
+
+sample 7: The moon gently bathes the tranquil lake in a silvery glow, reflecting peacefully on its surface as the breeze stirs the nearby trees, whispering softly to the night sky. Far beyond, the mountains stand still and silent, their peaks barely touching the edge of the moon, creating a serene and majestic backdrop for the calm evening.
+
+sample 8: The moon hung low in the sky, casting a silvery glow over the tranquil lake, its surface rippling gently with the soft breath of the evening wind. Nearby, the silhouette of tall trees stood guard, their branches whispering secrets in the cool night air.
+
+sample 9: The moon hung low in the sky, casting a silvery glow over the tranquil lake, its surface shimmering like a mirror reflecting the quiet hills beyond. Soft breezes whispered through the trees, carrying the gentle rustle of leaves and the distant hush of crickets, creating a soothing symphony that enveloped the serene landscape in a blanket of peace.
+
+sample 10: The moon casts a gentle silver glow over the tranquil lake, its surface shimmering like a mirror reflecting the starry sky above. Soft breezes whisper through the trees, their leaves rustling in harmonious response to the quietude of the night.
+
+sample 11: The moon casts a gentle silver glow over the tranquil lake, its surface rippling softly with the evening breeze, creating patterns of light and shadow on the water. Nearby, a lone owl perches silently in the branches of an ancient oak, its hoot echoing briefly through the still night air.
+
+sample 12: The moon casts a silvery glow over the tranquil lake, its surface rippling gently with the soft caress of the night breeze, while nearby, a lone owl hoots softly, adding a serene note to the quietude.
+
+sample 13: The moon casts a silvery glow over the tranquil lake, its surface ripple-free and reflecting the serene night sky dotted with countless stars. Soft breezes whisper through the dense forest, carrying with them the gentle rustle of leaves and the distant hoot of an owl, creating a soothing symphony of nature's quietude.
+
+sample 14: The moon casts a silvery glow over the tranquil lake, its surface reflecting the stars like a mirror, while gentle breezes whisper through the trees, stirring the leaves into a soft, rhythmic dance.
+
+sample 15: The moon casts a gentle silver glow over the tranquil lake, its surface rippling softly with the evening breeze, creating a mesmerizing dance of light and water. Nearby, the silhouette of ancient trees stands quietly, their branches whispering secrets in the cool night air, creating a serene symphony of nature's calm.
+
+sample 16: The moon hung low in the sky, casting a silvery glow over the tranquil lake, where ripples danced gently under the quiet breeze. Soft whispers of wind through the trees accompanied the occasional hoot of an owl, creating a soothing symphony that enveloped the serene landscape in a blanket of peace.
+
+sample 17: The moon casts a gentle glow over the tranquil lake, its surface ripple-free and reflecting the starlit sky like a mirror. Soft whispers of the evening breeze caress the whispering pines, their needles shimmering with dewdrops under the luminous moonlight.
+
+sample 18: The moon casts a gentle silver glow over the tranquil lake, its surface rippling only slightly with the breeze, creating a mesmerizing dance of light and water. Soft whispers of wind rustle through the tall grasses surrounding a cozy fire pit, where embers glow warmly against the twilight sky.
+
+sample 19: The moon casts a silvery glow over the tranquil lake, its surface reflecting the stars like a mirror, while gentle breezes whisper through the trees, rustling the leaves in soft harmony with the night's quiet symphony.
+
+## random_seed_101__last__alpha_0.25
+
+- Concept score: 1.0
+- Fluency score: 4.3
+- Samples: 20
+
+sample 0: The moon casts a silvery glow over the tranquil lake, its surface rippling gently with the soft murmur of a far-off breeze, while the distant silhouette of mountains merges into the starlit sky, creating a serene boundary between earth and cosmos.
+
+sample 1: The moon casts a silvery glow over the tranquil lake, its surface a mirror reflecting the gentle cradle of the night sky. Soft whispers of wind rustle through the trees, as if nature itself is breathing in the quietude of the evening.
+
+sample 2: The moon hung high in the sky, casting a silvery glow over the tranquil lake, while the gentle rustling of leaves in the breeze created a soothing symphony that filled the air. Farther in the distance, the silhouette of rolling hills blended seamlessly into the night, their outlines softened by the gentle embrace of twilight.
+
+sample 3: The moon hung high in the sky, casting a silvery glow over the tranquil lake, where ripples gently lapped at the shore, and the distant silhouette of a small cottage seemed to blend harmoniously with the night. In the quiet forest beyond, crickets chirped softly, their melodies weaving together into a soothing symphony that filled the peaceful evening air.
+
+sample 4: The moon casts a silvery glow over the tranquil lake, its surface as smooth and calm as glass, while the distant hills are cloaked in a soft, hazy darkness that seems to hold secrets of the night. In the distance, a lone owl calls out softly, its voice echoing through the quiet woods like a gentle lullaby.
+
+sample 5: The moon hung low in the sky, casting a silvery glow over the tranquil lake, while gentle breezes rustled through the trees, creating a soothing symphony of nature's whispers.
+
+sample 6: The moon casts a silvery glow over the tranquil lake, its surface as smooth and calm as glass, while gentle breezes whisper through the trees, rustling the leaves into a soothing symphony. Far off, the silhouette of distant mountains merges softly with the night sky, creating a serene boundary between earth and cosmos.
+
+sample 7: The moon hung high in the sky, its gentle light casting a silvery glow over the tranquil lake, where ripples danced softly on the surface like whispers of the night. In the distance, the silhouette of a old oak tree stood guard, its branches reaching out protectively as if to cradle the serene world below.
+
+sample 8: The moon hung high in the sky, casting a silvery glow over the tranquil lake, while gentle breezes rustled through the trees, creating a soothing symphony of nature's whispers.
+
+sample 9: The moon casts a silvery glow over the tranquil lake, its surface as smooth and calm as glass, while the distant hills are bathed in a gentle, twilight embrace that seems to whisper peace to all who gaze upon it.
+
+sample 10: The moon hung high in the sky, casting a silvery glow over the tranquil lake, while the gentle rustling of leaves in the breeze created a soothing symphony under the vast, star-studded canopy above.
+
+sample 11: The moon hung high in the sky, casting a silvery glow over the tranquil lake, which reflected the gentle ripples as if the water itself was breathing calmly. Soft whispers of the breeze through the leaves of the ancient oak tree nearby seemed to lull the world into a deep, peaceful slumber.
+
+sample 12: The moon casts a gentle glow over the tranquil lake, its surface rippling softly with the distant murmur of the night breeze, while the surrounding mountains stand like ancient guardians in the cool, twilight air.
+
+sample 13: The moon hung high in the clear sky, casting a silvery glow over the tranquil lake, where ripples gently danced under the soft breeze. In the distance, the silhouette of ancient trees stood guard, their branches whispering secrets to the gentle night wind.
+
+sample 14: The gentle twilight bathed the tranquil lake in a soft, silvery glow, as crickets began their soothing symphony under the vast, star-studded sky. Far off, the silhouette of the distant mountains seemed to melt into the night, creating an aura of serene stillness that enveloped the entire landscape.
+
+sample 15: The moon hung high in the sky, casting a silvery glow over the tranquil lake, where ripples gently caressed the shore like soft whispers. In the distance, the silhouette of ancient trees stood guard, their branches cradling the night sky in a cozy embrace.
+
+sample 16: The gentle twilight painted the horizon in soft hues of pink and purple, while the moon hung lazily in the sky, casting a serene glow over the tranquil lake below. Nearby, a gentle breeze rustled through the leaves of an ancient oak tree, its branches creating a natural canopy that filtered the light into a cozy, mystical ambiance.
+
+sample 17: The gentle twilight painted the sky in soft hues of pink and purple, casting a tranquil glow over the serene lake where ripples whispered secrets to the silent moon. In the distance, the silhouette of ancient trees stood guard, their branches cradling the faintest whispers of the night breeze.
+
+sample 18: The moon casts a gentle silver glow over the tranquil lake, its surface rippling only slightly with the soft caress of the breeze. In the distance, the silhouette of ancient trees stands guard, their branches whispering secrets to the calm night air.
+
+sample 19: The moon casts a gentle glow over the tranquil lake, its surface rippling only slightly with the breeze, while the distant mountains blend into the night sky, their silhouettes softened by the soft light above. Soft whispers of leaves dance in the cool evening air as the world around fades into a serene, twilight embrace.
+
+## nla__last__alpha_0.5
+
+- Concept score: 1.38
+- Fluency score: 4.279999999999999
+- Samples: 20
+
+sample 0: As the sun dipped below the horizon, painting the sky with strokes of orange and purple, the last rays of light gently caressed the calm sea, casting long shadows on the tranquil waves. On the shore, the few remaining fishermen returned to their cottages, leaving behind only the soft lapping of the water against the rocks and the occasional hoot of an owl as the evening grew silent and still.
+
+sample 1: The evening sky painted the horizon with soft hues of orange and pink, while the gentle lapping of waves against the shore whispered a soothing melody to the quiet beach. Far out at sea, the last of the sun's golden rays danced on the water like shimmering diamonds before disappearing into the fading light.
+
+sample 2: The gentle lapping of waves against the shore creates a soothing rhythm on the darkening beach, while the first stars twinkle like tiny lanterns in the deepening sky above.
+
+sample 3: The evening's hush painted the sky in a tranquil palette of lavender and gold, while the gentle lapping of waves against the shore whispered a soothing melody to the quietening sea.
+
+sample 4: As the sun dipped below the horizon, painting the sky with hues of orange and pink, the tranquil sea mirrored the heavens, their colors dancing on the water's surface like reflections of distant clouds. Along the shoreline, the occasional lighthouse beam pierced through the darkening twilight, guiding ships and silhouetting the watchman's solitary figure against the fading light.
+
+sample 5: The gentle lapping of waves against the shore creates a soothing rhythm as the sun's last rays paint the sky in hues of orange and pink, while the distant silhouette of a sailboat outlines against the fading light, creating a tranquil evening on the sea.
+
+sample 6: The evening's gentle embrace caressed the water's edge, sending shimmering silver ribbons across the glassy lake, while the first twilight tints painted the sky in a soft, fading canvas of orange and pink, their strokes fading into the distant horizon.
+
+sample 7: As the sun dipped below the horizon, painting the sky with hues of orange and pink, the gentle lapping of waves against the shore whispered a soothing melody to the sleepy beach at dusk. Far out on the water, a lone sailboat silhouetted against the fading light seemed to glide like a ghost, its only company the distant call of gulls dancing on the wind.
+
+sample 8: The gentle lapping of waves against the sandy shore creates a soothing rhythm under the soft glow of the moon, while the distant silhouette of the lighthouse casts a steady beam across the tranquil sea, guiding the way home.
+
+sample 9: The evening painted the sky in hues of orange and purple, casting long shadows over the tranquil lake as the last rays of the sun disappeared behind distant mountains, and the first soft whispers of dusk began to kiss the water's edge.
+
+sample 10: The gentle lapping of waves against the shore created a soothing rhythm as the sun dipped below the horizon, painting the sky with strokes of orange and pink, while the silhouette of distant islands stood like sentinels against the fading light.
+
+sample 11: As the sun dipped below the horizon, painting the sky with hues of orange and pink, the tranquil sea whispered gently to the sandy shores, cradling the last of the day's waves into its embrace.
+
+sample 12: As the sun dipped below the horizon, painting the sky with strokes of orange and pink, the gentle lapping of waves against the shore cradled the beach in a soft, soothing rhythm, lulling the evening into a tranquil embrace.
+
+sample 13: As the sun dipped below the horizon, painting the sky with strokes of orange and pink, the tranquil sea mirrored the heavens, its gentle waves lapping against the shore in a soothing rhythm that cradled the evening into peace.
+
+sample 14: The gentle lapping of waves against the sandy shore created a soothing rhythm as the sun's last rays painted the horizon with a fiery orange and pink, while offshore, the distant silhouette of sailboats cut through the golden glow like sentinels of the setting sun.
+
+sample 15: As the sun dipped below the horizon, painting the sky with hues of orange and pink, the tranquil ocean gently rocked the small boats at anchor, their silhouettes against the fading light creating a serene silhouette against the darkening skies.
+
+sample 16: As the sun dipped below the horizon, painting the sky in hues of orange and pink, the tranquil ocean gently lapped at the shore, sending only the softest of waves to cradle the sandy beaches under its glow.
+
+sample 17: The gentle lapping of waves against the shore creates a soothing rhythm under the soft glow of the moon, while the silvery beams dance on the water, casting ethereal shadows along the beach. Far out at sea, the occasional light from a distant sailboat puncture the darkness, adding a lone and peaceful silhouette to the tranquil night.
+
+sample 18: The gentle lapping of waves against the sandy shore creates a soothing rhythm as the sun sets, painting the sky with strokes of orange and pink while the silhouette of distant islands fade into the twilight. The moonrise above the horizon casts a silver path across the water, silencing the last of the day's waves and cradling the beach in a tranquil embrace.
+
+sample 19: As the sun dipped below the horizon, painting the sky with hues of orange and pink, the gentle lapping of waves against the shore created a soothing rhythm that cradled the calm evening into silence. The last rays of sunlight filtered through the mist, casting a magical glow over the tranquil sea, and the few sailboats dotting the horizon seemed like tiny specks of silver dancing on glass.
+
+## random_seed_17__last__alpha_0.5
+
+- Concept score: 1.04
+- Fluency score: 4.6375
+- Samples: 20
+
+sample 0: As the sun dipped below the horizon, painting the sky with hues of orange and pink, the tranquil lake reflected the serene colors, creating a mirror image of calmness under the setting sun. Soft breezes whispered through the leaves of the tall willows, rustling them gently against each other in a symphony of peace.
+
+sample 1: The setting sun painted the sky in hues of orange and pink, casting a gentle glow over the tranquil lake that mirrored the serene evening sky. Beside the water's edge, a lone figure sat quietly, surrounded by the soft rustling of leaves in the gentle breeze, feeling a deep sense of peace and tranquility.
+
+sample 2: As the sun dipped below the horizon, painting the sky in hues of orange and pink, the tranquil lake reflected the calmness of the evening, its surface smooth and still like a mirror. Nearby, a gentle breeze rustled through the leaves of the towering trees, creating a soothing symphony that only added to the serene atmosphere.
+
+sample 3: As the sun dipped below the horizon, painting the sky with hues of orange and pink, the tranquil lake reflected the serene colors, creating a mirror-like surface that seemed to hold the day's tranquility. Nearby, a gentle breeze rustled through the leaves of the tall pines, whispering soft, soothing notes that only added to the sense of calm enveloping the evening.
+
+sample 4: As the sun dipped below the horizon, painting the sky with hues of orange and pink, the tranquil lake reflected the tranquility of the evening, its surface as smooth as a mirror under the gentle breeze. Nearby, the ancient oak stood silently, its branches cradling the soft moonlight that filtered through the leaves, creating a symphony of shadows and light.
+
+sample 5: As the sun dipped below the horizon, painting the sky with hues of orange and pink, the tranquil lake reflected the soft glow, creating a mirror-like surface that seemed to hold the tranquility of the universe. Beside it, the whispering breeze rustled through the leaves of the ancient trees, providing a soothing symphony that filled the evening air.
+
+sample 6: The setting sun painted the sky with hues of orange and pink, casting a serene glow over the tranquil lake as the gentle breeze whispered through the trees. Nearby, a lone owl perched atop a branch, its soft hoots blending into the symphony of nighttime sounds.
+
+sample 7: As the sun dipped below the horizon, painting the sky with hues of orange and pink, the tranquil lake reflected the calmness of the evening, each ripple creating a gentle symphony of light. Beside the water's edge, a lone owl hooted softly, adding a touch of mystery to the serene scene.
+
+sample 8: As the sun dipped below the horizon, painting the sky with hues of orange and pink, the gentle breeze whispered through the leaves of the old oak tree, creating a symphony of rustling sounds that echoed across the tranquil meadow.ienie
+
+sample 9: As the sun dipped below the horizon, painting the sky with hues of orange and pink, the gentle breeze whispered through the leaves of the nearby willow, creating a symphony of rustling sounds that brought a sense of calm to the evening. The moon soon emerged, casting a soft glow over the tranquil landscape, highlighting the way the light danced across the surface of a nearby lake, reflecting the stillness of the night.
+
+sample 10: The setting sun painted soft oranges and pinks across the sky, casting a gentle glow over the sleepy village below as it nestled beside a tranquil lake. Each ripple in the water mirrored the calmness of the evening, reflecting the stillness of the surrounding trees and the distant mountains.
+
+sample 11: As the sun dipped below the horizon, painting the sky with strokes of orange and pink, the tranquil lake reflected the calmness of the evening, each ripple creating a mirror image of the serene clouds above. Nearby, the soft rustling of leaves in the gentle breeze whispered secrets to the dense forest, adding a soothing melody to the quiet night.
+
+sample 12: As the sun dipped below the horizon, painting the sky in hues of orange and pink, the gentle breeze whispered through the leaves of the old oak tree, creating a symphony of rustling sounds that brought calm to the evening.ienie
+
+sample 13: As the sun dipped below the horizon, painting the sky in hues of orange and pink, the tranquil lake reflected the soft glow, creating a mirror-like surface that seemed to hold the tranquility of the entire world within it. Nearby, a gentle breeze rustled through the leaves of the tall pines, whispering softly as if sharing secrets with the calm evening.
+
+sample 14: As the sun dipped below the horizon, painting the sky with hues of orange and pink, the tranquil lake reflected the calmness of the evening, its surface smooth and still as glass. Nearby, a gentle breeze rustled through the leaves of the towering pines, whispering secrets only the forest could understand.
+
+sample 15: The setting sun painted the sky in hues of orange and pink, casting a gentle glow over the tranquil lake that mirrored the serene skies above. As night fell, the first stars twinkled against the darkening canvas, accompanied by the soft lapping of water against the shore as the breeze whispered through the leaves of the nearby trees.
+
+sample 16: As the sun dipped below the horizon, painting the sky with hues of orange and pink, the tranquil lake reflected the tranquility, its surface as smooth as glass under the gentle moonlight.
+
+sample 17: As the sun dipped below the horizon, painting the sky with hues of orange and pink, the village lay still under a blanket of gentle silence and moonlit calm. Each whispering breeze carried the scent of blooming jasmine and distant ocean waves, creating a symphony of serenity that enveloped the tranquil evening.
+
+sample 18: The gentle breeze whispered through the leaves of the ancient oak trees, creating a symphony of rustling sounds that blended perfectly with the distant chimes of a nearby clock tower. As the sun slipped below the horizon, painting the sky in hues of orange and pink, the tranquil lake reflected the soft glow of the setting sun, shimmering like a mirror polished by moonlight.
+
+sample 19: The setting sun painted the sky in soft hues of pink and orange, casting a gentle glow over the tranquil lake that mirrored the serene tranquility of the evening. As night began to fall, the first stars twinkled above, creating a sparkling canopy that framed the stillness of the landscape against the darkening sky.
+
+## random_seed_42__last__alpha_0.5
+
+- Concept score: 1.0
+- Fluency score: 4.1725
+- Samples: 20
+
+sample 0: The moon gently bathes the tranquil lake in silvery light, reflecting peacefully upon the still water's surface, and the soft hum of the night breeze whispers through the dense forest, carrying the subtle scent of pine and moss.
+
+sample 1: As the sun gently fades into the horizon, casting a warm, golden glow across the tranquil lake, the evening landscape invites a serene stillness that whispers softly to the world around it, and the moon, now fully unveiled, begins its gentle dance with the stars, painting the night sky with a luminous, starry palette.
+
+sample 2: Amidst the soft twilight, the mountainside whispers gently under a blanket of starlight, while a gentle breeze stirs the surface of the lake, creating ripples that shimmer faintly in the moon's embrace.
+
+sample 3: The moon gently caressed the surface of the lake, creating ripples that shimmered like silver threads in the night. Soft whispers of the breeze danced through the trees, their leaves responding with a gentle rustle, as if sharing a quiet, eternal conversation with the stars above.
+
+sample 4: Amidst the soft glow of the moon, the lake's surface mirrors the tranquil night sky, shimmering gently under the quiet hush of the breeze. Shadows dance lightly across the forested hills as they reflect the serene stillness of the evening's embrace.
+
+sample 5: The moon casts a gentle, silvery glow over the tranquil lake, its surface shimmering with a quiet elegance as if the water itself were breathing softly in the cool night air. Softly rustling leaves and the distant hush of the wind through the trees create a soothing symphony that envelops the evening landscape in pure, unadulterated peace.
+
+sample 6: The moon gently bathes the tranquil lake in silvery light, reflecting quietly on the surface as if the water itself were breathing softly. Shadows of the nearby trees dance gracefully along the ground, creating a mesmerizing pattern that shifts subtly with each gentle breeze.
+
+sample 7: The moon casts a gentle, silvery glow over the tranquil lake, its surface shimmering softly under the starlit sky, while the silent mountains echo a peaceful stillness around it. Soft breezes whisper through the trees, carrying with them the subtle scent of blooming wildflowers, creating a serene and enchanting atmosphere.
+
+sample 8: Amidst the quiet dusk, the sun's last rays gently caressed the mountainside, casting a warm, golden glow over the tranquil lake below, where ripples danced softly under the moon's tender touch.
+
+sample 9: As the sun gently fades into the horizon, casting a warm, golden glow over the tranquil lake, the evening quietude envelops the landscape in a serene and soothing embrace, with only the occasional ripple breaking the surface of the water. Shadows dance playfully along the edge of the forest, whispering secrets to the still air as the moon begins to softly illuminate the world around it.
+
+sample 10: The moon gently caressed the tranquil surface of the lake, creating ripples of silver light that danced playfully across the water. Soft whispers of the evening breeze carried the sweet scent of blooming lavender from the nearby fields, enveloping the landscape in a serene and soothing embrace.
+
+sample 11: Amidst the gentle twilight, the moon casts a soft, silvery glow over the tranquil lake, its surface shimmering like a mirror reflecting the stillness of the night. Silent shadows dance along the edge of the forest as the evening breeze whispers through the leaves, creating a soothing rhythm that echoes the calm heartbeat of the world around.
+
+sample 12: The moon gently bathes the tranquil lake in a silvery glow, casting long, graceful shadows on the water's surface, while soft breezes whisper through the trees, stirring the leaves into a serene dance.
+
+sample 13: The moon gently caressed the tranquil surface of the lake, casting a silvery glow that reflected softly in the still water, while the surrounding mountains whispered secrets to the night sky under a blanket of star-studded darkness.
+
+sample 14: Amidst the soft glow of the moon, the tranquil lake mirrored the stars above, creating a mesmerizing dance of light on the water's surface. Silence enveloped the forest as the last rays of sunset gently caressed the moss-covered trees, leaving the world in a hushed, peaceful embrace.
+
+sample 15: Amidst the gentle twilight, the mountainside whispers quietly under a blanket of soft, silver moonlight, while the lake mirrors the tranquil night, reflecting stars that dance like tiny diamonds in the water's surface.
+
+sample 16: As the sun gently set, painting the sky with strokes of gold and pink, the moon began to softly illuminate the tranquil landscape, casting a serene and mystical glow over the still waters of the lake.
+
+sample 17: The moon gently bathes the tranquil lake in silvery light, reflecting peacefully on its surface as the wind whispers softly through the rows of tall, still trees surrounding it. Soft hues of twilight and moonlight dance across the landscape, creating a serene and breathtakingly beautiful scene.
+
+sample 18: The moon gently caressed the tranquil surface of the lake, casting a silvery glow that danced upon the water in shimmering patterns. Soft whispers of the evening breeze murmured through the tall grass, creating a soothing rhythm as harmony enveloped the landscape.
+
+sample 19: The moon gently caressed the surface of the lake, creating ripples that shimmered like silver threads in the night, while the soft hum of the breeze whispered secrets to the leaves, stirring them into a quiet, rhythmic dance.
+
+## random_seed_101__last__alpha_0.5
+
+- Concept score: 1.0
+- Fluency score: 4.5875
+- Samples: 20
+
+sample 0: The moon hung high in the sky, its gentle light casting a silvery glow over the tranquil lake, which lay calm as glass under the watchful night sky. Soft whispers of wind rustled through the trees, their leaves creating a soothing symphony that blended perfectly with the distant crickets' chirps.
+
+sample 1: The moon hangs high in the sky, casting a soft, silvery glow over the tranquil lake, which mirrors the gentle curves of the hills in its glassy surface as crickets sing their nightly serenade. Far away, the distant mountains are shrouded in a gentle haze, as if the world beyond is wrapped in a cozy blanket of peace and quiet.
+
+sample 2: The moon hangs high in the clear sky, casting a gentle silver glow over the tranquil lake, while the soft rustling of leaves in the distance whispers a lullaby to the world below. Far away, the mountains stand as silent sentinels, their peaks gently kissed by the moonlight, creating a sense of eternal stillness and peace.
+
+sample 3: The moon hangs high in the sky, casting a silvery glow over the tranquil lake, which ripples gently in the soft evening breeze, creating a mesmerizing dance of light on its surface. In the distance, the silhouette of the old oak tree stands still, its branches whispering secrets to the cool night air as crickets begin their gentle symphony.
+
+sample 4: The moon casts a gentle, silvery glow over the tranquil lake, its surface smooth as glass reflecting the quiet night sky, while the distant mountains wear a peaceful, dreamy veil of mist that hugs their slopes like a soft blanket.
+
+sample 5: The moon casts a silvery glow over the tranquil lake, its surface as smooth as glass reflecting the gentle fullness of the night sky above, while the distant hills blend into the horizon like soft contours in a dreamy painting.
+
+sample 6: The moon hangs full and round above the tranquil lake, its silvery light reflecting peacefully on the still water like a mirror laid over the world below. Soft evening mist drifts lazily across the hills in gentle swaths of grey and blue, wrapping everything in a cozy blanket of tranquility.
+
+sample 7: The moon casts a silvery glow over the tranquil lake, its surface perfectly calm as if the world were holding its breath, while in the distance, the silhouette of a ancient oak tree stands guard over the quiet village below.
+
+sample 8: The moon hung high in the sky, its gentle light casting a silvery glow over the tranquil lake, while the soft rustling of leaves in the distance seemed to whisper peaceful lullabies to the world below. Far off, the silhouette of a distant mountain range appeared to be draped in a soft blue veil, as if the sky itself were gently caressing the land.
+
+sample 9: The moon casts a gentle, silvery glow over the tranquil lake, its surface as smooth as silk under the soft light, while the distant mountains seem to melt into the horizon, their peaks shrouded in a light mist that adds to the serene tranquility of the scene. In the distance, a lone owl hoots softly, adding to the quiet harmony of the peaceful evening landscape.
+
+sample 10: The moon casts a gentle glow over the tranquil lake, its surface rippling softly as if the calm waters are whispering secrets to the silent night, while the distant mountains blend into the starlit sky, creating a seamless bridge between earth and heaven.
+
+sample 11: The moon casts a gentle, silvery glow over the tranquil lake, its surface as smooth as silk under the quiet night, while the distant mountains seem to melt into the horizon, wrapped in a soft embrace of twilight. In the distance, a lone owl hoots softly, adding a touch of mystery to the serene evening landscape.
+
+sample 12: The moon casts a gentle, silvery glow over the tranquil lake, its surface as smooth and calm as glass, while the distant hills are wrapped in a cozy blanket of twilight, their peaks touching the soft edges of the night sky.
+
+sample 13: The moon casts a gentle, silvery glow over the tranquil lake, its surface rippling only slightly as if the world holds its breath in peace. In the distance, the silhouette of a old oak tree stands guard, its branches reaching out like protective arms over a scene of utter stillness.
+
+sample 14: The moon hangs high in the sky, casting a silvery glow over the tranquil lake, which reflects the gentle ripples as if the water were made of glass. Soft whispers of the wind carry no fears, only the rustling leaves of the ancient trees that stand guard over this serene scene.
+
+sample 15: The moon hung high in the sky, its gentle light casting a silvery glow over the tranquil lake, which reflected the serene night as if the world were a mirror, peaceful and still. In the distance, the silhouette of a distant mountain hugged the edge of the horizon, its peaks touching the soft, velvet darkness above, creating a sense of infinite space beyond the tranquility of the scene.
+
+sample 16: The moon casts a gentle, silvery glow over the tranquil lake, its surface as smooth and calm as glass, reflecting the distant mountains like a dreamy painting, while the soft hum of crickets fills the air, creating a sense of deep, unwinding peace.
+
+sample 17: The moon casts a silvery glow over the tranquil lake, its surface smooth as glass reflecting the gentle curves of the surrounding mountains, while the soft hum of crickets fills the air, creating a sense of deep, unwavering peace. Far away, the silhouette of a lone owl hovers overhead, its silent flight adding to the serene stillness of the evening landscape.
+
+sample 18: The moon hangs high in the sky, casting a soft, silvery glow over the tranquil lake, which mirrors the gentle curves of the nearby hills like a dreamy canvas. In the distance, the silhouette of a ancient oak tree stands guard, its branches swaying slowly in the cool evening breeze as crickets begin their quiet symphony.
+
+sample 19: The moon casts a silvery glow over the tranquil lake, its surface as smooth as glass reflecting the soft light like a mirror, while gentle evening breezes rustle through the branches of the ancient trees that line the shore. Far away, the mountainside glows softly in the distance, as if the world beyond the peaceful scene is wrapped in a gentle embrace of twilight.
+
+## nla__last__alpha_0.75
+
+- Concept score: 1.48
+- Fluency score: 4.5
+- Samples: 20
+
+sample 0: As the sun dipped below the horizon, painting the skies with fiery orange and golden hues, the last of the day's boats on the lake disappeared into the fading light, leaving only the gentle lapping of waves and the distant lighthouse's lonely beam to guide the way through the peaceful evening.
+
+sample 1: As the sun's last golden strokes painted the horizon, the evening’s gentle embrace caressed the silvery waves that danced along the beach, their rhythmic motion soothing the last of the day’s sails on the distant horizon.
+
+sample 2: The evening’s hush wrapped the coastline like a gauzy veil, and the last golden sunpunctured the horizon with a final, fiery kiss before sinking into the sea, casting the entire sky in a fiery blaze of orange and pink.
+
+sample 3: As the sun dipped below the horizon, painting the skies with orange and gold, the last of the day's ships on the harbor silhouetted against the fading light, their white sails were the last to disappear into the fading light before the harbor's peaceful evening shrouded in mist.
+
+sample 4: As the sun dipped into the horizon, painting the skies with fiery orange and golden hues, the last of the day's ships silhouetted against the fading light, casting long shadows on the peaceful coastline, and the gentle lapping of waves against the shores whispered to the calm of the evening.
+
+sample 5: As the sun dipped below the horizon, painting the sky with strokes of orange and purple, the last of the day's ships silhouetted against the fading light, casting long shadows on the peaceful sea, and the distant lighthouse's beam guided the final ships into the safe harbor, guiding them into the safety of the night.
+
+sample 6: As the sun's last rays painted the horizon with golden hues, the silhouette of distant mountains and islands became visible against the fading sky, while the gentle lapping of waves on the shore created a soothing rhythm that cradled the evening into peace. The soft whispering of the sea at night, and the distant, mellowing out of the last of the day's last light on the water, created a serene dance of light and sound, creating a peaceful evening landscape.
+
+sample 7: As the sun's last golden rays dip below the horizon, the silhouette of the sailboats dotting the calm sea turn into ghostly white specks against the fading light, while the first soft strokes of twilight paint the sky with a serene and peaceful evening glow.
+
+sample 8: As the sun's last rays painted the horizon with golden and orange hues, the silhouette of the sail on the distant schooner against the fading sky created a peaceful and serene line on the horizon, while the sail's white canvas against the fading light created a lone, lonely but beautiful silhouette against the fading light. The gentle lapping of waves against the shore under the sail’s shadow sang a soft, rhythmic song, the only sound in the evening’s dance of lights and shadows
+
+sample 9: As the sun dipped below the horizon, painting the sky with orange and gold, the last of the day's waves gently kissed the shores, their whitecaps turning into silvery streaks in the fading light, creating a peaceful lull over the sea. On the beach, a lone sail dotted the horizon, its silhouette silhouetted against the last of the sun's glow, marking the end of another day and the promise of calm seas at night.
+
+sample 10: As the sun dipped below the horizon, painting the sky with orange and gold, the last of the day's ships silhouetted against the fading light cast long, lonely shadows on the calm, glassy sea, while the first few stars twinkled like lanterns in the evening's fading light.
+
+sample 11: As the sun's last rays painted the horizon with golden and orange hues, the silhouette of distant mountains became silhouetted against the sky, while the gentle lapping of waves on the shore whispered to the rhythmic dance of the whitecaps on the sea.
+
+sample 12: As the sun dipped below the horizon, painting the skies with orange and purple hues, the last of the day's boats dotting the coastline faded into silhouettes against the fading light, creating a peaceful silhouette against the fading skies. The gentle lapping of waves on the shores whispered to the beaches as the last of the day's ships disappeared into the distant, the only sounds along the coast were the occasional cry of a gull and the rhythmic dance of the waves.
+
+sample 13: As the sun's last rays painted the horizon with golden and orange hues, the tranquil evening painted the skies with a soft, peaceful silhouette of the distant mountains, while the gentle lapping of waves on the sandy shores whispered a soothing rhythm against the shores.
+
+sample 14: As the sun's last rays painted the horizon with golden and orange hues, the evening’s first silvery sails of moonlight began to dance on the glassy sea, while the distant lighthouse’s steady beam guided the ships safely through the night.
+
+sample 15: As the sun dipped into the horizon, painting the sky with fiery orange and golden hues, the last of the day's boats silhouetted against the fading light disappeared into the harbor, their distant white wakes fading into the dusk like the last of the fading lights on the distant ships, while the gentle lapping of the waves against the shores whispered the peacefulness of the evening's approach.
+
+sample 16: As the sun dipped into the horizon, painting the sky with fiery orange and golden hues, the last of the day's ships silhouetted against the fading light, casting long, slender shadows on the calm sea, while white gulls dotted the line of the horizon, their wings cutting through the last of the light, and the first of the evening's gulls returning to their gullies, the lighthouses' lights began to wink at the few remaining ships and
+
+sample 17: As the sun dipped into the horizon, painting the skies with strokes of orange and pink, the last of the day's light gently kissed the tops of the distant mountains, creating a peaceful silhouette against the fading sky, and the calm of evening spread over the sea, the whitecaps on the waves turning to phosphorescent dots under the stars that began to twinkle in the dusk.
+
+sample 18: The evening silhouette of the last sailing sun painted the horizon with strokes of orange and gold, casting long shadows on the calm sea, while the first few stars twinkled like tiny lanterns in the fading skies above.
+
+sample 19: The evening silhouette of the sailboats dotting the horizon against the fading sun create a peaceful line of silhouettes against the sky, while the lighthouse's steady beam of light guide the ships through the night, casting soft white lights across the peaceful sea.
+
+## random_seed_17__last__alpha_0.75
+
+- Concept score: 1.0
+- Fluency score: 4.5775
+- Samples: 20
+
+sample 0: As the sun dipped below the horizon, casting a golden glow across the tranquil lake, the sky painted a canvas of deep blues and soft pinks, which reflected in the still water creating a scene of serene beauty.
+
+sample 1: As the sun dipped below the horizon, casting a golden glow across the tranquil lake, each ripple reflected the tranquility of the evening's peace and quiet. Beside the water's edge, the old oak tree stood still, its branches gently swaying against the soft breeze, whispering secrets to the gentle evening breezes.
+
+sample 2: As the sun slipped behind the hills, casting a golden glow across the tranquil lake, each ripple in the water mirrored the peacefulness of the evening's stillness. Beside the lake, a lone owl hooted softly, adding a whisper of mystery to the otherwise silent night.
+
+sample 3: As the sun dipped below the horizon, casting a golden glow over the tranquil lake, each ripple reflected the peaceful stillness of the evening's tranquility. Beside the lake, the old oak tree stood silently, its branches cradling the soft whispers of the breeze as they tickled the edges of the night.
+
+sample 4: As the sun dipped below the horizon, painting the sky with hues of orange and pink, the tranquil evening enveloped the landscape in a soft, gentle embrace, allowing each shadow to stretch and play across the quiet expanse of the nearby hillside. Beside the edge where the grass meets the forest, a small stream whispered its secrets as it meandered through the undergrowth, its gentle murmurs providing the only sound beyond the occasional rustling of leaves in the breeze.
+
+sample 5: As the sun dipped below the horizon, casting a warm glow across the tranquil lake, each ripple reflected the peacefulness of the evening's tranquility. Beside the lake, the whispering leaves of the towering trees whispered secrets only the calm breeze could carry.
+
+sample 6: As the sun dipped below the horizon, casting a golden glow over the tranquil lake, each ripple in the water reflected the peaceful stillness of the evening. Beside the lake, a lone owl perched silently in the branches of an ancient oak, keeping watch over the quiet expanse as the sky above shifted into shades of purple and blue.
+
+sample 7: As the sun dipped below the horizon, painting the sky with hues of orange and pink, the village lay still under a blanket of tranquility, each house silent and still as it slept through the cool evening. Beside the river, the moon cast long shadows over the smooth stones and the gentle flow of water whispered secrets only the night could understand.
+
+sample 8: As the sun dipped below the horizon, casting a golden glow over the tranquil lake, the sky painted a canvas of deep blues and purples speckled with stars that twinkled like reflections in the calm water. Nearby, a gentle breeze rustled through the leaves of the towering trees, creating a soothing symphony of nature's soft whispers.
+
+sample 9: As the sun dipped below the horizon, casting a golden glow across the tranquil lake, each ripple reflected the peaceful stillness of the evening. Beside the lake, under the canopy of softly rustling leaves, a lone owl emerged to greet the night's first whispers of breeze.
+
+sample 10: As the sun dips below the horizon, casting a warm amber glow across the tranquil lake, each ripple reflects the peacefulness of the evening as it gently laps against the shore. Beside the lake, a lone owl perches in the shadows of the tall trees, its soft hoots blending seamlessly with the stillness of the night.
+
+sample 11: As the sun dipped below the horizon, casting a golden glow over the tranquil lake, the sky painted a masterpiece of deep blues and pinks, each color blending seamlessly into the next as the night began to take its first breath. Beside the lake, a lone tree stood guard, its branches gently swaying against the soft breeze, whispering secrets in the stillness of the evening.
+
+sample 12: As the sun dipped below the horizon, casting a golden glow over the tranquil lakeside, each ripple in the water reflected the tranquility of the evening's stillness. Beside the riverbank, the whispering leaves of the willow trees whispered secrets only the soft evening breeze could understand.
+
+sample 13: As the sun dipped below the horizon, casting a golden glow across the tranquil lake, the evening enveloped the landscape in a serene embrace, each ripple in the water reflected the soft hues of twilight and beyond. Beside the lake, the trees stood still and silent, their branches cradling the whispers of the breeze as they whispered secrets only the calm evening could understand.
+
+sample 14: As the sun slipped behind the hills, painting the sky with strokes of orange and purple, the village lay quiet under a blanket of soft shadows and gentle whispers of breeze rustling through the leaves. Each moment was a tranquil pause in time, as if the world held its breath for a moment of peace.
+
+sample 15: As the sun dipped below the horizon, casting a golden glow across the tranquil lake, each ripple reflected the tranquility of the evening's peace. Beside the water's edge, a lone owl hooted softly, adding a symphony of silence to the serene backdrop.
+
+sample 16: As the sun dipped below the horizon, casting a golden glow over the tranquil lake, each ripple in the water reflected the serene stillness of the evening. Beside the lake, the old oak tree stood tall and still, its branches gently swaying in the soft breeze that whispered secrets to the nearby leaves.
+
+sample 17: As the sun slipped behind the mountains, casting a golden glow across the tranquil lake, each ripple reflected the peacefulness of the evening. Beside the water's edge, a lone owl hooted softly, adding a whisper of mystery to the stillness of the night.
+
+sample 18: As the sun slipped behind the mountains, casting a golden glow over the tranquil lake, each ripple reflected the calm serenity of the evening. Beside the water's edge, a lone tree stood still, its branches gently swaying against the soft breeze that whispered secrets only it could understand.
+
+sample 19: As the sun dipped below the horizon, casting a warm glow across the tranquil lake, each ripple reflected the gentle whispers of the breeze that gently brushed past the rows of willow trees. Beside the lake, a lone lamp hung from the branch of an old oak, its soft light filtering through the leaves, creating patterns of light and shadow that danced in the evening's embrace.
+
+## random_seed_42__last__alpha_0.75
+
+- Concept score: 1.1400000000000001
+- Fluency score: 4.4125
+- Samples: 20
+
+sample 0: As the sun gently retreated into the horizon, casting a warm, rosy glow across the tranquil landscape, the moon began to softly illuminate the quiet beauty of the night, and the stars started to sparkle merrily in the vast expanse above.
+
+sample 1: Gentle moonlight bathed the tranquil landscape in a soft, silvery hue as the sun's last gentle rays whispered their final colors to the horizon, creating a breathtakingly beautiful scene of serene stillness.
+
+sample 2: Gentle moonlight bathed the tranquil landscape in a soft, luminous glow, casting silent, still shadows across the vast expanse of the lake, which mirrored the stars above with such an unyielding stillness that one might suspect the universe itself had paused for a moment.
+
+sample 3: As the sun gently withdraws its last bit of warmth into the ocean, casting a soft, rosy hue across the horizon, the evening landscape whispers softly to the world in a tranquil, unyielding stillness, and the moon, a silent observer, begins to weave its subtle, shimmering light across the vast expanse of the sea.
+
+sample 4: Gentle moonlight bathed the silent mountains in a soft, luminous glow, casting a tranquil stillness over the entire landscape as night peacefully settled around it. Serene clouds drifted slowly across the moon, creating delicate patterns of light and shadow that danced gently with each passing moment.
+
+sample 5: As the sun gently retreated into the horizon, casting a warm, rosy glow across the tranquil landscape, the moon began to softly whisper its gentle light upon the silent seascape, creating a serene and magical atmosphere.
+
+sample 6: Gentle moonlight bathed the tranquil lake in a soft, silvery glow, reflecting quietly on the surface as if the water itself had become still and dreamlike. Soft whispers of wind murmured through the leaves of the oak tree, its steady rhythm creating a soothing pattern of sound and motion that mirrored the calm stillness all around.
+
+sample 7: As the sun gently withdraws its last bit of warmth into the horizon, casting a soft, rosy glow on the tranquil lake, the moon begins to softly stroke the water's surface with its first tender touch, creating ripples of shimmering light. Silent and still, the evening clouds drift leisurely across the moon's surface, creating patterns of light and shadow that dance gracefully without any interruption.
+
+sample 8: Gentle moonlight bathed the tranquil landscape in a soft, silvery hue, casting a quiet stillness over the vast expanse of water as it shimmered gently beneath the moon's tender touch. Whispering winds caressed the earth, softly stirring the leaves of the surrounding forest, creating a harmonious rhythm with the rhythmic pulse of the ocean waves.
+
+sample 9: Gentle moonlight bathed the silent mountainside in a soft, luminous glow, casting a serene stillness over the entire landscape as the sun’s last rays gently withdrew into the horizon. Shadows danced quietly along the water’s surface as the river flowed calmly, reflecting the tranquil beauty of the evening without a single ripple disturbing its peaceful rhythm.
+
+sample 10: As the sun gently withdrew its last rays, casting a warm glow upon the tranquil lake, the moon began to softly reflect in the water, creating a mesmerizing pattern of shimmering light and shadow. Silent and still, the evening clouds drifted leisurely across the moon's surface, creating a breathtaking display of silver and white along the horizon.
+
+sample 11: As the sun gently retreated into the horizon, casting a warm, rosy glow across the tranquil landscape, the moon began to softly weave its pale light into the evening's gentle embrace, enveloping everything in a serene, dream-like stillness.
+
+sample 12: As the sun gently retreated into the horizon, casting a warm, rosy glow across the tranquil lake, the moon began to softly sparkle in its place, surrounded by a delicate circle of stars, creating a mesmerizing pattern of light and shadow. Silence enveloped the landscape, punctuated only偶尔的微风轻拂过湖面，水面轻轻荡起一圈圈温柔的涟漪，一切都静谧而美好。
+
+sample 13: Gentle moonlight bathed the silent mountains in a soft, serene glow, casting shadows playfully across the tranquil water of the lake below. Quiet whispers of the breeze through the trees accompanied the stillness of the evening, creating a harmonious melody of nature's quietude.
+
+sample 14: Under the soft glow of the moon, the mountainside gently whispers its quiet story to the silent lake, reflecting the tranquil beauty of the evening's stillness. A gentle breeze stirs the last few stragglers among the leaves, creating a rhythmic dance that harmonizes with the steady pulse of the oceanic waves below.
+
+sample 15: Under the gentle moonlight, the mountainside whispers quietly to the lake, reflecting a serene stillness all around, and a soft breeze stirs gently, caressing the surface of the water, creating a delicate pattern of ripples.
+
+sample 16: As the sun gently withdrew its last bit of warmth into the ocean, casting a soft, rosy glow across the horizon, the evening landscape embraced a tranquil silence, with the moon and stars quietly taking over the sky's storytelling. Whispering winds caressed the vast expanse of the ocean, maintaining a delicate balance between the water's surface and the still, awe-inspiring beauty of the surrounding mountains.
+
+sample 17: Gentle moonlight bathed the tranquil landscape in a soft, silvery hue, casting a serene stillness over the vast expanse of the lake, while a faint breeze whispered softly through the leaves, stirring up a gentle rhythm of nature's calm.
+
+sample 18: Gentle moonlight bathed the tranquil lake in a soft, silvery glow, reflecting quietly on the still water as if the entire world had paused for a moment of stillness. Soft whispers of the breeze murmured gently to the ear, carrying the subtlest hints of a cool night's breeze through the lush, undisturbed forest nearby.
+
+sample 19: As the sun gently drifted away from the horizon, casting a warm, golden glow across the tranquil lake, the evening silence was broken only by the occasional whisper of the wind as it softly caressed the vast expanse of the water's surface. Nearby, the moon began to emerge, its gentle light reflecting beautifully on the still water, creating a mesmerizing pattern of shimmering silver waves.
+
+## random_seed_101__last__alpha_0.75
+
+- Concept score: 1.04
+- Fluency score: 4.775
+- Samples: 20
+
+sample 0: The moon hangs full and round over the tranquil lake, its surface smooth as glass reflecting the soft light in ripples of silver glow, while the distant mountains loom in a haze of twilight, their peaks shrouded in a gentle mist that adds to the serene beauty of the evening. In the distance, a lone owl hoots softly, adding to the quiet harmony of nature's own bedtime song.
+
+sample 1: The moon hangs high in the clear night sky, its gentle light casting a tranquil glow over the tranquil lake, which ripples softly in the distant breeze, as if the world is holding its breath in silence. Far away, the mountains slope gently to a dark horizon, their peaks shrouded in a thin layer of mist that adds to the serene beauty of the scene.
+
+sample 2: The moon hangs full and round over the tranquil lake, its surface mirrored in the clear, cool night as the gentle waves softly whisper their secrets to the silent lake shores. Soft, silver beams from the moonlight dance upon the faces of a family sitting by a bonfire, their laughter and gentle stories creating a warm, cozy envelope around them as they enjoy the quiet of the evening.
+
+sample 3: The moon hangs full and round over the tranquil lake, its surface smooth as glass reflecting the soft glow of the night sky above, while gentle evening breezes whisper quietly as they drift through the trees that line the distant shore.
+
+sample 4: The moon hangs full and round over the horizon, casting a soft, silvery glow over the tranquil lake, which mirrors the gentle contours of the distant hills like a dream, while the air is filled with the hush of a nightingale's distant song.
+
+sample 5: The moon hangs full and round over the tranquil lake, its surface smooth as glass reflecting the soft silver light that dances gently on the shore, while the gentle rustling of leaves in the distance creates a soothing symphony of nature's peace. Far away, the mountains stand as silent sentinels, their slopes bathed in a hazy glow that seems to deepen the sense of tranquility around them.
+
+sample 6: The moon hangs full and round over the horizon, casting a soft, gentle glow that bathes the tranquil lake in a serene, dreamy light, while the gentle ripples of the river flow silently towards an unending distance, creating a soothing sense of infinity.
+
+sample 7: The moon hangs full and round over the tranquil lake, its silvery light stretching out to hug the sleepy town beyond, while the gentle whispers of the river flow softly as if to lull the world into its night-time dreams. Far away, the mountains rise gently like sleepy giants, their slopes bathed in a soft, dreamy glow that clings to them like a second skin, wrapped in the gentle embrace of the evening's peace.
+
+sample 8: The moon hangs full and round over the tranquil lake, its gentle surface ripples softly under the soft glow of the crescent moon, while the distant hills are shrouded in a peaceful haze that seems to have been painted by a masterful hand. The air is filled with the hush of midnight as crickets sing their quiet lullabies, and the gentle rustling of leaves in the cool evening breeze creates a soothing symphony that envelops the world in its embrace
+
+sample 9: The moon hangs full and round over the tranquil lake, its surface shimmering with a soft, silver glow that gently laps at the shore, while the air is filled with the gentle hum of crickets as the world surrounds itself in a blanket of serene peace. Far away, the mountains stand guard, their peaks touching the distant clouds, as if they too have chosen to rest their eyes on this tranquil evening.
+
+sample 10: The moon hangs full and round over the horizon, casting a soft, silvery glow over the tranquil lake, which ripples gently in the distance, as if the world beyond the shore is far away and far away from time itself. In the quiet of the evening, the gentle hum of the river flowing by seems to be the only sound that can be heard, wrapping everything in a cozy blanket of peace and stillness.
+
+sample 11: The moon hung high above the tranquil lake, its silvery light stretching out to cradle the ripples of the water, while the soft glow of a full moon seemed to gently caress the sleepy town beyond the lake's edge. In the distance, the gentle hum of the night breeze whispered through the leaves of a nearby oak tree, as if the whole world was holding its breath in this moment of peace.
+
+sample 12: The moon hung full and round above the horizon, casting a silvery glow over the tranquil lake, which reflected the gentle ripples of the night wind like a mirror, while the distant mountains seemed to whisper secrets to the silent stars.
+
+sample 13: The moonrise casts a gentle, luminous glow over the tranquil lake, as if the sky is pouring its light into the serene waters below, while the distant hills slope softly into the night, wrapped in a blanket of calm and peace. The soft rustling of leaves in the distance is hushed under the moon's full embrace, as the world gently drifts into a peaceful slumber around the quiet evening landscape.
+
+sample 14: The moon hung high in the clear night sky, its gentle light casting a silvery glow over the tranquil lake, which lay still as a mirror reflecting the gentle curves of the distant hills. Soft whispers of wind rustled through the leaves of the trees that surrounded the lake, creating a sense of deep tranquility that seemed to envelop the entire world in its embrace.
+
+sample 15: The moon hangs full and round over the tranquil lake, its gentle surface shimmering with silver light that dances as if the moon itself is reaching down to touch the earth, while the soft hum of crickets fills the air as the world slowly drifts into a deep, restful sleep.
+
+sample 16: The moon hung high in the clear sky, its gentle light casting a tranquil glow over the tranquil lake, which lay like a smooth sheet of glass reflecting the soft contours of the distant mountains. Soft whispers of the evening breeze seemed to lull the world into a deep, peaceful sleep as the gentle waves of the lake swirled quietly under the full moon's watchful eye.
+
+sample 17: The moon hangs full and round over the tranquil lake, its gentle light shimmering on the still waters like a layer of silver lace, while the distant mountains are wrapped in a soft haze that gives the entire scene a dreamlike quality. Soft whispers of wind rustle through the leaves of the trees, as if the trees themselves are part of a silent lullaby that envelops the whole world in a pillow of peace.
+
+sample 18: The moon hung high in the clear night sky, its gentle light casting a silvery glow over the tranquil lake, which lay like a mirror reflecting the quiet world around it. Soft whispers of the wind rustled through the trees, as if the trees themselves were hushed lullabies to the silent night.
+
+sample 19: The moonrise bathes the tranquil lake in a soft, luminous glow, while gentle ripples create a slow, dreamy dance of light on the surface, as if the whole world is holding its breath in quiet contemplation. Far away, the mountainside slopes gently into darkness, their peaks shrouded in a distant haze that seems to amplify the sense of peace and distance.
