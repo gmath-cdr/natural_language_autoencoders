@@ -609,10 +609,20 @@ class NLACritic:
         backbone = AutoModelForCausalLM.from_pretrained(
             str(checkpoint_dir), torch_dtype=dtype, trust_remote_code=True,
         )
+        # Gemma-3 can load as a multimodal wrapper. The training package keeps
+        # the wrapper handling in arch_adapters; reuse that contract here so
+        # released Gemma AR checkpoints work in the standalone experiment path.
+        try:
+            from nla.arch_adapters import resolve_text_config, resolve_text_model
+            backbone = resolve_text_model(backbone)
+            text_config = resolve_text_config(backbone.config)
+        except ImportError:  # preserve single-file use outside this repository
+            text_config = backbone.config
         # Strip lm_head (critic never emits logits) and final LN (value head
         # sees raw residual-stream output of block K, not the normed version).
-        backbone.lm_head = torch.nn.Identity()
-        inner = backbone.model  # Qwen2ForCausalLM.model → Qwen2Model
+        if hasattr(backbone, "lm_head"):
+            backbone.lm_head = torch.nn.Identity()
+        inner = backbone.model if hasattr(backbone, "model") else backbone.transformer
         for attr in _FINAL_LN_ATTRS:
             if hasattr(inner, attr):
                 setattr(inner, attr, torch.nn.Identity())
@@ -623,7 +633,7 @@ class NLACritic:
                 f"{_FINAL_LN_ATTRS!r}. Add the arch's attr name to that list."
             )
 
-        d = backbone.config.hidden_size
+        d = text_config.hidden_size
         self.value_head = torch.nn.Linear(d, d, bias=False, dtype=dtype)
         head_path = checkpoint_dir / "value_head.safetensors"
         assert head_path.exists(), (
@@ -636,7 +646,7 @@ class NLACritic:
         self.backbone = backbone.to(device).eval()
         self.value_head = self.value_head.to(device).eval()
         self.device = device
-        print(f"[NLACritic] {backbone.config.num_hidden_layers} layers  "
+        print(f"[NLACritic] {text_config.num_hidden_layers} layers  "
               f"d_model={d}  mse_scale={self.mse_scale:.2f}")
 
     @torch.inference_mode()
@@ -649,7 +659,8 @@ class NLACritic:
         # Gemma shifts position-0 meaning → degraded reconstruction everywhere.
         ids = self.tokenizer(prompt, return_tensors="pt",
                              add_special_tokens=True)["input_ids"].to(self.device)
-        h = self.backbone.model(ids, use_cache=False).last_hidden_state[0, -1]  # last token
+        inner = self.backbone.model if hasattr(self.backbone, "model") else self.backbone.transformer
+        h = inner(ids, use_cache=False).last_hidden_state[0, -1]  # last token
         return self.value_head(h).float().cpu()
 
     def score(self, explanation: str,

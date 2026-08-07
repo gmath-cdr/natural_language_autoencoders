@@ -1,5 +1,9 @@
 # Natural Language Autoencoders (NLA)
 
+For the inference-time steering evaluation workflow, including A100 setup,
+preflight, checkpoints, Drive backup, and recovery, see
+[`EXPERIMENT_RUNBOOK.md`](EXPERIMENT_RUNBOOK.md).
+
 Open-source library accompanying the Anthropic Transformer Circuits post
 **[Natural Language Autoencoders Produce Unsupervised Explanations of LLM Activations](https://transformer-circuits.pub/2026/nla/index.html)**.
 
