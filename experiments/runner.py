@@ -50,6 +50,31 @@ def _replace_or_append(text: str, source: str, target: str, fallback: str) -> st
     return text.replace(closing, addition + closing, 1) if closing in text else text + addition
 
 
+def _poetry_edit(text: str, source: str, target: str) -> str:
+    """Edit the linked rhyme plan used in Anthropic's poetry case study."""
+    if (source, target) != ("rabbit", "mouse"):
+        return _replace_or_append(
+            text, source, target,
+            f"The poem is about a {target} rather than a {source}.",
+        )
+    changed = text
+    for old, new in (
+        ("rabbits", "mice"), ("Rabbits", "Mice"),
+        ("rabbit", "mouse"), ("Rabbit", "Mouse"),
+        ("habits", "houses"), ("Habits", "Houses"),
+        ("habit", "house"), ("Habit", "House"),
+        ("carrots", "cheese"), ("Carrots", "Cheese"),
+        ("carrot", "cheese"), ("Carrot", "Cheese"),
+    ):
+        changed = changed.replace(old, new)
+    if changed != text:
+        return changed
+    return _replace_or_append(
+        text, source, target,
+        "The planned rhyme uses mouse and house, with cheese instead of carrot.",
+    )
+
+
 def _common(parser: argparse.ArgumentParser) -> None:
     parser.add_argument("--target", required=True, help="local target-model directory")
     parser.add_argument("--av", required=True, help="local AV checkpoint served by SGLang")
@@ -136,15 +161,16 @@ def poetry(args) -> None:
     messages = [{"role": "user", "content": args.prompt}]
     probe, tokenizer = steering.load_target(args.target, args.device)
     rendered = tokenizer.apply_chat_template(messages, tokenize=False, add_generation_prompt=True)
-    position = steering.char_position(tokenizer, rendered, rendered.index(args.prompt) + len(args.prompt) - 1)
+    prompt_start = rendered.index(args.prompt)
+    marker = "grab it,\n"
+    offset = (args.prompt.index(marker) + len(marker) - 1
+              if marker in args.prompt else len(args.prompt) - 1)
+    position = steering.char_position(tokenizer, rendered, prompt_start + offset)
     del probe
     if torch.cuda.is_available():
         torch.cuda.empty_cache()
     model, tokenizer, vector, details = _build_vector(
-        args, messages, position, lambda text: _replace_or_append(
-            text, args.edit_from, args.edit_to,
-            f"The poem is about a {args.edit_to} rather than a {args.edit_from}.",
-        ))
+        args, messages, position, lambda text: _poetry_edit(text, args.edit_from, args.edit_to))
     random = steering.normalize(torch.randn_like(vector))
     rows = []
     for label, direction, alpha in [("unsteered", None, 0.0), *[
@@ -295,7 +321,8 @@ def main(argv: list[str] | None = None) -> None:
     _common(reward_parser)
     poetry_parser = commands.add_parser("poetry")
     _common(poetry_parser)
-    poetry_parser.add_argument("--prompt", default="Write a playful two-line rhyme about a rabbit.\n")
+    poetry_parser.add_argument("--prompt", default=("A rhyming couplet:\nHe saw a carrot and had to grab it,\n"
+                                               "His hunger was like a starving "))
     poetry_parser.add_argument("--edit-from", default="rabbit")
     poetry_parser.add_argument("--edit-to", default="mouse")
     sweep_parser = commands.add_parser("sweep")
