@@ -251,7 +251,11 @@ def axbench(args) -> None:
     model, tokenizer = steering.load_target(args.target, args.device)
     rows = list(existing)
     for concept_id, concept, prompts, vector in prepared:
-        variants = [("ar_delta", vector), ("random", vectors.random_like(vector, concept_id))]
+        random_seeds = [int(seed) for seed in args.random_seeds.split(",")]
+        variants = [("ar_delta", vector), *[
+            (f"random_seed_{seed}", vectors.random_like(vector, seed))
+            for seed in random_seeds
+        ]]
         if args.parquet:
             train = data.train_rows(args.parquet, concept_id)
             positive, negative = [], []
@@ -351,6 +355,8 @@ def main(argv: list[str] | None = None) -> None:
                                 help="optional AxBench train parquet; builds DiffMean/PCA controls")
     axbench_parser.add_argument("--concept-ids", default="",
                                 help="comma-separated concept IDs; default evaluates all metadata concepts")
+    axbench_parser.add_argument("--random-seeds", default="42",\
+                                help="comma-separated random control seeds")
     axbench_parser.add_argument("--save-vectors-dir", default="",
                                 help="save generated AR-delta vectors for J-space follow-up")
     lens_parser = commands.add_parser("jspace")
