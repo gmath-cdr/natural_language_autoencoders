@@ -40,6 +40,16 @@ def _even_rate(responses: list[str]) -> float:
     return sum(values) / len(responses) if values else 0.0
 
 
+def _replace_or_append(text: str, source: str, target: str, fallback: str) -> str:
+    """Apply an exact AV edit, or append an explicit counterfactual if absent."""
+    changed = text.replace(source, target)
+    if changed != text:
+        return changed
+    closing = "</explanation>"
+    addition = f"\n{fallback}\n"
+    return text.replace(closing, addition + closing, 1) if closing in text else text + addition
+
+
 def _common(parser: argparse.ArgumentParser) -> None:
     parser.add_argument("--target", required=True, help="local target-model directory")
     parser.add_argument("--av", required=True, help="local AV checkpoint served by SGLang")
@@ -98,12 +108,15 @@ def reward(args) -> None:
     # Locate the closing `>` of the original reward tag in the rendered prompt.
     probe, tokenizer = steering.load_target(args.target, args.device)
     rendered = tokenizer.apply_chat_template(messages, tokenize=False, add_generation_prompt=True)
-    position = steering.char_position(tokenizer, rendered, rendered.index(">", rendered.index("<reward_function")))
+    position = steering.char_position(tokenizer, rendered, rendered.index(">", rendered.index("</reward_function>")))
     del probe
     if torch.cuda.is_available():
         torch.cuda.empty_cache()
     model, tokenizer, vector, details = _build_vector(args, messages, position,
-                                                        lambda text: text.replace(reward_tag, penalty_tag))
+                                                        lambda text: _replace_or_append(
+            text, reward_tag, penalty_tag,
+            "The reward function rewards odd integers rather than even integers.",
+        ))
     random = steering.normalize(torch.randn_like(vector))
     rows = []
     for label, direction, alpha in [("unsteered", None, 0.0), *[
@@ -128,7 +141,10 @@ def poetry(args) -> None:
     if torch.cuda.is_available():
         torch.cuda.empty_cache()
     model, tokenizer, vector, details = _build_vector(
-        args, messages, position, lambda text: text.replace(args.edit_from, args.edit_to))
+        args, messages, position, lambda text: _replace_or_append(
+            text, args.edit_from, args.edit_to,
+            f"The poem is about a {args.edit_to} rather than a {args.edit_from}.",
+        ))
     random = steering.normalize(torch.randn_like(vector))
     rows = []
     for label, direction, alpha in [("unsteered", None, 0.0), *[

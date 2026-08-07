@@ -44,7 +44,10 @@ def decoder_layers(model: Any):
 
 def chat_ids(tokenizer: Any, messages: list[dict[str, str]]) -> list[int]:
     encoded = tokenizer.apply_chat_template(messages, tokenize=True, add_generation_prompt=True)
-    return list(getattr(encoded, "ids", encoded))
+    ids = getattr(encoded, "ids", None)
+    if ids is None:
+        ids = getattr(encoded, "input_ids", encoded)
+    return list(ids)
 
 
 def fixed_position(index: int) -> Callable[[torch.Tensor, int], torch.Tensor]:

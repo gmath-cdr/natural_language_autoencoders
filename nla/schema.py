@@ -34,7 +34,9 @@ EXPLANATION_RE = re.compile(
 
 def _token_ids(value: Any) -> list[int]:
     """Normalize Transformers/tokenizers chat-template output to plain IDs."""
-    ids = getattr(value, "ids", value)
+    ids = getattr(value, "ids", None)
+    if ids is None:
+        ids = getattr(value, "input_ids", value)
     return list(ids)
 
 
