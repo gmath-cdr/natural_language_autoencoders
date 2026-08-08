@@ -4,6 +4,9 @@ This bundle preserves the 2026-08-08 follow-up experiments on Qwen2.5-7B and
 Gemma 3 12B. It does not replace or overwrite any earlier archive. Model
 weights are not included.
 
+For restore/setup instructions and the exact experiment sequence, start at
+`A100_REPRODUCTION_AND_RESULTS_GUIDE.md` in the repository root.
+
 ## Gemma six-concept AxBench expansion
 
 Each concept used 12 held-out prompts, five samples per prompt, alphas

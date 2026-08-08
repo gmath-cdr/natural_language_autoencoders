@@ -1,5 +1,9 @@
 # Natural Language Autoencoders (NLA)
 
+For the complete Qwen/Gemma Vast A100 restore sequence, exact experiment
+commands, artifact inventory, backup audit, and consolidated findings, start at
+[`A100_REPRODUCTION_AND_RESULTS_GUIDE.md`](A100_REPRODUCTION_AND_RESULTS_GUIDE.md).
+
 For the inference-time steering evaluation workflow, including A100 setup,
 preflight, checkpoints, Drive backup, and recovery, see
 [`EXPERIMENT_RUNBOOK.md`](EXPERIMENT_RUNBOOK.md).
