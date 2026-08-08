@@ -69,7 +69,7 @@ def resolver(tokenizer, messages, section: str):
     end = tokenizer.convert_tokens_to_ids("<|im_end|>")
     unknown = getattr(tokenizer, "unk_token_id", None)
     labels = qwen_labels(tokenizer, messages) if start not in (None, unknown) and end not in (None, unknown) else generic_labels(tokenizer, messages)
-    positions = torch.tensor([i for i, label in enumerate(labels) if label == section])
+    positions = torch.tensor([i for i, label in enumerate(labels) if label == section], dtype=torch.long)
 
     def resolve(hidden: torch.Tensor, prompt_len: int) -> torch.Tensor:
         mask = torch.zeros(hidden.shape[1], dtype=torch.bool, device=hidden.device)

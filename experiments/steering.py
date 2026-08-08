@@ -119,7 +119,8 @@ def av_edit_vector(actor: Any, critic: Any, activation: torch.Tensor, edit: Call
 @torch.inference_mode()
 def generate(model: Any, tokenizer: Any, messages: list[dict[str, str]], layer: int,
              vector: torch.Tensor | None, position: int | Callable[[torch.Tensor, int], torch.Tensor], alpha: float,
-             n_samples: int = 1, max_new_tokens: int = 96, temperature: float = 0.7) -> list[str]:
+             n_samples: int = 1, max_new_tokens: int = 96, temperature: float = 0.7,
+             energy_matched: bool = False) -> list[str]:
     """Generate batched samples while adding a norm-scaled vector at one token."""
     ids = chat_ids(tokenizer, messages)
     if vector is None:
@@ -134,8 +135,20 @@ def generate(model: Any, tokenizer: Any, messages: list[dict[str, str]], layer: 
         hidden = output[0] if isinstance(output, tuple) else output
         direction, resolver = specs
         mask = resolver(hidden, len(ids))
+        if not int(mask.sum()):
+            return output
         norm = hidden[:, -1].float().norm(dim=-1)
-        hidden[:, mask] += (alpha * norm[:, None, None] * direction.to(hidden.device, hidden.dtype))
+        coefficient = alpha
+        if energy_matched:
+            # Prompt sections can span several tokens, while decode-time
+            # assistant steering is applied once per generated step. Match a
+            # planned total squared intervention budget: divide prompt edits by
+            # sqrt(selected positions), and persistent decode edits by the
+            # fixed generation horizon. Shorter generations are conservative.
+            budget = max_new_tokens if hidden.shape[1] < len(ids) else int(mask.sum())
+            coefficient /= budget ** 0.5
+        hidden[:, mask] += (coefficient * norm[:, None, None] *
+                            direction.to(hidden.device, hidden.dtype))
         return output
 
     handle = blocks[layer].register_forward_hook(hook) if specs else None

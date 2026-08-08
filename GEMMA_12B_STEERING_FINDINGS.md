@@ -66,3 +66,21 @@ but it is not simply better than Qwen. It is more sensitive to alpha: the
 Qwen-scale intervention oversteers badly, while alpha around 0.2 produces a
 credible targeted effect with materially better answer coherence.
 
+## Extended cross-model follow-up (2026-08-08)
+
+The six-concept Gemma expansion completed 6,840 generations. All six concepts
+move beyond controls at some tested alpha. At alpha 0.2, strict hit rates are
+98.3% nighttime, 41.7% surgery/wounds, 75.0% music, 40.0% elections, 53.3%
+gorillas, and 26.7% electrolyte/alkali chemistry. Alpha 0.3 raises them to
+83.3--100% except gorillas at 60%, but is more intrusive.
+
+The seven-vector token readout aligns predicted and actual casino-family logit
+changes substantially better than Qwen. Exploratory J-space geometry has a
+0.643 Spearman correlation with strict lift, but only over seven selected
+concepts. Lexical and behavioral casino reframings score 85% and 55%; the
+abstract frame scores 0% despite high direction cosine. Constant-per-token
+assistant-response steering scores 95%, while user-side sections score 0%; an
+equal-total-energy sweep is null everywhere.
+
+Raw results, case studies, vectors, exact protocols, and cautions are archived
+under `artifacts/cross_model_extended_2026-08-08/`.

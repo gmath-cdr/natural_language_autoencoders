@@ -210,13 +210,16 @@ def poetry(args) -> None:
 
 def sweep(args) -> None:
     """Control-aware single-token or Qwen section sweep."""
-    critic = NLACritic(args.ar, device=args.device)
-    vector = vectors.load(args.vector) if args.vector else vectors.concept_delta(critic, args.concept)
+    if args.vector:
+        vector = vectors.load(args.vector)
+    else:
+        critic = NLACritic(args.ar, device=args.device)
+        vector = vectors.concept_delta(critic, args.concept)
+        del critic
+        if torch.cuda.is_available():
+            torch.cuda.empty_cache()
     random_seeds = [int(seed) for seed in args.random_seeds.split(",")]
     randoms = [(seed, vectors.random_like(vector, seed)) for seed in random_seeds]
-    del critic  # keep the target alone on the A100 during generation
-    if torch.cuda.is_available():
-        torch.cuda.empty_cache()
     model, tokenizer = steering.load_target(args.target, args.device)
     messages = [{"role": "user", "content": args.prompt}]
     labels = [item.strip() for item in args.positions.split(",")]
@@ -232,7 +235,8 @@ def sweep(args) -> None:
                 for seed, random_vector in randoms
             ]]:
                 responses = steering.generate(model, tokenizer, messages, args.layer, vector_, resolver,
-                                              alpha, n_samples=args.n_samples)
+                                              alpha, n_samples=args.n_samples, max_new_tokens=args.max_new_tokens,
+                                              energy_matched=args.energy_matched)
                 rows.append(results.arm(f"{method}__{position_name}__alpha_{alpha}", args.concept, responses))
                 results.save(args.out, rows)
     print(f"results -> {args.out}")
@@ -375,6 +379,9 @@ def main(argv: list[str] | None = None) -> None:
     sweep_parser.add_argument("--random-seeds", default="42",\
                               help="comma-separated random control seeds")
     sweep_parser.add_argument("--positions", default="last,user_begin,user_response,user_end,assistant_begin,assistant_response")
+    sweep_parser.add_argument("--max-new-tokens", type=int, default=96)
+    sweep_parser.add_argument("--energy-matched", action="store_true",
+                              help="match planned squared injection energy across prompt sections and decode steps")
     axbench_parser = commands.add_parser("axbench")
     _common(axbench_parser)
     axbench_parser.add_argument("--metadata", required=True)

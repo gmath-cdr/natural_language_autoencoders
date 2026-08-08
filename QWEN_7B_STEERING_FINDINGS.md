@@ -180,6 +180,20 @@ lens, the top-32 projection carries the behavior while the complement does not.
 The full vector has greater intensity when it activates, while the projection
 activates more consistently.
 
+### Magnitude-preserving correction (2026-08-08)
+
+The broad-12 projection and complement figures above used a generation helper
+that normalized each component back to unit length. They measure equal-norm
+directional sufficiency, not the natural decomposition magnitude.
+
+The corrected run carries each component norm into alpha. The full vector
+scored 63.3%, while the projection (norm 0.2505, effective alpha 0.1879) and
+complement (norm 0.9681, effective alpha 0.7261) both scored 0%. Therefore the
+earlier statement that the top-32 projection carries the behavior must not be
+used as a magnitude-preserving conclusion. At this sampled operating point,
+neither component is independently sufficient. Full details and raw outputs
+are in `artifacts/cross_model_extended_2026-08-08/`.
+
 Conclusion: the experiment demonstrates that J-space conclusions are highly
 sensitive to lens fitting. It does not establish a general relationship between
 NLA directions and J-space.
@@ -202,5 +216,6 @@ It failed or remained inconclusive for:
 The evidence supports a credible Qwen steering proofpoint and limited
 multi-concept AxBench generalization. It does not yet establish full-AxBench
 performance, demonstrate quality-preserving steering, replicate the complete
-NLA paper, or justify a general NLA-J-space claim. Gemma has not been tested
-because its checkpoints are not locally available.
+NLA paper, or justify a general NLA-J-space claim. Gemma has now been tested;
+the cross-model expansion, readouts, reframing, and positional results are in
+`artifacts/cross_model_extended_2026-08-08/`.
