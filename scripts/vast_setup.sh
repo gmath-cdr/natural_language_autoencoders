@@ -19,6 +19,7 @@ SKIP_DOWNLOAD=0
 SKIP_SERVER=0
 SKIP_PREFLIGHT=0
 STOP_SERVER=0
+SGLANG_EXTRA_ARGS=()
 
 usage() {
   cat <<'EOF'
@@ -74,6 +75,10 @@ case "$PROFILE" in
     AV_REPO="kitft/nla-gemma3-12b-L32-av"
     LAYER="32"
     MIN_FREE_GB="150"
+    # SGLang's default breakable prefill CUDA graph currently crashes Gemma 3
+    # on ragged prefill with q/qo_indptr shape mismatches. Decode graphs remain
+    # enabled; only the incompatible prefill graph is disabled.
+    SGLANG_EXTRA_ARGS+=(--cuda-graph-backend-prefill disabled)
     ;;
   *) echo "Unsupported profile: $PROFILE" >&2; exit 2 ;;
 esac
@@ -111,7 +116,7 @@ fi
 
 mkdir -p "$WORKSPACE"
 FREE_GB="$(df -Pk "$WORKSPACE" | awk 'NR==2 {print int($4/1024/1024)}')"
-if [[ "$FREE_GB" -lt "$MIN_FREE_GB" ]]; then
+if [[ "$SKIP_DOWNLOAD" -eq 0 && "$FREE_GB" -lt "$MIN_FREE_GB" ]]; then
   echo "Only ${FREE_GB} GB free at $WORKSPACE; $PROFILE needs at least ${MIN_FREE_GB} GB." >&2
   exit 1
 fi
@@ -208,6 +213,7 @@ if [[ "$SKIP_SERVER" -eq 0 ]]; then
     nohup python -m sglang.launch_server \
       --model-path "$AV" --port "$PORT" --disable-radix-cache --trust-remote-code \
       --mem-fraction-static 0.35 \
+      "${SGLANG_EXTRA_ARGS[@]}" \
       > "$LOGS/sglang-av.log" 2>&1 &
     echo $! > "$LOGS/sglang-av.pid"
     for _ in $(seq 1 90); do

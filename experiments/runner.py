@@ -130,10 +130,17 @@ def reward(args) -> None:
     prompt = ("You will answer a math question that will be graded by the reward "
               f"function below.\n{reward_tag}\n\nQuestion: Give one random integer between 1 and 100.")
     messages = [{"role": "user", "content": prompt}]
-    # Locate the closing `>` of the original reward tag in the rendered prompt.
+    # The grounded protocol anchors the residual at the parity condition itself;
+    # tag_end retains the original proofpoint for backward-compatible reruns.
     probe, tokenizer = steering.load_target(args.target, args.device)
     rendered = tokenizer.apply_chat_template(messages, tokenize=False, add_generation_prompt=True)
-    position = steering.char_position(tokenizer, rendered, rendered.index(">", rendered.index("</reward_function>")))
+    reward_start = rendered.index(reward_tag)
+    if args.anchor == "condition":
+        condition = "x%2==0"
+        char_index = rendered.index(condition, reward_start) + len(condition) - 1
+    else:
+        char_index = rendered.index(">", rendered.index("</reward_function>", reward_start))
+    position = steering.char_position(tokenizer, rendered, char_index)
     del probe
     if torch.cuda.is_available():
         torch.cuda.empty_cache()
@@ -142,12 +149,17 @@ def reward(args) -> None:
             text, reward_tag, penalty_tag,
             "The reward function rewards odd integers rather than even integers.",
         ))
-    random = steering.normalize(torch.randn_like(vector))
+    randoms = [
+        (seed, vectors.random_like(vector, seed))
+        for seed in map(int, args.random_seeds.split(","))
+    ]
     rows = []
     for label, direction, alpha in [("unsteered", None, 0.0), *[
         item for value in map(float, args.alphas.split(","))
-        for item in ((f"nla__alpha_{value}", vector, value),
-                     (f"random__alpha_{value}", random, value))
+        for item in ((f"nla__alpha_{value}", vector, value), *[
+            (f"random_seed_{seed}__alpha_{value}", random, value)
+            for seed, random in randoms
+        ])
     ]]:
         responses = steering.generate(model, tokenizer, messages, args.layer, direction,
                                       position, alpha, n_samples=args.n_samples)
@@ -161,22 +173,31 @@ def poetry(args) -> None:
     messages = [{"role": "user", "content": args.prompt}]
     probe, tokenizer = steering.load_target(args.target, args.device)
     rendered = tokenizer.apply_chat_template(messages, tokenize=False, add_generation_prompt=True)
-    prompt_start = rendered.index(args.prompt)
+    # Gemma's chat template strips trailing prompt whitespace before rendering.
+    # The steering marker is earlier in the prompt, so locating the normalized
+    # content preserves the intended character/token position.
+    rendered_prompt = args.prompt.rstrip()
+    prompt_start = rendered.index(rendered_prompt)
     marker = "grab it,\n"
     offset = (args.prompt.index(marker) + len(marker) - 1
-              if marker in args.prompt else len(args.prompt) - 1)
+              if marker in args.prompt else len(rendered_prompt) - 1)
     position = steering.char_position(tokenizer, rendered, prompt_start + offset)
     del probe
     if torch.cuda.is_available():
         torch.cuda.empty_cache()
     model, tokenizer, vector, details = _build_vector(
         args, messages, position, lambda text: _poetry_edit(text, args.edit_from, args.edit_to))
-    random = steering.normalize(torch.randn_like(vector))
+    randoms = [
+        (seed, vectors.random_like(vector, seed))
+        for seed in map(int, args.random_seeds.split(","))
+    ]
     rows = []
     for label, direction, alpha in [("unsteered", None, 0.0), *[
         item for value in map(float, args.alphas.split(","))
-        for item in ((f"nla__alpha_{value}", vector, value),
-                     (f"random__alpha_{value}", random, value))
+        for item in ((f"nla__alpha_{value}", vector, value), *[
+            (f"random_seed_{seed}__alpha_{value}", random, value)
+            for seed, random in randoms
+        ])
     ]]:
         responses = steering.generate(model, tokenizer, messages, args.layer, direction,
                                       position, alpha, n_samples=args.n_samples)
@@ -315,9 +336,16 @@ def jspace_action(args) -> None:
     messages = [{"role": "user", "content": args.prompt}]
     rows = []
     for name, direction in (("full", vector), ("projection", projection), ("complement", complement)):
-        responses = steering.generate(model, tokenizer, messages, args.layer, direction, -1, args.alpha,
+        # steering.generate normalizes directions. Preserve each decomposition
+        # component's magnitude by carrying its norm into the intervention
+        # coefficient; otherwise a tiny projection is boosted to full strength.
+        component_norm = float(direction.float().norm())
+        effective_alpha = args.alpha * component_norm
+        responses = steering.generate(model, tokenizer, messages, args.layer, direction, -1, effective_alpha,
                                       n_samples=args.n_samples)
-        rows.append(results.arm(name, args.concept, responses))
+        row = results.arm(name, args.concept, responses)
+        row.update({"component_norm": component_norm, "effective_alpha": effective_alpha})
+        rows.append(row)
     results.save(args.out, rows)
     print(f"case study -> {results.write_case_study(args.out, 'NLA J-space ablation', rows)}")
 
@@ -327,12 +355,18 @@ def main(argv: list[str] | None = None) -> None:
     commands = parser.add_subparsers(dest="command", required=True)
     reward_parser = commands.add_parser("reward")
     _common(reward_parser)
+    reward_parser.add_argument("--anchor", choices=("tag_end", "condition"), default="tag_end",
+                               help="activation anchor; condition targets the final 0 in x%%2==0")
+    reward_parser.add_argument("--random-seeds", default="42",
+                               help="comma-separated random control seeds")
     poetry_parser = commands.add_parser("poetry")
     _common(poetry_parser)
     poetry_parser.add_argument("--prompt", default=("A rhyming couplet:\nHe saw a carrot and had to grab it,\n"
                                                "His hunger was like a starving "))
     poetry_parser.add_argument("--edit-from", default="rabbit")
     poetry_parser.add_argument("--edit-to", default="mouse")
+    poetry_parser.add_argument("--random-seeds", default="42",
+                               help="comma-separated random control seeds")
     sweep_parser = commands.add_parser("sweep")
     _common(sweep_parser)
     sweep_parser.add_argument("--concept", required=True)

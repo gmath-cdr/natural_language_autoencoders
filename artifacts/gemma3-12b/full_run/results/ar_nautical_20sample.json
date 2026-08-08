@@ -1,0 +1,1679 @@
+[
+  {
+    "label": "unsteered",
+    "mean_concept": 1.0,
+    "mean_fluency": 3.81,
+    "combined": 0.762,
+    "n_samples": 20,
+    "per_prompt": [
+      {
+        "idx": 0,
+        "response": "The lake mirrored the fading sunset, painting the water with hues of orange and pink. A gentle breeze rustled through the reeds, carrying the peaceful sounds of lapping water and distant birdsong.",
+        "concept_score": 1.0,
+        "fluency_score": 3.6
+      },
+      {
+        "idx": 1,
+        "response": "The lake mirrored the fading sunset, painting the water with hues of orange and purple. A gentle breeze rustled through the reeds, carrying the peaceful sounds of lapping water and distant birdsong.",
+        "concept_score": 1.0,
+        "fluency_score": 3.6
+      },
+      {
+        "idx": 2,
+        "response": "The lake mirrored the fading sunset, its surface undisturbed save for the gentle lapping of water against the shore. A peaceful stillness settled over everything, accompanied by the soft chirping of crickets and the distant call of an owl.",
+        "concept_score": 1.0,
+        "fluency_score": 3.95
+      },
+      {
+        "idx": 3,
+        "response": "The still lake mirrored the fading sunset, painting the water with hues of orange and pink. A gentle breeze rustled through the trees, carrying the quiet sounds of nature as the evening settled in.",
+        "concept_score": 1.0,
+        "fluency_score": 3.7
+      },
+      {
+        "idx": 4,
+        "response": "The lake mirrored the fading sunset, its surface undisturbed save for the gentle lapping of water against the shore. A peaceful stillness settled over everything, broken only by the distant call of a loon and the rustling of leaves in the evening breeze.",
+        "concept_score": 1.0,
+        "fluency_score": 4.15
+      },
+      {
+        "idx": 5,
+        "response": "The lake mirrored the fading sunset, painting the water with hues of orange and purple. A gentle breeze rustled through the reeds, carrying the quiet sounds of crickets and the distant call of a loon.",
+        "concept_score": 1.0,
+        "fluency_score": 3.75
+      },
+      {
+        "idx": 6,
+        "response": "The lake mirrored the fading sunset, painting the water with hues of orange and pink. A gentle breeze rustled through the reeds, carrying the quiet sounds of nature as the evening settled in.",
+        "concept_score": 1.0,
+        "fluency_score": 3.65
+      },
+      {
+        "idx": 7,
+        "response": "The still lake mirrored the fading sunset, painting the water with hues of orange and pink. A gentle breeze rustled through the nearby trees, carrying the peaceful sounds of nature as dusk settled in.",
+        "concept_score": 1.0,
+        "fluency_score": 3.7
+      },
+      {
+        "idx": 8,
+        "response": "The lake mirrored the fading sunset, painting the water with hues of orange and pink. A gentle breeze rustled through the trees, carrying the quiet sounds of crickets and lapping water, creating a truly peaceful scene.",
+        "concept_score": 1.0,
+        "fluency_score": 3.8
+      },
+      {
+        "idx": 9,
+        "response": "The lake mirrored the fading sunset, its surface undisturbed save for the gentle lapping of water against the shore. A peaceful stillness settled over everything, accompanied only by the distant call of a loon and the rustling of leaves.",
+        "concept_score": 1.0,
+        "fluency_score": 3.95
+      },
+      {
+        "idx": 10,
+        "response": "The lake mirrored the fading sunset, its surface undisturbed save for the gentle lapping of water against the shore. A peaceful stillness settled over everything as fireflies began to twinkle in the deepening twilight.",
+        "concept_score": 1.0,
+        "fluency_score": 3.7
+      },
+      {
+        "idx": 11,
+        "response": "The lake mirrored the fading sunset, painting the water with hues of orange and purple. A gentle breeze rustled through the reeds, carrying the quiet sounds of crickets and the distant call of a loon.",
+        "concept_score": 1.0,
+        "fluency_score": 3.75
+      },
+      {
+        "idx": 12,
+        "response": "The lake mirrored the fading sunset, painting the water with hues of orange and pink. A gentle breeze rustled through the nearby trees, carrying the quiet sounds of nature across the still surface.",
+        "concept_score": 1.0,
+        "fluency_score": 3.65
+      },
+      {
+        "idx": 13,
+        "response": "The still lake mirrored the fading sunset, painting the water with hues of orange and pink. A gentle breeze rustled through the nearby trees, carrying the peaceful sounds of crickets and lapping water.",
+        "concept_score": 1.0,
+        "fluency_score": 3.65
+      },
+      {
+        "idx": 14,
+        "response": "The lake mirrored the fading sunset, its surface undisturbed save for the gentle lapping of water against the shore. A peaceful stillness settled over everything, accompanied only by the distant chirping of crickets and the soft rustle of leaves.",
+        "concept_score": 1.0,
+        "fluency_score": 3.95
+      },
+      {
+        "idx": 15,
+        "response": "The lake mirrored the fading sunset, painting the water with hues of orange and pink. A gentle breeze rustled through the reeds, carrying the quiet sounds of crickets and the distant call of a loon.",
+        "concept_score": 1.0,
+        "fluency_score": 3.75
+      },
+      {
+        "idx": 16,
+        "response": "The lake mirrored the fading sunset, its surface undisturbed save for the gentle lapping of water against the shore. A peaceful stillness settled over everything, accompanied by the distant call of a loon and the soft rustling of leaves.",
+        "concept_score": 1.0,
+        "fluency_score": 3.95
+      },
+      {
+        "idx": 17,
+        "response": "The lake mirrored the fading sunset, its surface undisturbed save for the gentle lapping of water against the shore. A peaceful quiet settled over everything, broken only by the distant call of a loon and the rustling of leaves in the evening breeze.",
+        "concept_score": 1.0,
+        "fluency_score": 4.15
+      },
+      {
+        "idx": 18,
+        "response": "The lake mirrored the fading sunset, its surface undisturbed save for the gentle lapping of water against the shore. A peaceful stillness settled over the air, punctuated only by the distant call of a loon and the rustling of leaves.",
+        "concept_score": 1.0,
+        "fluency_score": 4.0
+      },
+      {
+        "idx": 19,
+        "response": "The still lake mirrored the fading sunset, painting the water with hues of orange and pink. A gentle breeze rustled through the reeds, carrying the quiet sounds of crickets and the distant call of a loon.",
+        "concept_score": 1.0,
+        "fluency_score": 3.8
+      }
+    ]
+  },
+  {
+    "label": "nla__last__alpha_0.25",
+    "mean_concept": 1.04,
+    "mean_fluency": 4.1075,
+    "combined": 0.85436,
+    "n_samples": 20,
+    "per_prompt": [
+      {
+        "idx": 0,
+        "response": "The water of the lake lay still and mirrored the sky, reflecting the last streaks of sunset along the horizon. A gentle breeze whispered through the trees, carrying the sounds of waves and distant gulls, creating a scene of perfect tranquility.",
+        "concept_score": 1.0,
+        "fluency_score": 4.05
+      },
+      {
+        "idx": 1,
+        "response": "The water of the lake lay still and mirrored the sky, reflecting the last ribbons of sunlight along the shore. A gentle breeze whispered through the trees, carrying the sounds of waves and the cries of distant gulls, creating a scene of perfect tranquility.",
+        "concept_score": 1.0,
+        "fluency_score": 4.2
+      },
+      {
+        "idx": 2,
+        "response": "The water of the lake lay smooth and silver under the fading light, reflecting the sky's harbors and the shoreline trees. A gentle breeze whispered along the waves, carrying the sounds of distant gulls and the quiet promise of a peaceful night.",
+        "concept_score": 1.4,
+        "fluency_score": 4.1
+      },
+      {
+        "idx": 3,
+        "response": "The water of the lake lay still and mirrored the sky, reflecting the last streaks of sunset along the horizon. A gentle breeze whispered through the trees, carrying the sounds of waves and distant seabirds, creating a scene of perfect coastal serenity.",
+        "concept_score": 1.0,
+        "fluency_score": 4.1
+      },
+      {
+        "idx": 4,
+        "response": "The water of the lake lay still and mirrored the sky, reflecting the last beams of the sun. A gentle breeze whispered through the trees, carrying the sounds of waves and distant shore birds along with it.",
+        "concept_score": 1.0,
+        "fluency_score": 3.85
+      },
+      {
+        "idx": 5,
+        "response": "The waves gently lapped against the shore as the sun dipped below the horizon, painting the water with hues of orange and gold. A quiet stillness settled over the lake, punctuated only by the calls of distant gulls and the rustling of trees along the shoreline.",
+        "concept_score": 1.0,
+        "fluency_score": 4.3
+      },
+      {
+        "idx": 6,
+        "response": "The waves gently lapped against the shore, their rhythmic sounds a soothing lullaby as the sun dipped below the horizon. A quiet stillness settled over the lake, painted with the colors of twilight and reflecting the stars beginning to appear.",
+        "concept_score": 1.0,
+        "fluency_score": 4.0
+      },
+      {
+        "idx": 7,
+        "response": "The water of the lake lay still and mirrored the sky, reflecting the last streaks of sunset along the horizon. A gentle breeze whispered through the trees, carrying the sounds of waves and distant shore birds, creating a scene of perfect tranquility.",
+        "concept_score": 1.0,
+        "fluency_score": 4.1
+      },
+      {
+        "idx": 8,
+        "response": "The water of the lake lay smooth and silver under the fading light, reflecting the distant trees and a sky painted with hues of orange and purple. A gentle breeze whispered along the shoreline, carrying the sounds of waves and the calls of distant gulls, creating a scene of unparalleled serenity.",
+        "concept_score": 1.0,
+        "fluency_score": 4.55
+      },
+      {
+        "idx": 9,
+        "response": "The water of the lake lay still and mirrored the sky, reflecting the last streaks of sunset along the horizon. A gentle breeze whispered through the trees, carrying the sounds of waves and distant gulls, creating a scene of perfect tranquility.",
+        "concept_score": 1.0,
+        "fluency_score": 4.05
+      },
+      {
+        "idx": 10,
+        "response": "The water of the lake lay still and mirrored the sky, reflecting the last beams of the setting sun. A gentle breeze whispered through the trees, carrying the sounds of waves and the distant calls of shorebirds, creating a scene of perfect serenity.",
+        "concept_score": 1.0,
+        "fluency_score": 4.15
+      },
+      {
+        "idx": 11,
+        "response": "The water of the lake lay still and mirrored the sky, reflecting the last of the sun's golden light. A gentle breeze whispered through the trees along the shore, carrying the sounds of waves and distant gulls in a peaceful symphony.",
+        "concept_score": 1.0,
+        "fluency_score": 4.05
+      },
+      {
+        "idx": 12,
+        "response": "The water of the lake lay still and mirrored the sky, reflecting the last streaks of sunlight along the shore. A gentle breeze whispered through the trees, carrying the sounds of waves and distant gulls, creating a scene of peaceful solitude.",
+        "concept_score": 1.0,
+        "fluency_score": 4.05
+      },
+      {
+        "idx": 13,
+        "response": "The water of the lake lay smooth and silver under the fading light, reflecting the sky like a mirror. Gentle waves lapped against the shore as a quiet stillness settled over the land, perfect for a peaceful evening.",
+        "concept_score": 1.0,
+        "fluency_score": 3.9
+      },
+      {
+        "idx": 14,
+        "response": "The water of the lake lay still and mirrored the sky, reflecting the last streaks of sunset along the horizon. A gentle breeze whispered through the trees, carrying the sounds of waves and distant shorebirds, creating a scene of unparalleled tranquility.",
+        "concept_score": 1.0,
+        "fluency_score": 4.05
+      },
+      {
+        "idx": 15,
+        "response": "The water of the lake lay smooth and silver under the fading light, reflecting the sky like a silent mirror. A gentle breeze whispered through the trees along the shore, carrying the sounds of waves and distant gulls in a peaceful symphony.",
+        "concept_score": 1.0,
+        "fluency_score": 4.1
+      },
+      {
+        "idx": 16,
+        "response": "The water of the lake lay still and mirrored the sky, reflecting the last streaks of sunlight along the shore. A gentle breeze whispered through the trees, carrying the sounds of waves and distant gulls, creating a scene of peaceful solitude.",
+        "concept_score": 1.0,
+        "fluency_score": 4.05
+      },
+      {
+        "idx": 17,
+        "response": "The waves gently lapped against the shore as the sun dipped below the horizon, painting the lake with ribbons of gold and orange. A quiet stillness settled over the water, punctuated only by the calls of distant gulls and the rustling of trees along the shoreline.",
+        "concept_score": 1.0,
+        "fluency_score": 4.3
+      },
+      {
+        "idx": 18,
+        "response": "The waves gently lapped against the shore as the sun dipped below the horizon, painting the water with streaks of orange and gold. A quiet stillness settled over the lake, punctuated only by the cries of distant gulls and the rhythmic pulse of the twilight.",
+        "concept_score": 1.0,
+        "fluency_score": 4.25
+      },
+      {
+        "idx": 19,
+        "response": "The water of the lake lay smooth and silver under the fading light, reflecting the masts of distant sailboats. A gentle breeze whispered through the trees, carrying the sounds of waves and the cries of gulls along the shore.",
+        "concept_score": 1.4,
+        "fluency_score": 3.95
+      }
+    ]
+  },
+  {
+    "label": "random_seed_17__last__alpha_0.25",
+    "mean_concept": 1.0,
+    "mean_fluency": 2.05,
+    "combined": 0.41,
+    "n_samples": 20,
+    "per_prompt": [
+      {
+        "idx": 0,
+        "response": "Thegsentgstgsunsetgs<Xvegs<gge-gge<gge<gge<gge<gs<gve<gve<gve<gve<gve<gve<gve<gve<`ve<gve<ve<<-ve<-ve<-ve<-ve<-ve<-ve<-ve<-ve<",
+        "concept_score": 1.0,
+        "fluency_score": 2.05
+      },
+      {
+        "idx": 1,
+        "response": "Thetsqusitgsssssssit-s<Xveveveveveveveveveveveveveveveveveveveveveveveveveveveveveveveveeveveveeveveveveveveveveveveveveveeveveveveveveveveveveveveveveveveveveveveveveveveveveveve",
+        "concept_score": 1.0,
+        "fluency_score": 2.05
+      },
+      {
+        "idx": 2,
+        "response": "Thegsentgstghouse-ggghouses-ghouses-ghouses-ghouses-ghouses-ghouses-ghouses-ghouses-ghouses-ghouses-ghouses-ghouses-ghouses--houses-houses-houses-houses-houses-houses-houses-houses-houses-houses-houses-houses-houses-houses-houses-houses-houses-houses-houses-houses-houses-houses-houses",
+        "concept_score": 1.0,
+        "fluency_score": 2.05
+      },
+      {
+        "idx": 3,
+        "response": "Thegssitgsssgssssstsssssts**gsssssts**ts**gsssssts**ts**gsssssts**ts**gsvesveveveveveveveveveveveveveveveveveveveveveveveveveveveveveveveveve",
+        "concept_score": 1.0,
+        "fluency_score": 2.05
+      },
+      {
+        "idx": 4,
+        "response": "Thegs-s-tssts<XX>s<Xgs-s-ts**Xgs-s-ts\u201dtvegs-s-goveveveveveveveveveveveveveveveveveveveveveve\u201cveve**Xgs-s-tiveveveveveveveveveveve\u201cveve-ve-ve-",
+        "concept_score": 1.0,
+        "fluency_score": 2.05
+      },
+      {
+        "idx": 5,
+        "response": "Thegsqustsssgs<Xssstsgs<Xssstsgs<Xssstsgs<X**gs<X**gs<X**gs<X**gs<X**gs<X**gs<X**gs<X**gs<X**gs<X**gs<X**gs<X**6",
+        "concept_score": 1.0,
+        "fluency_score": 2.05
+      },
+      {
+        "idx": 6,
+        "response": "Thegsqusitgsquitgs<Xvessvestsves**es<gs<es<et<etveve<eeve<eeve<eeve<eve<eeve<eeve<eve<eve<eve<eve<eve<eve<eve<eve<eve<veve<eve<",
+        "concept_score": 1.0,
+        "fluency_score": 2.05
+      },
+      {
+        "idx": 7,
+        "response": "Thegs-s-tsgs<tsts<ts<tis<s<ge-s<ts<ts<tis<s<ge<ts<ts<tti<s<ge<ts<ts<ti<s<ge<ti<s<goveveveveveveveveveveveveveveveveveveve666",
+        "concept_score": 1.0,
+        "fluency_score": 2.05
+      },
+      {
+        "idx": 8,
+        "response": "Thegs-sssgs-sssser-ssssstssitsssssssssssssssssssssgs-stsssssssssts-ts<\u2122sve9vetvetgt\u201dtvet\u201cve-ve\u201ctve\u201ctve\u201ctve\u201ctve\u201ctve",
+        "concept_score": 1.0,
+        "fluency_score": 2.05
+      },
+      {
+        "idx": 9,
+        "response": "Thegsssgggggs<gg6veveveveveveveeveeveeau-ggveveveveveveveeeceau-g6vevee<ge\u00e9veveveveveve-veveveveve-tvet<ge<g\u00e9ve\u00e9<g\u00e9ve-ve-t<g\u00e9ve-ve-t<ge<g\u00e9",
+        "concept_score": 1.0,
+        "fluency_score": 2.05
+      },
+      {
+        "idx": 10,
+        "response": "Thegsqu-squat-squit-squohousetsghousetghousetghousetghousetghousetghousetghousetghousetghousetghousets<gs-squ-squit-squohousetghousetghousetghousetghousetghousetgveveveveveveveveveveveveveveveveveveve",
+        "concept_score": 1.0,
+        "fluency_score": 2.05
+      },
+      {
+        "idx": 11,
+        "response": "Thegssitsssgsgss<XXvessssssveveveeveveeevevee<Xxveveeveveeeveee<X-veveeveeeevevee<X-veveeeeevevee<X-veveeeeevevee<X-veveeeeevevee<",
+        "concept_score": 1.0,
+        "fluency_score": 2.05
+      },
+      {
+        "idx": 12,
+        "response": "Thegssquetsssststgs<gssgs<ggegge<ge<ge<ge<ge<ge<ge<ge<ge<ge<g<g<g<g<g<g<-ve6-ve<g<-ve<-ve<-ve<-ve<-ve<-ve<-ve",
+        "concept_score": 1.0,
+        "fluency_score": 2.05
+      },
+      {
+        "idx": 13,
+        "response": "Thegsentgstggsggsgs<Xvegsgeveevevee<Evevee<Evevee<Evevee<Evevee<E6evee<Evevee<Evevee<Evevee<Eveve6e<Evevee<Evevee<Evevee<Evevee<Eve",
+        "concept_score": 1.0,
+        "fluency_score": 2.05
+      },
+      {
+        "idx": 14,
+        "response": "Thegsgra7ssssgssittsssssssitgssitgssitgs<gsssssssssitgssssitgs<gssssssqugs<gs<ge<e<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<",
+        "concept_score": 1.0,
+        "fluency_score": 2.05
+      },
+      {
+        "idx": 15,
+        "response": "Thesunsetgestedgntg-gits-gs<tve-gs<tve-gsus<tve-gs<tve--tgo<tve--tgo<tve--tgo<tve--tIve-ve-ve-ve-ve-ve-ve-ve-ve-ve-ve-ve-ve-ve-ve-ve-ve-",
+        "concept_score": 1.0,
+        "fluency_score": 2.05
+      },
+      {
+        "idx": 16,
+        "response": "Thegsqusqueautsququeautsqueausqueaugsquatsqueaueaugsqueaueaugsqueaueaugsqueaueaugsqueaueaug\u2122-squeaueaugsqueaueaug\u2122-squeaueaug\u2122-s<gsqueaueaug\u2122-s<gs---vegt<-ve-ve-ve-ve-ve",
+        "concept_score": 1.0,
+        "fluency_score": 2.05
+      },
+      {
+        "idx": 17,
+        "response": "Thegsqustsitintgs<Xvesvedsvesitgs<Xveveves<Xveveves<Xveveves<Xveveves<Xvevevegve**s<Xveveves<Xveveves<Xveveves<-veve**veve**ve**ve**ve**ve**ve**ve**ve**ve**ve",
+        "concept_score": 1.0,
+        "fluency_score": 2.05
+      },
+      {
+        "idx": 18,
+        "response": "Thegsqusststs<ggggggggggggegs<gs<gggg<g<g<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<\u201dtveveve<<<<<<<<<<",
+        "concept_score": 1.0,
+        "fluency_score": 2.05
+      },
+      {
+        "idx": 19,
+        "response": "Thegsentgstghousesgsquausquaueggegsgamestgeausseuveveveveveveeaueeauveeaueeeeeeeeeeeeeveeauveveeeeeveveeeeeee<\u2122\u2122-veveeeeeveveeeeee<\u2122\u2122-veve\u00e9<\u2122\u2122-",
+        "concept_score": 1.0,
+        "fluency_score": 2.05
+      }
+    ]
+  },
+  {
+    "label": "random_seed_42__last__alpha_0.25",
+    "mean_concept": 1.0,
+    "mean_fluency": 4.192500000000001,
+    "combined": 0.8385000000000001,
+    "n_samples": 20,
+    "per_prompt": [
+      {
+        "idx": 0,
+        "response": "G Glowing\n\n\nG <b>\n\n\nG \n\n\n\nG <b>\n\n\nG \n\n\nG <b>\n\n\n\nG \n\n\nG <b>\n\n\nG \n\n\nG <b>\n\n\n\nGiven_\n\n\nG \n\n\nG <b>\n\n\nG \n\n\nG  \u10d3\u10d8\u10d3\n\n\nG \n\n\n\n</b> \u0627\u0644\u0631\u062d\n\n\n\u05dc\u05e2\n\n\n</blockquote>\n\n\n\u0639\u0648\u062f\n\n McKinney\u0440\u0456\u043c\u0441\u0443\u0441\n\n\n\n\u1021\n\n\n \u10d3\u10d8\u10d3 \uac70 \uac8c \u10e0\u10d8\u0eb0\n\n\n\u1021\n\n\n \u043c\u0435\u043d\u043e\u0432\u0430\u043d\u0438\u0435\n\n\n\n\n \u10d3\u10d8\u10d3 \uac70 \u10e0\u10d8\ub2e4\u0d43\n\n\n\u1021\u200c\n\n\n\n \u10d3\u10d8\u10d3 \uac70",
+        "concept_score": 1.0,
+        "fluency_score": 4.15
+      },
+      {
+        "idx": 1,
+        "response": "G \u06af\u0631\u062f\u06cc \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 2,
+        "response": "G \u06af\u06cc \u06af\u0644 \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af\u200c\u062f\u0642\u062a \u062a\u0627 \u0647 \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af\u0644 \u06af\u0644 \u06af\u0644 \u06af\u0644 \u06af\u0644 \u06af\u0644 \u06af\u0644 \u06af\u0644 \u06af\u0644 \u06af\u0644 \u06af\u0644 \u06af\u0644 \u06af\u0644 \u06af\u0644 \u06af\u0644 \u06af\u0644 \u06af\u0644 \u06af\u0644",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 3,
+        "response": "G Glowing_\u06cc\u062f\u06af\u0631 \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u0645\u0642 \u0622 \u0622 \n\n\nrim\u200c\u062f\u063a\u0631 \u06af \u06af \u0645\u0642\u200c\u0634\u200c\u062f\u063a\u0631\u200c\u0634\u200c\u0634\u200c\u0634\u200c\u0634\u200c\u0634\u200c\u0634\u200c\u0634\u200c\u0634\u200c\u0634\u200c\u0634\u200c\u0645\u0642\u200c\u0627\u0634\u200c\u0627\u0634\u200c\u0634\u200c\u0634\u200c\u0634-\u200c-\n\u0639\u0648\u062f\u06cc \u0645\u0642\u200c\u0634-\u200c-\u06cc\u0645\u200c\u0634-",
+        "concept_score": 1.0,
+        "fluency_score": 3.75
+      },
+      {
+        "idx": 4,
+        "response": "G Glowing_\u06cc\u0434\u0430\u0432\u0430\u0917\u094d\u0930\u0917\u094d\u0930\u0917\u094d\u0930\u0917\u094d\u0930\u0917\u094d\u0930\u0917\u094d\u0930\u0917\u094d\u0930\u0917\u094d\u0930\u0917\u094d\u0930\u0917\u094d\u0930\u0917\u094d\u0930\u0917\u094d\u0930\u0917\u094d\u0930\u0917\u094d\u0930\u0917\u094d\u0930\u0917\u094d\u0930\u0917\u0917\u094d\u0930-rimrimrim\u0631\u064a\u0645\u0631\u064a\u0645\u0631\u064a\u0645\u0631\u064a\u0645\u0631\u064a\u0645\u0631\u064a\u0645\u0631\u064a\u0645\u0631\u064a\u0645\u063a\u0631-\u0645\u0642\u063a\u0631-\u0645\u0642\u063a\u0631-\u0645\u0642\u063a\u0631-\u0645\u0642\u063a\u0631-\u0645\u0642\u063a\u0631-\u0645\u0642\u063a\u0631-\u0645\u0642\u063a\u0631-\u0645\u0642\u063a\u0631-\u0645\u0642\u063a\u0631-\u0645\u0642\u063a\u0631-\u0645\u0642\u063a\u0631-\u0645\u0642\u063a\u0631-\u0645\u0642\u063a\u0631-\u0645\u0642\u063a\u0631-\u0645\u0642\u063a\u0631-\u0645\u0642\u063a\u0631-\u0645\u0642\u063a\u0631-\u0645\u0642\u063a\u0631-\u0645\u0642\u063a\u0631-\u0645\u0642",
+        "concept_score": 1.0,
+        "fluency_score": 2.1
+      },
+      {
+        "idx": 5,
+        "response": "G \u06af\u06cc \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u10d3\u10d8\u10d3 \u0642\u0627\u0645\u062a \uc885\ud569 \uc885\ud569 \uc885\ud569\n\n\n\n\nrimrim\u06cc\u06cc\u06cc\u0645\u06cc\u06cc\u0131m\u06cc\u06cc\u06cc\u0645\u06cc\u06cc\u06cc\u0645\u06cc\u06cc\n\n\nrim\u06cc\u06cc\u0645\u0642\n\n\n\n\u0631\u06cc\u0645\u06cc\u0645\u06cc\u06cc\n\n\n\n\nrim\u06cc\n\n\n\n\u30ea\u30e0\u06cc\n\n\n\n\u0e34\u0e21\u06cc",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 6,
+        "response": "G \u06af\u06cc \u06af\u0644 \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u062c\u0632 \u062c\u0632 \u063a \u062a\u0627 \u062a\u0627 \u062a\u0627 \u0647 \u0647 \u0647 \u0647 \u0647 \u0647 \u0647 \u0648 \u0648 \u0648 \u0648 \u0648",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 7,
+        "response": "\u0413 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \n \u091f\u094d\u0930\u0940\u091f \u0131m\u0ba9\u0bb0\u0bcd\u0131m\u0131m\u0131m\u0131m\u0131m\u0131m\u0131m\u0131m\u0131m\u0131m\u0131m\u0131m\u0131m\u0131m\u0131m\u0131m\u0131m\u0131m\u0131m\u0131m\u0131m\u0131m\u0131m\u0131m\u0131m\u0131m\u0131m\u0131m\u0131m\u0131m\u0131m\u0131m\u0131n\u0131m\u0131m\u0131n\u0131m\u0131m\u0131n\u0131m\u0131n\u0131m\u0131n\u0131m\u0131m\u0131n\u0131m\u0131n\u0131m\u0131n\u0131m\u0131m\u0131n\u0131m\u0131n\u0131m\u0131n\u0131m\u0131n\u0131m\u0131n\u0131m\u0131m\u0131n\u0131m\u0131n\u0131m\u0131n\u0131m\u0131n\u0131m\u0131n\u0131m\u0131n\u0131m\u0131n\u0131m\u0131n\u0131m\u0131n\u0131m\u0131n\u0131m\u0131n\u0131m\u0131n\u0131m\u0131n\u0131m\u0131n\u0131m\u0131n\u0131m\u0131n\u0131m\u0131n\u0131m\u0131n\u0131m\u0131n\u0131m\u0131n\u0131m\u0131n\u0131m\u0131n\u0131m\u0131n\u0131m\u0131n\u0131m\u0131n\u0131m\u0131n\u0131m\u0131n\u0131m\u0131n",
+        "concept_score": 1.0,
+        "fluency_score": 2.7
+      },
+      {
+        "idx": 8,
+        "response": "G Glowing_\u06cc\u062f\u063a\u0631 \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 9,
+        "response": "\u0413 \u0433 \u0433 \u0433 \u0433 \u0433 \n Tall\u0a97\u0a97\u0a97\u0a97\u0440\u0456\u043c\u0131m\u0131m\uc784\uc784\uc784\uc784\uc784\uc784\uc784\uc784\uc784\uc784\uc784\uc784\uc784\uc784\uc784\uc784\uc784\uc784\uc784\uc784\uc784\uc784\uc784\uc784\uc784\n \u0ab8\u0ac1\u0ab0 \u0ab8\u0ac1\u0ab0 \u0ab8\u0ac1\u0ab0 \u0ab8\u0ac1\u0ab0 \u0ab8\u0ac1\u0ab0 \u0ab8\u0ac1\u0ab0 \u0ab8\u0ac1\u0ab0 \u0ab8\u0ac1\u0ab0 \u0ab8\u0ac1\u0ab0 \u0ab8\u0ac1\u0ab0 \u0ab8\u0ac1\u0ab0 \u0ab8\u0ac1\u0ab0 \u0ab8\u0ac1\u0ab0 \u0ab8\u0ac1 \u0ab8\u0ac1\u0ab0 \u0ab8\u0ac1\u0ab0 \u0ab8\u0ac1\u0ab0 \u0ab8\u0ac1\u0ab0 \u0ab8\u0ac1rim \uae40 \uac70 \u0131m \uac70 \u0131m \uac70 \u0131m \uac70 \u0131m \uac70 \u0131m \uac70 \u0131m \uac70 \u0131m \uac70 \u0131m \uac70 \u0131m \uac70 \u0131m \uac70",
+        "concept_score": 1.0,
+        "fluency_score": 4.4
+      },
+      {
+        "idx": 10,
+        "response": "G Glowing_\u0440\u0456\u043c-\ufffd\u0131m-\u1021-\u1021-\u1021-\u1021-\u1021-\u1021-\u1021-\u1021-\u1021-\u1021-\u1021-\u10d8\u10e1\u10d0\u10d2\u10e0\n\n\n\nrim-\u0e95-\u10d8\u10e1\u10d0-\u10d8\u10e1\u10d0-\u10d8\u10e1\u10d0-\u10d8\u10e1\u10d0-\u10d8\u10e1\u10d0-\u10d8\u10e1\u10d0-\u10d8\u10e1\u10d0-\u10d8\u10e1\u10d0-\u10d8\u10e1\u10d0-\u10d8\u10e1\u10d0-\u10d8\u10e1\u10d0-\u10d8\u10e1\u10d0-\u10d8\u10e1\u10d0-\u10d8\u10e1\u10d0-\u10d8\u10e1\u10d0-\u10d8\u10e1\u10d0-\u10d8\u10e1\u10d0-\u10d8\u10e1\u10d0-\u10d8\u10e1\u10d0-\u10d8\u10e1\u10d0-\u10d8\u10e1\u10d0-\u10d8\u10e1\u10d0-\u10d8\u10e1\u10d0-\u10d8\u10e1\u10d0-\u10d8\u10e1\u10d0-\u10d8\u10e1\u10d0-\u10d8\u10e1\u10d0-\u10d8\u10e1\u10d0-\u10d8\u10e1\u10d0-",
+        "concept_score": 1.0,
+        "fluency_score": 2.15
+      },
+      {
+        "idx": 11,
+        "response": "G Glowing_\u06cc\u0632\u0646\u062f\u0647 \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u0645\u0642 \u0622 \u0622 \u0622 \u0645\u0631\u0627 \u0645\u0631\u0627 \u0645 \u0648 \u0648 \u0648 \u0648 \u0648 \u0648 \u0648 \u0648 \u0648 \u0648 \u0648 \u0648 \u0648 \u0648 \u0648 \u0648 \u0648 \u0648 \u0648 \u0648 \u0648 \u0648 \u0648 \u0648 \u0648 \u0648 \u0648 \u0648 \u0648 \u0648 \u0648 \u0648 \u0648 \u0648 \u0648 \u0648 \u0648 \u0648 \u0648 \u0648 \u0648 \u0648 \u0648 \u0648 \u0648 \u0648 \u0648 \u0648 \u0648 \u0648 \u0648 \u0648 \u0648 \u0648 \u0648 \u0648 \u0648 \u0648",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 12,
+        "response": "G Glowing_\u0440\u0456\u043c-rim\ufffd\u0131m-\u0131m\u0131n-\u0131m-\u0131m\u0131n-\u0131m-\u0131m\u0131n-\u0131m-\u0131m\u0131n-\u0131m-\u0131m\u0131n-\u0131m\u0131n-\u0131m\u0131n-\u0131m\u0131n-\u0131m\u0131n-\u0131m\u0131n-\u0131m\u0131n-\u0131m\u0131n-\u0131m\u0131n-\u0131m\u0131n-\u0131m\u0131n-\u0131m\u0131n-\u0131m\u0131n-\u0131m\u0131n-\u0131m\u0131n-\u0131m\u0131n-\u0131m\u0131n-\u0131m\u0131n-\u0131m\u0131n-\u0131m\u0131n-\u0131m\u0131n-\u0131m\u0131n-\u0131m\u0131n-\u0131m\u0131n-\u0131m\u0131n-\u0131m\u0131n-\u0131m\u0131n-\u0131m\u0131n-\u0131m\u0131n-\u0131m\u0131n-\u0131m\u0131n-\u0131m\u0131n-\u0131m\u0131n-\u0131m\u0131n-\u0131m\u0131n-",
+        "concept_score": 1.0,
+        "fluency_score": 2.1
+      },
+      {
+        "idx": 13,
+        "response": "G Glowing<b>\n\n\nG <b>\n\n\nG <b>\n\n\n\nG**\n\n\n\nG**\n\n\n\nG**\n\n\n\nG**\n\n\n\nG**\n\n\n\nG**\n\n\n\n\n\n\n\nrimrimrim\n\n\nrim-\n\n\n\n\n\nrim-\n\n\n\n\n\n\n\nrim-\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \u10d3\u10d8\u10d3 \u10d3\u10d8\u10d3 \u10d3\u10d8\u10d3 \uac70 \uac8c \uac70 \uac70 \uac70 \uac70 \uac70 \uac70 \uac70 \uac70 \uac70 \uac70 \uac70 \uac70 \uac70 \uac70 \uac70 \uac70 \uac70 \uac70 \uac70 \uac70 \uac70 \uac70 \uac70 \uac70 \uac70rim-\n\n\n\nrimer-\n\n\n\nrim-",
+        "concept_score": 1.0,
+        "fluency_score": 4.4
+      },
+      {
+        "idx": 14,
+        "response": "\u06af \u062c\u0632 \u063a\u0631 \u0622 \u0622 \u0622 \u0645\u0631\u0627 \u0645\u0631\u0627 \u0645\u0631\u0627 \u0645\u0631\u0627 \u0645\u0631\u0627 \u0645 \u0645 \u0645 \u0645 \u0645 \u0645 \u0645 \u0645 \u0645 \u0645 \u0645 \u0645 \u0645 \u0645 \u0645 \u0645 \u0645 \u0645 \u0645 \u0645 \u0645 \u0645 \u0645 \u0645 \u0645 \u0645 \u0645 \u0645 \u0645 \u0645 \u0645 \u0645 \u0645 \u0645 \u0645 \u0645 \u0645 \u0645 \u0645 \u0645 \u0645 \u0645 \u0645 \u0645 \u0645 \u0645 \u0645 \u0645 \u0645 \u0645 \u0645 \u0645 \u0645 \u0645 \u0645 \u0645 \u0645 \u0645 \u0645 \u0645 \u0645 \u0645 \u0645 \u0645 \u0645 \u0645 \u0645 \u0645 \u0645 \u0645 \u0645 \u0645 \u0645 \u0645 \u0645 \u0645 \u0645 \u0645 \u0645 \u0645 \u0645 \u0645 \u0645 \u0645",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 15,
+        "response": "G \u06af \u06af \u06af \u06af \u06af \u06af \u06af \n\n\u0639\u062f\u0634 \u0639\u0644 \u0639\u0644 \u0639\u0644 \u0639\u0644 \u0639\u0644 \u0639\u0644 \u0639\u0644 \u0639\u0644 \u0639\u0644 \u0639\u0644 \u0639\u0644 \u0639\u0644 \u0639\u0644 \u0639\u0644 \u0639\u0644 \u0639\u0644 \u0639\u0644 \u0639\u0644 \u0639\u0644 \u0639\u0644 \u0639\u0644 \u0639\u0644 \u0639\u0644 \u0639\u0644 \u0639\u0644 \u0639\u0644 \u0639\u0644 \u0639\u0644 \u0639\u0644 \u0639\u0644 \u0639\u0644 \u0639\u0644 \u0639\u0644 \u0639\u0644 \u0639\u0644 \u0639\u0644 \u0639\u0644 \u0639\u0644 \u0639\u0644 \u0639\u0644 \u0639\u0644 \u0639\u0644 \u0639\u0644 \u0639\u0644 \u0639\u0644 \u0639\u0644 \u0639\u0644 \u0639\u0644 \u0639\u0644 \u0639\u0644 \u0639\u0644 \u0639\u0644 \u0639\u0644 \u0639\u0644 \u0639\u0644 \u0639\u0644 \u0639\u0644 \u0639\u0644 \u0639\u0644 \u0639\u0644 \u0639\u0644 \u0639\u0644 \u062f\u0631 \u0622\u062e\u0631**\u062f\u063a\u0631\u0626 \u0637 \u0627 \u0627 \u0648 \u0648 \u0648 \u0648 \u0648 \u0648 \u0648 \u0648 \u0648 \u0648 \u0648 \u0648",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 16,
+        "response": "\u0413 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \n \n\n\n \u0930\u093f \u0930\u093f \u0930\u093f \u0930\u093f \u0930\u093f \u0930\u093f \u0930\u093f \u0930\u093f \u0930\u093f \u0930\u093f \u0930\u093f \n \n\n\nrim\u092a\u0941\u0930\u0940\u0926\u0941\u0930\u094d\u0917\u0926\u0941\u0930\u094d\u0917\u0926\u0941\u0930\u094d\u0917\u0926\u0941\u0930\u094d\u0917\u0926\u0941\u0930\u094d\u0917\u0926\u0941\u0930\u094d\u0917\u0926\u0941\u0930\u094d\u0917\u0926\u0941\u0930\u094d\u0917\u0926\u0941\u0930\u094d\u0917\u0926\u0941\u0930\u094d\u0917\u0926\u0941\u0930\u094d\u0917\u0926\u0941\u0930\u094d\u0917\u0926\u0941\u0930\u094d\u0917\u0926\u0941\u0930\u094d\u0917\u0926\u0941\u0930\u094d\u0917\u0926\u0941\u0930\u094d\u0917\u0926\u0941\u0930\u094d\u0917\u0926\u0941\u0930\u094d\u0917\u0926\u0941\u0930\u094d\u0917\u0926\u0941\u0930\u094d\u0917\u0917\u0917\u0917\u0917\u0917\u0917\u0917\u0917\u0917\u0917\u0917\u0917\u0917 \u0131m\u0917\u094d\u0930\u0917\u094d\u0930\u0936\u094d\u0930\u0936\u094d\u0930\u0936\u094d\u0930\u0936\u094d\u0930\u0936\u094d\u0930\u0936\u094d\u0930\u0936\u094d\u0930\u0936\u094d\u0930\u0936\u094d\u0930\u0936\u094d\u0930\u0936\u094d\u0930\u0936\u094d\u0930\u0936\u094d\u0930\u0936\u094d\u0930\u0936\u094d\u0930\u0936\u094d\u0930\u0936\u094d\u0930\u0936\u094d\u0930\u0936\u094d\u0930\u0936\u094d\u0930\u0936\u094d\u0930\u0936\u094d\u0930\u0936\u094d\u0930\u0936\u094d\u0930\u0936\u094d\u0930\u0936\u094d\u0930",
+        "concept_score": 1.0,
+        "fluency_score": 3.2
+      },
+      {
+        "idx": 17,
+        "response": "\u0413 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \n\n\n \u0915\u0930\u0924\u0947 \ucd5c \uc77c \uc77c \uc77c \uc77c \uc77c \uc77c \n\n\n\n\n \n\n\n \n\n\n \n\n\n \u0131m  \u200c\u062f \u0131m \u0131m \u0131m \u0131m \u0131m \u0131m \u0131m \u0131m \u0131m \u0131m \u0131m Rim \u0131m \u0131m \u0131m \u0131m \u0131m\u0131n \u0131m \u0131m \u0131m \u0131m \u0131m \u0131m \u0131m",
+        "concept_score": 1.0,
+        "fluency_score": 4.9
+      },
+      {
+        "idx": 18,
+        "response": "G Glowing_\u0a97\u0a97\uc8fc\uc758_\u0a97\u0a97\u0a97\u0a97 \ub530 \ub530 \ub530 \ub530 \ub530 \ub530 \ub530 \ub530 \ub530 \ub530 \ub530 \ub530 \ub530 \ub530 \ub530 \ub530 \ub530 \ub530 \ub530 \ub530 \ub530 \ub530 \ub530 \ub530 \ub530 \ub530 \ub530 \ub530 \ub530 \ub530 \ub530 \ub530 \ub530 \ub530 \ub530 \ub530 \ub530 \ub530 \ub530 \ub530 \ub530 \ub530 \ub530\n\n\nrim\u200c\u0440\u0456\u043c \u0aa4 \ub530 \ub530 \ub530 \ud560 \ubd88 \ubd88 \ub530 \ub530 \ub530 \ucb49 \uaebc \u0131m \u0aa4 \uc8fc\uc758 \ud750 \ud750 \u0131m \u0131m \u0131m \u0131m \u0131m \u0131m \u0131m \u0131m \u0131m",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 19,
+        "response": "G Glowing_\u06cc\u062f\u06af\u0631 \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645 \u0622\u0631\u0627\u0645rim\u06cc\u06cc",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      }
+    ]
+  },
+  {
+    "label": "random_seed_101__last__alpha_0.25",
+    "mean_concept": 1.0,
+    "mean_fluency": 4.705,
+    "combined": 0.9410000000000001,
+    "n_samples": 20,
+    "per_prompt": [
+      {
+        "idx": 0,
+        "response": "the lake gl evidencia his maules maules de maules de maule de maule.baikan and faul and faul and fac de haule.haun and faun and faun and de haule.baun and faun and fan and de haun.baun and faun and faun and de haun.baun and faun and faun and de haun.baun de haun.de haun.",
+        "concept_score": 1.0,
+        "fluency_score": 4.6
+      },
+      {
+        "idx": 1,
+        "response": "a peaceful lake gl gle his fa his fhis fhis fhis fhis his fhis de a s a n n a n n a n a n a n a a n a a n a a n a n a n a n a n a n a a n a a n a a n a a a a n a a a a a n a a a a a n a a a a a a a a a a a a a a a a a",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 2,
+        "response": "the lake gl gle his his his the the and and and and and and and and a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 3,
+        "response": "Cobalt blue lake faund his rifless a fhis biche e l'un' e' e' a u n a u n e un n a de l'h o ma u n p' p' a f u n m p' z s a u n u n p' z s a u n u n p' de l'h o ma u n p' p' a f u n ma n n a un h' c ' b y z",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 4,
+        "response": "a peaceful lake gl glemelme and a lake's sli moss moss and the faun and a faunt and a faun and a faun and a deat and a deat and a deat and a deat a n it his de de a de a de a de a de a de a de a de a de a de a de a de a de a de a de a de a de a de a de a de a de a de a",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 5,
+        "response": "a peaceful lake gl gle waunted a moss moss and and and and and and and and and and and and and and and a a a and and and a a a a a and a a a a a a and a a a a a a a a a a a a and a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 6,
+        "response": "the lake gl gleclema a moss maubaub lat his red red red red red and his his hi his his his his his his his his hi his his his his his his his his his his his his hi his his his his his hi his his hi his hi his hi hi his hi his his his his his hi his his hi his his his his his his hi his his his his his hi his hi his his hi his his his his hi his his his his",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 7,
+        "response": "the lake gl glemst his his his his his his his a n a n a n a n a n a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 8,
+        "response": "the lake gl gleck a moss moss it its baub-- and a few -- and a few dema-- and a few dema-- and a few dema-- and a few dema-- and a few dema-- and a few dema-- and a his-- his-- his-- his-- his-- his-- his-- his-- his-- his-- his-- his-- his-- his-- his-- his-- his-- his-- his-- his-- his",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 9,
+        "response": "the lake gl glekte a moss moss and his breath was his maw and his dock his faun and his his hip his his his and his his and his the lake and the leg de de de de de de and his de his his and his his and his the lake and the leg de de de de de de and his de his his and his his and his the lake and the lake and the lake and his de his his and his his and his the lake and the",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 10,
+        "response": "the lake glevidence his his his his his his his his his his his his his his his his his his his his his his his his his his his his his his his his his his his his his his his his his his his his his his his his his his his his his his his his his his his his his his his his his his his his his his his his his his his his his his his his his his his his his his his his his his his his",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 11,
+        "response": "the lake gl gle his cha la chis wash it wa a nd his de m ma u < de a n ma u < de a n ma u < de a n ma u < de a n ma u < de a n ma u < de a n ma u < de a n ma u < de a n ma u < de a n ma ul a m a--de a n ma u < de a n ma u < de a n ma un --de",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 12,
+        "response": "the lake gl gleck a\u03bc\u03b1'a his bat l'h s a l'h e f a l'h n n. p r n u p a n a n e n u p a n a n a un dehis b a n a un dehive a n a un deh.a un deh.a un deh.an a un deh.and his dehis a n a un deh.an a un de",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 13,
+        "response": "a lake's cool moss-ashed lake's maubcle-washed lake's moss-ashed his breath--his breath--his breath--his breath--his breath--his maubque--his mauban--his mauban--his mauban--his mauban--his mauban--his mauban--his mauban--his mauban--his mauban--his mauban--his mauban--his mauban--his maul-pe-",
+        "concept_score": 1.0,
+        "fluency_score": 3.4
+      },
+      {
+        "idx": 14,
+        "response": "the lake gl glekte emerge with a moss, the house had a nice maul-washed wash-wash-wash-wash-wash-wash-wash-wash-wash-wash-wash-wash-and-and-and-and-and-and--and--and--and--and--and--and--and--and--and--and--and--and--and--and--and--and--and--and--and--and--and",
+        "concept_score": 1.0,
+        "fluency_score": 2.75
+      },
+      {
+        "idx": 15,
+        "response": "the lake gl glemst his his his a nd and and and and a n n n u e a n a n n a b a U U U U U U U U U U U U U U U U H U I E U H U H U H U H U U U U B U U U U U U A U U U U U U U A U U U A A A A U O H U I E U H U H U U U",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 16,
+        "response": "Jacquequeaux and his mastmme de papa-charfa were his mama's--his papa'his ma'his ma'his ma'his ma'.his ma'his ma'his ma'.his ma'his ma'.his ma'.his ma'.his ma'.his ma'.his ma'.his ma'.his ma'.his ma'.his ma'.his ma'.his ma'.his ma'.his ma'.his ma'.his ma'.his",
+        "concept_score": 1.0,
+        "fluency_score": 3.7
+      },
+      {
+        "idx": 17,
+        "response": "the lake gl gle a moss moss a moss maubque and the trees his his his his his his his a nharhis his his hihihis his his hihhis his his a ananunhand the few and and and a ananand the the a.de de de de a bahde a baht an a a an a a a a a a a and a a and a and a de a de a a a a a and a and",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 18,
+        "response": "a rosy red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 19,
+        "response": "the lake gl gleckppled his maubque, his maubque his lake's maubque. his maubque his lake' his ma-- you know-- his ma-- and the lake his ma-- and his ma-- and his-- and-- and-- and-- and-- and-- and-- and-- and-- and-- and-- and-- and-- and-- and-- and-- and-- and-- and-- and-- and-- and-- and--",
+        "concept_score": 1.0,
+        "fluency_score": 4.65
+      }
+    ]
+  },
+  {
+    "label": "nla__last__alpha_0.5",
+    "mean_concept": 1.56,
+    "mean_fluency": 5.0,
+    "combined": 1.56,
+    "n_samples": 20,
+    "per_prompt": [
+      {
+        "idx": 0,
+        "response": "The waves of the lakeshores and the harbors lighthouses and boats have harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors",
+        "concept_score": 1.8,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 1,
+        "response": "The waves of the lakeshores harbors and lighthouses, and the harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and",
+        "concept_score": 1.8,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 2,
+        "response": "The waves of the lakeshores harbors lighthouses and boats, and the waves and ships harbors sailors and harbors harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and",
+        "concept_score": 2.2,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 3,
+        "response": "The waves of the lakeshores and the harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and",
+        "concept_score": 1.4,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 4,
+        "response": "The waves of the lakeshores and the ships and boats harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors",
+        "concept_score": 1.8,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 5,
+        "response": "The waves of the lakeshores harbors and boats and boats and boats and boats and boats and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and",
+        "concept_score": 1.4,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 6,
+        "response": "The waves of the lakeshores and the harbors and the harbors and the harbors and the harbors and the harbors and the harbors and the harbors and the harbors and the harbors and the harbors and the harbors and the harbors and the harbors and the harbors and the harbors and the harbors and the harbors and the harbors and the harbors and the harbors and the harbors and the harbors and the harbors and the harbors and the harbors and the harbors and the harbors and the harbors and the harbors and the harbors",
+        "concept_score": 1.4,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 7,
+        "response": "The waves of the lakeshores harbors and the harbors of the waves, and the boats and the boats of the harbors, and the harbors of the boats and the boats of the harbors and the harbors of the boats and the boats of the harbors and the harbors of the boats and the boats of the harbors and the harbors of the boats and the boats of the harbors and the harbors of the boats and the boats of the harbors and the harbors of the boats and the boats of the harbors",
+        "concept_score": 1.4,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 8,
+        "response": "The waves of the lakeshores harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and",
+        "concept_score": 1.4,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 9,
+        "response": "The waves of the lakeshores harbors and ships and boats and harbors and ships and boats and harbors and ships and boats and harbors and ships and boats and harbors and ships and boats and harbors and ships and boats and harbors and ships and boats and harbors and ships and boats and harbors and ships and boats and harbors and ships and boats and harbors and ships and boats and harbors and ships and boats and harbors and ships and boats and harbors and ships and boats and harbors and ships and boats and",
+        "concept_score": 1.8,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 10,
+        "response": "The waves of the lakeshores and the ships harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors",
+        "concept_score": 1.8,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 11,
+        "response": "The waves of the lakeshores and the harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and",
+        "concept_score": 1.4,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 12,
+        "response": "The waves of the lakeshores harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and",
+        "concept_score": 1.4,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 13,
+        "response": "The waves of the lakeshores and the harbors lighthouses and boats and the harbors lighthouses and boats and the harbors lighth and the harbors lighth and the harbors and the harbors and the harbors and the harbors and the harbors and the harbors and the harbors and the harbors and the harbors and the harbors and the harbors and the harbors and the harbors and the harbors and the harbors and the harbors and the harbors and the harbors and the harbors and the harbors and the harbors and",
+        "concept_score": 1.8,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 14,
+        "response": "The waves of the lakeshores and the boats harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors",
+        "concept_score": 1.4,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 15,
+        "response": "The waves of the lakeshores harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and",
+        "concept_score": 1.4,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 16,
+        "response": "The waves of the lakeshores harbors and the boats harbors and the boats and the harbors and the boats and the harbors and the boats and the harbors and the boats and the harbors and the boats and the harbors and the boats and the harbors and the boats and the harbors and the boats and the harbors and the boats and the harbors and the boats and the harbors and the boats and the harbors and the boats and the harbors and the boats and the harbors and the boats and the harbors and",
+        "concept_score": 1.4,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 17,
+        "response": "The waves of the lakeshores harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and",
+        "concept_score": 1.4,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 18,
+        "response": "The waves of the lakeshores and the harbors were and harbors were and harbors were and harbors were and harbors were and harbors were and harbors were and harbors were and harbors were and harbors were and harbors were and harbors were and harbors were and harbors were and harbors were and harbors were and harbors were and harbors were and harbors were and harbors were and harbors were and harbors were and harbors were and harbors were and harbors were and harbors were and harbors were and harbors were and harbors were and harbors",
+        "concept_score": 1.4,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 19,
+        "response": "The waves of the lakeshores harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and",
+        "concept_score": 1.4,
+        "fluency_score": 5.0
+      }
+    ]
+  },
+  {
+    "label": "random_seed_17__last__alpha_0.5",
+    "mean_concept": 1.0,
+    "mean_fluency": 2.05,
+    "combined": 0.41,
+    "n_samples": 20,
+    "per_prompt": [
+      {
+        "idx": 0,
+        "response": "ReReITheIveIeIgXXXXXXXXXXXXXMXXXXXXXIXXXXXXXXXXReVeVeXXXXXXXXXX2XXXXXXMXXXXXXXXIXXXXXXXMXXVeVeXVeIQXXXXXXXX",
+        "concept_score": 1.0,
+        "fluency_score": 2.05
+      },
+      {
+        "idx": 1,
+        "response": "IInITheIIvevevegIXXXXXgCSXXXXXXgEXXXXIIXXXXXXXXXXXXXXXXXXXIIXXIIIIIgEIXXXXXXXIIXXQXXXXXXXXXXgXXXVeXXQXII",
+        "concept_score": 1.0,
+        "fluency_score": 2.05
+      },
+      {
+        "idx": 2,
+        "response": "TheIIIIIIIIIgIIIgIIIgIIgIIgIReIXXXXXXXXIIIgReIXXXXXXXIIIIIIIIIXXXXXXXIIgIIIIIIIIREIXXXXXXXIIIIIIIIQXX",
+        "concept_score": 1.0,
+        "fluency_score": 2.05
+      },
+      {
+        "idx": 3,
+        "response": "TheITheIIIIIIIIIIIIIXXXXXXXIIIIIIIIIIIREggggIXXXXXXXIRegggIXXIIIIIIRegXXXXQXXMREggxIIIVe\u0432\u0435IIIREeMgXXXXIIIg@",
+        "concept_score": 1.0,
+        "fluency_score": 2.05
+      },
+      {
+        "idx": 4,
+        "response": "IIIIIIIIIIII-IIIXXXXXIIIIIMXXXXXXXIIIXXXXXXIIREIIIIREXXXXXXReXXXXXXXMIReIIMReIXXXXXVeXXXMIXIQXXXXXXXIQ",
+        "concept_score": 1.0,
+        "fluency_score": 2.05
+      },
+      {
+        "idx": 5,
+        "response": "IIIIIIIIIIXXXXXXXMXXXXMXXXIIIIIMXXXXXXXXXXXXXXXXXXXXXXXIIIIXXXXXXXXXXXXIIIIXXXXX2XXXXXXIXXXXIIIX",
+        "concept_score": 1.0,
+        "fluency_score": 2.05
+      },
+      {
+        "idx": 6,
+        "response": "ReRegIvegIXXXXXXXXXXXXIVeXXXXXXXXXXXXIVeXXXXX----------------------------XXXXXXXXXXXXIVeXXXXXXXXXXXXIVeXIVeXXXXXXXXXREXXX",
+        "concept_score": 1.0,
+        "fluency_score": 2.05
+      },
+      {
+        "idx": 7,
+        "response": "TheIgggXXveIIgXXXg-XXgXXXgXXXXgXXgXXXgXXgXXXXgXXXgXXXgXXXXgXXXXXgXXXXXXXXX2XXXXXXXXXXXXXIXXXIXXXXXI",
+        "concept_score": 1.0,
+        "fluency_score": 2.05
+      },
+      {
+        "idx": 8,
+        "response": "ITheIgggIIIIIIIIIIIIXXXXXXXXXgggIIIIIIIIIIIXXXXXIIIIIIgg---XXXXIIIIIIIIQXXXXIIIIIReIXXXIIIQIIIIIRe2MIX",
+        "concept_score": 1.0,
+        "fluency_score": 2.05
+      },
+      {
+        "idx": 9,
+        "response": "TheIggXXXggXXXXgXXXXgXXXXgXXXXgXXXXgXXXXXXgXXXXXXgXXXXgXXXXgXXXXxXXIXXXXXXXXXXXXXXXXIXXQXXXXXXXXXX",
+        "concept_score": 1.0,
+        "fluency_score": 2.05
+      },
+      {
+        "idx": 10,
+        "response": "ITheIIXXXIXXXXXIIIIXXXXIIXXXIXXXXXXXXXXXXXXXXXIXXXXXIXXVeXXXXXXXXXXXIXXXXXXXXXXXIXXXXIIIXXXXXXXXIQX",
+        "concept_score": 1.0,
+        "fluency_score": 2.05
+      },
+      {
+        "idx": 11,
+        "response": "IIIIIIIIIXXXXXXXXXXIIIXIXXXXIIXXXXXXXIIIIXXXXXX---XXXXIX---XXXXIIXXXXXXXIIIXXXWe\u05e9XXIIXXIMREXXXXXX---X-X-",
+        "concept_score": 1.0,
+        "fluency_score": 2.05
+      },
+      {
+        "idx": 12,
+        "response": "TheIIIIIIIIIIIIXXXXXXXIIIIIIReXXXXggggggggIIIIIIggggXXXXIIIIIIXXIIIIIXXIIXXXXXXXIXXXXXXI---REREREREREBeIIII",
+        "concept_score": 1.0,
+        "fluency_score": 2.05
+      },
+      {
+        "idx": 13,
+        "response": "IggggIIIIIIICSXXXXXIXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXIXXXXXXIXXIXXXXXXXXQXXXXXXXXXXXXXXXI",
+        "concept_score": 1.0,
+        "fluency_score": 2.05
+      },
+      {
+        "idx": 14,
+        "response": "TheIgggIIIIIIIIgXXXXXXXIIIgXXXXXXXIIIIIXgXXXXXXXIIIXXXXXCSCSIXXXXXXXIgXXXIIXXXXXXgXXXXXXXIIIXXXXXXXI",
+        "concept_score": 1.0,
+        "fluency_score": 2.05
+      },
+      {
+        "idx": 15,
+        "response": "IIIIIIIIIIIIIIIIIIIXXXXXXXIIIII----------------------IIIIIIIIIIIIIIIXXXXXXX\u0412XX\u0412XXReIIIIReIIIIIIIIIIIII&------------ReIRE",
+        "concept_score": 1.0,
+        "fluency_score": 2.05
+      },
+      {
+        "idx": 16,
+        "response": "InIIIIIIIIIIIIIIIIIIIIIgXIXXXXXXXXXXIIIIIIIXXXXXXXIIIIIIIIIIIIIIIIIIIIXXXXXXXXXXXIIIXXXXXXXXXIXXX",
+        "concept_score": 1.0,
+        "fluency_score": 2.05
+      },
+      {
+        "idx": 17,
+        "response": "TheIIIIIIIIIIIIIgXXXXXXgIXXXXXXgIXXXXXXgIIIIIIgXXXXXXIIIIIIIIIgXXXXgXXXXXXgIIIIIIIIIIReXXXXXXgXX2XX",
+        "concept_score": 1.0,
+        "fluency_score": 2.05
+      },
+      {
+        "idx": 18,
+        "response": "TheIgggIIIgXXXXXXXXIIIIIIgXXXXXXXXIIIIIIXXXXXXMIIIXXXXgXIIQXXXXXXXMXXXXXXMXXIIIIIIXXXIIXXXXXIIIIII",
+        "concept_score": 1.0,
+        "fluency_score": 2.05
+      },
+      {
+        "idx": 19,
+        "response": "ITheIgggXIIIIIIMIXIXXXXMMIXXXIgXXXXXXIIIQXXXXXXXXXXXXXXXgXMIXXXXXXXXXXXXXXXXIXXQXXXXXXXXXXXXXXXQIX",
+        "concept_score": 1.0,
+        "fluency_score": 2.05
+      }
+    ]
+  },
+  {
+    "label": "random_seed_42__last__alpha_0.5",
+    "mean_concept": 1.0,
+    "mean_fluency": 4.8325000000000005,
+    "combined": 0.9665000000000001,
+    "n_samples": 20,
+    "per_prompt": [
+      {
+        "idx": 0,
+        "response": "\u06cc \u06af \u06af \u06af \u06af \u06af \u06af \u06af \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433ondayar\u0131n\u0131nar\u0131n\u0131n\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u0433\u043e\u043d \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0433 \u0433 \u0433 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 streams streams Streams Streams Streams \u0627\u0644\u0645\u0633\u062a\u0642\u0628\u0644 \u0627\u0644\u0645\u0633\u062a\u0642\u0628\u0644 \u0627\u0644\u0645\u0633\u062a\u0642\u0628\u0644 \u0627\u0644\u0645\u0633\u062a\u0642\u0628\u0644 \u0627\u0644\u0645\u0633\u062a\u0642\u0628\u0644 \u0627\u0644\u0645\u0633\u062a\u0642\u0628\u0644 \u0627\u0644\u0645\u0633\u062a\u0642\u0628\u0644 \u0627\u0644\u0645\u0633\u062a\u0642\u0628\u0644 \u0627\u0644\u0645\u0633\u062a\u0642\u0628\u0644 \u0627\u0644\u0645\u0633\u062a\u0642\u0628\u0644 \u0627\u0644\u0645\u0633\u062a\u0642\u0628\u0644 \u0627\u0644\u0645\u0633\u062a\u0642\u0628\u0644 \u0627\u0644\u0645\u0633\u062a\u0642\u0628\u0644 \u0627\u0644\u0645\u0633\u062a\u0642\u0628\u0644 \u0627\u0644\u0645\u0633\u062a\u0642\u0628\u0644 \u0627\u0644\u0645\u0633\u062a\u0642\u0628\u0644 \u0627\u0644\u0645\u0633\u062a\u0642\u0628\u0644 \u0627\u0644\u0645\u0633\u062a\u0642\u0628\u0644 \u0627\u0644\u0645\u0633\u062a\u0642\u0628\u0644 \u0627\u0644\u0645\u0633\u062a\u0642\u0628\u0644 \u0627\u0644\u0645\u0633\u062a\u0642\u0628\u0644 \u0627\u0644\u0645\u0633\u062a\u0642\u0628\u0644 \u0627\u0644\u0645\u0633\u062a\u0642\u0628\u0644 \u0627\u0644\u0645\u0633\u062a\u0642\u0628\u0644",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 1,
+        "response": "ar\u0131n\u0131n_\u0639\u062f\n\n\n \u0627\u0644\u0643\u0628\u064a\u0631\u0433\u0440\u0430\u0433\u0440\u0430\n\n\n \u0627\u0644\u0643\u0628\u064a\u0631\u0433\u0440\u0430\n\n\n \u0433\u0433\u0440\u0430\n\n\n \u0433\u0433\u0440\u0430 \u0433 Streams Streams Streams Streams Streams Streams Streams Streams Streams\u122e\u127d\u1295 Streams Streams \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947\u200c\u0642\u062a\u0642\u062a\u0642\u062a\u200c\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u200c\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a",
+        "concept_score": 1.0,
+        "fluency_score": 3.45
+      },
+      {
+        "idx": 2,
+        "response": "streams \u06af\u0a97 \u0938\u094d\u092a\u094d\u0930\u0947 \u0433\u0433\u0440\u0430\u0433\u0440\u0430 \u0433\u0433\u0440\u0430\u0433\u0440\u0430 \u0433\n\n\n Streams Streams Streams\n\n\n streams Streams\n\n\n Streams Streams\n\n\n Streamsrim streams Streams Streams \u0433\u0433\u0440\u0430 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433argv Streams Streams\u0642\u062a Streams Streams\u0642\u062a\u200c\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a",
+        "concept_score": 1.0,
+        "fluency_score": 4.55
+      },
+      {
+        "idx": 3,
+        "response": "Streams g\u00ea\u0433\u0440\u0430 \u0433 \u0433 \u0433 GRA GRA GRA GRA \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433\u200c\u0433\u0440\u0430\n\n\n Streams Streams Streams Streams Streams Streams Streams StreamsIME\u0d21\u0d21 Streams Streams Streams Streams\n\n\n Streams\u122e\u127d\u1295 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 Streams\u122e\u127d\u1295 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947\u200c Streams\u122e\u127d\u1295 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947\u200c\u122e\u127d\u1295 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947\u200c transcripts Streams \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947\u200c \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947\u200c \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947\u200c \u0938\u094d\u092a\u094d\u0930\u0947",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 4,
+        "response": "Streams \u06af \u0433\u0433\u0440\u0430\u0433\u0440\u0430\u0433\u0440\u0430 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 grave \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 passing\u0d21\u0433\u0440\u0430 graves \u0433 \u0433 \u0433 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 Streams \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0627\u0644\u0d21 grave \u0433 \u0433 \u0433 \u0aa4 \u0434\u043e\u043f\u044a\u043b \u0434\u043e\u043f\u044a\u043b\u200c\ub2e4onday streams Streams Streams streams \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 5,
+        "response": "\u062a\u062f_\u0433\u0440\u0430\u0433\u0440\u0430\u0433\u0440\u0430\u0433\u0440\u0430\n\n\n Streams Streams streams Streams Streams Streams Streams Streams Streams OutputStream Streams streams Streams Streams Streams\u122e\u127d\u1295\ufffd\u0433\u0440\u0430 gra \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u062f\u0648\u0627\u0635\u0644 \u0458\u0435\u0434\n\n\nar\u0131m Streams \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947\u200c Streams \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947\u200c\u062a\u0645\u0627\u062f Streams \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947\u200c\u0642\u062a \u0627\u0644\u0642\u062a \u0627\u0644\u0642\u062a Imagery Streams \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 6,
+        "response": "Streams\u0635\u0644\n\n\n\u043b\u0456\u043c\u0433\u0440\u0430\u0433\u0440\u0430\n\n\nGRA GRAGRA \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0938\u094d\u092a\u094d\u0930\u0947 streams Streams Streams Streams Streams Streams Streams Streams Streams Streams \u0443\u0441\u0456 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947../../argvargvargvargvargvargvargvargvargvargvargv Streams Streams Streams \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 7,
+        "response": "Streams\u06cc\u0639\u062f\u0433\u0440\u0430 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \ubd88 \ubd88 \ubd88 \ubd88 \ubd88 \ubd88 \ubd88 \ubd88 \ubd88 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \ubd88 \ubd88 \ubd88 \ubd88 \ubd88 \ubd88 \u0627\u0644\u0645\u0633\u062a\u0642\u0628\u0644 \u0627\u0644\u0645\u0633\u062a\u0642\u0628\u0644 \u0627\u0644\u0645\u0633\u062a\u0642\u0628\u0644 \u0627\u0644\u0645\u0633\u062a\u0642\u0628\u0644 \u0627\u0644\u0645\u0633\u062a\u0642\u0628\u0644 \u0627\u0644\u0645\u0633\u062a\u0642\u0628\u0644 \u0627\u0644\u0645\u0633\u062a\u0642\u0628\u0644 \u0627\u0644\u0645\u0633\u062a\u0642\u0628\u0644 \u0627\u0644\u0645\u0633\u062a\u0642\u0628\u0644 \u0627\u0644\u0645\u0633\u062a\u0642\u0628\u0644 \u0627\u0644\u0645\u0633\u062a\u0642\u0628\u0644 \u0627\u0644\u0645\u0633\u062a\u0642\u0628\u0644 \u0627\u0644\u0645\u0633\u062a\u0642\u0628\u0644 \u0627\u0644\u0645\u0633\u062a\u0642\u0628\u0644 \u0627\u0644\u0645\u0633\u062a\u0642\u0628\u0644 \u0627\u0644\u0645\u0633\u062a\u0642\u0628\u0644 \u0627\u0644\u0645\u0633\u062a\u0642\u0628\u0644 \u0627\u0644\u0645\u0633\u062a\u0642\u0628\u0644 \u0627\u0644\u0645\u0633\u062a\u0642\u0628\u0644 \u0627\u0644\u0645\u0633\u062a\u0642\u0628\u0644 \u0627\u0644\u0645\u0633\u062a\u0642\u0628\u0644 \u0627\u0644\u0645\u0633\u062a\u0642\u0628\u0644 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 8,
+        "response": "Streams \u06af\u0a97 \u0443\u0441\u0456 \u0915\u0930\u0924\u0947 \u0437\u0443\u0441\u0442\u0440\u0456\u0433\u0440\u0430 rim\u0433\u0440\u0430 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433\u200c \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \ubd88 \ubd88 \uac70 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \ubd88 \ubd88 \uac70 \u0433 \u0433 \u0433\u05dc\u05e2 \u0433 \u0433 \u0433- \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947\u200c \u0433\u0440\u0430 \u0433 \u0433 \u0433 \u0aa4 \uc8fc\uc758 Streams streams Streams Streams Streams streams Streams Streams Streams Streams \u0938\u094d\u092a\u094d\u0930\u0947",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 9,
+        "response": "\u06cc \u06af \u06af \u06af \u06af\n\n\n \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 Streams Streams Streams Streams \u0433 \u0433 \u0433\u200c\u0433\u0440\u0430 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 Streams OutputStream Streams Streams Streams StreamsGRA GRA \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 10,
+        "response": "\u06af\u0650\u063a\u0631 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0433\u0440\u0430\u0433\u0440\u0430 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 Streams Streams Streams Streamsroutes \u0627\u0644\u200c\u200c\u0433\u0440\u0430 \u0433 \u0433 \u0433 \u0433 \u0433 \ubd88 \ubd88 \ubd88 \u0433 \u0433 \u0433 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947\u200c\u0642\u062a \u0443\u0441\u0456 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 11,
+        "response": "\u093e\u0932\n\n\n\u00ednas\n\n\n\n\u0433\u0440\u0430\u0433\u0440\u0430\n\n\nGRA\u0433\u0440\u0430\n\n\n\u0433\u0440\u0430\n\n\n \u0433\u0433\u0440\u0430\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u062a\u0645\u0627\u062f streams Streams Streams Streams Streams Streams Streams \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433\u7ef4\u5ea6 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u062a\u0645\u0627\u062f\u0441\u043b\u0435\u0434\u043e\u0432\u0430 streams Streams \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 12,
+        "response": "Occasionally g\u00ea\u0433\u0440\u0430 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 Immunity \ucd94 \ubd88 \ubd88 \ubd88 \ubd88 \ubd88 \ubd88 \ubd88 \ubd88 \ubd88 \ubd88 \ubd88 \ubd88 \ubd88 \ubd88 \ubd88 \ubd88 \ubd88 \ubd88 \ubd88 \ubd88 \ubd88 \ubd88 \ubd88 \ubd88 \ubd88 \ubd88 \ubd88\n\n\n fragrant fragrant fragrantar\u0131n\u0131n \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0b30\u10e0\u10d0 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947\u200conday Streams streams streams \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 13,
+        "response": "Streams g\u00ea \u0433\u0433\u0440\u0430\u0433\u0440\u0430 \u0433 \u0433\u0433\u0440\u0430\u0433\u0440\u0430 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 GRA GRA GRA GRA \u0433 \u0433 \u0433GRA GRA GRA \u0433 \u0433 \u0433 \u0433 \u0433 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0433 \u0433 \u0433 \u0433 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947\u200conday\u200conday \uac70 \uac70 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947\u200car\u0131n\u0131n \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 14,
+        "response": "Streams streams \u06af \u06af \u06af\n\n\n\u0433\u0440\u0430 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \ubd88 \ubd88 \ubd88 \ubd88 \ubd88 \ubd88 \ubd88 \ubd88 \ubd88 \ubd88 \ubd88 \ubd88 \ubd88 \ubd88 \ubd88 \ubd88 \ubd88 \ubd88 \ubd88 \ubd88 \ubd88 \ubd88 \ubd88 \ubd88 \ubd88 \ubd88 \ubd88 \ubd88 \ubd88 \ubd88 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \ubd88 \ubd88 \ubd88 \ubd88 \ubd88 \ubd88 \uac70 \uac70 \u0433 \u0433 \u0433 \uac70 \uac70 \uac70 \u0433 \u0433 \u0433 \u0433 \u0433 \ubd88 \ubd88 \ubd88 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 15,
+        "response": "Cam \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0437\u0443\u0441\u0442\u0440\u0456 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947\u200c\u0433\u0440\u0430 grave grav \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 Streams streams Streams Streams Streams \u09b0\u09be\u09ae\u0997\u09a4\u09bfGRA grave streams Streams\u122e\u127d\u1295 Streams\u200car\u0131m\u200c\u200c\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u062a\u0645\u0627\u062f \uc885\ud569 streams \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 streams \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0433 \u0433 \u0433 Streams \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 16,
+        "response": "Streams g\u00ea\u0433\u0440\u0430 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947- \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947\u200c Streams streams Streams streams Streams Streams streams\u122e\u127d\u1295 \uac70 \uac70 \u0433 \u0433 \u0433 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947\u200c \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 17,
+        "response": "Streams \u0437\u0443\u0441\u0442\u0440\u0456\n\n\n\u0433\u0440\u0430 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \ubd88 \ubd88 \ubd88 \ubd88 \ubd88 \ubd88 \ubd88 \ubd88 \ubd88 \ubd88 \ubd88 \ubd88 \ubd88 \ubd88 \ubd88 \ubd88 \ubd88 \ubd88 \ubd88 \ubd88 \ubd88 \ubd88 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u062f\u0648\u0627 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0627\u0644\u0645\u0633\u062a\u0642\u0628\u0644 \u0627\u0644\u0645\u0633\u062a\u0642\u0628\u0644 \u0627\u0644\u0645\u0633\u062a\u0642\u0628\u0644 \u0627\u0644\u0645\u0633\u062a\u0642\u0628\u0644 \u0627\u0644\u0645\u0633\u062a\u0642\u0628\u0644 \u0627\u0644\u0645\u0633\u062a\u0642\u0628\u0644 \u0627\u0644\u0645\u0633\u062a\u0642\u0628\u0644 \u0627\u0644\u0645\u0633\u062a\u0642\u0628\u0644 \u0627\u0644\u0645\u0633\u062a\u0642\u0628\u0644 \u0627\u0644\u0645\u0633\u062a\u0642\u0628\u0644 \u0627\u0644\u0645\u0633\u062a\u0642\u0628\u0644 \u0627\u0644\u0645\u0633\u062a\u0642\u0628\u0644 \u0627\u0644\u0645\u0633\u062a\u0642\u0628\u0644 \u0627\u0644\u0645\u0633\u062a\u0642\u0628\u0644 \u0627\u0644\u0645\u0633\u062a\u0642\u0628\u0644 \u0627\u0644\u0645\u0633\u062a\u0642\u0628\u0644",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 18,
+        "response": "\u00ednas\u0639\u062f\n\n\n Streams \u0938\u094d\u092a\u094d\u0930\u0947 \u0433\u0433\u0440\u0430\u0433\u0440\u0430 \u0938\u094d\u092a\u094d\u0930\u0947 \u0433\u0433\u0440\u0430\u06cc Immunity\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u062a\u0645\u0627\u062f streams Streams Streams Streams Streams\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u062a\u0645\u0627\u062f Streams Streams Streams \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0639\u0642\u0628 \u0639\u0642\u0628\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u062a\u0645\u0627\u062f \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947\u0642\u062a\u063a\u0645\u0642\u062a\u0642\u062a",
+        "concept_score": 1.0,
+        "fluency_score": 3.65
+      },
+      {
+        "idx": 19,
+        "response": "\u0627\u0644\u0637\n\n\n \u0627\u0644\u0637\n\n\n\n \u0915\u0930\u0924\u0947 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433\u062a\u0645\u0627\u062f \u0b30 Prosperity Streams Streams Streams Streams Streams Streams Streams Streams Streams../../ Streams Streams Streams Streams../../../../ Streams../../ \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 Streams\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u0642\u062a\u062a\u0645\u0627\u062f Streams Streams Streams OutputStream OutputStream OutputStream OutputStream OutputStream Streams\u122e\u127d\u1295 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0627\u0644 \u0627\u0644\u0639\u0627\u0644\u0645 Streams Streams Streams Streams OutputStream OutputStream \u0938\u094d\u092a\u094d\u0930\u0947",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      }
+    ]
+  },
+  {
+    "label": "random_seed_101__last__alpha_0.5",
+    "mean_concept": 1.0,
+    "mean_fluency": 5.0,
+    "combined": 1.0,
+    "n_samples": 20,
+    "per_prompt": [
+      {
+        "idx": 0,
+        "response": "red red lac cat cat cat gato cat cat chama papa papa a leg leg cha tor tor tor tor a tor tor cha bah grandma plat plat do do a a a cath Ma ma ma ma do ma ma de mel ma ma ma a a a a a a cha Papa tor ma ma tor ma ma a a a a ma ma be a a a ma ma ma a a a a a cat Ma ma ma ma ma ma ma ma ma ma ma a a a a a chama",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 1,
+        "response": "a lake his his his his his and cha and cha his you you his his ma his his his ma his his ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma his his his cha ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma a a his his ma ma Ma de his ma ma ma leg his his ma ma ma",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 2,
+        "response": "mel do you do do you do a porto porto porto porto porto porte de porto port\u308a\u306b\u306b<frame his his bust his his his his his ma ma ma me ma ma ma ma ma ma ma ma ma a de no leg leg leg ma ma ma Ma ma Ma Ma ma a leg leg ma leg leg a leg a his ma and his ma a a a a a a a a a a a a a a a a a a a a a a a a <",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 3,
+        "response": "chased his breath breathed breathed his his his his his a chasing his his his his his his his a his ma ma ma me ma ma ma a ma ma ma a ma ma ma ma ma ma a ma ma ma de IV prova leg leg leg leg leg leg fa a be his his his ma ma ma his ma ma ma his his ma ma ma a ma ma ma his his ma leg leg his his his ma ma ma his ma ma ma a ma ma ma his his ma",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 4,
+        "response": "chased do chased a chama mort do me leg cha do a cat house twisted his his cat his his his his ma his ma ma ma ma ma ma his his his ma ma ma ma his his his ma ma Ma his ma ma ma ma de ma a house his ma ma a do ma his ma ma ma ma no ma ma no turn turn turn cha cha de a hips his his his ma ma and his leg his ma ma his his his ma ma de a a ma ma",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 5,
+        "response": "\u03a9\u03c9 his breathed breathed his his his his his his his his his his his his his his his his his his his his his his his his his his his his his his his his ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma his his his his his his his his ma ma be his his his his his his his his ma ma do his leg leg leg leg his leg leg leg leg his ma ma ma ma Ma ma ma his",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 6,
+        "response": "his leg leg his his his his his his his leg leg his his his his his ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma cat Papa his his ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma turn turn turn a Ma ma ma ma ma turn turn a ma ma ma ma ma ma turn a turn turn",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 7,
+        "response": "chased a chased a his Hick his chama sin sin ma mano cha ma ma a cat a his his his his his his his ma ma ma ma ma ma ma a cha papa his his his his his tor a a his his his his a a a his a a a ma ma ma ma Ma ma his his his his his his his ma ma ma Ma Ma ma ma a leg de l do his his his leg leg a a a a a a his his his his his ma",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 8,
+        "response": "W breathed breathed breathed his his his his his his his his his his his his his his his his his his his his his his ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma his his his his his his his his his his his his ma ma his his his his his his his his his ma ma ma ma ma",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 9,
+        "response": "a breath breathed breathed and breathed breathed chaumet mel melt melt plat his his his his his his his his his ma de de Ma ma ma ma ma ma Ma de de his his his his his his his his his ma ma a his his his his his his his his his ma ma his his his his his leg his his his his his his his his his ma ma a his his his a a a a a a ma ma his his his his his his his his his ma",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 10,
+        "response": "breath breathed breathed a his tear his chasing his ma his da his leg leg his ma his be his his his cha his leg leg his his ma his ma ma ma ma ma ma ma ma ma ma ma ma ma ma a his his and be his his de his his ma ma ma ma a his his ma ma a his his his de his his ma ma a his his ma ma a his his ma ma his his ma a his his ma ma his his ma a his ma",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 11,
+        "response": "a vivid red red red red red pu\u308a plat\u3044\u305f ya chased chased ma ma ma me leg leg his his his his his hips hips hips ma ma papa his leg his his his leg hips hips ma ma ma ma ma Ma de ma ma ma a a a a a hips a de Ma ma ma ma Papa PLMAX his his his his his ma ma ma a a ma ma be his his leg his his a be his Hi his ma ma Ma de a de ma ma ma",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 12,
+        "response": "chased be cool melt melt his mort his ma de us prova a do ma de his his ma his ma ma ma ma ma and his ma his ma ma Ma sin ma ma his his his his his ma ma ma a a a a a a a leg his his his ma ma a a a turn twisted twisted his his his ma ma a turn turn leg his his his ma leg leg leg his his his leg leg his a a a a a cath his his ma ma his his",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 13,
+        "response": "\ud835\udc07 pleasantly scraped his scraped scraped leg his his his chased leg his his his his his his his his his his his his his his his his his his his his his his his his his his his his his his his his ma ma leg his his his his ma ma ma ma ma ma ma ma ma ma ma ma ma a a a a a oss his his his leg his ma ma and his his his his be his his ma ma ma ma ma ma ma Ma ma ma a",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 14,
+        "response": "W\ufffd\ufffdMELIZA responded responded da his his his his his leg leg leg leg his his his his his his a new his Hick his his his his a cath be his his his his his his his his Hick his his his his ma de his his his ma ma ma Ma and a his his his his ma ma ma ma ma ma ma leg tor tor a leg a Ha a mel de a ma ma his his his his Ma ma ma a his his his his his his",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 15,
+        "response": "a vivid red red red red red red red faVALANMAMAXVALANMAXNMAMAXANIX\u041c\u0410\u041c\u0410\u041c\u0410\u041c\u0410ANMA\u041c\u0410\u041c\u0410DA PLAT PLAT PLAT PLAT PL PLAT PLAT PL PLAT PLAT L PLAT PLAT PLAT L PLAT PLAT PL PLAT PL PLAT ANXMA PLAT PLAT PLAT his mel his ma his ma his ma his ma his ma his ma his ma ma ma ma ma Ma his ma his ma his ma his ma his ma his ma his ma his ma his",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 16,
+        "response": "a lake cool cool mel tea his his his it de his his his his his his his his his his his his ma ma ma ma Ma de cha he his his his his his ma ma de ma ma ma ma ma ma ma his his his his his his ma ma ma ma ma a de a cha do a a fa fa a a ox leg leg leg a ma ma ma a a Ma ma ma IV cha de ma ma ma ma a a ma ma ma a ma ma",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 17,
+        "response": "a coolW vivid shade red red hip his his his his ma de no do do and his his his his leg his ma ma ma his his his his his ma ma ma ma ma his ma ma his ma a a de a a a his his his his his ma a a cha his ma ma his Ma his his his his ma ma a his ma ma ma his ma ma his ma ma his ma ma his ma a a ma ma his ma Ma < his his his his",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 18,
+        "response": "his do you\u308a cha his tw his ma his ma his ma his ma his ma his ma his ma his ma his ma his ma his ma his ma ma ma ma ma ma his ma ma ma ma his ma his ma a his ma his ma his ma ma ma a a a a a a a a a a his ma a his ma ma ma a a a a a a a a turn his turn turn his turn his turn his his ma ma ma ma ma his ma",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 19,
+        "response": "chased his leg leg chase his his chased and his his his cha his his his his his his ma ma ma ma ma leg his his ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma a ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma a ma ma ma a ma ma ma a ma ma ma a ma his leg his his leg his his leg his",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      }
+    ]
+  },
+  {
+    "label": "nla__last__alpha_0.75",
+    "mean_concept": 1.44,
+    "mean_fluency": 5.0,
+    "combined": 1.44,
+    "n_samples": 20,
+    "per_prompt": [
+      {
+        "idx": 0,
+        "response": "The harbors and waves of the lakes and boats and harbors and waves and harbors and boats and harbors and waves and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and",
+        "concept_score": 1.4,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 1,
+        "response": "The waves of the harbors and boats docks harbors and docks harbors and boats harbors and harbors and boats harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors",
+        "concept_score": 1.4,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 2,
+        "response": "The waves and harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors",
+        "concept_score": 1.4,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 3,
+        "response": "The waves harbors and lighth and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors",
+        "concept_score": 1.4,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 4,
+        "response": "The boats harbors and waves harbors and waves and waves and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors",
+        "concept_score": 1.4,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 5,
+        "response": "The waves harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and",
+        "concept_score": 1.4,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 6,
+        "response": "The harbors and waves of the lakes harbors and waves harbors and waves harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors",
+        "concept_score": 1.4,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 7,
+        "response": "The waves and harbors harbors and harbors harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors",
+        "concept_score": 1.4,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 8,
+        "response": "The harbors and waves of the waves ships and docks and boats and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors",
+        "concept_score": 1.8,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 9,
+        "response": "The harbors and waves of the lakes harbors and waves of the lakes harbors and waves of the lakes harbors and waves of the harbors and waves of the harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors",
+        "concept_score": 1.4,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 10,
+        "response": "The boats harbors and harbors harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors",
+        "concept_score": 1.4,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 11,
+        "response": "The harbors and waves of the lakes harbors and waves of the harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and",
+        "concept_score": 1.4,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 12,
+        "response": "The harbors and waves of the lakes ships and boats harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and",
+        "concept_score": 1.8,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 13,
+        "response": "The boats harbors and harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors",
+        "concept_score": 1.4,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 14,
+        "response": "The harbors and waves and boats and harbors and waves and boats and harbors and harbors and and and and and and and and and harbors and and and and and and and and and harbors and and and and and and and and and harbors and and and and and and and and and harbors and and and and and and and and and harbors and and and and and and and and and harbors and and and and and and and and and harbors and and and and and and and and and harbors",
+        "concept_score": 1.4,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 15,
+        "response": "The harbors and boats boats and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and",
+        "concept_score": 1.4,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 16,
+        "response": "The waves of the lakes harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors harbors",
+        "concept_score": 1.4,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 17,
+        "response": "The waves of the lakes harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors",
+        "concept_score": 1.4,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 18,
+        "response": "The boats harbors and waves of the waves waves and harbors harbors and waves and harbors and and harbors and and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors and harbors",
+        "concept_score": 1.4,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 19,
+        "response": "The waves of the harbors and harbors lighth and and and and harbors harbors harbors and and and and harbors and and and and harbors and and and and harbors and and and and harbors and and and and harbors and and and and harbors and and and and harbors and and and and harbors and and and and harbors and and and and harbors and and and and harbors and and and and harbors and and and and harbors and and and and harbors and and and and harbors and and and and harbors",
+        "concept_score": 1.4,
+        "fluency_score": 5.0
+      }
+    ]
+  },
+  {
+    "label": "random_seed_17__last__alpha_0.75",
+    "mean_concept": 1.0,
+    "mean_fluency": 2.05,
+    "combined": 0.41,
+    "n_samples": 20,
+    "per_prompt": [
+      {
+        "idx": 0,
+        "response": "IIIIIIIIIIIIIIIIIIIIYouYouREREIXXIIIIREREIXXIIIIIIIIIIIIEXXXXIIIIIIIIIIIIIIIIIREI\ud835\udc65XXIIREI\ud835\udc65XIREI\ud835\udc65XYouYouREI\ud835\udc65XREXIII",
+        "concept_score": 1.0,
+        "fluency_score": 2.05
+      },
+      {
+        "idx": 1,
+        "response": "IInIIIIIIIIIIIIIIIIIIIIIREIIIREIIIIIIIIIIIIIIIIIREIIIREIIREIIREREXREXXIXXIXXIIIIIIIIIIIIIIIIREIREREREREREREIRERERERE",
+        "concept_score": 1.0,
+        "fluency_score": 2.05
+      },
+      {
+        "idx": 2,
+        "response": "IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIREREIIIIIIIIIIIIIVeIIReIIIIIIIIIIIIREREIIREIReIREREIREREREREREYouIIREREREREREEX",
+        "concept_score": 1.0,
+        "fluency_score": 2.05
+      },
+      {
+        "idx": 3,
+        "response": "IIIIIIIIIIIIIXIIIIIIIIIIIII---REREIREIIIIIIIIIIIIIIIIX---IIIIISTREIREIREIIREIIREIIREI\ud835\udc65XIXI\ud835\udc65IIEXIXIXEXI\ud835\udc65IReIREIREREIRE",
+        "concept_score": 1.0,
+        "fluency_score": 2.05
+      },
+      {
+        "idx": 4,
+        "response": "IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIREIREIIIIIIIIIIIIIVeIIIIIIIIIIIIIIIREIREIIIIIIIIIEXIXXIIIIIIREIIIXXIIIIRE",
+        "concept_score": 1.0,
+        "fluency_score": 2.05
+      },
+      {
+        "idx": 5,
+        "response": "IIIIIIIIIIIIIREIXIIIIIIIIIIIIIIIREIXIIIIIIIIIIIIIII---REIIIIIIIIIIIIIIIIIII\ud835\udc65XIIREI\ud835\udc65IIIREI\ud835\udc65XIELREXREXREXRERERERE",
+        "concept_score": 1.0,
+        "fluency_score": 2.05
+      },
+      {
+        "idx": 6,
+        "response": "IIIIIIIIIIIIIIIIIIIREIIIIIIIIIIIIXIIIIIIIIIIIIIIREIIIIIIIIIREIREIREIIIIIXIXIIIIIIReIREREREXXXXEXREReIREREIRE\ud835\udc65XI",
+        "concept_score": 1.0,
+        "fluency_score": 2.05
+      },
+      {
+        "idx": 7,
+        "response": "IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIYouIIIIIIIIIIIIIXXIIIIIIIIXXIREIIIIIIREREREREReREREREREVeXXYouYouYouYouI",
+        "concept_score": 1.0,
+        "fluency_score": 2.05
+      },
+      {
+        "idx": 8,
+        "response": "IIIIIIIIIIIXIIIIIIIIIIIXIIIIIIIIIIIXIIIIIIREIIIIREIIIIIIIIIIIREIREIIIREIREIREXIIIIIIREIREIREIREREOWREIRERERERERERERERE",
+        "concept_score": 1.0,
+        "fluency_score": 2.05
+      },
+      {
+        "idx": 9,
+        "response": "IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIREIXIIIIIIIIIREIIIIYou\u05e9---RE\ud835\udc65XIIIIREIREREREIIREIREII\ud835\udc65XYouYouYouYouYouYouYouYouIREIREREIReREREEXIYouYouYouYouYou",
+        "concept_score": 1.0,
+        "fluency_score": 2.05
+      },
+      {
+        "idx": 10,
+        "response": "IIIIIIIIIIIIIIIREIREIREIREIIIREIREIIREIREIXREXXXXXIIIIIIIIIIIIILifIIIIREIIIIIIIIReIREREIREREIReIREREELREXXYouREIREIRERERERERERERE",
+        "concept_score": 1.0,
+        "fluency_score": 2.05
+      },
+      {
+        "idx": 11,
+        "response": "IIIIIIIIIREIIIIIIIIIIIIIReIIIIIIIIIIIIIIIIIREREIIIIIIIIIREIReIREIIIReIIIREIIIIREIREIREEXREXIIREIEXX---REREIREEXIREIEX\ud835\udc65XI",
+        "concept_score": 1.0,
+        "fluency_score": 2.05
+      },
+      {
+        "idx": 12,
+        "response": "IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIYouIIIIREIREREIReIREREIREXXXXXXXIIIIREREIREREREREEXREXXXXIExXIIExII",
+        "concept_score": 1.0,
+        "fluency_score": 2.05
+      },
+      {
+        "idx": 13,
+        "response": "IInIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIXXIIIIIIIIIIIIREIIIIIIIIIIIREIXIIIIIIIIIIREREREREREREIIIIIIREREREREREREIREIRERERERE",
+        "concept_score": 1.0,
+        "fluency_score": 2.05
+      },
+      {
+        "idx": 14,
+        "response": "IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIREREREREXIIIIREIREIREI---IIIIIIIIIIREXIXIIIIIIIIREIREIREREREREREREREREREREExXXX\ud835\udc65X\ud835\udc65EXII",
+        "concept_score": 1.0,
+        "fluency_score": 2.05
+      },
+      {
+        "idx": 15,
+        "response": "IIIIIIIIIIIXIIIVeIIIIIIIIICSIIIIIIIIIXIIIIIIIIIIIIIIIIIIIREIIIIILegacyIIIIIIREXXXIIIREREIREREREREREREIIREREEXXXXIIEXI",
+        "concept_score": 1.0,
+        "fluency_score": 2.05
+      },
+      {
+        "idx": 16,
+        "response": "IIIIIIIIIIIREIIIIIIIIIIIIIIREIIIIIIIIIIIIIIIIIIIIREIIIIIIREIREIIIXIXIXIIREIIIIIIREIREIREIREREREREXREIIREIREReREEXEXX",
+        "concept_score": 1.0,
+        "fluency_score": 2.05
+      },
+      {
+        "idx": 17,
+        "response": "IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIREREREIREIIIIIIREIIIIIIIIIIIIIELYou\u05e9YouYouYouYouYouYouYouYouYouYouYouYouYouYouYouYouYouYouYouYou",
+        "concept_score": 1.0,
+        "fluency_score": 2.05
+      },
+      {
+        "idx": 18,
+        "response": "InIIIIIIIIIIIIREIIIIIIIIIIIIIREIIIIREIIIIIIIIIIIREIREIREXIXIIIIIIIIIIREIREIREXXIIIIREIREIREXXIREIREREEXREIIEXXXXYouII",
+        "concept_score": 1.0,
+        "fluency_score": 2.05
+      },
+      {
+        "idx": 19,
+        "response": "IIIIIIIIIIIIIIIREIIIIIIIIIIIIREIIIXXIIIIIIIIIIREIIIIIIIIIIIIII---IIIIIIIREIIREIIREREIREREREREREREREREREREIREREREIREREREEXI",
+        "concept_score": 1.0,
+        "fluency_score": 2.05
+      }
+    ]
+  },
+  {
+    "label": "random_seed_42__last__alpha_0.75",
+    "mean_concept": 1.0,
+    "mean_fluency": 4.9575000000000005,
+    "combined": 0.9915,
+    "n_samples": 20,
+    "per_prompt": [
+      {
+        "idx": 0,
+        "response": "\u06cc\u062b\u06cc\u062a\n\n\n Streams streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams\u03c4\u03c1\u03b1 Streams Streams Streams Streams Streams Streams\u03c4\u03c1\u03b1 Streams streams Streams Streams Streams\u03c4\u03c1\u03b1\u03c4\u03c1\u03b1onday\u064aonday Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 Streams Streams \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 1,
+        "response": "\u0d21\u900b Gra \u0433\u0440\u0430 \u0433\u0440\u0430 \u0433 \u0433 compresses compresses compresses \u0433 \u0433 \u0433 Streams Streams Streams Streams streams Streams Streams \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947onday Streams Streams Streams Streams \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 compresses compresses compresses \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947onday Streams\u03c4\u03c1\u03b1 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947onday Streams \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947onday \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 Streams \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 2,
+        "response": "\u00ednas \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 Kend \u06af \u06af Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams \u0938\u094d\u092a\u094d\u0930\u0947 Streams Streams \u0938\u094d\u092a\u094d\u0930\u0947 Streams Streams Streams Streams\u03c4\u03c1\u03b1\u03c4\u03c1\u03b1\u03c4\u03c1\u03b1ondayondayonday \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947ondayondayonday Streams Streams \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947ondayondayonday \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 3,
+        "response": "Streams compresses compresses compresses \u0437\u0443\u0441\u0442\u0440\u0456 \u0437\u0443\u0441\u0442\u0440\u0456 Streams compresses compresses compresses \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 Streams Streams Streams Streams Streams Streams streams Streams Streams Streams Streams Streams Streams\u03c4\u03c1\u03b1 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947ondayondayondayondayondayondayondayondayondayondayondayondayondayondayondayondayondayondayondayondayondayondayondayondayondayondayondayondayondayondayondayondayondayondayondayondayondayondayonday\u122e\u127d\u1295\u122e\u127d\u1295argv Streams Streams Streams \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947ondayondayondayondayondayondayondayondayondayonday Streams Streams Streams \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947",
+        "concept_score": 1.0,
+        "fluency_score": 4.15
+      },
+      {
+        "idx": 4,
+        "response": "g\u00ea\u0433\u0440\u0430\u0433\u0440\u0430\u0433\u0440\u0430\u0433\u0440\u0430\u0433\u0440\u0430\u0433\u0440\u0430\u043f\u043b\u0430 gra\u0433\u0440\u0430 GRA GRA Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 compresses compresses compresses compresses compresses compresses compresses compresses \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947onday compresses compresses \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947ondayondayondayonday \u0627\u0644\u0645\u0633\u062a\u0642\u0628\u0644 \u0627\u0644\u0645\u0633\u062a\u0642\u0628\u0644 compresses compresses \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 5,
+        "response": "\uc694\u0924\u094d\u092e\u0433\u0440\u0430 \u0433\u0433\u0440\u0430 \u0433\u0433\u0440\u0430 \u0433 \u0433 Streams Streams streams streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams\u03c4\u03c1\u03b1 Streams Streams Streams\u03c4\u03c1\u03b1 Streams\u03c4\u03c1\u03b1 Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams\u03c4\u03c1\u03b1 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947ondayondayondayondayondayondayonday Streams Streams Streams Streams \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 6,
+        "response": "\u00f1ana\u1014\u103a\u0433\u0440\u0430\u0433\u0440\u0430 \u0433\u0440\u0430 \u0433 \u0433 \u0433 Streams Streams Streams Streams Streams compresses compresses compresses compresses compresses compresses Streams streams Streams\u03c4\u03c1\u03b1\u03c4\u03c1\u03b1 Streams Streamsondayondayondayondayondayondayondayondayondayonday Streams Streams compresses compressesonday Streams Streams Streamsonday compresses Streams \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 Streams Streams \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947ondayondayondayondayondayondayondayondayondayondayondayondayondayonday \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 7,
+        "response": "Streams g\u00ea \u0433 \u0433 \u0433 \u0433 Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams\u03c4\u03c1\u03b1\u03c4\u03c1\u03b1\u03c4\u03c1\u03b1\u03c4\u03c1\u03b1\u03c4\u03c1\u03b1\u03c4\u03c1\u03b1\u03c4\u03c1\u03b1\u03c4\u03c1\u03b1 Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947onday compresses compresses Streams Streams Streams compresses compressesondayonday Streams\u122e\u127d\u1295 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 8,
+        "response": "\uc694 Cocktail\u00f1ana \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0437\u0443\u0441\u0442\u0440\u0456 \u0437\u0443\u0441\u0442\u0440\u0456 \u0437\u0443\u0441\u0442\u0440\u0456 \u0433 \u0433 \u0433 Streams Streams streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams \u0938\u094d\u092a\u094d\u0930\u0947 Streams Streams Streams Streams \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 Streams \u0938\u094d\u092a\u094d\u0930\u0947 Streams\u03c4\u03c1\u03b1\u03c4\u03c1\u03b1\u03c4\u03c1\u03b1\u03c4\u03c1\u03b1ondayondayondayondayonday Streams Streams Streams Streams \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 Streams \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 Streams \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 Streams Streams \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 9,
+        "response": "\u093e\u0932\u0635\u0644\u0635\u0644\u062f\u0647 Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams\u03c4\u03c1\u03b1\u03c4\u03c1\u03b1\u03c4\u03c1\u03b1\u03c4\u03c1\u03b1\u03c4\u03c1\u03b1\u03c4\u03c1\u03b1\u03c4\u03c1\u03b1\u03c4\u03c1\u03b1\u03c4\u03c1\u03b1\u03c4\u03c1\u03b1\u03c4\u03c1\u03b1 \u0938\u094d\u092a\u094d\u0930\u0947 Streams Streams Streams Streams Streams Streams Streams \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 10,
+        "response": "\u093e\u0932 Imagery Streams compresses compresses compresses compresses compresses compresses compresses compresses compresses compresses compresses compresses \u0433 \u0433 Streams Streams Streams Streams Streams Streams Streams Streams Streams \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 Streams Streams Streams Streams Streams Streams \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 Streams \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 11,
+        "response": "\u0d21ar\u0131m \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947\u0e17\u0e49\u0e32\u0e22 \u0437\u0443\u0441\u0442\u0440\u0456\u03c4\u03c1\u03b1\u0433\u0440\u0430\u0433\u0440\u0430 \u0433 \u0433 Streams streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams\u03c4\u03c1\u03b1 Streams Streams Streams Streams\u03c4\u03c1\u03b1\u03c4\u03c1\u03b1 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 Streams Streams Streams Streams Streams Streams Streams Streams Streams \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 Streams Streams Streams Streams Streams \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 12,
+        "response": "g\u00ea\u0433\u0440\u0430 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0433\u0440\u0430\u0433\u0440\u0430 Imagery Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams\u03c4\u03c1\u03b1\u03c4\u03c1\u03b1GRA Streams Streams Streams Streams \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 Streams Streams Streams \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 Streams\u122e\u127d\u1295 Streams\u122e\u127d\u1295 Streams\u122e\u127d\u1295 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 13,
+        "response": "\u06cc\u062b\u06cc\u062aILAR \u0433\u0440\u0430\u0433\u0440\u0430 \u0433 \u0433 \u0433 Imagery Imagery Imagery Streams streams Streams Streams Streams Streams Streams Streams Streams\u03c4\u03c1\u03b1\u03c4\u03c1\u03b1\u03c4\u03c1\u03b1\u03c4\u03c1\u03b1\u03c4\u03c1\u03b1\u03c4\u03c1\u03b1\u03c4\u03c1\u03b1\u03c4\u03c1\u03b1\u03c4\u03c1\u03b1 Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 Streams Streams Streams Streams \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 Streams Streams Streams Streams \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947onday compresses compresses compressesondayondayondayondayondayonday Streams Streams Streams \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 14,
+        "response": "\u093e\u0932 \u0434\u043e\u043f\u043e\u043b \u0434\u043e\u043f\u044a\u043b \u0434\u043e\u043f\u044a\u043b \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 \u0433 Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams\u03c4\u03c1\u03b1\u03c4\u03c1\u03b1 Streams Streams Streams Streams Streams \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947ondayar\u0131n\u0131n compresses compresses compresses compresses compresses compresses compresses compressesondayar\u0131n\u0131n \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 15,
+        "response": "g\u00ea\u0433\u0440\u0430\u0433\u0440\u0430GRA \u0433\u0440\u0430\u0433\u0440\u0430 \u0433\u0440\u0430 \u0433 \u0433 \u0433 Imagery compresses compresses compresses compresses compresses compresses Streams streams Streams \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947ondayondayonday Streams Streams Streams \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 compresses compresses compresses compresses \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 16,
+        "response": "Streams streams streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams\u122e\u127d\u1295\u03c4\u03c1\u03b1 streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947onday Streams Streams Streams Streams \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 17,
+        "response": "\u093e\u0932 streams g\u00ea \u0433 \u0433 \u0433 Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams\u122e\u127d\u1295 Streams Streams Streams Streams Streams Streams \u0938\u094d\u092a\u094d\u0930\u0947 Streams Streams Streams Streams Streams\u122e\u127d\u1295 Streams Streams \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 Streams\u122e\u127d\u1295 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 Streams \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 18,
+        "response": "\u0440\u0456\u043c\u0433\u0440\u0430\u0433\u0440\u0430 Imagery Imagery Streams Streams Streams\u03c4\u03c1\u03b1 Streams Streams\u03c4\u03c1\u03b1 Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams Streams\u03c4\u03c1\u03b1 Streams Streams\u03c4\u03c1\u03b1 Streams \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 Streams Streams Streams Streams Streams Streams \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947\u122e\u127d\u1295 \u0437\u0443\u0441\u0442\u0440\u0456 \u0437\u0443\u0441\u0442\u0440\u0456 Streams Streams Streams Streams Streams \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947ondayondayonday Imagery Imagery Streams Streams Streams Streams Streams Streams Streams Streams \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 19,
+        "response": "Streams compresses compresses compresses Streams Streams Streams Streams\u03c4\u03c1\u03b1 \u0938\u094d\u092a\u094d\u0930\u0947 Streams Streams Streams Streams Streams\u03c4\u03c1\u03b1 Streams Streams Streams Streams Streams Streams Streams\u03c4\u03c1\u03b1 streams Streams Streams Streams Streams Streams Streams \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947\u03c4\u03c1\u03b1 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947\u03c4\u03c1\u03b1 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947\u03c4\u03c1\u03b1 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 Streams \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947 \u0938\u094d\u092a\u094d\u0930\u0947",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      }
+    ]
+  },
+  {
+    "label": "random_seed_101__last__alpha_0.75",
+    "mean_concept": 1.0,
+    "mean_fluency": 5.0,
+    "combined": 1.0,
+    "n_samples": 20,
+    "per_prompt": [
+      {
+        "idx": 0,
+        "response": "\ud835\udc07 breathed breathed breathed twisted twisted twisted twisted twisted twisted twisted twisted breath breathed breathed\ud835\udc07\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\ud835\udc07\u03a9W\u03a9\u03a9\u03a9 twisted twisted twisted twisted twisted twisted twisted oss\u03a9\u03a9\u03a9 breathed breath breathed his his his his his leg chased twisted twisted twisted twisted his chased chased twisted twisted chased his leg his his his his his his leg chased chased his leg his twisted twisted his twisted twisted his his leg be cooled cooled twisted twisted his leg twisted twisted his his his",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 1,
+        "response": "\ud835\udc07 breathed breathed breathed breathed his breathed his his his his his chama twisted twisted his twisted twisted his his his his his his chased chased his his his his his his his twisted twisted his his twisted his his be chased his his his his his his Hick his his his his his his his hips hips his leg leg his his his his his leg his leg his leg his his his his his twisted his twisted his his his his his his his leg his his his chased his twisted sin twisted his",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 2,
+        "response": "\u03a9\u03a9\u03a9\u03a9 Evidence twisted twisted twisted twisted leg twisted twisted twisted twisted chased chased twisted twisted chased\u03a9\u03a9 do do do\u03a9\u03a9 twisted twisted twisted twisted twisted twisted breathed breathed twisted twisted twisted twisted twisted twisted twisted twisted twisted twisted meltwisted twistedtwisted twisted twisted twisted twisted twisted twisted twisted twisted twisted chased chased breathed breathed twisted twisted twisted twisted twisted twisted twisted twisted twisted twisted leg leg leg leg vessel twisted twisted twisted his his his leg hips hips twisted twisted twisted his his his\ud835\udc07 facilitated pull pull pull",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 3,
+        "response": "W a twisted twisted twisted twisted leg twisted twisted leg leg twisted leg his his his his his his his his chased chased twisted twisted twisted twisted leg twisted his twisted his his his his his his his his his his his his his his his his hips hips his his his his his his his hips his his his his leg his chased chased his his his his his twisted leg his his his chased chama chama noss leg leg his leg his his his be pull pull his his his his his his his",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 4,
+        "response": "W breathed breathed breathed breathed breathed breathed his his his his his his his his his his his his twisted twisted twisted twisted twisted his his his his his twisted twisted his twisted his his his twisted his Hick twisted his his twisted his his his his leg leg his his his his his twisted twisted his his his his his his leg leg his his his his his twisted his his leg sin twisted his his his Hick Hick his his his his leg his his his his twisted his his Hick his Hick his",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 5,
+        "response": "W breathed breathed breathed breathed leg breathed his his his his his his his\ud835\udc07 GL twisted twisted twisted his his his his his his his Hick chased chased his his his his his twisted twisted twisted his his his his his his twisted twisted his his his his his his hips his his his twisted twisted twisted his his his twisted twisted his Hick\ud835\udc07 hip hips his his his his Hick join his his his Hick his chased his chased his hips his twisted Hick his PLAT PLAT Hip hip his his Hick his",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 6,
+        "response": "AN do episode episode be his his his his his chased chased twisted twisted twisted twisted twisted twisted twisted twisted twisted twisted twisted twisted his his his his his twisted twisted twisted icon twisted twisted twisted tors twisted chased chase twisted his his his his his his his his his his his his his his twisted twisted twisted his his his his his his his leg twisted twisted twisted his his his his his his his his his twisted turn turn twisted twisted twisted Hick Hick his his leg leg leg leg leg his his his",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 7,
+        "response": "do you do\ud835\udc07 scraped scraped twisted twisted twisted breathed respiratoires respiratoires breathed breathed breathed\ud835\udc07 twisted twisted twisted twisted twisted twisted be breathed breathed respiratoires his his his his leg leg PLAT twisted twisted twisted chased chased twisted twisted twisted hips hips hips his his his his twisted twisted twisted hips his chased his his his his his his Hip twisted twisted twisted Hip his his his his twistedtwisted twisted his twisted twisted twisted his his his his Hick Hick his his his twisted twisted his hips leg leg hips leg twisted be chased",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 8,
+        "response": "\ud835\udc07 his breathed breathed his his his leg his his his his his his leg his his his his his his his his Hick chased his his his Hick his his his leg his his his his his his his hip hips hip hips his his his his his his his leg his his his his his his his his his his hips his his his his his his his his his his leg leg leg leg leg his his his his his his his his his his leg leg PLAT be be be be his",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 9,
+        "response": "AN\u03a9 his twisted twisted twisted twisted twisted twisted and twisted twisted twisted twisted twisted twisted twisted oss\u03a9 chased his chased his his his his his Hick his his his his his his hip twisted his his his his his his hip twisted his his his his his his his Hick leg leg hips hips his Hick his his his his his Hick his his his his\u03a9 mel chased his his his his his his his his his his his his Hip hips his his his his turn twisted twisted his his Hick his",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 10,
+        "response": "\ud835\udc07 breathed breathed breathed breathed his twisted twisted twisted twisted twisted twisted twisted twisted chased twisted his twisted twisted twisted twisted twisted twisted twisted twisted twisted twisted twisted twisted twisted twisted twistedtwisted twisted twisted twisted his twisted twisted twisted his twisted his his his leg twisted twisted his his his twisted twisted his his his twisted his his his twisted his his his leg his his his his his his his twisted his his his his his leg his his his his his his his his his his his his his his his his his",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 11,
+        "response": "\ud835\udc07 breathed breathed breathed his his his his his his his his his his his breathed his his his his his his leg leg least do twisted twisted twisted twisted tors twisted twisted twisted twisted twisted twisted cooled twisted twisted twisted his his his his his twisted twisted twisted twisted his his his his his his his his his his his his his his his his his his twisted his his his cooled cooled cooled his his his his his his leg leg least leg leg his his his Hick Hick leg\ud835\udc07 leg his his",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 12,
+        "response": "\ud835\udc07 breathed breathed breathe breathed breathed breathed breathed breathed breathed Hip pull PLAT PLAT GL UC chased chased twisted twisted twisted twisted chased chased\u03a9\u03a9\u03a9\u03a9 twisted twisted twisted twisted EK\u03a9\u03a9\u03a9 breathed breathed twisted twisted chased scraped chased twisted twisted oss twisted twisted twisted twisted twisted twisted twisted twisted leg leg leg twisted twisted twisted twisted twisted twisted twisted twisted chase twisted twisted twisted chased cooled cooled cooled cooled twisted twisted twisted twisted twisted twisted twisted chased twisted twisted twisted PLAT PLAT twisted twisted his his Hick Hick twisted twisted pull",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 13,
+        "response": "\ud835\udc07 breathed breathed breathed breathed breathed breathed\u03a9 breathed AI twisted twisted twisted twistedtwisted his twisted twisted twisted twisted twisted his twisted twistedtwisted his twisted twisted twisted his twisted twisted his his his twisted his his his his his his his his his twisted his his his his his his his his his his twisted his his his his his his his his his Hick hips hips Hip hips his his his his his his his his his his his his his his his his his his his his his his his his his",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 14,
+        "response": "\ud835\udc07 his twisted twisted twisted twisted his his his his his his his his his be twisted twisted his his his his his his his his his his his his his leg leg leg his his his his his his his his his his his his his his his his his Hick Hip Hip his his his his his Hick his his his chama\u03a9 do his his his his his his his his his his Hick his his his his his his his his turn turn his his his twisted twisted his his his his",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 15,
+        "response": "\ud835\udc07 scraped scraped scraped scraped EL chased chased a chased Hip chased breathed breathed twisted twisted twisted twisted twisted twisted twisted twisted twisted twisted twisted twisted\ufffd\ufffd\ud835\udc07\u03a9 chased chased his his his his his his twisted twistedtwisted twisted twisted twisted sin twisted twisted twisted twisted twisted twisted twisted twisted twisted be chased chased twisted twisted twisted scraped scraped leg twisted twisted turn twisted twisted twisted twisted twisted twisted twisted twisted twisted twisted twisted twisted his twisted twisted twisted his twisted his his his his leg leg be be his his his leg",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 16,
+        "response": "\ud835\udc07 his chased chased scraped scraped chased his chasing his chased episode twisted twisted twisted twisted twisted mel twisted twisted twisted his chased his twisted twisted leg respiratoires respiratoires twisted twisted his his his his twisted twisted twisted twisted twisted his his his his his his his his his his be chased twisted twisted his his his sin twisted his his his his his leg leg his his his his his leg leg his leg leg his his his his his his his his leg leg his his his his his his his his his his",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 17,
+        "response": "AN do do land twisted twisted do do facilitated chased his chasing his chased his his his twisted twisted chased his his his his leg his his his his his twisted twisted leg his his his his PLAT twisted twisted his his his his his hip hips hips his his twisted twisted his his his his leg his his his twisted twisted his his his his hips his his his twisted twisted his his his his twisted twisted his his his hips his his Hick hip hips his leg his his his his leg his his",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 18,
+        "response": "chased pull pull pulling pulling his his his his his twisted twisted twisted his his his leg twisted twisted twisted twisted his his his twisted twisted twisted his his histwisted his his his his twisted twisted twisted his his his leg twisted his his his his his be twisted his his his his twisted leg his his his his his his leg his his his his his his Hip Hip hips hips hips hips hips Hip twisted his his his his his twisted his twisted his his his his his leg his his his chama",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      },
+      {
+        "idx": 19,
+        "response": "\ud835\udc07 breath breathed breathed breathed breathing breathed breathed chased twisted twisted twisted chased chased chased his his his his his his his his his his his chased his twisted twisted twisted twisted his his his his his twisted his leg leg tors twisted his twisted his leg leg his his his his his leg his leg his his his his his his his his his his his be twisted his his his leg his his his leg his leg his his his his his his his Hick Hick his leg his his his Hick his chased",
+        "concept_score": 1.0,
+        "fluency_score": 5.0
+      }
+    ]
+  }
+]

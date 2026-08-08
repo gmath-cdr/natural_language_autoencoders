@@ -1,0 +1,23 @@
+[
+  {
+    "label": "unsteered",
+    "even_rate": 0.0,
+    "responses": [
+      "77"
+    ]
+  },
+  {
+    "label": "nla__alpha_0.5",
+    "even_rate": 0.0,
+    "responses": [
+      "77"
+    ]
+  },
+  {
+    "label": "random__alpha_0.5",
+    "even_rate": 0.0,
+    "responses": [
+      "77"
+    ]
+  }
+]

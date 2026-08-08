@@ -1,0 +1,19 @@
+{
+  "target_checkpoint": "google/gemma-3-12b-it",
+  "ar_checkpoint": "kitft/nla-gemma3-12b-L32-ar",
+  "av_checkpoint": "kitft/nla-gemma3-12b-L32-av",
+  "layer": 32,
+  "hardware": "1x NVIDIA A100 80GB",
+  "sglang_mem_fraction_static": 0.35,
+  "sglang_cuda_graph_backend_prefill": "disabled",
+  "axbench_concept_id": 3,
+  "axbench_n_prompts": 12,
+  "axbench_n_samples_per_prompt": 5,
+  "axbench_random_seeds": [17, 42, 101, 314, 2718],
+  "axbench_high_alphas": [0.5, 0.75, 1.0],
+  "axbench_low_alphas": [0.1, 0.2, 0.3],
+  "jspace_rank": 32,
+  "jspace_ablation_alpha": 0.2,
+  "note": "J-space ablation preserves projection and complement magnitudes. Files containing normalized-components are diagnostic only."
+}
+
